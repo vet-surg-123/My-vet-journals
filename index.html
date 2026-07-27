@@ -36,13 +36,19 @@
   .ni.on{background:var(--accent-soft);color:var(--accent-2);font-weight:700}
   .ni .b{font-size:12px;color:var(--muted);font-weight:600}
   .ni.on .b{color:var(--accent)}
-  .side-foot{margin-top:auto;padding:16px 12px 4px;font-size:11.5px;color:var(--muted);line-height:1.75;
-    border-top:1px solid var(--line)}
+  .side-nav{margin-bottom:6px}
+  .side-update{margin-top:auto;padding-top:16px;border-top:1px solid var(--line)}
+  .side-update .updated{text-align:left;font-size:11.5px;color:var(--ink-2);display:flex;flex-direction:column;gap:1px}
+  .side-update .updated .lbl{font-size:10.5px;color:var(--muted);font-weight:600;margin-bottom:2px}
+  .side-update .updated .tz .zone{color:var(--muted)} .side-update .updated .tz b{color:var(--ink);font-weight:700}
+  .side-update .checked{font-size:11px;color:var(--accent);margin:5px 0 9px;min-height:13px}
+  .side-update .refresh-btn{width:100%;font-size:12.5px;padding:9px 14px}
+  .side-foot{padding:16px 4px 4px;font-size:11.5px;color:var(--muted);line-height:1.75;border-top:1px solid var(--line);margin-top:14px}
   .side-foot b{color:var(--ink-2);font-weight:700}
 
   /* 메인 */
-  .main{flex:1;min-width:0;padding:30px 36px 64px}
-  .topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;margin-bottom:22px;flex-wrap:wrap}
+  .main{flex:1;min-width:0;padding:20px 36px 64px}
+  .topbar{display:flex;justify-content:space-between;align-items:flex-start;gap:20px;margin-bottom:16px;flex-wrap:wrap}
   .view-title{font-size:25px;font-weight:700;color:var(--ink);letter-spacing:-.4px}
   .view-sub{font-size:13px;color:var(--muted);margin-top:4px}
   .updated{font-size:12px;color:var(--ink-2);text-align:right;line-height:1.65;display:flex;flex-direction:column;gap:1px}
@@ -152,7 +158,17 @@
 <aside class="side">
   <div class="logo"><span class="m">R</span> Vet Radar</div>
   <div class="side-tag">소동물 임상·외과 논문을<br>매일 아침 자동으로 큐레이션</div>
-  <div id="nav"></div>
+  <nav class="side-nav">
+    <div class="nav-h">보기</div>
+    <div class="ni" data-view="category" onclick="navClick('category')">분야별</div>
+    <div class="ni" data-view="journal" onclick="navClick('journal')">저널별</div>
+    <div class="ni" data-view="schema" onclick="navClick('schema')">구성 · 알고리즘</div>
+  </nav>
+  <div class="side-update">
+    <div class="updated" id="updated">불러오는 중…</div>
+    <div class="checked" id="checked"></div>
+    <button class="refresh-btn" id="refreshBtn" onclick="refreshData()" title="지금 시각 기준으로 최신 데이터를 다시 불러옵니다">↻ 지금 새로고침</button>
+  </div>
   <div class="side-foot">
     개선 아이디어 환영 — <b>분야·저널 추가/분리</b>, <b>필터 키워드</b>, <b>그 외 개선 사항</b>이 있으면 언제든 편하게 저에게 바로 연락 주세요.
   </div>
@@ -164,17 +180,10 @@
       <div class="view-title" id="viewTitle">전체 논문</div>
       <div class="view-sub" id="viewSub">PubMed · 매일 아침 7시(한국시간) 자동 업데이트</div>
     </div>
-    <div class="topbar-r">
-      <div>
-        <div class="updated" id="updated">불러오는 중…</div>
-        <div class="checked" id="checked"></div>
-      </div>
-      <button class="refresh-btn" id="refreshBtn" onclick="refreshData()" title="지금 시각 기준으로 최신 데이터를 다시 불러옵니다">↻ 업데이트</button>
-    </div>
   </div>
 
   <input class="search" id="search" type="search" placeholder="제목·초록·요약 검색…" oninput="resetPage()">
-  <div class="jchips hidden" id="chips-journal"></div>
+  <div class="jchips hidden" id="chips"></div>
 
   <div class="schema-panel hidden" id="schemaPanel">
     <p class="schema-cap">이 사이트가 논문을 <b>수집 → 필터 → 분류</b>하는 전체 알고리즘과 실제로 쓰이는 <b>모든 필터 키워드</b>입니다.</p>
@@ -215,61 +224,41 @@ function saveRead(){localStorage.setItem("vjl_read",JSON.stringify([...readSet])
 function markRead(id){if(!readSet.has(id)){readSet.add(id);saveRead();}}
 function toggleRead(id){if(readSet.has(id))readSet.delete(id);else readSet.add(id);saveRead();render();if(selectedId===id)renderDetail(byId(id));}
 
-/* ---------- 사이드바 네비 ---------- */
-function buildNav(){
-  const cc={}; allPapers.forEach(p=>cc[p.category]=(cc[p.category]||0)+1);
-  let h='<div class="nav-h">분야</div>';
-  h+=navItem("전체",allPapers.length,"cat","all");
-  CAT_ORDER.filter(c=>cc[c]).forEach(c=>h+=navItem(CAT_LABELS[c]||c,cc[c],"cat",c));
-  h+='<div class="nav-h">보기</div>';
-  h+=navItem("저널별","","view","journal");
-  h+=navItem("구성 · 알고리즘","","view","schema");
-  document.getElementById("nav").innerHTML=h;
-  syncNav();
-}
-function navItem(label,count,kind,val){
-  return `<div class="ni" data-kind="${kind}" data-val="${esc(val)}" onclick="navClick('${kind}','${esc(val)}')">
-    <span>${esc(label)}</span>${count!==""?`<span class="b">${count}</span>`:''}</div>`;
-}
+/* ---------- 사이드바 뷰 전환 ---------- */
 function syncNav(){
-  document.querySelectorAll(".ni").forEach(n=>{
-    const k=n.dataset.kind,v=n.dataset.val;
-    let on=false;
-    if(mode==="category") on=(k==="cat"&&v===curCat);
-    else if(mode==="journal") on=(k==="view"&&v==="journal");
-    else if(mode==="schema") on=(k==="view"&&v==="schema");
-    n.classList.toggle("on",on);
-  });
+  document.querySelectorAll(".side-nav .ni").forEach(n=>n.classList.toggle("on",n.dataset.view===mode));
 }
-function navClick(kind,val){
-  if(kind==="cat"){mode="category";curCat=val;}
-  else if(val==="journal"){mode="journal";curJournal="all";}
-  else if(val==="schema"){mode="schema";}
-  closeDetail(); applyMode();
-}
+function navClick(view){ mode=view; closeDetail(); applyMode(); }
 
 function applyMode(){
   const schema=mode==="schema", journal=mode==="journal";
   document.getElementById("schemaPanel").classList.toggle("hidden",!schema);
   document.getElementById("mainlist").classList.toggle("hidden",schema);
   document.getElementById("search").classList.toggle("hidden",schema);
-  document.getElementById("chips-journal").classList.toggle("hidden",!journal);
+  document.getElementById("chips").classList.toggle("hidden",schema);
   const t=document.getElementById("viewTitle"), s=document.getElementById("viewSub");
   if(schema){t.textContent="구성 · 알고리즘";s.textContent="수집·필터·분류 알고리즘과 전체 키워드";}
   else if(journal){t.textContent="저널별";s.textContent="저널을 선택해 논문을 걸러 봅니다";buildJournalChips();}
-  else{t.textContent=curCat==="all"?"전체 논문":CAT_LABELS[curCat]||curCat;s.textContent="PubMed · 매일 아침 7시(한국시간) 자동 업데이트";}
+  else{t.textContent="분야별";s.textContent="분야를 선택해 논문을 걸러 봅니다";buildCategoryChips();}
   syncNav();
   if(!schema) resetPage(); else visibleCount=PAGE_SIZE;
 }
 
+function buildCategoryChips(){
+  const cc={}; allPapers.forEach(p=>cc[p.category]=(cc[p.category]||0)+1);
+  let h=`<button class="jchip ${curCat==='all'?'on':''}" onclick="pickCat('all',this)">전체<span class="n">${allPapers.length}</span></button>`;
+  CAT_ORDER.filter(c=>cc[c]).forEach(c=>h+=`<button class="jchip ${curCat===c?'on':''}" onclick="pickCat('${c}',this)">${esc(CAT_LABELS[c]||c)}<span class="n">${cc[c]}</span></button>`);
+  document.getElementById("chips").innerHTML=h;
+}
+function pickCat(c,btn){curCat=c;document.querySelectorAll("#chips .jchip").forEach(b=>b.classList.toggle("on",b===btn));resetPage();}
 function buildJournalChips(){
   const jc={}; allPapers.forEach(p=>{if(p.journal)jc[p.journal]=(jc[p.journal]||0)+1;});
   const js=Object.keys(jc).sort((a,b)=>jc[b]-jc[a]);
   let h=`<button class="jchip ${curJournal==='all'?'on':''}" onclick="pickJournal('all',this)">전체<span class="n">${allPapers.length}</span></button>`;
   js.forEach(j=>h+=`<button class="jchip ${curJournal===j?'on':''}" onclick="pickJournal('${esc(j)}',this)">${esc(j)}<span class="n">${jc[j]}</span></button>`);
-  document.getElementById("chips-journal").innerHTML=h;
+  document.getElementById("chips").innerHTML=h;
 }
-function pickJournal(j,btn){curJournal=j;document.querySelectorAll(".jchip").forEach(b=>b.classList.toggle("on",b===btn));resetPage();}
+function pickJournal(j,btn){curJournal=j;document.querySelectorAll("#chips .jchip").forEach(b=>b.classList.toggle("on",b===btn));resetPage();}
 
 function resetPage(){visibleCount=PAGE_SIZE;render();}
 function showMore(){visibleCount+=PAGE_SIZE;render();}
@@ -343,7 +332,7 @@ function renderDetail(p){
     ${kws?`<div class="d-section"><h3>키워드 · Keywords</h3>${kws}</div>`:''}
     ${mesh?`<div class="d-section"><h3>MeSH 주제어</h3>${mesh}</div>`:''}
     ${p.summary_ko?`<div class="d-section"><h3>요약 · 한국어</h3><div class="d-summary">${esc(p.summary_ko)}</div></div>`
-      :`<div class="d-section"><h3>요약 · 한국어</h3><div class="d-summary" style="background:var(--line-2);color:var(--muted)">요약은 자동 생성(API 키 설정) 후 표시됩니다.</div></div>`}
+      :`<div class="d-section"><h3>요약 · 한국어</h3><div style="font-size:12.5px;color:var(--muted);padding:2px 0">자동 요약 준비 중 (API 키 설정 시 표시)</div></div>`}
     ${p.abstract?`<div class="d-section"><h3>초록 · Abstract</h3><div class="d-abstract">${esc(p.abstract)}</div></div>`
       :`<div class="d-section"><h3>초록 · Abstract</h3><div class="d-abstract" style="color:var(--muted)">초록이 제공되지 않는 논문입니다.</div></div>`}
     <div class="d-actions">
@@ -358,9 +347,9 @@ const TZONES=[{label:"🇰🇷 한국",tz:"Asia/Seoul"},{label:"🇺🇸 미국(
 function showUpdated(u){
   const box=document.getElementById("updated");
   const m=(u||"").match(/(\d{4})-(\d{2})-(\d{2})\s+(\d{2}):(\d{2})/);
-  if(!m){box.innerHTML=`<span class="lbl">마지막 업데이트</span><b>${esc(u||"-")}</b>`;return;}
+  if(!m){box.innerHTML=`<span class="lbl">자료 갱신 (서버)</span><b>${esc(u||"-")}</b>`;return;}
   const d=new Date(Date.UTC(+m[1],+m[2]-1,+m[3],+m[4],+m[5]));
-  let h='<span class="lbl">마지막 업데이트</span>';
+  let h='<span class="lbl">자료 갱신 (서버)</span>';
   TZONES.forEach(z=>{const p={};new Intl.DateTimeFormat('en-US',{timeZone:z.tz,month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit',hour12:false}).formatToParts(d).forEach(x=>p[x.type]=x.value);
     const hh=p.hour==='24'?'00':p.hour; h+=`<span class="tz"><span class="zone">${z.label}</span> <b>${p.month}/${p.day} ${hh}:${p.minute}</b></span>`;});
   box.innerHTML=h;
@@ -373,7 +362,6 @@ async function loadData(){
   if(data.categories) CAT_LABELS=Object.assign(CAT_LABELS,data.categories);
   allPapers=(data.papers||[]).filter(p=>p&&p.category&&p.category!=="other");
   allPapers.sort((a,b)=>((b.sortdate||b.date||"")).localeCompare(a.sortdate||a.date||""));
-  buildNav();
   if(!allPapers.length){
     document.getElementById("updated").innerHTML="아직 논문이 없습니다";
     document.getElementById("list").innerHTML='<div class="state">아직 수집된 논문이 없습니다.<br>첫 자동 실행(또는 수동 실행) 후 채워집니다.</div>';
