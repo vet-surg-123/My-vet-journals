@@ -85,9 +85,10 @@ USE_WHITELIST = True
 # 🔧 분야 우선순위 = 아래 순서. 위에서 처음 걸리는 분야로 확정.
 #    (신경종양은 아래 CATEGORY_KEYWORDS 보다 먼저, categorize()에서 특별 규칙으로 처리)
 CATEGORY_KEYWORDS = {
-    # 신경외과 (종양이 아닌 신경 논문)
+    # 신경외과 (종양이 아닌 신경 논문)  ※ 'cranial'(방향어)은 일부러 미포함
     "neurosurgery": ["neurosurgery", "neuro", "spinal", "brain", "vestibular", "disc",
-                     "cerebell", "myelopathy", "hemilaminectomy", "intervertebral"],
+                     "cerebell", "myelopathy", "hemilaminectomy", "intervertebral",
+                     "trigeminal", "cranial nerve", "nerve root", "brachial plexus"],
     # 관절경 (정형외과보다 먼저 검사 → 관절경 논문을 따로 분리)
     #   ※ 'arthroscopy/arthroscopic/arthroscope'만 사용. 'arthro'(단독)는 arthrodesis·
     #     arthroplasty·arthritis 까지 잡아 오분류되므로 일부러 뺌.
@@ -118,14 +119,28 @@ CATEGORY_KEYWORDS = {
                      "metastatic"],
 }
 
-# 🔧 신경종양 = (신경 단어) AND (종양 단어), 또는 아래 고유 단어 단독. → 최우선(0순위)으로 분류.
-NEURO_TERMS = ["neuro", "spinal", "brain", "vertebral", "cerebell", "vestibular",
-               "myelopathy", "intervertebral", "meningeal", "cns", "cranial", "nerve"]
-ONCO_TERMS  = CATEGORY_KEYWORDS["oncology"]
-NEUROONCO_ENTITIES = ["glioma", "glioblastoma", "meningioma", "astrocytoma", "ependymoma",
-                      "oligodendroglioma", "medulloblastoma", "schwannoma", "neurofibroma",
-                      "nerve sheath tumor", "nerve sheath tumour", "spinal tumor",
-                      "spinal tumour", "vertebral tumor", "vertebral tumour", "choroid plexus"]
+# 🔧 신경종양(0순위) = '신경계 종양'을 분명히 뜻하는 구체적 표현이 있을 때만.
+#   ※ 예전엔 (신경 단어) AND (종양 단어) 방식이라, 'cranial'(=머리쪽 방향, 예: cranial
+#     mediastinum)·'nerve' 같은 흔한 단어가 초록의 종양 감별진단과 겹쳐 대량 오분류됐음.
+#     그래서 아래처럼 신경계 종양임이 확실한 표현(entity/phrase)만 사용한다.
+NEUROONCO_PHRASES = [
+    # 신경계 종양 고유 명칭
+    "glioma", "glioblastoma", "meningioma", "astrocytoma", "ependymoma", "oligodendroglioma",
+    "medulloblastoma", "gliomatosis", "ganglioglioma", "neurocytoma", "meningeal sarcoma",
+    "schwannoma", "neurofibroma", "neurofibrosarcoma",
+    "nerve sheath tumor", "nerve sheath tumour", "peripheral nerve sheath",
+    "choroid plexus tumor", "choroid plexus tumour", "choroid plexus carcinoma",
+    "choroid plexus papilloma",
+    # '부위 + 종양' 조합 표현
+    "brain tumor", "brain tumour", "brain neoplas", "cerebral tumor", "cerebral neoplas",
+    "intracranial tumor", "intracranial tumour", "intracranial neoplas",
+    "spinal cord tumor", "spinal cord tumour", "spinal cord neoplas",
+    "spinal tumor", "spinal tumour", "vertebral tumor", "vertebral tumour", "vertebral neoplas",
+    "pituitary tumor", "pituitary tumour", "pituitary adenoma", "pituitary macroadenoma",
+    "pituitary carcinoma", "pituitary neoplas",
+    "cns lymphoma", "spinal lymphoma", "central nervous system lymphoma",
+    "cns neoplas", "central nervous system neoplas",
+]
 
 CATEGORY_LABELS = {
     "neurooncology": "신경종양",
@@ -212,10 +227,8 @@ def match_kw(text, kw):
 
 def categorize(title, abstract):
     text = (title + " " + (abstract or "")).lower()
-    # 0순위: 신경종양 (신경 AND 종양) 또는 고유 단어 단독
-    has_neuro = any(match_kw(text, k) for k in NEURO_TERMS)
-    has_onco  = any(match_kw(text, k) for k in ONCO_TERMS)
-    if any(match_kw(text, k) for k in NEUROONCO_ENTITIES) or (has_neuro and has_onco):
+    # 0순위: 신경계 종양 (구체적 표현이 있을 때만 — 느슨한 AND 폐기)
+    if any(match_kw(text, k) for k in NEUROONCO_PHRASES):
         return "neurooncology"
     # 1순위~: 나머지 분야 (사전 순서대로 검사)
     for cat, kws in CATEGORY_KEYWORDS.items():
