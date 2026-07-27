@@ -41,6 +41,9 @@ INCREMENTAL_DAYS = int(os.environ.get("INCREMENTAL_DAYS", "0"))
 MAX_RESULTS    = int(os.environ.get("MAX_RESULTS", "0"))
 # 🔧 초록 저장 최대 글자수 — 0이면 전체 저장. 수만 개면 파일이 커지니 800 등으로 제한 권장
 ABSTRACT_MAXLEN = int(os.environ.get("ABSTRACT_MAXLEN", "0"))
+# 🔧 1회 실행당 '요약 API 호출' 상한 (무료 한도 초과·과금 방지 안전장치).
+#    0=무제한. Gemini 무료 한도가 하루 ~1,500건이라 기본 1400으로 여유. 남은 논문은 다음 실행 때 채워짐.
+MAX_SUMMARIES = int(os.environ.get("MAX_SUMMARIES", "1400"))
 
 # 🔧 한 번에 받아오는 배치 크기 (URL/응답 크기 안전값)
 BATCH = 200
@@ -407,6 +410,7 @@ def get_papers():
 
     cache = load_previous_summaries()
     papers = []
+    summ_count = 0            # 이번 실행에서 호출한 요약 수 (상한 관리)
     for start in range(0, count, BATCH):
         n = min(BATCH, count - start)
         common = f"db=pubmed&query_key={qkey}&WebEnv={webenv}&retstart={start}&retmax={n}"
@@ -447,12 +451,18 @@ def get_papers():
 
             summary_ko = cache.get(pid)
             if summary_ko is None:
-                summary_ko = summarize_ko(title, abstract)
-                # 무료 Gemini는 분당 요청 제한(RPM)이 있어 넉넉히 쉼. Anthropic은 짧게.
-                if GEMINI_API_KEY:
-                    time.sleep(4.2)
-                elif ANTHROPIC_API_KEY:
-                    time.sleep(0.25)
+                can_summarize = ((GEMINI_API_KEY or ANTHROPIC_API_KEY) and abstract
+                                 and (MAX_SUMMARIES == 0 or summ_count < MAX_SUMMARIES))
+                if can_summarize:
+                    summary_ko = summarize_ko(title, abstract)
+                    summ_count += 1
+                    # 무료 Gemini는 분당 요청 제한(RPM)이 있어 넉넉히 쉼. Anthropic은 짧게.
+                    if GEMINI_API_KEY:
+                        time.sleep(4.2)
+                    elif ANTHROPIC_API_KEY:
+                        time.sleep(0.25)
+                else:
+                    summary_ko = ""   # 상한 도달/키 없음 → 이번엔 비움 (다음 실행 때 채워짐)
 
             disp_date, sort_date = fmt_date(item)
             papers.append({
