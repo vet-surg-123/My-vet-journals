@@ -34,7 +34,7 @@
     background:var(--bg);color:var(--ink);line-height:1.6;
     -webkit-font-smoothing:antialiased;
   }
-  .container{max-width:920px;margin:0 auto;padding:0 20px}
+  .container{max-width:1240px;margin:0 auto;padding:0 20px}
 
   /* ---------- 헤더 ---------- */
   header{
@@ -161,6 +161,48 @@
     border:none;border-radius:8px;padding:7px 15px;cursor:pointer;transition:.14s}
   .refresh-btn:hover{background:var(--accent-ink)}
   .refresh-btn:disabled{opacity:.55;cursor:default}
+
+  /* ---------- 2단 레이아웃 (목록 | 상세) ---------- */
+  .layout{display:flex;gap:22px;align-items:flex-start;padding:16px 0 44px}
+  .listcol{flex:0 0 44%;min-width:0}
+  .detailcol{flex:1;position:sticky;top:150px;max-height:calc(100vh - 172px);overflow:auto;
+    background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow)}
+  .card{cursor:pointer}
+  .card.selected{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent-soft),var(--shadow-hover)}
+  .card .title{cursor:pointer}
+  .card .authors-line{font-size:12px;color:var(--muted);margin-top:7px;
+    display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+
+  .detail-empty{padding:64px 26px;text-align:center;color:var(--muted);font-size:14px;line-height:1.7}
+  .detail{padding:24px 26px}
+  .detail .d-meta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-bottom:12px}
+  .detail .d-title{font-size:19px;font-weight:800;line-height:1.4;letter-spacing:-.2px;margin-bottom:12px}
+  .d-section{margin-top:18px}
+  .d-section h3{font-size:11px;font-weight:800;letter-spacing:.4px;color:var(--accent-ink);
+    text-transform:uppercase;margin-bottom:7px}
+  .d-authors{font-size:13.5px;color:var(--ink);line-height:1.6}
+  .d-affil{font-size:12.5px;color:var(--ink-2);line-height:1.6}
+  .d-affil li{margin-bottom:5px;padding-left:16px;position:relative;list-style:none}
+  .d-affil li::before{content:"•";position:absolute;left:2px;color:var(--muted)}
+  .d-summary{font-size:14px;color:#2c3e50;background:var(--accent-soft);border:1px solid #d6def9;
+    border-radius:12px;padding:14px 16px;line-height:1.75}
+  .d-abstract{font-size:13.5px;color:var(--ink);line-height:1.8;white-space:pre-line}
+  .kw-wrap{display:flex;flex-wrap:wrap;gap:6px}
+  .kw{font-size:12px;background:var(--tag-bg);color:var(--tag-ink);border-radius:6px;padding:4px 10px}
+  .kw.mesh{background:#eef6f2;color:#2f6b52}
+  .d-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:22px;
+    position:sticky;bottom:0;background:var(--surface);padding-top:12px;border-top:1px solid var(--line-2)}
+  .detail-close{display:none}
+
+  @media(max-width:900px){
+    .layout{flex-direction:column}
+    .listcol{flex:1 1 auto;width:100%}
+    .detailcol{position:fixed;inset:0;z-index:60;max-height:none;height:100dvh;
+      border-radius:0;border:none;transform:translateX(100%);transition:transform .22s ease;margin:0}
+    body.detail-open{overflow:hidden}
+    body.detail-open .detailcol{transform:none}
+    .detail-close{display:inline-flex}
+  }
 </style>
 </head>
 <body>
@@ -192,10 +234,16 @@
     <div class="chips hidden" id="chips-journal"><span class="chip-label">저널</span></div>
   </div>
 
-  <div class="listwrap">
-    <div class="count" id="count"></div>
-    <div id="list">
-      <div class="state"><div class="spinner"></div>논문 목록을 불러오는 중입니다…</div>
+  <div class="layout">
+    <div class="listcol">
+      <div class="count" id="count"></div>
+      <div id="list">
+        <div class="state"><div class="spinner"></div>논문 목록을 불러오는 중입니다…</div>
+      </div>
+    </div>
+    <div class="detailcol" id="detailcol">
+      <div class="detail-empty" id="detailEmpty">← 왼쪽에서 논문을 클릭하면<br>여기에 상세 정보가 표시됩니다.</div>
+      <div class="detail" id="detail" style="display:none"></div>
     </div>
   </div>
 </div>
@@ -227,19 +275,58 @@ function isNew(p){
 }
 function esc(s){return (s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
 
+let selectedId=null;
 function saveRead(){localStorage.setItem("vjl_read",JSON.stringify([...readSet]));}
-function toggleRead(id,btn){
-  const card=btn.closest(".card");
-  if(readSet.has(id)){readSet.delete(id);btn.textContent="읽음 표시";btn.classList.remove("done");card.classList.remove("read");}
-  else{readSet.add(id);btn.textContent="✓ 읽음";btn.classList.add("done");card.classList.add("read");}
-  saveRead();
+function markRead(id){if(!readSet.has(id)){readSet.add(id);saveRead();}}
+function toggleRead(id){
+  if(readSet.has(id)) readSet.delete(id); else readSet.add(id);
+  saveRead(); render(); if(selectedId===id) renderDetail(byId(id));
 }
-function markReadOnOpen(id){if(!readSet.has(id)){readSet.add(id);saveRead();}}
-function toggleAbstract(btn){
-  const a=btn.closest(".card").querySelector(".abstract");
-  if(!a)return;
-  const show=a.classList.toggle("show");
-  btn.textContent=show?"초록 닫기":"초록 보기";
+function byId(id){return allPapers.find(p=>p.id===id);}
+
+/* 논문 선택 → 오른쪽 상세 표시 */
+function selectPaper(id){
+  selectedId=id;
+  document.querySelectorAll(".card").forEach(c=>c.classList.toggle("selected",c.dataset.id===id));
+  renderDetail(byId(id));
+  if(window.matchMedia("(max-width:900px)").matches) document.body.classList.add("detail-open");
+}
+function closeDetail(){document.body.classList.remove("detail-open");}
+
+function renderDetail(p){
+  const wrap=document.getElementById("detail");
+  const empty=document.getElementById("detailEmpty");
+  if(!p){wrap.style.display="none";empty.style.display="block";return;}
+  empty.style.display="none";wrap.style.display="block";
+  const cat=CAT_LABELS[p.category]||p.category||"";
+  const r=readSet.has(p.id);
+  const affil=(p.affiliations||[]).length
+    ? `<ul class="d-affil">${p.affiliations.map(a=>`<li>${esc(a)}</li>`).join("")}</ul>` : "";
+  const kws=(p.keywords||[]).length
+    ? `<div class="kw-wrap">${p.keywords.map(k=>`<span class="kw">${esc(k)}</span>`).join("")}</div>` : "";
+  const mesh=(p.mesh||[]).length
+    ? `<div class="kw-wrap">${p.mesh.map(k=>`<span class="kw mesh">${esc(k)}</span>`).join("")}</div>` : "";
+  wrap.innerHTML=`
+    <button class="btn detail-close" style="margin-bottom:14px" onclick="closeDetail()">✕ 닫기</button>
+    <div class="d-meta">
+      ${p.journal?`<span class="jour">${esc(p.journal)}</span>`:''}
+      ${cat?`<span class="cat">${esc(cat)}</span>`:''}
+      ${p.date?`<span class="date">${esc(p.date)}</span>`:''}
+      ${isNew(p)?'<span class="new">NEW</span>':''}
+    </div>
+    <div class="d-title">${esc(p.title)}</div>
+    ${p.summary_ko?`<div class="d-section"><h3>한국어 요약</h3><div class="d-summary">${esc(p.summary_ko)}</div></div>`:''}
+    ${p.authors?`<div class="d-section"><h3>저자</h3><div class="d-authors">${esc(p.authors)}</div></div>`:''}
+    ${affil?`<div class="d-section"><h3>소속 (Affiliation)</h3>${affil}</div>`:''}
+    ${kws?`<div class="d-section"><h3>키워드</h3>${kws}</div>`:''}
+    ${mesh?`<div class="d-section"><h3>MeSH 주제어</h3>${mesh}</div>`:''}
+    ${p.abstract?`<div class="d-section"><h3>초록 (Abstract)</h3><div class="d-abstract">${esc(p.abstract)}</div></div>`
+      :`<div class="d-section"><h3>초록</h3><div class="d-abstract" style="color:var(--muted)">초록이 제공되지 않는 논문입니다.</div></div>`}
+    <div class="d-actions">
+      <a class="pubmed" href="${esc(p.url)}" target="_blank" rel="noopener" onclick="markRead('${esc(p.id)}')">PubMed 원문 →</a>
+      <button class="btn ${r?'done':''}" onclick="toggleRead('${esc(p.id)}')">${r?'✓ 읽음':'읽음 표시'}</button>
+    </div>`;
+  wrap.scrollTop=0;
 }
 
 function resetPage(){visibleCount=PAGE_SIZE;render();}
@@ -308,29 +395,25 @@ function render(){
     const r=readSet.has(p.id);
     const cat=CAT_LABELS[p.category]||p.category||"";
     return `
-    <article class="card ${r?'read':''}">
+    <article class="card ${r?'read':''} ${p.id===selectedId?'selected':''}" data-id="${esc(p.id)}" onclick="selectPaper('${esc(p.id)}')">
       <div class="meta">
         ${p.journal?`<span class="jour">${esc(p.journal)}</span>`:''}
         ${cat?`<span class="cat">${esc(cat)}</span>`:''}
         ${p.date?`<span class="date">${esc(p.date)}</span>`:''}
         ${isNew(p)?'<span class="new">NEW</span>':''}
       </div>
-      <h2 class="title"><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="markReadOnOpen('${esc(p.id)}')">${esc(p.title)}</a></h2>
-      ${p.summary_ko?`<div class="summary">${esc(p.summary_ko)}</div>`:''}
-      ${p.abstract?`<div class="abstract">${esc(p.abstract)}</div>`:''}
-      ${p.authors?`<div class="authors">${esc(p.authors)}</div>`:''}
-      <div class="foot">
-        <div class="btns">
-          <button class="btn ${r?'done':''}" onclick="toggleRead('${esc(p.id)}',this)">${r?'✓ 읽음':'읽음 표시'}</button>
-          ${p.abstract?`<button class="btn" onclick="toggleAbstract(this)">초록 보기</button>`:''}
-        </div>
-        <a class="pubmed" href="${esc(p.url)}" target="_blank" rel="noopener">PubMed →</a>
-      </div>
+      <h2 class="title">${esc(p.title)}</h2>
+      ${p.authors?`<div class="authors-line">${esc(p.authors)}</div>`:''}
     </article>`;
   }).join("");
   if(total>shown){
     list.innerHTML+=`<div style="text-align:center;padding:12px 0 4px">
       <button class="btn" style="font-size:13px;padding:9px 22px" onclick="showMore()">더 보기 (${total-shown}편 남음)</button></div>`;
+  }
+  // 데스크톱: 선택 유지, 없으면 첫 논문 자동 선택
+  if(!window.matchMedia("(max-width:900px)").matches){
+    if(!selectedId || !page.some(p=>p.id===selectedId)) selectPaper(page[0].id);
+    else document.querySelectorAll(".card").forEach(c=>c.classList.toggle("selected",c.dataset.id===selectedId));
   }
 }
 

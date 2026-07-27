@@ -311,14 +311,42 @@ def esearch_history(query):
     return count, res.get("webenv", ""), res.get("querykey", "")
 
 
-def parse_abstracts(xml):
-    """efetch XML → {pmid: abstract}."""
+def _strip(s):
+    return re.sub(r"<[^>]+>", "", s or "").strip()
+
+
+def parse_details(xml):
+    """efetch XML → {pmid: {abstract, affiliations, keywords, mesh}}."""
     out = {}
     for block in re.findall(r"<PubmedArticle>(.*?)</PubmedArticle>", xml, re.DOTALL):
         pmid_m = re.search(r"<PMID[^>]*>(\d+)</PMID>", block)
-        abs_m = re.findall(r"<AbstractText[^>]*>(.*?)</AbstractText>", block, re.DOTALL)
-        if pmid_m and abs_m:
-            out[pmid_m.group(1)] = " ".join(re.sub(r"<[^>]+>", "", a) for a in abs_m).strip()
+        if not pmid_m:
+            continue
+        pmid = pmid_m.group(1)
+        # 초록 (구조화 초록이면 라벨도 앞에 붙임)
+        parts = []
+        for m in re.finditer(r"<AbstractText([^>]*)>(.*?)</AbstractText>", block, re.DOTALL):
+            attrs, body = m.group(1), _strip(m.group(2))
+            lbl = re.search(r'Label="([^"]+)"', attrs)
+            parts.append((lbl.group(1) + ": " + body) if lbl and body else body)
+        abstract = " ".join(p for p in parts if p).strip()
+        # 저자 소속 (중복 제거, 순서 유지)
+        affs = []
+        for a in re.findall(r"<Affiliation>(.*?)</Affiliation>", block, re.DOTALL):
+            t = _strip(a)
+            if t and t not in affs:
+                affs.append(t)
+        # 저자 키워드
+        kws = [k for k in (_strip(x) for x in
+               re.findall(r"<Keyword[^>]*>(.*?)</Keyword>", block, re.DOTALL)) if k]
+        # MeSH 주제어
+        mesh = [m for m in (_strip(x) for x in
+                re.findall(r"<DescriptorName[^>]*>(.*?)</DescriptorName>", block, re.DOTALL)) if m]
+        # 중복 제거
+        kws = list(dict.fromkeys(kws))
+        mesh = list(dict.fromkeys(mesh))
+        out[pmid] = {"abstract": abstract, "affiliations": affs[:12],
+                     "keywords": kws, "mesh": mesh[:25]}
     return out
 
 
@@ -336,12 +364,12 @@ def get_papers():
     for start in range(0, count, BATCH):
         n = min(BATCH, count - start)
         common = f"db=pubmed&query_key={qkey}&WebEnv={webenv}&retstart={start}&retmax={n}"
-        # 초록(XML)
+        # 초록·소속·키워드(XML)
         try:
             xml = fetch_text(f"{BASE}efetch.fcgi?{common}&retmode=xml&rettype=abstract")
-            abstracts = parse_abstracts(xml)
+            details = parse_details(xml)
         except Exception as e:
-            print(f"  efetch 오류(start={start}): {e}"); abstracts = {}
+            print(f"  efetch 오류(start={start}): {e}"); details = {}
         time.sleep(DELAY)
         # 메타(JSON)
         try:
@@ -359,7 +387,8 @@ def get_papers():
             source = item.get("source", "")
             if not journal_ok(source):
                 continue
-            abstract = abstracts.get(pid, "")
+            det = details.get(pid, {})
+            abstract = det.get("abstract", "")
             title = item.get("title", "").replace("<b>", "").replace("</b>", "").strip()
             if is_excluded_topic(title, abstract):      # 심장·치과 등 제외
                 continue
@@ -380,12 +409,15 @@ def get_papers():
             papers.append({
                 "id": pid,
                 "title": title,
-                "authors": ", ".join(a.get("name", "") for a in item.get("authors", [])[:6]),
+                "authors": ", ".join(a.get("name", "") for a in item.get("authors", [])[:10]),
                 "journal": source,
                 "date": disp_date,       # 표시용 (항상 월·일 포함)
                 "sortdate": sort_date,   # 정렬용 YYYY-MM-DD
                 "url": f"https://pubmed.ncbi.nlm.nih.gov/{pid}/",
                 "abstract": abstract,
+                "affiliations": det.get("affiliations", []),
+                "keywords": det.get("keywords", []),
+                "mesh": det.get("mesh", []),
                 "category": category,
                 "summary_ko": summary_ko,
             })
