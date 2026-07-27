@@ -1,10 +1,11 @@
 {
-  "updated": "2026-07-27 04:59 UTC",
-  "total": 1208,
+  "updated": "2026-07-27 07:37 UTC",
+  "total": 1209,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
     "arthroscopy": "관절경",
+    "jointreplacement": "인공관절",
     "orthopedics": "정형외과",
     "surgery": "외과",
     "anatomy": "해부",
@@ -6761,7 +6762,7 @@
         "total hip replacement"
       ],
       "mesh": [],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -7615,7 +7616,7 @@
         "Hip Prosthesis",
         "Female"
       ],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -13642,7 +13643,7 @@
         "Postoperative Complications",
         "Prosthesis Failure"
       ],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -13770,7 +13771,7 @@
         "Femur",
         "Hip Prosthesis"
       ],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -13889,7 +13890,7 @@
         "Hip Joint",
         "Dog Diseases"
       ],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -16971,7 +16972,7 @@
       ],
       "keywords": [],
       "mesh": [],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -19851,7 +19852,7 @@
       ],
       "keywords": [],
       "mesh": [],
-      "category": "orthopedics",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -22891,7 +22892,7 @@
         "Cadaver",
         "Acetabulum"
       ],
-      "category": "surgery",
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -24892,6 +24893,44 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41668033",
+      "title": "Sustained circulation of genotype I and the first whole-genome sequencing of feline calicivirus in Turkish cats.",
+      "authors": "Abayli H, Yalçinkaya E, Tonbak S, Aslan AN",
+      "journal": "BMC Vet Res",
+      "date": "2026 Feb 11",
+      "sortdate": "2026-02-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41668033/",
+      "abstract": "This study was conducted to expand the limited knowledge regarding the detection, molecular characterization, and epidemiology of feline calicivirus (FCV) in T&#xfc;rkiye by examining viral pathogens associated with ulcerative stomatitis in cats. Analysis of forty clinical samples revealed twelve FCV-positive cases. Additional viral agents identified included feline chaphamaparvovirus (FChPV; n&#x2009;=&#x2009;6), feline alphaherpesvirus 1 (FHV-1; n&#x2009;=&#x2009;4), and feline panleukopenia virus (FPLV; n&#x2009;=&#x2009;9), while no feline bocavirus (FBoV) or feline bufavirus (FBuV) infections were detected. Five coinfection events were recorded: FCV+FPLV (n&#x2009;=&#x2009;2), FCV&#x2009;+&#x2009;FHV-1 (n&#x2009;=&#x2009;1), FHV-1&#x2009;+&#x2009;FPLV (n&#x2009;=&#x2009;1), FCV&#x2009;+&#x2009;FChPV (n&#x2009;=&#x2009;2), and FChPV&#x2009;+&#x2009;FPLV (n&#x2009;=&#x2009;1).Of the FCV-positive samples, sequencing efforts focused on two representative isolates, yielding one complete genome and one partial virion protein 1 (VP1) sequence. Illumina-based whole-genome sequencing of an FCV-positive specimen yielded a complete 7,738-nucleotide (nt) genome comprising three open reading frames (ORFs): ORF1 (1,763 amino acids [aa]), ORF2 encoding the major capsid protein (VP1) (669 aa), and ORF3 encoding a small basic protein (106 aa). The FCV-TUR-2025-V isolate (PX601232) harbored a distinct two&#x2013;amino acid insertion consisting of glycine and aspartic acid ( -GD) at VP1 positions 127&#x2013;128, along with multiple substitutions within the virulence-associated region E. Comparative genomic analysis against 241 globally distributed FCV genomes demonstrated 77&#x2013;82% nt identity, with the highest similarity observed to Chinese strains (FCV-AH3, FCV-GZ-VSD). VP1-based analyses revealed 74&#x2013;81% nucleotide (nt) and 82&#x2013;90% amino acid (aa) identity relative to reference strains. The highest sequence similarity was observed with strains from Korea (KS40), Japan (FCV-131 and FCV-187), the United Kingdom (Orf3), Italy (FCV/160/2015/ITA), and Thailand (KP82/THA/2016) (~&#x2009;81% nt; ~89% aa). In addition, several U.S. isolates exhibited comparable levels of genetic relatedness to FCV-TUR-2025-V (79&#x2013;80% nt; ~90% aa).Phylogenetic reconstruction using whole-genome and VP1 sequences identified two major genogroups (GI and GII), with all Turkish isolates clustering within GI. Among the Turkish strains, one isolate was represented by a whole-genome sequence (FCV-TUR-2025-V), while another was characterized based on the VP1 gene (FCV-TUR-2025-V2; PX601233). FCV-TUR-2025-V showed close clustering with recent Italian strains (FCV/460/20&#x2009;&#x2212;&#x2009;1_RS; FCV/460/20&#x2009;&#x2212;&#x2009;2; FCV/460/20&#x2009;&#x2212;&#x2009;2_RS), whereas FCV-TUR-2025-V2 exhibited closer relatedness to the German isolate FCV/DD/2006/GE and the U.S. strain UTCVM-H2.Analysis of the E5&#x2032;HVR region demonstrated that FCV-TUR-2025-V preserved the conserved B-cell epitope motif PAGDY (aa 431&#x2013;435) and carried the ITTPQEY (aa 445&#x2013;451) motif within the neutralizing epitope. In contrast, FCV-TUR-2025-V2 displayed the alternative motifs PTGNY (aa 431&#x2013;435) and ITTRLDY (aa 445&#x2013;451). These variations highlight notable epitope-level diversity with potential implications for altered antibody recognition and immune-escape mechanisms&#x2014;particularly relevant given the occurrence of FCV infection in vaccinated cats.Overall, this study provides valuable insights into the molecular epidemiology of FCV in T&#xfc;rkiye and underscores the importance of continued genomic surveillance to better understand viral evolution, pathogenic potential, and vaccine-related breakthrough infections.",
+      "affiliations": [
+        "Department of Virology, Faculty of Veterinary Medicine, Firat University, Elazig, 23110, T&#xfc;rkiye. habayli@firat.edu.tr.",
+        "Department of Virology, Faculty of Veterinary Medicine, Firat University, Elazig, 23110, T&#xfc;rkiye."
+      ],
+      "keywords": [
+        "Calicivirus",
+        "Chaphamaparvovirus",
+        "Co-detection",
+        "Feline",
+        "Sequencing",
+        "T&#xfc;rkiye",
+        "Whole-genome"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Caliciviridae Infections",
+        "Cat Diseases",
+        "Calicivirus, Feline",
+        "Genotype",
+        "Turkey",
+        "Phylogeny",
+        "Whole Genome Sequencing",
+        "Genome, Viral",
+        "Coinfection"
+      ],
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
