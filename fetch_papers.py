@@ -195,16 +195,21 @@ def summarize_ko(title, abstract):
     if not ANTHROPIC_API_KEY or not abstract:        # 키 없으면 요약 생략
         return ""
     prompt = (
-        "다음 수의학 논문을 한국어로 2~3문장으로 요약해줘.\n"
-        "규칙: 의학·해부·수술 전문용어는 영어 원어를 그대로 쓰고, 필요하면 괄호로 한글 뜻을 덧붙여라.\n"
-        '예) "osteophyte 제거함", "cranial cruciate ligament(전십자인대) 파열".\n'
-        "전문 수의사가 읽는다고 가정하고 임상적으로 중요한 내용 위주로 써라.\n\n"
+        "너는 전문 수의사를 위해 논문 초록을 아주 짧게 요약한다.\n"
+        "요구사항:\n"
+        "1) 보자마자 무슨 내용인지 알 수 있게 1~2문장으로 핵심만 (연구 대상·중재·결론 위주).\n"
+        "2) 의학·해부·수술·질환·약물 등 '명사'와 고유 용어는 반드시 영어 원어 그대로 쓴다 (한글 번역·괄호 병기 금지).\n"
+        "3) 동작을 나타내는 '동사·서술'은 한국어로 자연스럽게 푼다.\n"
+        "   예) 'remove the brachialis tendon' → 'brachialis tendon 제거',\n"
+        "       'treated with TPLO' → 'TPLO로 치료',\n"
+        "       'diagnosed with intracranial meningioma' → 'intracranial meningioma 진단'.\n"
+        "4) 인사말·군더더기 없이 요약 문장만 출력.\n\n"
         f"제목: {title}\n\n초록: {abstract}"
     )
     try:
         payload = json.dumps({
             "model": "claude-haiku-4-5-20251001",
-            "max_tokens": 320,
+            "max_tokens": 240,
             "messages": [{"role": "user", "content": prompt}],
         }).encode()
         req = urllib.request.Request(
