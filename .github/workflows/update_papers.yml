@@ -29,7 +29,8 @@ jobs:
 
       - name: 논문 수집 실행
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 요약용 (없으면 요약만 생략)
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # 요약용 (무료·권장). 없으면 아래 순서로 폴백
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 요약용 (유료·선택). 둘 다 없으면 요약 생략
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}             # (선택) 있으면 수집이 3배 빨라짐
           START_DATE: "2026-01-01"   # 🔧 이 날짜부터 오늘까지 모음 (고정 시작일)
           INCREMENTAL_DAYS: "0"      # 0 = 매일 START_DATE~오늘 전체 조회(누락 없음). 속도 필요시 30 등
