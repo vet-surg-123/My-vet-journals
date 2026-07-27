@@ -93,10 +93,19 @@ CATEGORY_KEYWORDS = {
     #   ※ 'arthroscopy/arthroscopic/arthroscope'만 사용. 'arthro'(단독)는 arthrodesis·
     #     arthroplasty·arthritis 까지 잡아 오분류되므로 일부러 뺌.
     "arthroscopy":  ["arthroscopy", "arthroscopic", "arthroscope", "arthroscopically"],
-    # 정형외과 (관절경 외 정형)
+    # 인공관절 (관절 치환술 — 정형외과보다 먼저 검사해서 따로 분리)
+    #   ※ recall 우선: THR/TKR/TER 등 약어(3글자)는 자동으로 '단어 전체 일치' 처리됨.
+    #     'excision arthroplasty'(FHO, 임플란트 아님)도 arthroplasty로 잡히는 점은 감안.
+    "jointreplacement": ["arthroplasty", "hemiarthroplasty",
+                         "joint replacement", "hip replacement", "knee replacement",
+                         "elbow replacement", "shoulder replacement", "total joint replacement",
+                         "joint prosthesis", "prosthetic joint", "endoprosthesis",
+                         "total hip", "total knee", "total elbow",
+                         "acetabular cup", "femoral stem", "joint resurfacing",
+                         "thr", "tha", "tkr", "tka", "ter"],
+    # 정형외과 (관절경·인공관절 외 정형)
     "orthopedics":  ["fracture", "orthopedic", "osteotomy", "luxation", "cruciate", "tplo",
-                     "patellar", "arthro", "arthrodesis",
-                     "arthroplasty", "osteosynthesis"],
+                     "patellar", "arthro", "arthrodesis", "osteosynthesis"],
     # 외과 (일반 수술)
     "surgery":      ["surgery", "surgical", "laparotomy", "laparoscopy", "excision",
                      "resection", "repair", "anastomosis", "celiotomy", "thoracotomy",
@@ -144,9 +153,9 @@ NEUROONCO_PHRASES = [
 
 CATEGORY_LABELS = {
     "neurooncology": "신경종양",
-    "neurosurgery": "신경외과", "arthroscopy": "관절경", "orthopedics": "정형외과",
-    "surgery": "외과", "anatomy": "해부", "imaging": "영상", "internal": "내과",
-    "oncology": "종양",
+    "neurosurgery": "신경외과", "arthroscopy": "관절경", "jointreplacement": "인공관절",
+    "orthopedics": "정형외과", "surgery": "외과", "anatomy": "해부", "imaging": "영상",
+    "internal": "내과", "oncology": "종양",
 }
 
 # 🔧 '단어 전체 일치'로만 인정할 짧은 토큰 (부분일치 오분류 방지). ct/mri는 자동(3글자↓).
