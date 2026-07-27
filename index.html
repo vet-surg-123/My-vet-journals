@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>소동물 논문 큐레이션</title>
+<style>
+  /* ============================================================
+     디자인 토큰 — 이 :root 값만 바꾸면 전체 톤이 바뀝니다 (라이트/미니멀)
+     ============================================================ */
+  :root{
+    --bg:#f6f7f9;
+    --surface:#ffffff;
+    --ink:#101828;
+    --ink-2:#475467;
+    --muted:#98a2b3;
+    --line:#e7eaf0;
+    --line-2:#eef1f5;
+    --accent:#3856d6;      /* 인디고 포인트 */
+    --accent-soft:#eef1fe;
+    --accent-ink:#2740b4;
+    --new:#ecfdf3;
+    --new-ink:#067647;
+    --tag-bg:#f2f4f7;
+    --tag-ink:#475467;
+    --radius:14px;
+    --shadow:0 1px 2px rgba(16,24,40,.04), 0 1px 3px rgba(16,24,40,.05);
+    --shadow-hover:0 8px 28px rgba(16,24,40,.10);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    font-family:'Pretendard','Apple SD Gothic Neo','Malgun Gothic',system-ui,-apple-system,sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  .container{max-width:920px;margin:0 auto;padding:0 20px}
+
+  /* ---------- 헤더 ---------- */
+  header{
+    background:var(--surface);border-bottom:1px solid var(--line);
+    position:sticky;top:0;z-index:20;backdrop-filter:saturate(1.2) blur(6px);
+  }
+  .head-row{display:flex;align-items:center;justify-content:space-between;
+            gap:16px;padding:18px 0 16px;flex-wrap:wrap}
+  .brand{display:flex;flex-direction:column;gap:3px}
+  .eyebrow{font-size:11px;font-weight:700;letter-spacing:1.4px;color:var(--accent);text-transform:uppercase}
+  h1{font-size:21px;font-weight:800;letter-spacing:-.2px}
+  .sub{font-size:12.5px;color:var(--muted)}
+  .updated{font-size:12px;color:var(--ink-2);text-align:right;line-height:1.5;white-space:nowrap}
+  .updated b{color:var(--ink);font-weight:700}
+
+  /* ---------- 탭 ---------- */
+  .tabs{display:flex;gap:4px;margin-bottom:-1px}
+  .tab{
+    appearance:none;border:none;background:none;cursor:pointer;
+    font-family:inherit;font-size:13.5px;font-weight:700;color:var(--muted);
+    padding:9px 4px;margin-right:18px;border-bottom:2px solid transparent;
+  }
+  .tab.active{color:var(--ink);border-bottom-color:var(--accent)}
+
+  /* ---------- 툴바(검색+필터) ---------- */
+  .toolbar{padding:18px 0 6px}
+  .search{
+    width:100%;font-family:inherit;font-size:14px;color:var(--ink);
+    background:var(--surface);border:1px solid var(--line);border-radius:10px;
+    padding:11px 14px;outline:none;transition:border-color .15s, box-shadow .15s;
+  }
+  .search:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+  .search::placeholder{color:var(--muted)}
+
+  .chips{display:flex;flex-wrap:wrap;gap:7px;margin-top:13px;align-items:center}
+  .chip-label{font-size:12px;color:var(--muted);font-weight:600;margin-right:2px}
+  .chip{
+    font-family:inherit;font-size:12.5px;font-weight:600;
+    padding:6px 13px;border-radius:999px;border:1px solid var(--line);
+    background:var(--surface);color:var(--ink-2);cursor:pointer;transition:.14s;
+  }
+  .chip:hover{border-color:var(--accent);color:var(--accent-ink)}
+  .chip.active{background:var(--accent);border-color:var(--accent);color:#fff}
+  .chip .n{opacity:.7;font-weight:700;margin-left:5px;font-size:11px}
+  .hidden{display:none !important}
+
+  /* ---------- 목록 ---------- */
+  .listwrap{padding:16px 0 40px}
+  .count{font-size:12.5px;color:var(--ink-2);margin:6px 0 14px}
+  .count b{color:var(--ink)}
+
+  .card{
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    padding:18px 20px;margin-bottom:12px;box-shadow:var(--shadow);
+    transition:box-shadow .16s, transform .16s, opacity .16s;
+  }
+  .card:hover{box-shadow:var(--shadow-hover);transform:translateY(-1px)}
+  .card.read{opacity:.5}
+  .card.read .title a{color:var(--ink-2)}
+
+  .meta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-bottom:8px}
+  .jour{font-size:11px;font-weight:700;color:var(--accent-ink);background:var(--accent-soft);
+        padding:3px 9px;border-radius:6px}
+  .cat{font-size:11px;font-weight:700;color:var(--tag-ink);background:var(--tag-bg);
+       padding:3px 9px;border-radius:6px}
+  .date{font-size:11.5px;color:var(--muted)}
+  .new{font-size:10px;font-weight:800;letter-spacing:.4px;color:var(--new-ink);
+       background:var(--new);padding:3px 8px;border-radius:6px}
+
+  .title{font-size:15.5px;font-weight:700;line-height:1.45;margin-bottom:6px;letter-spacing:-.1px}
+  .title a{color:var(--ink);text-decoration:none}
+  .title a:hover{color:var(--accent);text-decoration:underline}
+
+  .summary{
+    font-size:13.5px;color:#344054;background:#f8f9fc;border:1px solid var(--line-2);
+    border-radius:10px;padding:11px 14px;margin:10px 0 4px;line-height:1.72;
+  }
+  .summary::before{content:"요약 ";font-weight:800;color:var(--accent-ink);font-size:11px;letter-spacing:.3px}
+  .abstract{font-size:13px;color:var(--ink-2);margin:8px 0 2px;line-height:1.7;display:none}
+  .abstract.show{display:block}
+  .authors{font-size:12px;color:var(--muted);margin-top:8px;
+           white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+
+  .foot{display:flex;align-items:center;justify-content:space-between;gap:8px;
+        margin-top:12px;flex-wrap:wrap}
+  .btns{display:flex;gap:6px}
+  .btn{
+    font-family:inherit;font-size:12px;font-weight:600;
+    padding:5px 12px;border-radius:8px;border:1px solid var(--line);
+    background:var(--surface);color:var(--ink-2);cursor:pointer;transition:.14s;
+  }
+  .btn:hover{border-color:var(--accent);color:var(--accent-ink)}
+  .btn.done{color:var(--new-ink);border-color:#abefc6;background:var(--new)}
+  .pubmed{
+    font-size:12.5px;font-weight:600;text-decoration:none;color:#fff;background:var(--accent);
+    padding:6px 14px;border-radius:8px;transition:.14s;
+  }
+  .pubmed:hover{background:var(--accent-ink)}
+
+  /* ---------- 상태 ---------- */
+  .state{text-align:center;padding:60px 20px;color:var(--muted);font-size:14px}
+  .spinner{width:28px;height:28px;border:3px solid var(--line);border-top-color:var(--accent);
+           border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 14px}
+  @keyframes spin{to{transform:rotate(360deg)}}
+
+  footer{text-align:center;padding:26px 20px 42px;font-size:12px;color:var(--muted);
+         border-top:1px solid var(--line)}
+  footer a{color:var(--ink-2)}
+
+  @media(max-width:560px){
+    h1{font-size:19px}
+    .updated{text-align:left;width:100%}
+    .card{padding:16px 16px}
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div class="head-row">
+      <div class="brand">
+        <span class="eyebrow">Small Animal · PubMed</span>
+        <h1>소동물 논문 큐레이션</h1>
+        <span class="sub">임상·외과 최신 논문 · 매일 아침 자동 업데이트</span>
+      </div>
+      <div class="updated" id="updated">불러오는 중…</div>
+    </div>
+    <div class="tabs">
+      <button class="tab active" data-tab="category" onclick="switchTab(this)">분야별</button>
+      <button class="tab" data-tab="journal" onclick="switchTab(this)">저널별</button>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="toolbar">
+    <input class="search" id="search" type="search" placeholder="제목·초록·요약 검색…" oninput="resetPage()">
+    <div class="chips" id="chips-category"><span class="chip-label">분야</span></div>
+    <div class="chips hidden" id="chips-journal"><span class="chip-label">저널</span></div>
+  </div>
+
+  <div class="listwrap">
+    <div class="count" id="count"></div>
+    <div id="list">
+      <div class="state"><div class="spinner"></div>논문 목록을 불러오는 중입니다…</div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  데이터 출처: <a href="https://pubmed.ncbi.nlm.nih.gov/" target="_blank" rel="noopener">PubMed (NCBI)</a>
+  · 매일 자동 수집 · 읽음 표시는 이 브라우저에만 저장됩니다
+</footer>
+
+<script>
+/* 화면 분야 순서·이름 (수집기와 동일) */
+const CAT_ORDER=["neurooncology","neurosurgery","orthopedics","surgery","anatomy","imaging","internal","oncology"];
+let CAT_LABELS={neurooncology:"신경종양",neurosurgery:"신경외과",orthopedics:"정형외과",surgery:"외과",anatomy:"해부",imaging:"영상",internal:"내과",oncology:"종양"};
+const NEW_DAYS=14;                       /* NEW 뱃지 기준 일수 */
+const PAGE_SIZE=60;                      /* 한 번에 그리는 카드 수 (수만 개 대응) */
+let visibleCount=PAGE_SIZE;
+
+let allPapers=[];
+let curTab="category";
+let curCat="all";
+let curJournal="all";
+let readSet=new Set(JSON.parse(localStorage.getItem("vjl_read")||"[]"));
+
+function isNew(dateStr){
+  if(!dateStr) return false;
+  const d=new Date(dateStr); if(isNaN(d)) return false;
+  return (Date.now()-d.getTime())<NEW_DAYS*864e5;
+}
+function esc(s){return (s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+
+function saveRead(){localStorage.setItem("vjl_read",JSON.stringify([...readSet]));}
+function toggleRead(id,btn){
+  const card=btn.closest(".card");
+  if(readSet.has(id)){readSet.delete(id);btn.textContent="읽음 표시";btn.classList.remove("done");card.classList.remove("read");}
+  else{readSet.add(id);btn.textContent="✓ 읽음";btn.classList.add("done");card.classList.add("read");}
+  saveRead();
+}
+function markReadOnOpen(id){if(!readSet.has(id)){readSet.add(id);saveRead();}}
+function toggleAbstract(btn){
+  const a=btn.closest(".card").querySelector(".abstract");
+  if(!a)return;
+  const show=a.classList.toggle("show");
+  btn.textContent=show?"초록 닫기":"초록 보기";
+}
+
+function resetPage(){visibleCount=PAGE_SIZE;render();}
+function showMore(){visibleCount+=PAGE_SIZE;render();}
+
+function switchTab(btn){
+  curTab=btn.dataset.tab;
+  document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("active",b===btn));
+  document.getElementById("chips-category").classList.toggle("hidden",curTab!=="category");
+  document.getElementById("chips-journal").classList.toggle("hidden",curTab!=="journal");
+  resetPage();
+}
+
+function buildChips(){
+  /* 분야 칩 (데이터에 실제로 존재하는 분야만, 정해진 순서로) */
+  const catCount={}; allPapers.forEach(p=>catCount[p.category]=(catCount[p.category]||0)+1);
+  const cbox=document.getElementById("chips-category");
+  let ch='<span class="chip-label">분야</span>';
+  ch+=`<button class="chip active" data-v="all" onclick="pickCat(this)">전체<span class="n">${allPapers.length}</span></button>`;
+  CAT_ORDER.filter(c=>catCount[c]).forEach(c=>{
+    ch+=`<button class="chip" data-v="${c}" onclick="pickCat(this)">${CAT_LABELS[c]||c}<span class="n">${catCount[c]}</span></button>`;
+  });
+  cbox.innerHTML=ch;
+
+  /* 저널 칩 (데이터 기반, 논문 수 많은 순) */
+  const jCount={}; allPapers.forEach(p=>{if(p.journal)jCount[p.journal]=(jCount[p.journal]||0)+1;});
+  const journals=Object.keys(jCount).sort((a,b)=>jCount[b]-jCount[a]);
+  const jbox=document.getElementById("chips-journal");
+  let jh='<span class="chip-label">저널</span>';
+  jh+=`<button class="chip active" data-v="all" onclick="pickJournal(this)">전체<span class="n">${allPapers.length}</span></button>`;
+  journals.forEach(j=>{
+    jh+=`<button class="chip" data-v="${esc(j)}" onclick="pickJournal(this)">${esc(j)}<span class="n">${jCount[j]}</span></button>`;
+  });
+  jbox.innerHTML=jh;
+}
+function pickCat(btn){curCat=btn.dataset.v;
+  document.querySelectorAll("#chips-category .chip").forEach(b=>b.classList.toggle("active",b===btn));resetPage();}
+function pickJournal(btn){curJournal=btn.dataset.v;
+  document.querySelectorAll("#chips-journal .chip").forEach(b=>b.classList.toggle("active",b===btn));resetPage();}
+
+function render(){
+  const list=document.getElementById("list");
+  const q=(document.getElementById("search").value||"").trim().toLowerCase();
+  let items=allPapers.slice();
+
+  if(curTab==="journal"){ if(curJournal!=="all") items=items.filter(p=>p.journal===curJournal); }
+  else { if(curCat!=="all") items=items.filter(p=>p.category===curCat); }
+
+  if(q) items=items.filter(p=>
+    (p.title||"").toLowerCase().includes(q) ||
+    (p.abstract||"").toLowerCase().includes(q) ||
+    (p.summary_ko||"").toLowerCase().includes(q) ||
+    (p.authors||"").toLowerCase().includes(q));
+
+  const total=items.length;
+  if(visibleCount>total) visibleCount=Math.max(PAGE_SIZE,Math.ceil(visibleCount/PAGE_SIZE)*PAGE_SIZE);
+  const shown=Math.min(visibleCount,total);
+  document.getElementById("count").innerHTML=
+    total>shown ? `총 <b>${total}</b>편 중 <b>${shown}</b>편 표시` : `총 <b>${total}</b>편`;
+
+  if(!items.length){
+    list.innerHTML='<div class="state">조건에 맞는 논문이 없습니다.</div>';return;
+  }
+  const page=items.slice(0,shown);
+  list.innerHTML=page.map(p=>{
+    const r=readSet.has(p.id);
+    const cat=CAT_LABELS[p.category]||p.category||"";
+    return `
+    <article class="card ${r?'read':''}">
+      <div class="meta">
+        ${p.journal?`<span class="jour">${esc(p.journal)}</span>`:''}
+        ${cat?`<span class="cat">${esc(cat)}</span>`:''}
+        ${p.date?`<span class="date">${esc(p.date)}</span>`:''}
+        ${isNew(p.date)?'<span class="new">NEW</span>':''}
+      </div>
+      <h2 class="title"><a href="${esc(p.url)}" target="_blank" rel="noopener" onclick="markReadOnOpen('${esc(p.id)}')">${esc(p.title)}</a></h2>
+      ${p.summary_ko?`<div class="summary">${esc(p.summary_ko)}</div>`:''}
+      ${p.abstract?`<div class="abstract">${esc(p.abstract)}</div>`:''}
+      ${p.authors?`<div class="authors">${esc(p.authors)}</div>`:''}
+      <div class="foot">
+        <div class="btns">
+          <button class="btn ${r?'done':''}" onclick="toggleRead('${esc(p.id)}',this)">${r?'✓ 읽음':'읽음 표시'}</button>
+          ${p.abstract?`<button class="btn" onclick="toggleAbstract(this)">초록 보기</button>`:''}
+        </div>
+        <a class="pubmed" href="${esc(p.url)}" target="_blank" rel="noopener">PubMed →</a>
+      </div>
+    </article>`;
+  }).join("");
+  if(total>shown){
+    list.innerHTML+=`<div style="text-align:center;padding:12px 0 4px">
+      <button class="btn" style="font-size:13px;padding:9px 22px" onclick="showMore()">더 보기 (${total-shown}편 남음)</button></div>`;
+  }
+}
+
+async function init(){
+  try{
+    const res=await fetch("papers.json?v="+Date.now());
+    if(!res.ok) throw new Error("no papers.json");
+    const data=await res.json();
+    if(data.categories) CAT_LABELS=Object.assign(CAT_LABELS,data.categories);
+    allPapers=(data.papers||[]).filter(p=>p&&p.category&&p.category!=="other");
+    buildChips();
+    if(!allPapers.length){
+      document.getElementById("updated").innerHTML="아직 논문이 없습니다";
+      document.getElementById("list").innerHTML=
+        '<div class="state">아직 수집된 논문이 없습니다.<br>첫 자동 실행(또는 수동 실행) 후 채워집니다.</div>';
+      document.getElementById("count").textContent="";
+      return;
+    }
+    document.getElementById("updated").innerHTML=
+      `마지막 업데이트<br><b>${esc(data.updated||"")}</b>`;
+    render();
+  }catch(e){
+    document.getElementById("updated").textContent="업데이트 정보 없음";
+    document.getElementById("list").innerHTML=
+      '<div class="state">papers.json 을 불러올 수 없습니다.<br>같은 폴더에 papers.json 이 있는지 확인해주세요.</div>';
+  }
+}
+init();
+</script>
+</body>
+</html>
