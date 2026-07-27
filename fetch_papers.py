@@ -11,7 +11,9 @@ PubMed에서 '소동물 임상/외과' 논문을 수집 → 분야 분류 → (�
     MAX_RESULTS     최대 수집 개수.           기본 0(=제한 없음, 전부)
     ABSTRACT_MAXLEN 초록 저장 최대 글자수.    기본 0(=전체).  용량 줄이려면 예) 800
     NCBI_API_KEY    NCBI 키(있으면 3→10 req/s 로 빨라짐, 없어도 동작)
-    ANTHROPIC_API_KEY  한국어 요약용(없으면 요약만 생략)
+    GEMINI_API_KEY     한국어 요약용(무료·권장). aistudio.google.com 에서 발급.
+    ANTHROPIC_API_KEY  한국어 요약용(유료·선택). GEMINI 키가 있으면 그쪽을 우선 사용.
+      · 요약 우선순위: GEMINI(무료) → ANTHROPIC(유료) → 둘 다 없으면 요약 생략
 """
 
 import urllib.request
@@ -23,7 +25,10 @@ import re
 from datetime import datetime, timedelta
 
 # ── 환경변수 ────────────────────────────────────────────────
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+#  요약 제공자: GEMINI(무료) 우선 → 없으면 ANTHROPIC(유료) → 둘 다 없으면 요약 생략
+GEMINI_API_KEY    = os.environ.get("GEMINI_API_KEY", "")        # 🔧 무료: aistudio.google.com
+GEMINI_MODEL      = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")     # (선택) 유료
 NCBI_API_KEY      = os.environ.get("NCBI_API_KEY", "")
 
 # 🔧 수집 시작일(고정). 이 날짜부터 오늘까지 모음. (예전의 '최근 N일' 방식 대체)
@@ -199,11 +204,9 @@ def _api(url):
     return url
 
 
-# 🔧 요약 스타일 — 여기(프롬프트)만 고치면 요약 문체가 바뀜. (한글+영어 전문용어 병기)
-def summarize_ko(title, abstract):
-    if not ANTHROPIC_API_KEY or not abstract:        # 키 없으면 요약 생략
-        return ""
-    prompt = (
+# 🔧 요약 스타일 — 이 프롬프트만 고치면 문체가 바뀜. (명사=영어 원어, 동사=한국어)
+def _summary_prompt(title, abstract):
+    return (
         "너는 전문 수의사를 위해 논문 초록을 아주 짧게 요약한다.\n"
         "요구사항:\n"
         "1) 보자마자 무슨 내용인지 알 수 있게 1~2문장으로 핵심만 (연구 대상·중재·결론 위주).\n"
@@ -215,18 +218,47 @@ def summarize_ko(title, abstract):
         "4) 인사말·군더더기 없이 요약 문장만 출력.\n\n"
         f"제목: {title}\n\n초록: {abstract}"
     )
+
+
+def _summarize_gemini(prompt):
+    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{GEMINI_MODEL}:generateContent?key={GEMINI_API_KEY}")
+    payload = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"maxOutputTokens": 256, "temperature": 0.3},
+    }).encode()
+    req = urllib.request.Request(url, data=payload,
+                                 headers={"Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=40) as r:
+        data = json.loads(r.read().decode())
+    return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+
+
+def _summarize_anthropic(prompt):
+    payload = json.dumps({
+        "model": "claude-haiku-4-5-20251001",
+        "max_tokens": 240,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode()
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages", data=payload,
+        headers={"Content-Type": "application/json", "x-api-key": ANTHROPIC_API_KEY,
+                 "anthropic-version": "2023-06-01"})
+    with urllib.request.urlopen(req, timeout=25) as r:
+        return json.loads(r.read().decode())["content"][0]["text"].strip()
+
+
+def summarize_ko(title, abstract):
+    """GEMINI(무료) 우선 → ANTHROPIC(유료) → 둘 다 없으면 생략."""
+    if not abstract:
+        return ""
+    prompt = _summary_prompt(title, abstract)
     try:
-        payload = json.dumps({
-            "model": "claude-haiku-4-5-20251001",
-            "max_tokens": 240,
-            "messages": [{"role": "user", "content": prompt}],
-        }).encode()
-        req = urllib.request.Request(
-            "https://api.anthropic.com/v1/messages", data=payload,
-            headers={"Content-Type": "application/json", "x-api-key": ANTHROPIC_API_KEY,
-                     "anthropic-version": "2023-06-01"})
-        with urllib.request.urlopen(req, timeout=25) as r:
-            return json.loads(r.read().decode())["content"][0]["text"].strip()
+        if GEMINI_API_KEY:
+            return _summarize_gemini(prompt)
+        if ANTHROPIC_API_KEY:
+            return _summarize_anthropic(prompt)
+        return ""
     except Exception as e:
         print(f"  요약 오류: {e}")
         return ""
@@ -416,7 +448,10 @@ def get_papers():
             summary_ko = cache.get(pid)
             if summary_ko is None:
                 summary_ko = summarize_ko(title, abstract)
-                if ANTHROPIC_API_KEY:
+                # 무료 Gemini는 분당 요청 제한(RPM)이 있어 넉넉히 쉼. Anthropic은 짧게.
+                if GEMINI_API_KEY:
+                    time.sleep(4.2)
+                elif ANTHROPIC_API_KEY:
                     time.sleep(0.25)
 
             disp_date, sort_date = fmt_date(item)
