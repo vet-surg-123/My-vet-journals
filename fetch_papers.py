@@ -88,9 +88,13 @@ CATEGORY_KEYWORDS = {
     # 신경외과 (종양이 아닌 신경 논문)
     "neurosurgery": ["neurosurgery", "neuro", "spinal", "brain", "vestibular", "disc",
                      "cerebell", "myelopathy", "hemilaminectomy", "intervertebral"],
-    # 정형외과
+    # 관절경 (정형외과보다 먼저 검사 → 관절경 논문을 따로 분리)
+    #   ※ 'arthroscopy/arthroscopic/arthroscope'만 사용. 'arthro'(단독)는 arthrodesis·
+    #     arthroplasty·arthritis 까지 잡아 오분류되므로 일부러 뺌.
+    "arthroscopy":  ["arthroscopy", "arthroscopic", "arthroscope", "arthroscopically"],
+    # 정형외과 (관절경 외 정형)
     "orthopedics":  ["fracture", "orthopedic", "osteotomy", "luxation", "cruciate", "tplo",
-                     "patellar", "arthro", "arthroscopy", "arthroscopic", "arthrodesis",
+                     "patellar", "arthro", "arthrodesis",
                      "arthroplasty", "osteosynthesis"],
     # 외과 (일반 수술)
     "surgery":      ["surgery", "surgical", "laparotomy", "laparoscopy", "excision",
@@ -125,14 +129,43 @@ NEUROONCO_ENTITIES = ["glioma", "glioblastoma", "meningioma", "astrocytoma", "ep
 
 CATEGORY_LABELS = {
     "neurooncology": "신경종양",
-    "neurosurgery": "신경외과", "orthopedics": "정형외과", "surgery": "외과",
-    "anatomy": "해부", "imaging": "영상", "internal": "내과", "oncology": "종양",
+    "neurosurgery": "신경외과", "arthroscopy": "관절경", "orthopedics": "정형외과",
+    "surgery": "외과", "anatomy": "해부", "imaging": "영상", "internal": "내과",
+    "oncology": "종양",
 }
 
 # 🔧 '단어 전체 일치'로만 인정할 짧은 토큰 (부분일치 오분류 방지). ct/mri는 자동(3글자↓).
 WHOLE_WORD_TOKENS = {"disc", "cns"}
 
+MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+          "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
 BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+
+
+def fmt_date(item):
+    """PubMed 날짜를 (표시용, 정렬용)으로 정규화.
+    - sortpubdate(항상 YYYY/MM/DD)를 우선 사용 → 월·일이 항상 나옴.
+    - 정렬용은 YYYY-MM-DD 형식(문자열로 비교해도 날짜순).
+    """
+    raw = item.get("sortpubdate") or item.get("epubdate") or item.get("pubdate") or ""
+    m = re.match(r"(\d{4})/(\d{1,2})/(\d{1,2})", raw)          # 숫자형 2026/07/15
+    if m:
+        y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        return f"{y} {MONTHS[mo - 1]} {d:02d}", f"{y:04d}-{mo:02d}-{d:02d}"
+    m = re.match(r"(\d{4})(?:\s+([A-Za-z]{3,}))?(?:\s+(\d{1,2}))?", raw)  # 문자형 2026 Jul 15
+    if m:
+        y = int(m.group(1))
+        mon, d = m.group(2), m.group(3)
+        mo = MONTHS.index(mon[:3].title()) + 1 if mon and mon[:3].title() in MONTHS else 0
+        disp = str(y)
+        if mo:
+            disp += f" {MONTHS[mo - 1]}"
+        if d:
+            disp += f" {int(d):02d}"
+        sortk = f"{y:04d}-{mo:02d}-{int(d) if d else 0:02d}"
+        return disp, sortk
+    return raw, raw
 
 
 def _api(url):
@@ -330,12 +363,14 @@ def get_papers():
                 if ANTHROPIC_API_KEY:
                     time.sleep(0.25)
 
+            disp_date, sort_date = fmt_date(item)
             papers.append({
                 "id": pid,
                 "title": title,
                 "authors": ", ".join(a.get("name", "") for a in item.get("authors", [])[:6]),
                 "journal": source,
-                "date": item.get("pubdate", ""),
+                "date": disp_date,       # 표시용 (항상 월·일 포함)
+                "sortdate": sort_date,   # 정렬용 YYYY-MM-DD
                 "url": f"https://pubmed.ncbi.nlm.nih.gov/{pid}/",
                 "abstract": abstract,
                 "category": category,
@@ -364,7 +399,8 @@ def main():
             added += 1
         merged[p["id"]] = p                 # 같은 PMID면 최신 것으로 갱신 → 중복 없음
     papers = list(merged.values())
-    papers.sort(key=lambda x: x.get("date", ""), reverse=True)
+    # 정렬: sortdate(YYYY-MM-DD) 기준 최신순. (예전 데이터엔 sortdate 없을 수 있어 date로 폴백)
+    papers.sort(key=lambda x: x.get("sortdate") or x.get("date", ""), reverse=True)
 
     from collections import Counter
     print(f"기존 {len(existing)}편 + 이번 신규 {added}편 → 총 {len(papers)}편 (중복 제거됨)")
