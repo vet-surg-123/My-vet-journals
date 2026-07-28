@@ -37,6 +37,11 @@ START_DATE = os.environ.get("START_DATE", "2026-01-01").replace("-", "/")
 # 🔧 증분 수집 창(일). 0이면 매번 START_DATE~오늘 전체를 조회(권장, 누락 없음).
 #    속도가 필요하면 예) 30 → 최근 30일만 조회하고 기존 데이터에 '추가'로 병합.
 INCREMENTAL_DAYS = int(os.environ.get("INCREMENTAL_DAYS", "0"))
+# 🔧 인공관절(jointreplacement)만 더 오래전부터 수집. (양이 적어 기간을 넓힘)
+#    본검색과 별개로, 아래 날짜~오늘 범위를 '인공관절 키워드'로 추가 검색하고
+#    실제로 '인공관절'로 분류된 논문만 추가한다. (다른 분야는 영향 없음)
+JOINTREPL_START_DATE = os.environ.get("JOINTREPL_START_DATE", "2020-01-01").replace("-", "/")
+JOINTREPL_BACKFILL   = os.environ.get("JOINTREPL_BACKFILL", "1") != "0"   # 0이면 끔
 # 🔧 최대 수집 개수 — 0이면 제한 없음(조건 맞는 것 전부, 수만 개 가능)
 MAX_RESULTS    = int(os.environ.get("MAX_RESULTS", "0"))
 # 🔧 초록 저장 최대 글자수 — 0이면 전체 저장. 수만 개면 파일이 커지니 800 등으로 제한 권장
@@ -335,20 +340,35 @@ def load_existing_papers():
     return existing
 
 
-def build_query():
+def build_query_dated(date_from, extra_terms=None):
+    """소동물+화이트리스트+종제외 기본 쿼리. date_from~오늘 범위.
+    extra_terms 를 주면 그 키워드(OR) 를 반드시 포함(AND)하도록 좁힌다."""
     date_to = datetime.now().strftime("%Y/%m/%d")
-    if INCREMENTAL_DAYS > 0:
-        date_from = (datetime.now() - timedelta(days=INCREMENTAL_DAYS)).strftime("%Y/%m/%d")
-    else:
-        date_from = START_DATE
     sa = " OR ".join(f'"{t}"[tiab]' for t in SMALL_ANIMAL_TERMS)
     q = f"({sa})"
+    if extra_terms:
+        q += " AND (" + " OR ".join(f'"{t}"[tiab]' for t in extra_terms) + ")"
     if USE_WHITELIST and JOURNAL_WHITELIST:
         q += " AND (" + " OR ".join(f'"{j}"[jour]' for j in JOURNAL_WHITELIST) + ")"
     q += f' AND ("{date_from}"[PDAT] : "{date_to}"[PDAT])'
     if EXCLUDE_SPECIES:
         q += " NOT (" + " OR ".join(f'"{t}"[tiab]' for t in EXCLUDE_SPECIES) + ")"
     return q
+
+
+def build_query():
+    """본검색: 모든 분야, START_DATE(기본 2026-01-01)~오늘."""
+    if INCREMENTAL_DAYS > 0:
+        date_from = (datetime.now() - timedelta(days=INCREMENTAL_DAYS)).strftime("%Y/%m/%d")
+    else:
+        date_from = START_DATE
+    return build_query_dated(date_from)
+
+
+def build_jointrepl_query():
+    """인공관절 백필: 인공관절 키워드 포함 + JOINTREPL_START_DATE(기본 2020)~오늘."""
+    return build_query_dated(JOINTREPL_START_DATE,
+                             extra_terms=CATEGORY_KEYWORDS["jointreplacement"])
 
 
 def esearch_history(query):
@@ -399,18 +419,17 @@ def parse_details(xml):
     return out
 
 
-def get_papers():
-    query = build_query()
+def _collect_one(query, only_cat, cache, collected, summ_state):
+    """query 로 검색해 논문을 collected(dict: pid→paper)에 채운다.
+    only_cat 이 주어지면 그 분야로 분류된 논문만 담는다(인공관절 백필용).
+    cache/summ_state 는 검색들 사이에 공유(요약 상한·중복호출 방지)."""
     count, webenv, qkey = esearch_history(query)
     if MAX_RESULTS > 0:
         count = min(count, MAX_RESULTS)
     print(f"  검색 결과: {count}편  (배치 {BATCH}, {'API키 있음' if NCBI_API_KEY else '키 없음'})")
     if not count:
-        return []
-
-    cache = load_previous_summaries()
-    papers = []
-    summ_count = 0            # 이번 실행에서 호출한 요약 수 (상한 관리)
+        return
+    added_here = 0
     for start in range(0, count, BATCH):
         n = min(BATCH, count - start)
         common = f"db=pubmed&query_key={qkey}&WebEnv={webenv}&retstart={start}&retmax={n}"
@@ -431,6 +450,8 @@ def get_papers():
 
         uids = result.get("uids", [])
         for pid in uids:
+            if pid in collected:            # 다른 검색에서 이미 처리됨 → 중복 방지
+                continue
             item = result.get(pid)
             if not item:
                 continue
@@ -443,6 +464,8 @@ def get_papers():
             if is_excluded_topic(title, abstract):      # 심장·치과 등 제외
                 continue
             category = categorize(title, abstract)
+            if only_cat and category != only_cat:       # 백필: 해당 분야만 담기
+                continue
             if DROP_OTHER and category == "other":       # 기타 버림
                 continue
 
@@ -452,10 +475,10 @@ def get_papers():
             summary_ko = cache.get(pid)
             if summary_ko is None:
                 can_summarize = ((GEMINI_API_KEY or ANTHROPIC_API_KEY) and abstract
-                                 and (MAX_SUMMARIES == 0 or summ_count < MAX_SUMMARIES))
+                                 and (MAX_SUMMARIES == 0 or summ_state["n"] < MAX_SUMMARIES))
                 if can_summarize:
                     summary_ko = summarize_ko(title, abstract)
-                    summ_count += 1
+                    summ_state["n"] += 1
                     # 무료 Gemini는 분당 요청 제한(RPM)이 있어 넉넉히 쉼. Anthropic은 짧게.
                     if GEMINI_API_KEY:
                         time.sleep(4.2)
@@ -465,7 +488,7 @@ def get_papers():
                     summary_ko = ""   # 상한 도달/키 없음 → 이번엔 비움 (다음 실행 때 채워짐)
 
             disp_date, sort_date = fmt_date(item)
-            papers.append({
+            collected[pid] = {
                 "id": pid,
                 "title": title,
                 "authors": ", ".join(a.get("name", "") for a in item.get("authors", [])[:10]),
@@ -479,9 +502,30 @@ def get_papers():
                 "mesh": det.get("mesh", []),
                 "category": category,
                 "summary_ko": summary_ko,
-            })
-        print(f"  진행: {min(start + n, count)}/{count}  (수집 {len(papers)}편)")
-    return papers
+            }
+            added_here += 1
+        print(f"  진행: {min(start + n, count)}/{count}  (이 검색 담김 {added_here}편, 누적 {len(collected)}편)")
+
+
+def get_papers():
+    # 검색 작업 목록: (쿼리, 이 분야만, 라벨)
+    jobs = [(build_query(), None, "본검색")]
+    if JOINTREPL_BACKFILL:
+        jobs.append((build_jointrepl_query(), "jointreplacement",
+                     f"인공관절 백필 {JOINTREPL_START_DATE}~오늘"))
+
+    cache = load_previous_summaries()
+    collected = {}                 # pid → paper (검색 간 중복 자동 제거)
+    summ_state = {"n": 0}          # 요약 호출 수(모든 검색 합산, 상한 공유)
+    for query, only_cat, label in jobs:
+        print(f"  ─ [{label}] 검색 시작")
+        try:
+            _collect_one(query, only_cat, cache, collected, summ_state)
+        except Exception as e:
+            print(f"  [{label}] 검색 오류: {e}")
+    # 이번 실행에서 실제로 API를 호출해 '새로' 요약한 건수 (기존 요약은 재사용, 호출 안 함)
+    print(f"  요약 API 신규 호출: {summ_state['n']}건 (기존 요약은 재사용, 재호출 없음)")
+    return list(collected.values())
 
 
 def main():
