@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex,nofollow">
+<title>Vet Radar · 관리자</title>
+<style>
+  @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css');
+  @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+  :root{--bg:#f4f1ec;--panel:#fffdfa;--ink:#2f2b25;--ink-2:#6d665b;--muted:#a79f91;
+    --line:#eae4d9;--line-2:#f3efe8;--accent:#5f7aa6;--accent-2:#41567c;--accent-soft:#eaeff6;
+    --sans:'Plus Jakarta Sans','Pretendard',system-ui,sans-serif;--shadow:0 2px 14px rgba(60,52,40,.06)}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:var(--sans);background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased}
+  .wrap{max-width:840px;margin:0 auto;padding:34px 22px 60px}
+  .top{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+  h1{font-size:22px;font-weight:800;letter-spacing:-.3px}
+  .sub{font-size:13px;color:var(--muted);margin-bottom:24px}
+  .btn{font-family:inherit;font-size:13px;font-weight:600;border:1px solid var(--line);background:var(--panel);
+    color:var(--ink-2);border-radius:10px;padding:9px 15px;cursor:pointer;transition:.14s}
+  .btn:hover{border-color:var(--accent);color:var(--accent-2)}
+  .btn.pri{background:var(--accent);color:#fff;border:none}.btn.pri:hover{background:var(--accent-2)}
+  .btn.pri:disabled{opacity:.55;cursor:default}
+
+  /* 로그인 */
+  .login{max-width:380px;margin:8vh auto 0;background:var(--panel);border:1px solid var(--line);
+    border-radius:18px;padding:28px 26px;box-shadow:var(--shadow)}
+  .login h2{font-size:18px;font-weight:800;margin-bottom:4px}
+  .login p{font-size:12.5px;color:var(--muted);margin-bottom:18px}
+  .fld{width:100%;font-family:inherit;font-size:14px;color:var(--ink);background:var(--panel);
+    border:1px solid var(--line);border-radius:11px;padding:12px 14px;outline:none;margin-bottom:10px}
+  .fld:focus{border-color:var(--accent);box-shadow:0 0 0 4px var(--accent-soft)}
+  .msg{font-size:12.5px;margin-top:6px;min-height:16px}
+  .msg.err{color:#c0392b}.msg.ok{color:var(--accent-2)}
+
+  /* 목록 */
+  .bar{display:flex;gap:8px;align-items:center;margin-bottom:16px;flex-wrap:wrap}
+  .stat{font-size:13px;color:var(--ink-2)}.stat b{color:var(--ink)}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:15px;padding:16px 18px;
+    margin-bottom:11px;box-shadow:var(--shadow)}
+  .card.done{opacity:.6}
+  .m{display:flex;gap:9px;align-items:center;flex-wrap:wrap;margin-bottom:9px}
+  .type{font-size:11.5px;font-weight:700;background:var(--accent-soft);color:var(--accent-2);padding:4px 11px;border-radius:999px}
+  .when{font-size:12px;color:var(--muted)}
+  .msgtxt{font-size:14.5px;color:var(--ink);line-height:1.7;white-space:pre-wrap;word-break:break-word}
+  .contact{font-size:12.5px;color:var(--ink-2);margin-top:10px}
+  .contact b{color:var(--accent-2)}
+  .row{display:flex;gap:8px;margin-top:12px}
+  .empty{text-align:center;color:var(--muted);font-size:14px;padding:50px 0}
+  .setup{background:#fff7ed;border:1px solid #fdba74;color:#9a3412;border-radius:12px;padding:14px 16px;font-size:13px;line-height:1.7}
+  .setup code{background:#fff;border:1px solid #fed7aa;padding:1px 6px;border-radius:5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><h1>피드백 관리자</h1><button class="btn" id="logoutBtn" onclick="logout()" style="display:none">로그아웃</button></div>
+  <div class="sub">익명으로 접수된 개선 의견 — 운영자만 열람</div>
+
+  <div id="setupBox" style="display:none" class="setup"></div>
+
+  <!-- 로그인 -->
+  <div class="login" id="loginView" style="display:none">
+    <h2>운영자 로그인</h2>
+    <p>Supabase에 등록한 운영자 계정으로 로그인하세요.</p>
+    <input class="fld" id="email" type="email" placeholder="이메일" autocomplete="username">
+    <input class="fld" id="pw" type="password" placeholder="비밀번호" autocomplete="current-password" onkeydown="if(event.key==='Enter')login()">
+    <button class="btn pri" id="loginBtn" onclick="login()" style="width:100%;margin-top:4px">로그인</button>
+    <div class="msg" id="loginMsg"></div>
+  </div>
+
+  <!-- 목록 -->
+  <div id="listView" style="display:none">
+    <div class="bar">
+      <span class="stat" id="stat"></span>
+      <button class="btn" onclick="loadFeedback()" style="margin-left:auto">↻ 새로고침</button>
+    </div>
+    <div id="list"></div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+  // ▼▼ 두 값을 index.html과 동일하게 채우세요 ▼▼
+  const SUPABASE_URL="__SUPABASE_URL__";
+  const SUPABASE_ANON_KEY="__SUPABASE_ANON_KEY__";
+  // ▲▲ ------------------------------------ ▲▲
+
+  const configured = SUPABASE_URL.indexOf("http")===0 && SUPABASE_ANON_KEY.indexOf("__")!==0;
+  let sb=null;
+
+  function esc(s){return (s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+  function fmt(ts){ try{ return new Date(ts).toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}); }catch(e){ return ts; } }
+
+  function show(view){
+    document.getElementById("loginView").style.display = view==="login"?"block":"none";
+    document.getElementById("listView").style.display  = view==="list"?"block":"none";
+    document.getElementById("logoutBtn").style.display  = view==="list"?"inline-block":"none";
+  }
+
+  async function login(){
+    const email=document.getElementById("email").value.trim();
+    const pw=document.getElementById("pw").value;
+    const msg=document.getElementById("loginMsg"), btn=document.getElementById("loginBtn");
+    msg.className="msg";
+    if(!email||!pw){msg.className="msg err";msg.textContent="이메일과 비밀번호를 입력하세요.";return;}
+    btn.disabled=true; msg.textContent="로그인 중…";
+    const {error}=await sb.auth.signInWithPassword({email,password:pw});
+    btn.disabled=false;
+    if(error){msg.className="msg err";msg.textContent="로그인 실패 — 이메일/비밀번호를 확인하세요.";return;}
+    msg.textContent=""; enterApp();
+  }
+  async function logout(){ await sb.auth.signOut(); show("login"); }
+
+  async function enterApp(){ show("list"); await loadFeedback(); }
+
+  async function loadFeedback(){
+    const list=document.getElementById("list"), stat=document.getElementById("stat");
+    list.innerHTML='<div class="empty">불러오는 중…</div>';
+    const {data,error}=await sb.from('feedback').select('*').order('created_at',{ascending:false});
+    if(error){ list.innerHTML='<div class="empty">읽기 권한이 없거나 오류가 발생했습니다.<br>('+esc(error.message)+')</div>'; stat.textContent=""; return; }
+    stat.innerHTML='총 <b>'+data.length+'</b>건'+(data.filter(d=>!d.done).length?(' · 안읽음 <b>'+data.filter(d=>!d.done).length+'</b>'):'');
+    if(!data.length){ list.innerHTML='<div class="empty">아직 접수된 의견이 없습니다.</div>'; return; }
+    list.innerHTML=data.map(d=>`
+      <div class="card ${d.done?'done':''}" data-id="${d.id}">
+        <div class="m"><span class="type">${esc(d.type||'기타')}</span><span class="when">${esc(fmt(d.created_at))}</span></div>
+        <div class="msgtxt">${esc(d.message||'')}</div>
+        ${d.contact?`<div class="contact">회신처: <b>${esc(d.contact)}</b></div>`:''}
+        <div class="row">
+          <button class="btn" onclick="toggleDone('${d.id}',${d.done?'true':'false'})">${d.done?'안읽음으로':'읽음 처리'}</button>
+          <button class="btn" onclick="del('${d.id}')" style="color:#c0392b">삭제</button>
+        </div>
+      </div>`).join("");
+  }
+  async function toggleDone(id,cur){ await sb.from('feedback').update({done:!cur}).eq('id',id); loadFeedback(); }
+  async function del(id){ if(!confirm('이 의견을 삭제할까요?'))return; await sb.from('feedback').delete().eq('id',id); loadFeedback(); }
+
+  (async function init(){
+    if(!configured){
+      document.getElementById("setupBox").style.display="block";
+      document.getElementById("setupBox").innerHTML=
+        '⚙ <b>설정 필요</b>: admin.html(과 index.html)의 <code>SUPABASE_URL</code>·<code>SUPABASE_ANON_KEY</code>를 채우면 관리자 로그인이 활성화됩니다.';
+      return;
+    }
+    sb=supabase.createClient(SUPABASE_URL,SUPABASE_ANON_KEY);
+    const {data}=await sb.auth.getSession();
+    if(data && data.session) enterApp(); else show("login");
+    sb.auth.onAuthStateChange((_e,session)=>{ if(!session) show("login"); });
+  })();
+</script>
+</body>
+</html>
