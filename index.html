@@ -444,8 +444,8 @@ if(SCHEMA_URI.indexOf("data:")===0) document.getElementById("schemaImg").src=SCH
 /*  ① Web3Forms  → 운영자 이메일 알림 (선택)
     ② Supabase   → 관리자 페이지(admin.html)에 저장·열람 (선택, 아래 두 값 채우면 켜짐) */
 const WEB3FORMS_ACCESS_KEY="9764638d-779f-43ba-893b-de376f6b37c3";
-const SUPABASE_URL="__SUPABASE_URL__";            // 예: https://xxxx.supabase.co  (admin.html과 동일하게)
-const SUPABASE_ANON_KEY="__SUPABASE_ANON_KEY__";  // Supabase anon public key (공개돼도 안전)
+const SUPABASE_URL="https://grqdalliqsgddtqzprjv.supabase.co";            // (admin.html과 동일)
+const SUPABASE_ANON_KEY="sb_publishable_gqCxEpbWWvq3LVrQ83EeYQ_SNkYZ7c2";  // Supabase publishable(anon) key (공개돼도 안전)
 function web3ok(){return WEB3FORMS_ACCESS_KEY && WEB3FORMS_ACCESS_KEY.indexOf("__")!==0;}
 function supaOk(){return SUPABASE_URL.indexOf("http")===0 && SUPABASE_ANON_KEY.indexOf("__")!==0;}
 let fbType="분야·저널 추가/분리";
