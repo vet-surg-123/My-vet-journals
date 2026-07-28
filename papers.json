@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28 08:18 UTC",
+  "updated": "2026-07-28 08:43 UTC",
   "total": 1572,
   "categories": {
     "neurooncology": "신경종양",
@@ -17133,7 +17133,7 @@
         "spinal cord"
       ],
       "mesh": [],
-      "category": "neurosurgery",
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
@@ -30511,7 +30511,7 @@
         "Subarachnoid Space",
         "Decompression, Surgical"
       ],
-      "category": "neurosurgery",
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
