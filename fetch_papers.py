@@ -49,6 +49,9 @@ ABSTRACT_MAXLEN = int(os.environ.get("ABSTRACT_MAXLEN", "0"))
 # 🔧 1회 실행당 '요약 API 호출' 상한 (무료 한도 초과·과금 방지 안전장치).
 #    0=무제한. Gemini 무료 한도가 하루 ~1,500건이라 기본 1400으로 여유. 남은 논문은 다음 실행 때 채워짐.
 MAX_SUMMARIES = int(os.environ.get("MAX_SUMMARIES", "1400"))
+# 🔧 자동 요약 켜기/끄기 마스터 스위치. 기본 0=꺼짐(요약 안 함, 훨씬 빠름).
+#    ★ 최종 단계에서 켜려면: 이 줄의 기본값 "0"→"1" 로 바꾸거나, 워크플로우 env 로 ENABLE_SUMMARY=1 지정.
+ENABLE_SUMMARY = os.environ.get("ENABLE_SUMMARY", "0") != "0"
 
 # 🔧 한 번에 받아오는 배치 크기 (URL/응답 크기 안전값)
 BATCH = 200
@@ -474,7 +477,7 @@ def _collect_one(query, only_cat, cache, collected, summ_state):
 
             summary_ko = cache.get(pid)
             if summary_ko is None:
-                can_summarize = ((GEMINI_API_KEY or ANTHROPIC_API_KEY) and abstract
+                can_summarize = (ENABLE_SUMMARY and (GEMINI_API_KEY or ANTHROPIC_API_KEY) and abstract
                                  and (MAX_SUMMARIES == 0 or summ_state["n"] < MAX_SUMMARIES))
                 if can_summarize:
                     summary_ko = summarize_ko(title, abstract)
@@ -524,6 +527,8 @@ def get_papers():
         except Exception as e:
             print(f"  [{label}] 검색 오류: {e}")
     # 이번 실행에서 실제로 API를 호출해 '새로' 요약한 건수 (기존 요약은 재사용, 호출 안 함)
+    if not ENABLE_SUMMARY:
+        print("  자동 요약: 꺼짐(ENABLE_SUMMARY=0) — 요약 없이 수집만 (나중에 1로 켜면 활성화)")
     print(f"  요약 API 신규 호출: {summ_state['n']}건 (기존 요약은 재사용, 재호출 없음)")
     return list(collected.values())
 
