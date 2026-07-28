@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28 08:43 UTC",
-  "total": 1572,
+  "updated": "2026-07-28 11:48 UTC",
+  "total": 1583,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -472,6 +472,34 @@
       "summary_ko": ""
     },
     {
+      "id": "42511086",
+      "title": "Integrated Biomarker Assessment for Prognosis in Canine Mammary Carcinomas: Complementary Roles of Serum CA 15-3 and Immunohistochemistry Ki-67, and COX-2.",
+      "authors": "Pinheiro BQ, Albuquerque MB, Cavalcante FEP, Nascimento IRBD, Souza FR, Faustino AMR, Silva LDMD",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 16",
+      "sortdate": "2026-07-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511086/",
+      "abstract": "CMTs are biologically heterogeneous neoplasms for which reliable prognostic biomarkers remain limited. This study investigated the clinical significance of serum cancer antigen 15-3 (CA 15-3) and the immunohistochemical expression of Ki-67 and cyclooxygenase-2 (COX-2) in CMTs. Fifty-four female dogs with histologically confirmed CMTs and twelve healthy controls were prospectively evaluated. Serum CA 15-3 concentrations were measured before surgery and at 21 and 90 days post-mastectomy, while Ki-67 and COX-2 expression were assessed in tumor tissues. CA 15-3 was undetectable in controls and significantly higher in malignant than benign neoplasms (p &lt; 0.05), with moderate correlations with clinical stage (s = 0.59), histological grade (s = 0.64), and the number of nodules (s = 0.42). Levels remained elevated in advanced stages despite surgery. ROC analysis identified a CA 15-3 cutoff of 3.01 IU/mL (AUC = 0.92) for discriminating malignant from benign tumors. Ki-67 correlated with histological grade (&#x3c1; = 0.41) but showed limited prognostic accuracy (AUC = 0.63). COX-2 expression lacked significant associations and showed poor discriminatory power (AUC = 0.44). Survival analyses did not identify significant differences among groups. Principal component analysis demonstrated clustering of aggressive CMTs according to biomarker profile. These findings suggest that serum CA 15-3 may represent a useful adjunct prognostic biomarker in canine mammary oncology, while the combination of serum and tissue biomarkers may improve prognostic stratification and may guide therapeutic decision-making in veterinary oncology. These findings support the growing role of biomarker panels in the clinical management of CMTs.",
+      "affiliations": [
+        "Laboratory of Carnivore Reproduction, Faculty of Veterinary Medicine, State University of Cear&#xe1; (UECE), Fortaleza 60714-903, CE, Brazil.",
+        "Residency Program in Small Animal Internal Medicine, Federal Rural University of the Semi-Arid Region (UFERSA), Mossor&#xf3; 59625-900, RN, Brazil.",
+        "Residency Program in Veterinary Clinical Pathology, S&#xe3;o Paulo State University (UNESP), Botucatu 18618-682, SP, Brazil.",
+        "Department of Pathology, Institute of Biomedical Sciences, Federal University of Alfenas (UNIFAL), Alfenas 37130-001, MG, Brazil.",
+        "Department of Pathology and Molecular Immunology, Institute of Biomedical Sciences Abel Salazar (ICBAS), University of Porto, 4050-313 Porto, Portugal."
+      ],
+      "keywords": [
+        "disease progression",
+        "immunohistochemistry",
+        "longitudinal monitoring",
+        "prognostic biomarker",
+        "risk stratification",
+        "serum biomarker"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42456760",
       "title": "Clinical findings and outcomes in canine ischemic neuromyopathy: neurologic status is associated with survival, and recovery is possible.",
       "authors": "Atkins C, Maeso Ordás C, Phillips K, Krekis A, Freeman P, Gonçalves R, Faller K",
@@ -496,6 +524,63 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511080",
+      "title": "Epistaxis and Destructive Computed Tomographic Features in Canine Nasal Transitional Carcinoma: Frequent Cribriform Plate Destruction but Uncommon CT-Detected Brain Parenchymal Involvement.",
+      "authors": "Ngiam LK, Chung CS, Chen KS, Chiang C, Chiu HC, Lin LS",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 15",
+      "sortdate": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511080/",
+      "abstract": "Nasal transitional carcinoma (TC) is one of the most common epithelial nasal tumors in dogs, but systematic descriptions of its clinical and computed tomographic (CT) features are limited. This multicenter retrospective study characterized the clinical and CT features of histopathologically confirmed nasal TC in 16 dogs examined at four animal hospitals between July 2014 and January 2024. Signalment, clinical signs, CT findings, and follow-up information were summarized descriptively. Epistaxis was the most common clinical sign (12/16, 75%). All tumors involved the caudal nasal cavity, and extension to adjacent structures or most commonly affected the maxillary recess (14/16, 88%), orbit (11/16, 69%), and nasal choanae (10/16, 63%). Most tumors exhibited destructive growth (15/16, 94%) with frequent cribriform plate lysis (12/16, 75%). Cranial vault invasion was identified in 12 dogs (75%), whereas CT-detected brain parenchymal involvement was present in only 2 dogs (13%). Intralesional non-enhancing fluid-attenuating regions consistent with necrosis or cystic change and peritumoral fluid accumulation were observed in 12 (75%) and 10 dogs (63%), respectively, and intralesional calcification was absent in all dogs. These results provide a frequency-based CT reference pattern for canine nasal TC; however, the findings are not specific for this tumor type, and histopathological examination remains necessary for definitive diagnosis.",
+      "affiliations": [
+        "Veterinary Medical Teaching Hospital, National Pingtung University of Science and Technology, Pingtung 900, Taiwan.",
+        "Laboratory of Veterinary Diagnostic Imaging, Department of Veterinary Medicine, College of Veterinary Medicine, National Pingtung University of Science and Technology, Pingtung 912, Taiwan.",
+        "Laboratory of Veterinary Surgery, Department of Veterinary Medicine, College of Veterinary Medicine, National Pingtung University of Science and Technology, Pingtung 912, Taiwan.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Chung Hsing University, Taichung City 402, Taiwan.",
+        "Veterinary Medical Teaching Hospital, College of Veterinary Medicine, National Chung Hsing University, Taichung City 403, Taiwan.",
+        "UniCore Animal Hospital, Taipei City 114, Taiwan.",
+        "Tzuoo Ann Animal Hospital, New Taipei City 235, Taiwan."
+      ],
+      "keywords": [
+        "canine nasal tumor",
+        "computed tomography",
+        "cribriform plate lysis",
+        "epistaxis",
+        "transitional carcinoma",
+        "veterinary diagnostic imaging"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511074",
+      "title": "Added Value of Contrast-Enhanced Ultrasound for Cytological Sample Collection of Hepatic and Pulmonary Masses in Dogs.",
+      "authors": "Quinci M, Linta N, Pey P, Baron Toaldo M, Renzi A, Dondi F, Diana A",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 15",
+      "sortdate": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511074/",
+      "abstract": "Ultrasound (US)-guided cytological sample collection (CSC) is widely used for the evaluation of hepatic and pulmonary masses in dogs; however, the presence of intralesional necrosis may reduce diagnostic yield. Contrast-enhanced ultrasonography (CEUS) allows improved assessment of lesion microvascularization and may help identify viable tissue prior to sampling. The aim of this study is to compare the diagnostic yield of CEUS-aided CSC with conventional B-mode US-guided CSC in dogs with hepatic and pulmonary masses. This prospective controlled study with matched controls included 54 client-owned dogs. Twenty-seven dogs underwent CEUS-aided CSC, while 27 matched control dogs underwent conventional B-mode US-guided CSC. Cytological samples were evaluated for diagnostic adequacy, and logistic regression analysis was used to compare groups. No significant difference was found in the probability of obtaining diagnostically adequate samples between techniques. However, CEUS identified non-enhancing areas consistent with presumed necrosis more frequently and with greater extent compared with B-mode US (p &lt; 0.05). Although CEUS did not significantly increase overall diagnostic adequacy, it improved identification and delineation of necrotic areas, providing procedurally relevant information for more targeted sampling.",
+      "affiliations": [
+        "Department of Diagnostic Imaging, AniCura Ospedale Veterinario I Portoni Rossi, 40069 Zola Predosa, BO, Italy.",
+        "Antech Diagnostics, Mars Petcare Science &amp; Diagnostics, Loveland, CO 80538, USA.",
+        "Department of Veterinary Clinical Science, University of Bologna, 40064 Ozzano dell'Emilia, BO, Italy.",
+        "IMPCOM-MEDICAL S.r.l., 40121 Bologna, BO, Italy.",
+        "Division of Cardiology, Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Z&#xfc;rich, CH-8057 Z&#xfc;rich, Switzerland.",
+        "Vedis Laboratory, 4150-367 Porto, Portugal."
+      ],
+      "keywords": [
+        "contrast-enhanced ultrasound",
+        "cytological sample collection",
+        "neoplasia",
+        "veterinary imaging"
+      ],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -532,6 +617,55 @@
         "Hospital for Small Animals, The Royal (Dick) School of Veterinary Studies and The Roslin Institute, University of Edinburgh, Edinburgh, UK."
       ],
       "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511063",
+      "title": "Owner Observed Sleep Disturbances in Cavalier King Charles Spaniels with and Without Clinical Signs Compatible with a Chiari-like Malformation.",
+      "authors": "Valentino AJ, Olby NJ",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 14",
+      "sortdate": "2026-07-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511063/",
+      "abstract": "Chiari-like malformation (CM) and syringomyelia (SM) are prevalent in Cavalier King Charles Spaniels (CKCS). We hypothesized that CKCS with clinical signs compatible with CM+/-SM exhibit sleep disturbances. Thirty-seven CKCS with and without clinical signs compatible with CM+/-SM were included. No magnetic resonance imaging was required for inclusion. A questionnaire-based study was conducted using two validated instruments: CHASE to assess CM+/-SM severity and SNoRE 3.0 to evaluate sleep disturbances. Dogs with CHASE scores &#x2265;7 were classified as having clinical signs. Nineteen dogs with clinical signs (median: 5 years, range: 3-10 years) and 18 without clinical signs (mean: 4.1 years, SD: 2.6) were included, with median CHASE scores of 13 (range: 7-18) and 1 (range: 0-6), respectively. Dogs with clinical signs had higher median SNoRE scores (median: 10, range: 6-30) than dogs without clinical signs (median: 7, range: 6-15). Sleep quality (padj = 0.008) and sleep interruptions due to dreaming (padj = 0.003) were significantly different between groups, with clinically affected dogs showing higher scores and greater variability. CKCS with clinical signs compatible with CM+/-SM show evidence of sleep disturbances, warranting confirmation with polysomnography and consideration in therapeutic management.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC 27607, USA.",
+        "Comparative Medicine Institute, North Carolina State University, Raleigh, NC 27606, USA."
+      ],
+      "keywords": [
+        "sleep disruption",
+        "sleep interruptions",
+        "sleep quality",
+        "syringomyelia"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511062",
+      "title": "Stress in Free-Roaming and Shelter-Housed Dogs: A Review of Neurobiological, Physiological and Behavioral Mechanisms Relevant to Welfare Assessment.",
+      "authors": "Rotaru G, Hrițcu TD, Mălăncuș RN, Hrițcu LD, Soponaru C, Nechifor F, Boghian V, Cherșunaru AA, Munteanu A, Spataru MC",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 14",
+      "sortdate": "2026-07-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511062/",
+      "abstract": "Stress is a major influencing behavior, health, and welfare in free-roaming dogs, particularly in environments characterized by unpredictability, social instability, and frequent human interactions. Although research on canine stress responses has expanded considerably, current knowledge remains fragmented across the neurobiological, physiological, and behavioral domains, limiting the development of comprehensive welfare assessment strategies. Importantly, free-roaming and shelter-housed dogs should not be viewed as entirely separate populations, since many shelter dogs originate from free-roaming environments and share similar stress-related experiences. This narrative review provides a comprehensive synthesis of current evidence on stress mechanisms in free-roaming and shelter-housed dogs The literature was explored across major scientific databases, and a total of 69 relevant studies were included. Particular emphasis was placed on the activation and regulation of the hypothalamic-pituitary-adrenal (HPA) axis, associated neuroendocrine alterations, and their behavioral expression. The strengths and limitations of commonly used physiological indicators, including cortisol measured in blood, saliva, feces and hair, were critically examined in relation to their applicability in real-world contexts. Behavioral manifestations of stress, such as fear- and anxiety-related responses, aggression, withdrawal, and stereotypic behaviors, were analyzed as functional outcomes of neurobiological activation and environmental challenges. Environmental stressors typical of shelter conditions as well as the role of human-dog interactions in stress modulation are also discussed. By combining neurobiological, physiological, and behavioral perspectives, this review highlights the importance of multidimensional stress assessment and proposes a conceptual framework linking biological mechanisms with observable behavioral indicators of welfare across the continuum from free-roaming to shelter environments. These findings may support the development of evidence-based welfare assessment and management strategies for free-roaming and shelter-housed dog populations.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, University of Life Sciences \"Ion Ionescu de la Brad\", Mihail Sadoveanu 8 Street, No. 3, 700490 Iasi, Romania.",
+        "Faculty of Psychology and Educational Sciences, Alexandru Ioan Cuza University, 700554 Ia&#x15f;i, Romania."
+      ],
+      "keywords": [
+        "HPA axis",
+        "animal welfare assessment",
+        "behavioral indicators",
+        "canine stress response",
+        "free-roaming dogs",
+        "neuroendocrine stress",
+        "shelter-housed dogs cortisol biomarkers"
+      ],
       "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -608,6 +742,54 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42516306",
+      "title": "Case Report: Multimodal imaging, custom 3D-printed reconstruction and surgical stabilization of severe congenital occipitoatlantoaxial malformation in an adult dog.",
+      "authors": "Pinal KM, DiRubio ML, Zidan N, Loeber S, Cameron S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 13",
+      "sortdate": "2026-07-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42516306/",
+      "abstract": "Occipitoatlantoaxial malformations can vary in severity and clinical signs. A 1.8-year-old male intact Goldendoodle was presented with an acute onset of tetraparesis and severe neck pain after a fall. Neurologic examination revealed non-ambulatory tetraparesis with notable pain upon palpation of the cervical spine. Advanced imaging showed right-sided spinal cord compression at the level of C1 with an abnormal angle of the cranial cervical spine, severe congenital malformations including right atlantooccipital fusion, C1 and C2 hemivertebrae with variable hypo- and aplasia, and atlantalization of the axis (C2). An occipitoatlantoaxial stabilization was performed by a combination of intra-operative imaging with a 3-dimensional C-arm and 3-dimensional printed reconstruction of the occiput to C4 of the patient. The patient improved neurologically following surgery. This is the first documented case of an occipitoatlantoaxial malformation that was surgically stabilized using intraoperative 3-D imaging and custom 3-dimensional printed approach.",
+      "affiliations": [
+        "School of Veterinary Medicine, University of Wisconsin-Madison, Madison, WI, United States."
+      ],
+      "keywords": [
+        "3D anatomical model",
+        "canine",
+        "cervical malformation",
+        "fixation",
+        "myelopathy"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511041",
+      "title": "Treatment of Simple Fractures of Distal Aspect of Radius and Ulna in Miniature- and Toy-Breed Dogs with Locking Plate in a Non-Rigid Configuration: An Observational Study of 10 Cases.",
+      "authors": "Blanco A, San Román-Llorens F, San Román F, González C, Climent A, Fuertes JJ, Whyte A",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 12",
+      "sortdate": "2026-07-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511041/",
+      "abstract": "Distal radial and ulnar fractures in miniature- and toy-breed dogs are associated with high rates of delayed union, non-union, and refracture. This retrospective observational study evaluated the outcomes of simple distal radial and ulnar fractures treated by open reduction and internal fixation using a locking plate in a non-rigid configuration. Ten fractures in eight dogs weighing less than 5 kg were included. Cases were selected according to predefined biomechanical construct criteria, including a plate bridge ratio &gt; 0.7, plate span ratio &gt; 10, plate working length &gt; 40% of the plate length, and screw density &lt; 0.6. The median radiographic follow-up was 224 days (range, 46-408 days). Radiographic bone healing was achieved in all cases, with a mean time to union of 53 days (range, 28-113 days), and healing occurred faster in skeletally immature dogs. Indirect bone healing with callus formation was observed in 7 of 10 fractures. Minor postoperative complications occurred in three cases and resolved with local treatment. No implant failures or refractures associated with previous screw holes were observed. A reduction in ulnar thickness was identified in evaluable cases, although this finding remained stable during follow-up and did not appear clinically relevant. These findings suggest that locking plate fixation in a non-rigid configuration provides reliable bone healing with a low complication rate in simple distal radial and ulnar fractures of miniature- and toy-breed dogs.",
+      "affiliations": [
+        "Servicio de Traumatolog&#xed;a, Ortopedia, y Cirug&#xed;a de la Columna, Hospital de Urgencias Veterinarias de la Regi&#xf3;n de Murcia, 30110 Murcia, Spain.",
+        "Department of Animal Pathology, Faculty of Veterinary Science, University of Zaragoza, 50013 Zaragoza, Spain.",
+        "Hospital Centro Cl&#xed;nico Veterinario de Zaragoza, 50006 Zaragoza, Spain.",
+        "Department of Animal Medicine and Surgery, Faculty of Veterinary Science, Complutense University of Madrid, 28040 Madrid, Spain."
+      ],
+      "keywords": [
+        "callus formation",
+        "distal radial fracture",
+        "locking plate fixation",
+        "veterinary orthopedics"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -780,6 +962,79 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511026",
+      "title": "Optimization of a Canine-Specific Ceramide Complex and Evaluation of Its Effects on In Vitro and In Vivo Canine Skin.",
+      "authors": "Cho HY, Kim BE, Park E, Kim M, Nho Y, Kim H, Kang S, Park C, Lee KE",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 10",
+      "sortdate": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511026/",
+      "abstract": "Alterations in the ceramide (CER) profile have been associated with atopic dermatitis in dogs; however, the specific effects of CER subclasses on canine keratinocytes remain unclear. This study aimed to optimize a CER complex and evaluate its effects on cytokine expression, CER synthesis, and skin barrier formation using canine epidermal keratinocyte progenitor (CPEK) cells and a reconstructed canine epidermis (RCE) model. Among various CER combinations tested, only the mixture of CER [NS] and [EOP] significantly reduced proinflammatory cytokine mRNA levels in Staphylococcus pseudintermedius-stimulated CPEK cells. Further optimization revealed that a 4:1 ratio of CER [NS] to [EOP] (cCER complex) markedly decreased CCL17 and CCL22 mRNA expression while upregulating keratin 10, ceramide synthase 3 (CERS3), and ceramide synthase 4, as well as enzymes involved in both de novo and salvage CER biosynthesis pathways. In the RCE model, cCER administration improved stratum corneum organization and increased the expression of loricrin, CERS3, and CER. In vivo application of cCER in dogs accelerated skin barrier repair and improved hair condition. These findings suggest that a CER [NS]/[EOP] mixture represents a promising therapeutic option with anti-inflammatory and skin barrier-enhancing effects for canine atopic dermatitis.",
+      "affiliations": [
+        "R&amp;I Center, COSMAX BTI, Seongnam 13486, Republic of Korea.",
+        "R&amp;I Center, COSMAX, Seongnam 13486, Republic of Korea."
+      ],
+      "keywords": [
+        "atopic dermatitis",
+        "ceramide",
+        "dog skin",
+        "skin barrier"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511023",
+      "title": "Establishing Operational Descriptive Definitions for Neurologic Abnormalities Identified During Gaiting in Dogs.",
+      "authors": "Bagley RS",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 10",
+      "sortdate": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511023/",
+      "abstract": "Accurate identification of gait abnormalities is fundamental to clinical evaluation in both veterinary medicine and translational research. Commonly used descriptors such as ataxia, paresis, hypermetria, and lameness are frequently applied as single-word summaries of complex movement disorders, yet these terms lack precise, universally accepted operational definitions. Dictionary definitions are often generic or ambiguous, leading to variability in interpretation among clinicians, students, and researchers. This review evaluates commonly used neurologic and gait-related terminology in dogs, examining historical origins, denotation and connotation, as well as the limitations of current usage in a clinical setting. For each term, clinically observable features are delineated to establish functional, operational definitions grounded in movement analysis and neurophysiologic processes. The goal of this reappraisal is to enhance clarity, consistency, and diagnostic accuracy in veterinary neurology by establishing standardized descriptors for gait abnormalities in clinical practice, teaching, and research.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Iowa State University, Ames, IA 50011, USA."
+      ],
+      "keywords": [
+        "dogs",
+        "gait abnormalities",
+        "medical terminology",
+        "neurologic"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42511022",
+      "title": "Modular Revision of a Failed Patient-Specific 3D-Printed Scapulo-Humeral Endoprosthesis in a Dog with Proximal Humeral Osteosarcoma: First Clinical Communication.",
+      "authors": "Yuryevich US, Principato G, Tabbì M, Currenti M, Messina G, Burkhan E, Macrì F, Panichi E",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 10",
+      "sortdate": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511022/",
+      "abstract": "Canine appendicular osteosarcoma (OSA) is typically managed by limb amputation. However, this approach may be suboptimal in dogs with concurrent osteoarthrosis (OA). Limb-sparing surgery using three-dimensional (3D)-printed patient-specific implants (PSIs) may be an alternative, although evidence on implant durability and revision strategies remains limited, in particular for proximal humeral reconstructions. This report describes a 9-year-old, overweight dog referred for a 4-week history of persistent left forelimb lameness. Computed tomography (CT) confirmed a lesion affecting the proximal humerus and severe bilateral hip OA. Fine-needle aspiration cytology supported a presumptive diagnosis of OSA. Limb-sparing surgery with 3D-printed PSIs was chosen instead of amputation due to overweight status and OA. Patient-specific guides (PSGs) and endoprosthesis (PSE) were designed based on preoperative CT. Histopathology of the resected tumour confirmed OSA with complete surgical margins. Postoperative functional recovery was favorable, with progressive return to weight-bearing and mild residual lameness up to 8 months. At 9 months, implant failure occurred due to fracture at the distal humeral fixation region. Revision surgery was performed using a novel 3D-printed modular PSE integrating the retained proximal component, allowing restoration of limb function for an additional 6 months. The dog was euthanized at 15 months due to pulmonary metastases. Post-mortem macroscopic and histological visual semi-quantitative assessment of peri-implant tissue suggested advanced osseointegration, with no local recurrence or infection. This report suggests that PSI-based limb-sparing reconstruction may be feasible in proximal humeral OSA and highlights mechanical fatigue as a key limitation. The modular revision approach suggests the potential of additive manufacturing for salvage strategies after implant failure.",
+      "affiliations": [
+        "LenOblVet, Multidisciplinary Veterinary Centre, Kolpino, 196653 St. Petersburg, Russia.",
+        "Department of Veterinary Sciences, University of Messina, 98168 Messina, Italy.",
+        "Centro Traumatologico Ortopedico Veterinario (CTOVET), 16011 Arenzano, Italy.",
+        "Bonabyte, Begovoy Proezd 7, 119421 Moscow, Russia."
+      ],
+      "keywords": [
+        "3D-printing",
+        "limb-sparing",
+        "modular implant",
+        "osteosarcoma",
+        "patient-specific endoprosthesis",
+        "patient-specific guides",
+        "revision surgery"
+      ],
+      "mesh": [],
+      "category": "jointreplacement",
       "summary_ko": ""
     },
     {
@@ -1029,6 +1284,30 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42510991",
+      "title": "Long-Term Radiographic Stability of Tibial Plateau Angle Following TPLO in Small-Breed Dogs: A Retrospective Study.",
+      "authors": "Jeong D, Ahn J, Kim HY",
+      "journal": "Animals (Basel)",
+      "date": "2026 Jul 08",
+      "sortdate": "2026-07-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42510991/",
+      "abstract": "Cranial cruciate ligament disease (CCLD) is among the most common orthopedic conditions in dogs, and tibial plateau leveling osteotomy (TPLO) is the current standard of care; however, long-term radiographic data on tibial plateau angle (TPA) stability specific to small-breed dogs (&lt;10 kg) remain limited. This retrospective study evaluated radiographic correction and long-term stability of TPA following TPLO in small-breed dogs and assessed whether observed TPA changes fell within the range of measurement error. Thirty stifles from 25 small-breed dogs (body weight 2.56-9.46 kg) that underwent TPLO between 2022 and 2025 were reviewed, with a mean follow-up of 12.6 &#xb1; 6.8 months. TPA was measured preoperatively, immediately postoperatively, at 1-2 months, and at &#x2265;6 months using digital orthopedic planning software. Preoperative TPA averaged 31.23 &#xb1; 4.60&#xb0; and decreased to 4.68 &#xb1; 1.84&#xb0; immediately after surgery; at &#x2265;6 months, mean TPA was 5.19 &#xb1; 1.83&#xb0;. The mean change (&#x394;TPA) was 0.52 &#xb1; 0.64&#xb0; (95% CI: 0.28-0.75&#xb0;). Although statistically significant (p &lt; 0.001), this fell below the 1.5&#xb0; intraobserver measurement error previously reported. Body weight showed no correlation with &#x394;TPA (r = -0.059, p = 0.756). These findings were robust in a sensitivity analysis restricted to one stifle per dog (n = 25; mean &#x394;TPA 0.56 &#xb1; 0.67&#xb0;) and in the subgroup without concurrent medial patellar luxation (n = 19; mean &#x394;TPA 0.40 &#xb1; 0.49&#xb0;), both remaining within the reported measurement error. TPLO achieved effective and radiographically stable TPA correction in small-breed dogs.",
+      "affiliations": [
+        "Department of Veterinary Surgery, Konkuk University, Seoul 05029, Republic of Korea.",
+        "FM Animal Hospital, Gimpo-si 10080, Republic of Korea."
+      ],
+      "keywords": [
+        "cranial cruciate ligament disease",
+        "long-term radiographic outcome",
+        "small-breed dogs",
+        "tibial plateau angle",
+        "tibial plateau leveling osteotomy"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
