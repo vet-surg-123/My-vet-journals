@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28 07:48 UTC",
-  "total": 1523,
+  "updated": "2026-07-28 08:18 UTC",
+  "total": 1572,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -520,6 +520,23 @@
       "summary_ko": ""
     },
     {
+      "id": "42445997",
+      "title": "Inter-rater agreement of the canine modified Ashworth scale for assessment of limb tone in dogs presenting with acute myelopathic signs.",
+      "authors": "Aguilera-Padros A, De Frias JM, Madden M, Oliveira A, Atkins C, Orgonikova I, Nagendran A",
+      "journal": "Vet Rec",
+      "date": "2026 Jul 14",
+      "sortdate": "2026-07-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42445997/",
+      "abstract": "BACKGROUND: This study aimed to assess the inter-rater reliability of a canine adaptation of the modified Ashworth scale (CaMAS) for the assessment of muscle tone in dogs. METHODS: Dogs presented to the neurology service of a single referral centre between November 2023 and October 2024 underwent a muscle tone evaluation by two independent raters using the CaMAS. Inter-rater agreement was assessed using Kendall's tau coefficient of concordance (&#x3c4;). RESULTS: One hundred dogs were included. The overall agreement was good (&#x3c4;&#xa0;&gt;&#xa0;0.64), with &#x3c4; values exceeding 0.75 in the pelvic limbs and 0.64 in the thoracic limbs. Agreement in dogs with cervical lesions was lower (&#x3c4; = 0.42-0.62) than that with thoracolumbar lesions (&#x3c4; = 0.69-0.81). Medium and large breeds demonstrated higher agreement (&#x3c4; = 0.70-0.78 and 0.51-0.86, respectively) than small breeds (&#x3c4; = 0.44-0.81). Inter-rater agreement for the first 50 cases ranged from &#x3c4; = 0.41 to 0.79, and for the last 50 cases, it ranged from &#x3c4; = 0.73 to 0.93. LIMITATIONS: Intra-rater agreement was not assessed. Being an adaptation of a human scale might limit the scale's application in dogs due to anatomical and biomechanical differences. Positioning of the dog during examination and behaviour may also influence assessment. CONCLUSIONS: Overall, the inter-rater agreement was good, supporting the scale's potential as an additional tool for muscle tone assessment in dogs. Familiarity with the scale could influence inter-rater reliability.",
+      "affiliations": [
+        "Hospital for Small Animals, The Royal (Dick) School of Veterinary Studies and The Roslin Institute, University of Edinburgh, Edinburgh, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42443886",
       "title": "Serum insulin-like growth factor-1 concentrations are not reduced in Pomeranian dogs with Alopecia X: a case-control study.",
       "authors": "Halajian Z, Khoshnegah J, Parham A",
@@ -569,6 +586,28 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42444988",
+      "title": "Cyclosporine as a Novel Therapeutic Option for Eosinophilic Cystitis in a Paraplegic Dog.",
+      "authors": "Soares LV, Andrade YCC, de Oliveira Cunha MER, Ronchi AAM, Milken VMF, Borin-Crivellenti S, Crivellenti LZ",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Jul 13",
+      "sortdate": "2026-07-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42444988/",
+      "abstract": "Eosinophilic cystitis is characterized by eosinophilic infiltration and proliferation within the layers of the bladder wall. Its etiology remains unclear, and there is no established consensus regarding treatment in either human or veterinary medicine. A 4-year-old female dog developed paraplegia after a car accident, with a spinal cord injury in the lumbar region diagnosed by radiography. Five months after the trauma, the animal began to present with hematuria and recurrent episodes of urinary tract infection, with an unsatisfactory response to conventional therapies with bladder emptying management and antibiotics for 1 year. Bladder wall biopsy revealed findings consistent with eosinophilic cystitis. Due to the persistence of clinical signs, cyclosporine treatment was initiated, alongside previous surgery and antibiotics, resulting in significant clinical improvement, normalization of bladder ultrasonographic findings, and no observed adverse effects during the treatment period. The medication was continued for 6 months, followed by a gradual tapering. Six months after discontinuation, the animal remained asymptomatic. This case highlights the potential use of cyclosporine in the treatment of eosinophilic cystitis and supports the hypothesis that spinal cord injury may represent a possible risk factor for EC in dogs. It also emphasizes the importance of including EC in the differential diagnosis of bladder wall thickening. This report has some limitations, including the evaluation of a single patient, the use of concurrent therapies, and the absence of serum cyclosporine level monitoring.",
+      "affiliations": [
+        "Graduate Program in Veterinary Science (PPGCV), School of Veterinary Medicine and Animal Science, Federal University of Uberl&#xe2;ndia (UFU), Uberl&#xe2;ndia, Minas Gerais, Brazil, ufu.br."
+      ],
+      "keywords": [
+        "chronic cystitis",
+        "cyclosporine",
+        "eosinophilic inflammation",
+        "spinal cord injury"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -720,6 +759,30 @@
       "summary_ko": ""
     },
     {
+      "id": "42434020",
+      "title": "Invasive Squamous Cell Carcinoma of the Larynx in a Dog.",
+      "authors": "Frigerio ED, Bezerra SDMS, Toledo LH, Sengue BRF, Silvério MER, Senhorello ILS, de Andrade AL, Rozza DB, Machado GF",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Jul 10",
+      "sortdate": "2026-07-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434020/",
+      "abstract": "Squamous cell carcinoma (SCC) is a malignant epithelial neoplasm commonly affecting the skin and oral cavity of dogs, whereas laryngeal involvement is considered rare. Neoplasms arising in the larynx may cause severe upper airway obstruction and present diagnostic and therapeutic challenges due to the anatomical and functional constraints of this region. An 11-year-old neutered male mixed-breed dog was evaluated for a one-month history of progressive upper airway obstruction characterized by dyspnea, tachypnea, and dysphagia. Clinical examination revealed a solitary mass protruding into the laryngeal lumen in the arytenoid region. Surgical excision was performed, and intraoperative frozen section evaluation indicated compromised surgical margins. Definitive histopathology confirmed an invasive SCC. Adjunct electrochemotherapy was applied following identification of compromised surgical margins, and the dog showed favorable short-term clinical recovery following surgery. No evidence of recurrence or metastasis was observed during a three-month follow-up period. This case highlights the clinical relevance of laryngeal SCC in dogs and emphasizes the importance of thorough clinical examination and early detection, as well as the integration of clinical evaluation, histopathology, and intraoperative margin assessment in the management of upper airway neoplasms. The combined use of surgical excision, frozen section analysis, and adjunct electrochemotherapy may be considered a potential therapeutic approach in anatomically constrained regions where complete tumor removal is limited.",
+      "affiliations": [
+        "Department of Veterinary Clinics, Surgery and Reproduction, S&#xe3;o Paulo State University (UNESP), School of Veterinary Medicine, Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil, unesp.br.",
+        "Hospital Veterin&#xe1;rio Luiz Quintiliano de Oliveira, S&#xe3;o Paulo State University (UNESP), School of Veterinary Medicine, Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil, unesp.br."
+      ],
+      "keywords": [
+        "dog",
+        "electrochemotherapy",
+        "frozen section",
+        "laryngeal neoplasm",
+        "surgical margins"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42425609",
       "title": "Aggressive sarcoma in a young dog initially suspected to be trauma-associated.",
       "authors": "Dahl Z, Robinson W, Anselmi C, Toni C",
@@ -811,6 +874,25 @@
         "regenerative medicine",
         "wound healing"
       ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42428697",
+      "title": "A Case Report of Proximal Radioulnar Osteosarcoma in a Great Dane Dog.",
+      "authors": "Adhikari P, Khanal A, Singh DK, Kunwar B, Aryal A",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Jul 09",
+      "sortdate": "2026-07-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42428697/",
+      "abstract": "Osteosarcoma is the most common primary malignant bone tumor in dogs, characterized by aggressive local invasion and early metastatic potential, most frequently affecting the appendicular skeleton of large and giant breeds. This report describes a rare case of proximal radioulnar osteosarcoma in a 3.5-year-old intact male Great Dane that presented with progressive left forelimb lameness, swelling distal to the elbow, and weight loss. Radiographic examination revealed an aggressive mixed lytic-proliferative lesion involving the proximal radius and ulna, with distinct margins and no radiographic evidence of pulmonary metastasis. A definitive diagnosis of proximal radioulnar osteosarcoma was established by histopathological examination following forelimb amputation with scapulectomy. The dog underwent surgery and showed good postoperative recovery, with no evidence of recurrence during a 6-month follow-up period. Adjuvant chemotherapy was recommended to prevent metastasis, but the owner's financial constraints did not allow for this treatment. This case highlights the importance of early recognition, comprehensive diagnostic evaluation, and timely surgical intervention in managing canine osteosarcoma, particularly at uncommon anatomical sites.",
+      "affiliations": [
+        "Central Referral Veterinary Hospital, Kathmandu, Nepal.",
+        "Agriculture and Forestry University, Rampur, Chitwan, Nepal, afu.edu.np.",
+        "Tribhuvan University, Paklihawa Campus, Bhairahawa, Nepal, tribhuvan-university.edu.np."
+      ],
+      "keywords": [],
       "mesh": [],
       "category": "surgery",
       "summary_ko": ""
@@ -1255,6 +1337,41 @@
       ],
       "mesh": [],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "41826244",
+      "title": "Intravenous paracetamol does not have significant opioid-sparing effects when used as part of a multimodal analgesic protocol in dogs undergoing elective orthopaedic surgery.",
+      "authors": "Stallard R, Deutsch J, Murrell J",
+      "journal": "Vet Rec",
+      "date": "2026 Jul 04",
+      "sortdate": "2026-07-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41826244/",
+      "abstract": "BACKGROUND: Data evaluating paracetamol combined with NSAIDs in dogs are scarce. Results of clinical studies in dogs investigating intravenous paracetamol vary. METHODS: Dogs were randomised to either receive 10&#xa0;mg/kg paracetamol intravenously after induction of anaesthesia and every 8 hours during hospitalisation (test) or not (control). In both groups, meloxicam or robenacoxib was administered at the licensed dose, interval and route. Intraoperative nociception or postoperative pain, defined by a Glasgow composite measure pain scale-short form score greater than 4 of 20, was treated with 0.1&#xa0;mg/kg methadone intravenously as needed. RESULTS: Data from 14 dogs that received paracetamol and 13 dogs that did not were analysed. There were no statistically significant differences in clinical or demographic data between the two groups. Median (range) rescue methadone requirements were 0.0 (0.0&#x2012;0.2) mg/kg and 0.1 (0.0&#x2012;0.3) mg/kg for the test and control groups, respectively (p = 0.17), with no difference intraoperatively (p = 0.72) or postoperatively (p = 0.24). Four test and seven control dogs required rescue analgesia perioperatively (p = 0.17). LIMITATIONS: Low analgesia requirements in both groups may have resulted in a type two statistical error. CONCLUSION: When used as part of a multimodal analgesic protocol, paracetamol did not provide significant opioid-sparing effects in the perioperative period.",
+      "affiliations": [
+        "Highcroft Veterinary Referrals, Bristol, UK.",
+        "Bristol Vet Specialists, Severn Beach, UK.",
+        "Small Animal Hospital, Langford Veterinary Services, Langford, UK."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Acetaminophen",
+        "Dogs",
+        "Female",
+        "Postoperative Pain",
+        "Analgesics, Opioid",
+        "Analgesics, Non-Narcotic",
+        "Male",
+        "Drug Therapy, Combination",
+        "Meloxicam",
+        "Orthopedic Procedures",
+        "Elective Surgical Procedures",
+        "Administration, Intravenous",
+        "Pain Measurement",
+        "Injections, Intravenous"
+      ],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -5800,6 +5917,23 @@
       "summary_ko": ""
     },
     {
+      "id": "42311473",
+      "title": "Marked Cauda Equina Compression Secondary to Intervertebral Disc Protrusion Resulting in Severe Chronic Neuritis and Neural Fibrosis in a Dog.",
+      "authors": "Epstein E, Mooney A",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Jun 15",
+      "sortdate": "2026-06-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42311473/",
+      "abstract": "A 7-year-old male intact German shorthaired pointer was referred to a board-certified veterinary neurologist for further evaluation of a chronic (&gt;&#x2009;6 months) history of gradually progressive paraparesis, limp tail, and spinal pain despite medical management of these clinical signs and presumptive neurologic disease with the family veterinarian. Radiographs revealed evidence of intervertebral disc space collapse, endplate sclerosis, and bridging spondylosis at L7-S1, and the patient was presumptively diagnosed with degenerative lumbosacral stenosis (DLSS). Initial medical management included oral analgesics, oral anti-inflammatories, lifestyle changes, and epidural steroid injections. Ultimately, progression of the patient's clinical signs resulted in referral to a board-certified veterinary neurologist. Magnetic resonance imaging revealed marked bilateral L7 nerve root enlargement with L7-S1 foraminal widening and concurrent L7-S1 intervertebral disc extrusion, causing moderate to severe left-sided compression of the cauda equina. Given the marked changes of nerve roots on imaging and foraminal widening, consideration was given to a neoplastic process versus inflammatory neuritis. A lumbosacral dorsal laminectomy, partial discectomy, and left L7 nerve biopsy were performed. Histopathology of the L7 nerve root revealed chronic neural fibrosis with atrophy and mild neuritis, consistent with the chronic, progressive nature of the patient's clinical signs and severe compression of the cauda equina. These dramatic and irreversible changes may have been avoidable or at least minimized with earlier diagnosis and aggressive surgical intervention, highlighting the importance of developing standardized, evidence-based recommendations for management of dogs with DLSS similar to the framework that exists in human intervention for treatment of cauda equina syndrome (CES).",
+      "affiliations": [
+        "Department of Neurology, West Vet Boise Animal Emergency &amp; Specialty Care Center, Garden City, Idaho, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42288880",
       "title": "Xanthogranulomatous pyelonephritis presenting as a mass-like renal lesion mimicking neoplasia in a dog: first documented case and diagnostic considerations.",
       "authors": "Moosavian H, Jamshidi S, Pedram MS, Kumar N, Mahdipour M, Ramezani A, Fazli M",
@@ -9343,6 +9477,24 @@
       "summary_ko": ""
     },
     {
+      "id": "42216781",
+      "title": "Twenty-year lifetime histories of FIV- and FeLV-infected cats in a sanctuary in the UK indicate an effect of retroviral infection on longevity.",
+      "authors": "Castillo-Aliaga C, Dunham S, McCallum-Chanter H, Tarlinton R",
+      "journal": "Vet Rec",
+      "date": "2026 May 30",
+      "sortdate": "2026-05-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42216781/",
+      "abstract": "BACKGROUND: Feline immunodeficiency virus (FIV) and feline leukaemia virus (FeLV) are retroviruses that affect cat longevity and health. This study aimed to assess the impact of retroviral status on life expectancy in a feline sanctuary population, which includes cats with behavioural issues and retroviral infections. METHOD: A retrospective cohort analysis was conducted on 132 cats, including 22 uninfected, 82 FIV+, 24 FeLV+ and four FeLV/FIV+ individuals. Lifetime clinical records were analysed, lifespan analysis estimates were calculated using Kaplan&#x2012;Meier analysis and common clinical conditions were assessed. RESULTS: The median life expectancies were 160.3 months for uninfected cats, 149.1 months for FIV+, 41.5 months for FeLV+ and 74.2 months for FeLV/FIV+. Both FeLV and FIV infections significantly reduced longevity (p&#xa0;&lt;&#xa0;0.001 for FeLV and p = 0.037 for FIV), although this reduction was less marked for FIV. Neoplasia, especially lymphoma (76.9%), was strongly associated with FeLV (p&#xa0;&lt;&#xa0;0.001), and oral disease was significantly linked to FIV (p = 0.004). LIMITATIONS: The study is limited by the low number of animals, particularly in the FeLV/FIV+ and uninfected cohorts. Statistical analysis of these groups should therefore be considered with caution. CONCLUSION: FeLV infection markedly shortens lifespan and increases the risk of lymphoma, whereas FIV-infected cats are less likely to live to extremely old age.",
+      "affiliations": [
+        "School of Veterinary Medicine and Science, University of Nottingham, Sutton Bonington, UK.",
+        "Wellpet Veterinary Practice, Shenley, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42217461",
       "title": "Superficial corneal epithelial inclusion cysts treated by simple lancing in 4 dogs.",
       "authors": "Park J, Jeong D, Seo K, Kang S",
@@ -9649,6 +9801,23 @@
       "summary_ko": ""
     },
     {
+      "id": "42211242",
+      "title": "Evaluation of a Young Dog for Escalating Aggression Toward Both Familiar and Unfamiliar People.",
+      "authors": "Honeckman L",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 May 27",
+      "sortdate": "2026-05-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42211242/",
+      "abstract": "This case report describes the evaluation and successful multimodal treatment of severe, early-onset aggression in a juvenile dog. A 9-month-old spayed female Australian Shepherd presented with escalating aggressive behaviors toward familiar and unfamiliar people, including multiple bite incidents resulting in human injury. Aggression was observed across numerous contexts, including handling, play, resource guarding, visitor interactions, and encounters with people and dogs outside the home. Significant risk factors included early removal from the dam at 6 weeks of age, minimal early socialization, a history of chronic illness during early development, and later-discovered aggressive traits in both parents. Comprehensive medical evaluation, including repeated laboratory testing and neurological assessment, revealed no underlying medical abnormalities. Behavioral diagnoses included generalized anxiety, impulse-control aggression, fear-related aggression, possessive aggression, and socialization deficits. Prior to referral, behavioral issues were minimized by outside advisors, and no psychopharmacologic intervention had been attempted due to the dog's young age. By 9 months, the family was considering rehoming or behavioral euthanasia due to safety concerns and breakdown of the human-animal bond. Treatment consisted of an integrated plan incorporating environmental management, strict safety protocols, positive reinforcement-based behavior modification, and pharmacologic therapy with fluoxetine and gabapentin. Within 6 weeks, the family reported moderate improvement, with marked and sustained improvement following dose adjustments and continued behavior modification. By 14 weeks, aggressive incidents had substantially decreased, and after 1 year of therapy, bite behavior had resolved. Long-term follow-up demonstrated stable improvement, improved tolerance of veterinary handling through cooperative care training, and restoration of household safety and quality of life. This case highlights the importance of early recognition, comprehensive assessment, and timely use of combined behavioral and pharmacologic interventions in juvenile dogs with severe aggression, emphasizing that young age should not preclude appropriate treatment.",
+      "affiliations": [
+        "Veterinary Behavior Solutions, Orlando, Florida, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42278047",
       "title": "Interfascial Plane Blocks for Perioperative Analgesia in Dogs Undergoing Laparoscopic Ovariectomy: A Retrospective Study (2020-2025).",
       "authors": "Paolini A, Serpieri M, Bonaffini G, Tamburro R, Bianchi A, Annunziata G, von Degerfeld MM",
@@ -9802,6 +9971,28 @@
       ],
       "mesh": [],
       "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "42187045",
+      "title": "Short-term outcomes following intra-articular biomaterial injection for pain secondary to stifle osteoarthritis and suspected cranial cruciate ligament injury in dogs.",
+      "authors": "Kleeman EB, Schmitt L, Blaeser L, Reed T, Hillman KF, Stewart SD",
+      "journal": "Vet Rec",
+      "date": "2026 May 26",
+      "sortdate": "2026-05-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42187045/",
+      "abstract": "BACKGROUND: The aim of this study was to evaluate the feasibility of a proprietary collagen-elastin hydrogel microparticulate (CEHM) intra-articular injection into canine stifles with suspected cranial cruciate disease (CCD) and osteoarthritis (OA). METHODS: Forty client-owned dogs over 6 months of age and diagnosed with suspected unilateral CCD or OA, without prior surgical or medical intervention, were enroled. A Simon's two-stage clinical trial design was used, as previously described in human literature. Each stifle was injected with the CEHM device and followed over 84 days. Serial examinations with modified Glasgow composite pain score (mGCPS) and additional subjective clinician- and owner-derived scoring scales were obtained at predefined time points. RESULTS: Twenty-two dogs had a 25% or greater improvement in the primary measured parameter, mGCPS, giving a response rate of 55%. There were also statistically significant improvements in all other subjectively measured parameters. LIMITATIONS: The limitations of the study were the lack of objective lameness measurements, surgical confirmation of CCD, blinding, randomisation and a control population to account for possible placebo effect. CONCLUSIONS: The CEHM device demonstrates feasibility in suspected canine CCD and stifle OA, within the measured subjective parameters of this proof-of-concept study. Additional objective investigations are recommended.",
+      "affiliations": [
+        "Bridger Veterinary Specialists, Bozeman, Montana, USA.",
+        "Wisconsin Veterinary Referral Center Waukesha, Waukesha, Wisconsin, USA.",
+        "Bulger Veterinary Hospital, Lawrence, Massachusetts, USA.",
+        "Wisconsin Veterinary Referral Center Racine/Kenosha, Somers, Wisconsin, USA.",
+        "Veterinary Specialty Hospital San Diego, Sorrento Valley, California, USA.",
+        "Ethos Veterinary Health, San Diego, California, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -10442,6 +10633,66 @@
       "summary_ko": ""
     },
     {
+      "id": "42152786",
+      "title": "Urinary symmetric dimethylarginine: A promising biomarker for acute kidney injury in dogs with pyometra.",
+      "authors": "Braz LADN, Maia SR, Soares LV, Reis NS, Crivellenti LZ, de Nardi AB",
+      "journal": "Vet Rec",
+      "date": "2026 May 19",
+      "sortdate": "2026-05-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42152786/",
+      "abstract": "BACKGROUND: Symmetric dimethylarginine (SDMA) is a biomarker of renal function derived from arginine methylation, unaffected by muscle mass or diet, and increases after only a 25% reduction in renal function, allowing earlier detection of renal dysfunction compared with serum creatinine. Although serum SDMA is well established in veterinary nephrology, urinary SDMA (uSDMA) remains comparatively underexplored, particularly in dogs with acute kidney injury (AKI). This study evaluated uSDMA concentrations and the uSDMA-to-creatinine (uSDMA/Cr) ratio as biomarkers for AKI, using renal histopathology as the reference standard. METHODS: Twenty-seven non-azotemic dogs diagnosed with pyometra were evaluated. uSDMA was measured using ELISA, and renal lesions were histopathologically classified as discrete, moderate or severe. RESULTS: Median uSDMA concentrations were significantly higher in dogs with severe lesions (0.43 &#xb5;g/mL, interquartile range [IQR] 0.40-0.47) compared with those with moderate lesions (0.31 &#xb5;g/mL, IQR 0.24-0.38) and discrete lesions (0.26 &#xb5;g/mL, IQR 0.22-0.30) (p&#xa0;&lt;&#xa0;0.001). The uSDMA/Cr ratio was lower in the discrete group (0.0031, IQR 0.0026-0.0036) than in the moderate group (0.0039, IQR 0.0032-0.0048) and the severe group (0.0069, IQR 0.0058-0.0080) (p = 0.0198). LIMITATIONS: The main limitations include the absence of a healthy control group and lack of serial biomarker measurements, which may restrict the assessment of dynamic changes. CONCLUSIONS: These preliminary findings suggest that uSDMA and uSDMA/Cr ratio may serve as biomarkers for assessing AKI severity in dogs, supporting earlier detection and monitoring.",
+      "affiliations": [
+        "Department of Clinical and Veterinary Surgery, School of Agricultural and Veterinary Sciences, Universidade Estadual Paulista 'J&#xfa;lio de Mesquita Filho', Jaboticabal, Brazil.",
+        "Department of Veterinary Medicine, Federal Institute of Southern Minas Gerais, Muzambinho, Brazil.",
+        "Graduate Program in Veterinary Science, College of Veterinary Medicine, Universidade Federal de Uberl&#xe2;ndia, Uberl&#xe2;ndia, Brazil."
+      ],
+      "keywords": [
+        "acute kidney injury",
+        "biomarkers",
+        "canine",
+        "histopathology",
+        "nephrology"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42152784",
+      "title": "Factors affecting the removal of grass seed foreign bodies in canine patients.",
+      "authors": "Twyford CM, Rowan C",
+      "journal": "Vet Rec",
+      "date": "2026 May 19",
+      "sortdate": "2026-05-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42152784/",
+      "abstract": "BACKGROUND: Migrating grass seed foreign bodies (GSFBs) commonly cause pathology in canine patients. Anecdotally, antibiotic treatment eliminates the fluid pockets that usually form around GSFBs, complicating identification and retrieval. METHODS: Radiology reports tagged with 'soft tissue foreign body' were retrospectively analysed to identify canine patients diagnosed with a GSFB in 2024. Further information was extracted from clinical notes and histories. RESULTS: A total of 18 canine patients were included in this study, from which 22 GSFBs were retrieved. Patients who received antibiotics prior to referral had longer overall disease durations than patients who did not. Grass seeds were more likely to be removed if they were surrounded by a fluid pocket on ultrasonography. However, no direct link was identified between the recent use of antibiotics and the presence or absence of a fluid pocket on ultrasonography. LIMITATIONS: This study is limited by its small sample size and retrospective nature. CONCLUSION: This study suggests that where a GSFB is suspected but not identified in first-opinion practice, prompt referral for focal ultrasonography will contribute to faster diagnosis and retrieval than symptomatic treatment. Ultrasonography could be used to greater effect for the identification and retrieval of suspected GSFB cases in first-opinion practice.",
+      "affiliations": [
+        "Queen's Veterinary School Hospital, University of Cambridge, Cambridge, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42144798",
+      "title": "Thrombocytosis and tumour distribution predict outcome in dogs with hepatocellular carcinoma: A multi-institutional retrospective analysis.",
+      "authors": "Janik EA, Pellin MA, Clarke DM",
+      "journal": "Vet Rec",
+      "date": "2026 May 17",
+      "sortdate": "2026-05-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42144798/",
+      "abstract": "BACKGROUND: Hepatocellular carcinoma (HCC) is the most common canine hepatobiliary tumour. This study aimed to determine which criteria influenced outcome of HCC in a modern population of dogs across eight institutions. METHODS: The medical records of 106 dogs with HCC were retrospectively reviewed. Inclusion criteria included histopathologic diagnosis of HCC and adequate follow-up. Prognostic factors were evaluated for their effect on median survival time (MST). RESULTS: Massive HCCs (80%) were most common and had the longest MST (1000 days), which was significantly longer than nodular or diffuse forms. Bloodwork abnormalities at diagnosis included elevated liver enzymes (94%), thrombocytosis (26%) and neutrophilia (15%). Thrombocytosis and neutrophilia were associated with shorter median survival compared to dogs with normal values (629 vs. 1000 days; 583 vs. 976 days, respectively). MST for 104 dogs treated surgically was longer than medically treated dogs (945 vs. 265 days). Chemotherapy administered in 14 dogs did not improve outcome. LIMITATIONS: The retrospective nature and multi-institutional study design limited the standardisation of diagnostics, treatment and follow-up. CONCLUSIONS: Consistent with previous studies, massive HCC carries a better prognosis than nodular or diffuse forms. Surgery remains the mainstay of treatment for massive HCC. Thrombocytosis or neutrophilia at diagnosis may predict worse outcomes.",
+      "affiliations": [
+        "Department of Small Animal Medicine and Surgery, College of Veterinary Medicine, University of Georgia, Athens, Georgia, USA.",
+        "Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison, Madison, Wisconsin, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42193821",
       "title": "Pilot Study of Partial Tumor Ablation Using Thermal High-Intensity Focused Ultrasound (HIFU) in Feline Soft Tissue Sarcomas.",
       "authors": "Ruger L, Yang E, Coutermarsh-Ott S, Nightengale M, Hsueh A, Vickers ER, Ciepluch B, Vlaisavljevich E, Dervisis N, Klahn S",
@@ -10468,6 +10719,40 @@
         "thermal ablation"
       ],
       "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41342472",
+      "title": "Yamamoto new scalp acupuncture method reduces pain scores and postoperative analgesic requirements in dogs undergoing orchiectomy.",
+      "authors": "Buyukkaraca N, Yanmaz LE",
+      "journal": "Vet Rec",
+      "date": "2026 May 16",
+      "sortdate": "2026-05-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41342472/",
+      "abstract": "BACKGROUND: This study evaluated the analgesic efficacy of Yamamoto new scalp acupuncture (YNSA) in dogs undergoing orchiectomy. METHODS: Twenty healthy dogs were randomly assigned to the YNSA or control group (n = 10 each). YNSA was initiated 20 minutes before anaesthesia and maintained during surgery. Pain was assessed by a blinded veterinarian using the Glasgow Composite Measure Pain Scale-short form (CMPS-SF) and the Colorado State University Canine Acute Pain (CSU-CAP) scale at intervals of up to 24 hours. Salivary cortisol was measured at baseline (T0), T0.5, T2 and T24. Rescue analgesia and fentanyl use were recorded. RESULTS: YNSA dogs returned to appetite earlier (p&#xa0;=&#xa0;0.036) and had lower CMPS-SF scores at T0.5 (p&#xa0;&lt;&#xa0;0.001) and T20 (p&#xa0;=&#xa0;0.048), and lower CSU-CAP scores at T0.5 (p&#xa0;&lt;&#xa0;0.001), T16, T20 and T24 (p&#xa0;=&#xa0;0.0098). Rescue analgesia was required in one of the 10 YNSA dogs versus 10 of the 10 controls, and total fentanyl dose was 1 versus 12 (p&#xa0;&lt;&#xa0;0.001). Cortisol concentrations were not significantly different, although a decreasing trend was noted in the YNSA group. LIMITATION: This study was limited to one breed and relied on subjective pain scales. CONCLUSION: YNSA reduced postoperative pain and analgesic requirements, supporting its role as an adjunct in canine orchiectomy.",
+      "affiliations": [
+        "Department of Surgery, Faculty of Veterinary Medicine, Burdur Mehmet Akif Ersoy University, Burdur, Turkey."
+      ],
+      "keywords": [
+        "antinociception",
+        "dog",
+        "orchiectomy",
+        "pain",
+        "scalp acupuncture"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Postoperative Pain",
+        "Orchiectomy",
+        "Pain Measurement",
+        "Treatment Outcome",
+        "Scalp",
+        "Acupuncture Therapy",
+        "Hydrocortisone"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -10985,6 +11270,42 @@
         "multimodal analgesia",
         "postoperative pain"
       ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42104917",
+      "title": "Prospective comparison of chronic pain and quality of life in dogs presenting with five common orthopaedic conditions.",
+      "authors": "Dorlis C, Clements DN, Ryan JM",
+      "journal": "Vet Rec",
+      "date": "2026 May 09",
+      "sortdate": "2026-05-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42104917/",
+      "abstract": "BACKGROUND: Chronic pain, which affects multiple aspects of dogs' wellbeing, including quality of life (QoL), was assessed in dogs with elbow dysplasia, hip dysplasia, medial patella luxation, cranial cruciate ligament rupture or osteoarthritis. METHODS: A prospective cohort study was conducted between 2017 and 2020 in client-owned dogs diagnosed with one of five common orthopaedic presentations. Owners completed the Canine Brief Pain Inventory (CBPI), Helsinki Chronic Pain Index (HCPI) and a QoL questionnaire before presentation. RESULTS: No significant differences in owner-reported QoL scores were found among the five common orthopaedic conditions (p = 0.279). There was considerable individual variation in the chronic pain measures and QoL scores across groups of dogs with different conditions. Dogs presenting with elbow dysplasia had the lowest mean reported measures of chronic pain (HCPI: 11, 1-30; CBPI: 27, 0-68), while dogs with cranial cruciate ligament rupture had the highest (HCPI: 16, 0-35; CBPI: 40, 0-80). LIMITATIONS: The study relied on owner assessments. Neither condition severity nor radiographic grading was standardised. CONCLUSION: A wide individual variation in QoL and clinical metrology instrument scores was identified in dogs presenting with common orthopaedic diseases, requiring tailored management approaches that address the impact of the condition on the individual dog.",
+      "affiliations": [
+        "Hospital for Small Animals, The Royal (Dick) School of Veterinary Studies, University of Edinburgh, Roslin, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42104916",
+      "title": "Epidemiological distribution of MRI-based presumptive imaging diagnoses in a large general population of cats with suspected epileptic seizures.",
+      "authors": "Knebel A, Meller S, Labruyère J, Volk HA",
+      "journal": "Vet Rec",
+      "date": "2026 May 09",
+      "sortdate": "2026-05-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42104916/",
+      "abstract": "BACKGROUND: The reported prevalence of feline idiopathic epilepsy (IE) and presumptive imaging diagnoses based on magnetic resonance imaging (MRI) varies depending on factors such as differences between primary care versus referral study populations. METHODS: This retrospective, imaging-based study reviewed MRI data from cats with suspected epileptic seizures. Cases were categorised as follows: no lesions detected (IE, referring to cats aged 6 months&#x2012;7 years with recurrent epileptic seizures, and epilepsy or epileptic seizure of unknown aetiology [EuA] [i.e., cats not fulfilling IE criteria]) and structural lesion(s) detected (SL). Presumptive imaging diagnoses were classified according to the following aetiologies: presumptive intra-axial/extra-axial neoplasia, inflammatory, vascular, congenital, traumatic, metabolic/toxic and degenerative. RESULTS: Of 432 MRIs, 39% revealed SL, whereas 61% showed no structural lesions (of which 47% of cases were classified as IE and 53% were classified as EuA). Among cats with SL, presumptive imaging-based diagnoses included inflammatory diseases (25%), extra-axial neoplasia (19%), metabolic/toxic aetiologies (12%), congenital disorders (10%), lesions of unknown relevance (9%), intra-axial neoplasia (7%), trauma (5%), suspected hippocampal necrosis (5%), vascular events (4%), thiamine deficiency (2%) and degenerative diseases (2%). LIMITATIONS: This imaging-based study lacked histopathological confirmation and comprehensive clinical information. CONCLUSION: Nearly two-thirds of MRIs involving cats with suspected epileptic seizures showed no structural brain abnormalities.",
+      "affiliations": [
+        "Department of Small Animal Medicine &amp; Surgery, University of Veterinary Medicine Hannover, Hannover, Germany.",
+        "Center for Systems Neuroscience Hannover (ZSN), Hannover, Germany.",
+        "VetCT, Cambridge, UK."
+      ],
+      "keywords": [],
       "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -14669,6 +14990,23 @@
       "summary_ko": ""
     },
     {
+      "id": "42078331",
+      "title": "Increased Abundance of Cytotoxic T Cells in Synovial Fluid of a Dog With Erosive Immune-Mediated Polyarthritis.",
+      "authors": "Murakami K, Kobayashi K, Kutara K, Nakamura SI, Tagawa M, Itoi T",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Apr 29",
+      "sortdate": "2026-04-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42078331/",
+      "abstract": "Most dogs with nonerosive immune-mediated polyarthritis (IMPA) have neutrophilic inflammation in the synovial fluid. On the other hand, some dogs with erosive IMPA have increased mononuclear cells as the most abundant cell subset in the synovial fluid. A 9-year-old, neutered female miniature dachshund presented with lameness and lethargy. Physical examination revealed subluxation of the carpal and tarsal joints. Synovial fluid tests revealed an increased number of leukocytes, mainly mononuclear cells, and radiographic examination led to a diagnosis of erosive IMPA. Compared with nonerosive IMPA, flow cytometric analysis of the synovial fluid in this case showed a significant expansion of T cells-predominantly CD8+ cytotoxic T cells-while monocyte and B cell counts remained comparable. Treatment with mycophenolate mofetil reduced leukocytes in the synovial fluid and improved the dog's activity, although bone erosion slowly progressed. Based on these findings, we propose that T cells, especially cytotoxic T cells, in synovial fluid contribute to inflammation in canine erosive IMPA and may be a therapeutic target.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, Okayama University of Science, Imabari, Ehime, Japan, ous.ac.jp."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42121775",
       "title": "A Tolerance Study of Turmeric Extract in Healthy Adult Cats.",
       "authors": "Raynaud E, Raasch M, Sanders W, Mitchell D, Laxalde J, Biourge V, Venet C, Cohen T",
@@ -14859,6 +15197,30 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42045867/",
       "abstract": "",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42050858",
+      "title": "Evaluation of thyroglobulin autoantibodies in dogs at the time of diagnosis of hypoadrenocorticism and during treatment.",
+      "authors": "Emming C, Strey S, Leiter I, Mischke R, Volk H, Schmicke M, Rieder J",
+      "journal": "Vet Rec",
+      "date": "2026 Apr 28",
+      "sortdate": "2026-04-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42050858/",
+      "abstract": "BACKGROUND: Autoimmune thyroiditis (AIT) may occur more frequently in dogs with hypoadrenocorticism (HA) than previously recognised. The objective of this study was to determine the presence of thyroglobulin autoantibodies (TgAAs) in dogs with HA. METHODS: Dogs were included if HA was confirmed by an adrenocorticotropic hormone stimulation test conducted between 2019 and 2023. Serum total thyroxine, thyrotropin and TgAA were analysed from samples taken before and during HA treatment. RESULTS: Thirty-seven dogs were enrolled, with nine dogs showing positive TgAA titres at enrolment. Following HA treatment, TgAA became undetectable in six dogs; two showed persistent positive TgAA results and one was lost to follow-up. Additionally, two dogs that were initially TgAA negative developed hypothyroidism during the follow-up period. The overall prevalence of concurrent HA and hypothyroidism after initiation of hormone replacement therapy was three of 30 among the dogs for which follow-up data were available. LIMITATIONS: The retrospective nature of the study, small sample size and incomplete follow-up data for some patients limit the conclusions that can be drawn. CONCLUSION: Our findings demonstrate the concurrent occurrence of two different autoimmune diseases, AIT and HA, and show that the presence of TgAA can completely resolve with cortisol replacement therapy. Therefore, it is recommended to reassess thyroid function after initiating HA treatment to avoid unnecessary lifelong thyroxine supplementation.",
+      "affiliations": [
+        "Department of Small Animal Medicine and Surgery, University of Veterinary Medicine Hannover, Hannover, Germany.",
+        "Department of Veterinary Endocrinology and Laboratory Diagnostics, University of Veterinary Medicine Hannover, Hannover, Germany."
+      ],
+      "keywords": [
+        "autoimmune",
+        "dog",
+        "hypoadrenocorticism",
+        "polyendocrine syndrome",
+        "thyroiditis"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -15460,6 +15822,39 @@
       "summary_ko": ""
     },
     {
+      "id": "41346106",
+      "title": "Retrospective analysis of causes and outcome of dogs with hypoxaemia based on SpO(2) or PaO(2) measurements at the time of presentation to a referral hospital: 105 cases.",
+      "authors": "Amorim C, Mas A, Paul A",
+      "journal": "Vet Rec",
+      "date": "2026 Apr 18",
+      "sortdate": "2026-04-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41346106/",
+      "abstract": "BACKGROUND: Reported causes and outcome of hypoxaemia vary greatly. Brachycephalic dogs have anatomic abnormalities that result in oxygenation changes. METHODS: Dogs diagnosed with hypoxaemia based on SpO2 or PaO2 measurements between January 2014 and December 2021 were retrospectively recruited. One hundred and five dogs met the inclusion criteria. Signalment, clinical signs, treatments before referral, diagnostic tests, final diagnoses, treatment and outcome were recorded. Outcomes were documented according to survival to discharge and during the study period. Descriptive analytics were performed. RESULTS: Aspiration pneumonia was the most common cause of hypoxaemia (n = 33). Administration of antibiotics or glucocorticoids in dogs diagnosed with aspiration pneumonia before referral did not improve outcome (Fisher's, p = 0.3 and 0.48, respectively). There was no statistical difference between a lower SpO2 or PaO2 at presentation and survival (p = 0.069). Brachycephalic breeds had higher survival rates (79.2% vs. 40.0%, Fisher's, p &lt; 0.001) regardless of their final diagnosis. LIMITATIONS: Limitations include low sample size, retrospective case study and selection bias. CONCLUSION: Lower SpO2 and PaO2 values at presentation are not a negative prognostic indicator. Provision of antibiosis prior to referral of a hypoxaemic patient did not provide a survival or improved outcome advantage. Brachycephalic breeds do not have a worse prognosis.",
+      "affiliations": [
+        "Department of Internal Medicine, Eastcott Referrals, Swindon, UK.",
+        "Department of Internal Medicine, Anderson Moores Veterinary Specialists, Winchester, UK.",
+        "Department of Internal Medicine, Hamilton Specialist Referrals, High Wycombe, UK."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Dog Diseases",
+        "Hypoxia",
+        "Female",
+        "Male",
+        "Referral and Consultation",
+        "Treatment Outcome",
+        "Blood Gas Analysis",
+        "Oxygen Saturation",
+        "Hospitals, Animal",
+        "Pneumonia, Aspiration"
+      ],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
       "id": "41999726",
       "title": "Canine and feline goniometry.",
       "authors": "Marcellin-Little DJ, Levine D, Skouritakis CT",
@@ -15753,6 +16148,30 @@
       "summary_ko": ""
     },
     {
+      "id": "42006608",
+      "title": "Congenital Peritoneopericardial Diaphragmatic Hernia in a Dog: Ventral Advancement Diaphragmatic Technique for Repair.",
+      "authors": "Perez-Bello JD",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Apr 17",
+      "sortdate": "2026-04-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42006608/",
+      "abstract": "Peritoneopericardial diaphragmatic hernia (PPDH) is a rare congenital anomaly that requires surgical treatment. Its clinical presentation varies and can affect one or more abdominal organs. This case report refers to a recently described surgical technique called ventral advancement of the diaphragm (VADT). Previously, a complete diagnostic approach was made in a 4-month-old, 6&#x2009;kg (13.22&#x2009;lbs.), uncastrated, mixed breed dog, with a history of cough from the time of adoption, with no known record of trauma. Physical examination revealed tachycardia, tachypnea, body condition score of 5/9, positivity to tracheal sensitivity tests, and attenuation of heart sounds in the left hemithorax, with no other relevant alterations. A PPDH was diagnosed and surgical correction was recommended. VADT was performed by incising the diaphragm ventrally with scissors, following the costal arch, about 3&#x2009;cm on each side, avoiding excessive tension on the wound and possible postoperative dehiscence. Nonabsorbable monofilament material was used, with an interrupted horizontal suture pattern, without intraoperative or postoperative complications. The results showed that VADT is an easy surgical procedure to perform, being its approach beneficial for the patient, when compared with other techniques, providing an effective clinical resolution; generating little tension on the sutures that correct the diaphragmatic defect, with low rate of complications, dehiscence or recurrences, as reported in the literature and observed in this case. It is concluded that VADT is a surgical technique that is not very demanding for the surgical team and allows the defect to be corrected effectively, confirming its efficacy; however, further clinical evidence is recommended to validate its reproducibility.",
+      "affiliations": [
+        "Institute of Experimental Surgery, Faculty of Medicine, Universidad Central de Venezuela, Caracas, Venezuela, ucv.ve."
+      ],
+      "keywords": [
+        "congenital",
+        "diaphragm",
+        "hernia",
+        "peritoneopericardial",
+        "surgery",
+        "ventral advancement"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42071988",
       "title": "Advances in Functional Pet Food Research: Health-Driven Ingredients, Nutritional Targets and Evidence-Based Claims.",
       "authors": "Vuthisopon S, Kamonpatana P, Promhuad K, Srisa A, Wongphan P, Seubsai A, Klinmalai P, Harnkarnsujarit N",
@@ -15981,6 +16400,24 @@
       ],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42006607",
+      "title": "Attenuation of Ascites Following Surgical Ligation of a Congenital Caudal Mesenteric Arteriovenous Fistula in a Dog.",
+      "authors": "Suzuki S, Tanaka S, Kanno N, Yogo T, Harada Y, Michishita M, Hara Y",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Apr 16",
+      "sortdate": "2026-04-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42006607/",
+      "abstract": "A 1-year-and-9-month-old intact female Pembroke Welsh Corgi (10.5&#x2009;kg) was referred for abdominal distension, intermittent diarrhea, and ascites. Abdominocentesis yielded 1200&#x2009;mL of transudate (specific gravity, 1.008). Serum biochemistry showed hyperammonemia (NH3, 163&#x2009;&#x3bc;g/dL), increased bile acids, and mild hypoalbuminemia. Abdominal ultrasonography suggested a vascular anomaly, and contrast-enhanced computed tomographic angiography confirmed an arteriovenous communication between the caudal mesenteric artery and vein with marked venous dilation and multiple acquired portosystemic shunts, consistent with portal hypertension secondary to a congenital caudal mesenteric arteriovenous fistula. Surgical ligation was performed via ventral midline celiotomy. Portal venous pressure measured via a mesenteric vein decreased from 23/20 (21) mmHg to 19/16 (17) mmHg after occlusion; a 5-min test occlusion caused no gross intestinal congestion. Liver biopsy revealed portal vein hypoplasia with reduced portal triads. Ascites resolved by Postoperative Day 3, and the dog was discharged on Postoperative Day 6 (Day 22). Ascites recurred on Day 868, but follow-up computed tomography on Day 1191 confirmed persistent occlusion of the fistula. Under adjunct medical management, the dog remained clinically stable with only mild hyperammonemia (NH3, 132&#x2009;&#x3bc;g/dL). This case suggests that surgical ligation can reduce portal hypertension and resolve ascites in dogs with caudal mesenteric arteriovenous fistulas, although long-term monitoring may be required.",
+      "affiliations": [
+        "Laboratory of Veterinary Surgery, Faculty of Veterinary Science, School of Veterinary Medicine, Nippon Veterinary and Life Science University, Musashino, Japan, nvlu.ac.jp.",
+        "Laboratory of Veterinary Pathology, Faculty of Veterinary Science, School of Veterinary Medicine, Nippon Veterinary and Life Science University, Musashino, Japan, nvlu.ac.jp."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -16345,6 +16782,30 @@
       "keywords": [],
       "mesh": [],
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "41983085",
+      "title": "French Bulldog Diagnosed With a Suspected Brain Tumor Shortly After Treatment for Spinal Arachnoid Diverticulum.",
+      "authors": "Nakamoto Y, Hidari K, Matsuo M, Nakamoto M",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Apr 12",
+      "sortdate": "2026-04-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41983085/",
+      "abstract": "An 8-year- and 8-month-old spayed female 8.8-kg French bulldog presented with a 4-month history of progressive deterioration, followed by paresis of both pelvic limbs. Orthopedic examination revealed no abnormalities. Neurological examination revealed no findings suggestive of brain dysfunction. However, abnormal findings, including impaired conscious proprioception in both pelvic limbs and hyperreflexia of patellar, cranial tibialis, and gastrocnemius reflexes, suggested a spinal segmental lesion in the T3-L3 region. The dog was diagnosed with a spinal arachnoid diverticulum in the T11-T12 vertebrae (Day 1) by magnetic resonance imaging (MRI) and underwent surgical treatment (dorsal laminectomy with dural marsupialization) on Day 27. The dog was presented to the referral hospital on a weekly basis and underwent neurological examinations at each visit. Initial neurological signs included persistent bilateral pelvic limb proprioceptive deficits; no other new neurological abnormalities were noted. Epileptic seizures occurred on Days 43 and 57. Brain MRI performed on Day 91 revealed findings suggestive of a glioma. The dog was administered prednisone (0.5&#x2009;mg/kg SID, PO) and zonisamide (5&#x2009;mg/kg BID, PO). Neurological abnormalities, such as circling and left forelimb ambulatory monoparesis, became more noticeable. The dog developed status epilepticus and died on Day 209. The owner said that the frequency of seizures was approximately twice a month and had not increased, and seizure duration did not appear to have lengthened until Day 209. In this case, no direct history or neurological abnormalities suggestive of a lesion in the forebrain region were noted until the onset of epileptic seizures; however, the glioma was diagnosed within 3 months of spinal arachnoid diverticulum diagnosis. Therefore, the brain tumor might have been detected if a brain MRI had been performed when spinal cord disease was initially diagnosed. This report indicates that simultaneous brain MRIs should be considered when performing MRI examinations for spinal cord diseases. However, this report describes a single case and lacks a histopathological evaluation for a definitive diagnosis of glioma, meningioma, or other types of brain tumors.",
+      "affiliations": [
+        "Neuro Vets Animal Neurology Clinic, Kyoto, Japan.",
+        "Veterinary Medical Center, School of Veterinary Science, Osaka Metropolitan University, Osaka, Japan, osaka-cu.ac.jp."
+      ],
+      "keywords": [
+        "French bulldog",
+        "brain tumor",
+        "canine",
+        "glioma",
+        "spinal disease"
+      ],
+      "mesh": [],
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
@@ -17136,6 +17597,30 @@
       ],
       "mesh": [],
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "41925289",
+      "title": "Causes, treatment and outcome of external ear canal tears and avulsions in cats and dogs: 24 cases (2008‒2024).",
+      "authors": "Billau EM, Thiel C",
+      "journal": "Vet Rec",
+      "date": "2026 Apr 02",
+      "sortdate": "2026-04-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41925289/",
+      "abstract": "BACKGROUND: This study aimed to evaluate the causes, treatment options and associated complications of ear canal tears and avulsions in dogs and cats. METHODS: This retrospective clinical study includes 14 cats and 10 dogs diagnosed with external ear canal tears and avulsions using otoscopy and/or computed tomography. Information extracted from the relevant clinical records included signalment, clinical signs, diagnostic imaging findings, surgical procedures performed and complications. RESULTS: The most common cause of ear canal tears and avulsions was acute trauma (17/24 cases). In 92% (22/24) of the cases, an interruption of ear canal continuity was visible on otoscopy: in five cases, complete avulsion occurred; in 12 cases, partial avulsion occurred; and in six cases, a perforating tear occurred. Nine patients underwent a total ear canal ablation and lateral bulla osteotomy, seven underwent vertical ear canal ablation, and two patients underwent primary repair of the ear canal. Six patients died or were euthanased within the first 14 days after presentation, and 18 patients were discharged. Short-term follow-up identified two minor complications and four major complications requiring revision surgery. Long-term follow-up data were available for 13 patients, of which three had persistent facial nerve paralysis. LIMITATIONS: Due to the retrospective nature of this study, the surgical treatment options elected depended on surgeon's preference. Outcome was further influenced by owners electing euthanasia due to financial constraints and comorbidities related to their inciting injury. CONCLUSION: Traumatic external ear canal tears and avulsions appear to result in a favourable outcome when treated surgically.",
+      "affiliations": [
+        "Small Animal Clinic (Surgery), Justus Liebig University Giessen, Giessen, Germany."
+      ],
+      "keywords": [
+        "TECA",
+        "ear canal avulsion",
+        "ear canal rupture",
+        "ear canal separation",
+        "periauricular abscessation",
+        "total ear canal ablation"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -19377,6 +19862,45 @@
       "summary_ko": ""
     },
     {
+      "id": "41417614",
+      "title": "Retrospective comparison of intraoperative analgesic requirements in dogs receiving erector spinae plane block, epaxial infiltration or no block before undergoing thoracolumbar hemilaminectomy.",
+      "authors": "Pérez Pérez MC, Jack MW, McFadzean W",
+      "journal": "Vet Rec",
+      "date": "2026 Mar 14",
+      "sortdate": "2026-03-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41417614/",
+      "abstract": "BACKGROUND: This retrospective study compared intraoperative analgesic requirements in dogs undergoing thoracolumbar hemilaminectomy receiving no local anaesthesia (NB), peri-incisional epaxial muscle infiltration (EB) or ultrasound-guided erector spinae plane block (ESPB) with bupivacaine. METHODS: Medical records were reviewed, and cases were grouped into NB, EB and ultrasound-guided ESPB. Intraoperative analgesia interventions were recorded and analysed. RESULTS: A total of 377 cases were included. Additional analgesia was required in 63.2% of the NB group, 42.5% in the EB group and 23.4% in the ESPB group at the first incision. Significant differences were found between NB and EB (p &lt; 0.005), between NB and ESPB (p &lt; 0.001), and between EB and ESPB (p = 0.012). The median number of interventions was 2 (range 0&#x2012;8) in NB, 1 (range 0&#x2012;8) in EB and 1 (range 0&#x2012;5) in ESPB. ESPB required significantly fewer interventions than NB and EB (p &lt; 0.001). LIMITATIONS: Due to the retrospective nature of the study, pain scores in recovery were not consistently available. CONCLUSIONS: Bupivacaine ESPB significantly reduced the use of intraoperative analgesics compared to EB and no local block. Compared with no block, EB reduced analgesic requirements, although not significantly.",
+      "affiliations": [
+        "Cave Veterinary Specialists, West Buckland, UK."
+      ],
+      "keywords": [
+        "analgesia",
+        "bupivacaine",
+        "epaxial",
+        "erector spinae",
+        "hemilaminectomy"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Nerve Block",
+        "Male",
+        "Female",
+        "Laminectomy",
+        "Analgesia",
+        "Anesthetics, Local",
+        "Bupivacaine",
+        "Thoracic Vertebrae",
+        "Intraoperative Care",
+        "Dog Diseases",
+        "Lumbar Vertebrae",
+        "Anesthesia, Local"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "41897887",
       "title": "Dietary Glucosamine: Effects and Mechanisms in Relation to Production Performance, Eggshell Quality, and Liver Health of Aged Laying Hens.",
       "authors": "Gao W, Wang Y, Gong P, Rajput SA, Wang H, Ye S, Yang Y",
@@ -19502,6 +20026,28 @@
         "Prognosis"
       ],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41826233",
+      "title": "Clinical reasoning in feline non-ambulatory tetraparesis or tetraplegia: Which combination of clinical information is useful?",
+      "authors": "Bertoldi G, De Decker S",
+      "journal": "Vet Rec",
+      "date": "2026 Mar 13",
+      "sortdate": "2026-03-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41826233/",
+      "abstract": "BACKGROUND: Non-ambulatory tetraparesis or tetraplegia in cats may constitute a diagnostic challenge for general practitioners. Therefore, this study aimed to evaluate if clinical variables from signalment, history, clinical examination and basic ancillary tests are associated with underlying diagnoses in cats with non-ambulatory tetraparesis or tetraplegia. METHODS: This was a retrospective single-centre study of cases presented between 2010 and 2023. Information on disease onset, progression, neurological and physical examination findings and ancillary tests was analysed across all diagnoses. Diagnostic categories comprising five or more cases were carried forward to univariate and/or multivariable analyses. RESULTS: Eighty-one cats were included, with 82.7% of cases represented by six conditions: polyneuropathy (PN; n = 26), ischaemic myelopathy (IM; n = 15), spinal cord neoplasia (n = 8), feline infectious peritonitis (n = 7), intracranial neoplasia (n = 6) and spinal cord contusion (n = 5). On multivariable analysis, an age of below 3 years, progressive presentation, normal mentation, reduced spinal reflexes in the thoracic limbs and normal blood tests were statistically associated with PN. Age between 6 and 9 years or older than 9 years and peracute onset of clinical signs were associated with IM. LIMITATIONS: This was a retrospective study with limited multivariable analysis in certain diagnostic categories. Furthermore, the study included only referral cases, which may not represent the animal population seen by general practitioners. CONCLUSIONS: PN and IM were the most common causes for non-ambulatory tetraparesis or tetraplegia in this population of cats. Attention to the neurological examination and easy to identify clinical features can be used to determine the most likely differential diagnoses and assist general practitioners in the formulation of a diagnostic plan.",
+      "affiliations": [
+        "Department of Clinical Science and Services, Royal Veterinary College, Hatfield, UK."
+      ],
+      "keywords": [
+        "collapsed cat",
+        "flaccid paralysis",
+        "ischaemic myelopathy",
+        "polyneuropathy"
+      ],
+      "mesh": [],
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
@@ -23452,6 +23998,25 @@
       "summary_ko": ""
     },
     {
+      "id": "41768375",
+      "title": "Lymphocytosis and Mycobacteriosis in a 15-Year-Old Mixed-Breed Dog.",
+      "authors": "Murphy BJ, Smith AA, Kilbane EM, Conrado FO",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Feb 26",
+      "sortdate": "2026-02-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41768375/",
+      "abstract": "A 15-year-old mixed-breed dog with T-cell lymphoid neoplasia with persistent CD8+ lymphocytosis and peripheral lymphadenopathy despite chemotherapy was referred to the Auburn University Veterinary Teaching Hospital Oncology service approximately 7 months after diagnosis. Lymph node aspirates were performed and assessed by a board-certified clinical pathologist, which revealed granulomatous inflammation and intracellular, negative staining bacilli. Bacilli were confirmed Mycobacterium avium and other species within the M. avium complex by polymerase chain reaction (PCR) testing. Chemotherapy was ceased and antimicrobial therapy was initiated; however, the lymphocytosis continued to progress, and the dog began to decline, leading to euthanasia around 2 months after referral. Although T-cell lymphoid neoplasia and mycobacteriosis are rare comorbidities, this case highlights the importance of thorough cytological assessment of lymph node aspirates as part of a complete workup to rule out differential causes of lymphadenopathy. This may have allowed for earlier diagnosis and treatment of mycobacteriosis.",
+      "affiliations": [
+        "Department of Pathobiology, Auburn University College of Veterinary Medicine, Auburn, Alabama, USA, auburn.edu.",
+        "Department of Clinical Sciences, Auburn University College of Veterinary Medicine, Auburn, Alabama, USA, auburn.edu.",
+        "Department of Comparative Pathobiology, Cummings School of Veterinary Medicine at Tufts University, North Grafton, Massachusetts, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "41740251",
       "title": "Acute kidney injury is associated with increased mortality in dogs with gastric dilatation and volvulus.",
       "authors": "Suarez-Rodriguez JI, Lourenço BN, Huang JHC, Brainard BM, Schmiedt CW",
@@ -24538,6 +25103,57 @@
         "Diet",
         "Gastrointestinal Microbiome",
         "Hormones"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "41685996",
+      "title": "Does vaccination increase dogs' risk of developing immune-mediated haemolytic anaemia?",
+      "authors": "March J, Brennan M",
+      "journal": "Vet Rec",
+      "date": "2026 Feb 14",
+      "sortdate": "2026-02-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41685996/",
+      "abstract": "",
+      "affiliations": [
+        "School of Veterinary Medicine and Science, University of Nottingham, Sutton Bonington, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "41405170",
+      "title": "Associations between early life exposure to parvovirus and antibiotic treatment and the occurrence and severity of later chronic enteropathy in dogs.",
+      "authors": "Kuzi S, Goldstein N, Sutton G, Segev G",
+      "journal": "Vet Rec",
+      "date": "2026 Feb 14",
+      "sortdate": "2026-02-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41405170/",
+      "abstract": "BACKGROUND: Canine parvovirus (CPV) infection is reportedly associated with chronic enteropathy (CE), but infected puppies are often treated with antibiotics, which may also promote CE. This study aims to compare the presence and severity of CE among dogs that were CPV-infected, treated with antibiotics or healthy during puppyhood. METHODS: A questionnaire based on the Canine Inflammatory Bowel Disease Activity Index (CIBDAI) was answered by owners of dogs that were either presented with CPV infection, treated with antibiotics for a non-gastrointestinal disease or were healthy during puppyhood. The questionnaires were completed more than one year after initial presentation. RESULTS: Owners of 60/199 (30%) CPV-infected dogs, 59/199 (30%) antibiotic-treated dogs, and 80/199 (40%) control dogs participated. There was no (p = 0.24) difference in CE occurrence between groups. There were no differences (p = 0.18) in the CIBDAI score between CPV (median = 1, range: 0-6), antibiotic (median = 1, range: 0-4), and control dog (median = 1, range: 0-5) groups. CPV-infected dogs had an increased risk of higher CIBDAI score compared to control dogs (odds ratio [OR] = 2.1; 95% confidence interval [CI]: 1.1-3.9, p = 0.024). A lower CIBDAI score was associated with older age (Rho = -0.23; p = 0.001). LIMITATIONS: The CIBDAI is partially subjective. CONCLUSION: CPV infection was associated with a risk for a higher CIBDAI score; however, neither CPV infection nor early exposure to oral antibiotics was associated with a clinically moderate or severe later CE.",
+      "affiliations": [
+        "Hebrew University Veterinary Teaching Hospital and Koret School of Veterinary Medicine, Robert H. Smith Faculty of Agriculture, Food and Environment, Hebrew University of Jerusalem, Rehovot, Israel."
+      ],
+      "keywords": [
+        "Canine Inflammatory Bowel Disease Activity Index",
+        "diarrhoea",
+        "puppyhood",
+        "vomiting"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Parvoviridae Infections",
+        "Anti-Bacterial Agents",
+        "Male",
+        "Female",
+        "Surveys and Questionnaires",
+        "Severity of Illness Index",
+        "Chronic Disease",
+        "Parvovirus, Canine"
       ],
       "category": "internal",
       "summary_ko": ""
@@ -27192,6 +27808,24 @@
       "summary_ko": ""
     },
     {
+      "id": "41618684",
+      "title": "Randomised controlled trial finds no evidence that a synbiotic improves health in assistance dog puppies.",
+      "authors": "Moxon R, Goumas M, Hunt R, England G",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 31",
+      "sortdate": "2026-01-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41618684/",
+      "abstract": "BACKGROUND: Prebiotics and probiotics ('synbiotics' when combined) are purported to be effective in the treatment of diarrhoea and potentially other diseases. However, it is unclear whether preventive use early in life can affect health outcomes for puppies. METHODS: A triple-blind randomised controlled trial was conducted to assess the effectiveness of a synbiotic in reducing the occurrence and severity of diarrhoea, gastrointestinal disease and atopy. The synbiotic contained Enterococcus faecium, fructo-oligosaccharides and gum arabic. Puppies were randomly allocated to one of two groups, one receiving the synbiotic and the other receiving a placebo from five to approximately 10 weeks of age. A further 116 puppies from 15 litters served as a non-operative control group. Faecal scores were recorded during supplementation, and the incidence of gastrointestinal disease and atopy later in life was assessed. RESULTS: Fifty-seven litters (419 puppies) were given the synbiotic and 57 litters (412 puppies) were given a placebo. Attrition was minimal. The diarrhoea status did not differ significantly among the groups, nor did groups differ in incidence of gastrointestinal disease or atopy. LIMITATIONS: The non-operative control group was not randomly allocated. The effectiveness of only one type of synbiotic was investigated, and the effects were predominantly assessed for a relatively short period early in life. CONCLUSION: No benefits of administering this synbiotic early in life were observed.",
+      "affiliations": [
+        "Guide Dogs National Centre, Leamington Spa, UK.",
+        "School of Veterinary Medicine and Science, University of Nottingham, Sutton Bonington, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "41616485",
       "title": "Ultrasound-guided arthrocentesis and intra-articular injections of the radiocarpal and tarsocrural joints in the dog.",
       "authors": "Miller A, Jennings C, Frye C",
@@ -27475,6 +28109,81 @@
       "summary_ko": ""
     },
     {
+      "id": "41611618",
+      "title": "Erector spinae plane block reduces intraoperative nociception in bitches undergoing ovariohysterectomy: A randomised clinical trial.",
+      "authors": "Schmitz Borsato Cavagnari L, Comassetto F, Baehr Cavagnari CF, Schumacher NC, de Lima AO, da Silva Junior VA, Oleskovicz N",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 29",
+      "sortdate": "2026-01-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41611618/",
+      "abstract": "BACKGROUND: Erector spinae plane (ESP) block is a regional anaesthetic technique described in dogs, but clinical evidence of its perioperative effects in abdominal procedures remains limited. This study evaluated its antinociceptive efficacy during elective ovariohysterectomy in bitches. METHODS: Sixteen healthy client-owned female dogs were randomly assigned to two groups (n = 8). All the patients received 0.05&#xa0;mg/kg acepromazine and 0.3&#xa0;mg/kg methadone intramuscularly, followed by propofol-based induction and maintenance. Ultrasound-guided bilateral ESP blocks were performed at the first lumbar vertebra using 0.25% bupivacaine (0.5&#xa0;mL/kg per side) in the bupivacaine group or 0.9% saline in the saline solution group. Vital signs and nociceptive responses were recorded intraoperatively; 2.5&#xa0;&#xb5;g/kg fentanyl intravenously was used as rescue analgesia. Postoperative pain was assessed over 24 hours using the short-form Glasgow pain scale. RESULTS: The ESP group required significantly fewer intraoperative fentanyl rescues (8&#xa0;vs. 19; p = 0.031). No significant differences were observed in postoperative pain scores or analgesic rescue requirements. LIMITATIONS: The small sample size and use of physiological nociceptive indicators may limit generalisability. Only a single non-opioid postoperative rescue was needed, potentially masking postoperative differences. CONCLUSION: Ultrasound-guided ESP block reduces intraoperative opioid use in dogs undergoing ovariohysterectomy but has limited impact on postoperative pain control.",
+      "affiliations": [
+        "Department of Veterinary Medicine, Center for Agroveterinary Sciences, Santa Catarina State University, Lages, Brazil."
+      ],
+      "keywords": [
+        "abdominal pain",
+        "analgesia",
+        "multimodal analgesia",
+        "opioid sparing",
+        "perioperative analgesia"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "41607297",
+      "title": "Assessment of kidney injury biomarkers in cats with obstructive and non-obstructive lower urinary tract disease.",
+      "authors": "Bayendur SH, Acar A",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 29",
+      "sortdate": "2026-01-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41607297/",
+      "abstract": "BACKGROUND: Feline lower urinary tract disease (FLUTD) is a common and potentially life-threatening condition in cats, with obstructive and non-obstructive presentations. This study aimed to evaluate tubular injury in cats with FLUTD using serum and urinary biomarkers. METHODS: Forty male cats were enrolled and assigned to three groups: obstructive (n = 16), non-obstructive (n = 15) and healthy controls (n = 9). Urea nitrogen, creatinine, albumin and ELISA-based biomarker analyses (retinol-binding protein [RBP], N-acetyl-&#x3b2;-D-glucosaminidase [NAG], neutrophil gelatinase-associated lipocalin, cystatin-C [Cys-C], kidney injury molecule-1 [KIM-1] and interleukin-18 [IL-18]) were performed on serum and urine samples. The data were analysed using Kruskal&#x2012;Wallis test and Dunn's post hoc test. RESULTS: Obstructive cats exhibited significantly elevated urinary RBP, NAG, KIM-1, IL-18 and albumin concentrations and indexes of RBP, NAG, Cys-C and KIM-1. Non-obstructive cats also showed elevations in urinary RBP and KIM-1. LIMITATIONS: The small sample size and absence of histopathological or follow-up data limit interpretation, although post hoc analysis showed strong power for most biomarkers except Cys-C and NAG. CONCLUSION: Our findings suggest that both obstructive and non-obstructive FLUTD may involve mild tubular stress. Since only a single time point was evaluated, it remains unclear whether these changes are transient or persistent. Monitoring RBP and KIM-1 may help identify early tubular alterations and support clinical assessment, but further validation is needed.",
+      "affiliations": [
+        "Department of Internal Medicine, Faculty of Veterinary Medicine, Afyon Kocatepe University, Afyonkarahisar, Turkey."
+      ],
+      "keywords": [
+        "ELISA",
+        "FLUTD",
+        "cat",
+        "kidney injury biomarkers",
+        "obstruction",
+        "tubular injury"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "41607285",
+      "title": "Treatment of discospondylitis in dogs: A systematic review.",
+      "authors": "Vallios VI, Sourla E, Low D, Volk HA, Charalambous M",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 29",
+      "sortdate": "2026-01-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41607285/",
+      "abstract": "BACKGROUND: Both medical and surgical techniques have been reported to manage canine discospondylitis, although data on clinical effectiveness and long-term prognosis remain limited. METHODS: A systematic review of studies on treatment approaches, follow-up data and investigation methods was conducted. Each study was evaluated for evidence quality (study design, sample size, disease characterisation, healing assessment and risk of bias) and outcome measures (treatment success, follow-up methods and long-term outcomes) using the Cochrane risk of bias tool. RESULTS: Forty-eight studies on medical and surgical management were included. All were classified as low-quality evidence with a high risk of bias. Medical and surgical interventions had success rates of 68.75% and 75%, respectively. LIMITATIONS: All studies had a high risk of bias and low-quality evidence due to their retrospective design and lack of randomisation. CONCLUSION: Antibiotics should be considered the first-line treatment when vertebral instability or disc extrusion is absent, guided by culture and sensitivity testing to ensure appropriate selection, with a mean treatment duration of 105 days. Surgical intervention is reserved for cases of failure of medical management and spinal instability, while percutaneous discectomy represents a promising adjunctive option in selected patients.",
+      "affiliations": [
+        "Hannover Univeristy, Clinic for Small Animals, University of Veterinary Medicine Hannover, Hannover, Germany.",
+        "St George's Vets, IVC, Wolverhampton, United&#xa0;Kingdom.",
+        "Birmingham and Midland Eye Centre, Birmingham, UK.",
+        "Frank. Pet Surgeons, IVC, Leeds, UK.",
+        "Swift Referrals, IVC, Wetherby, UK.",
+        "Blaise Referrals, IVC, Birmingham, UK."
+      ],
+      "keywords": [
+        "canine",
+        "discospondylitis",
+        "diskospondylitis",
+        "treatment",
+        "vertebral endplate infection"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "41604766",
       "title": "Long-term outcome of high tibial osteotomy for canine cranial cruciate ligament disease without stifle exploration: an observational study of 236 stifles.",
       "authors": "Treharne R, Low D, Rutherford S",
@@ -27586,6 +28295,31 @@
       ],
       "mesh": [],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "41613010",
+      "title": "Primary Hepatic Hemangiosarcoma With Hemoperitoneum in a Dog: Clinical Course and Therapeutic Outcome.",
+      "authors": "Lee MY, Moon JH, Mok J, Lim D, Kim JY, Jung SY, Jeong E, Jang H, Jung DI",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Jan 28",
+      "sortdate": "2026-01-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41613010/",
+      "abstract": "A 14-year-old neutered male mixed-breed dog presented with hemoperitoneum secondary to rupture of a primary hepatic mass. Following stabilization with whole blood transfusion, a hepatic lobectomy was performed. Histopathological examination and CD31 immunolabeling confirmed a diagnosis of hemangiosarcoma. Two weeks postoperatively, multiple intra-abdominal metastases were identified. The multimodal therapeutic approach included one attempted VAC cycle (discontinued due to Grade 4 neutropenia), five cycles of single-agent doxorubicin, and subsequent administration of toceranib with dose reduction for anemia. The dog survived 201 days after diagnosis. Postmortem extended immunohistochemistry demonstrated heterogeneous receptor tyrosine kinase (RTK) expression: EGFR and VEGFR positivity, strong membranous HER2 labeling in approximately 60% of tumor cells, low KIT expression, and negative PDGFR. This case underscores the aggressive metastatic nature of primary hepatic hemangiosarcoma following rupture and highlights practical considerations for systemic therapy selection and adverse event monitoring in clinical practice.",
+      "affiliations": [
+        "Neuro Animal Medical Center, Busan, Republic of Korea.",
+        "Academic Committee, Korean Society of Feline Medicine (KSFM), Seoul, Republic of Korea.",
+        "College of Veterinary Medicine, Gyeongsang National University, Jinju, Republic of Korea, gnu.ac.kr."
+      ],
+      "keywords": [
+        "VAC protocol",
+        "chemotherapy",
+        "doxorubicin",
+        "receptor tyrosine kinase",
+        "toceranib"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -30102,6 +30836,24 @@
       "summary_ko": ""
     },
     {
+      "id": "41559863",
+      "title": "Spontaneous vocalisation as a presenting clinical sign in dogs: An association with cervical localisation and intervertebral disc disease.",
+      "authors": "Spencer-Taylor A, Khan S, Freeman P, Harris G",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 20",
+      "sortdate": "2026-01-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41559863/",
+      "abstract": "BACKGROUND: Spontaneous vocalisation is a common reason for dogs to be presented to veterinary practices. However, the cause can be unclear, making prioritisation of investigations challenging. Although vocalisation has been associated with syringomyelia, and anecdotally with cervical disc disease, the most common causes are not reported. METHODS: The medical records of dogs presented at a single institution with spontaneous vocalisation between 2016 and 2022 were retrospectively analysed. RESULTS: A total of 115 dogs were included. The most common breeds were crossbreeds (n = 23), Cavalier King Charles Spaniels (n = 10) and French Bulldogs (n = 9). Patients were most frequently referred to the neurology department (n = 93). Cervical myelopathy was most prevalent (n = 41), with a further 14 neurologically normal dogs with cervical hyperaesthesia. The most frequent diagnoses were intervertebral disc extrusion (n = 41), neoplasia (n = 9), intervertebral disc protrusion (n = 7), steroid-responsive meningitis arteritis (n = 7) and meningoencephalitis/myelitis of unknown origin (n = 6). LIMITATIONS: This was a retrospective analysis of patients within a single institution identified using terms within patient records, relying on comprehensive recording of information by the clinician at the time of presentation. CONCLUSIONS: In this cohort, spontaneous vocalisation most frequently localised to the cervical spine, with intervertebral disc extrusion as the most common diagnosis. This information may aid in clinical decision making, especially when advanced imaging is unavailable.",
+      "affiliations": [
+        "Southern Counties Veterinary Specialists, Ringwood, UK.",
+        "Department of Veterinary Medicine, Cambridge University, Cambridge, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "41549268",
       "title": "A comparative analysis and critical review of two rTMS treatment durations in dogs with drug-resistant idiopathic epilepsy.",
       "authors": "Hünting D, Meller S, Twele F, Meyerhoff N, Bhatti SFM, Volk HA, Charalambous M",
@@ -30275,6 +31027,38 @@
         "Collagen"
       ],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41342405",
+      "title": "Prospective study of plasma prolactin and thyroxin concentrations in anxious and non-anxious dogs.",
+      "authors": "Schwobthaler F, Masson S, Bleuer-Elsner S, Prélaud P",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 17",
+      "sortdate": "2026-01-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41342405/",
+      "abstract": "BACKGROUND: This study examined the relationship between anxiety and plasma hormonal concentration (thyroxin, canine thyroid-stimulating hormone [cTSH] and prolactin) in male dogs, utilising the Evaluation of Dog's Emotional and cognitive Disorders (EDED) scale for anxiety assessment. METHODS: This research included a control group of non-anxious dogs for comparative purposes, with hormonal levels measured under controlled conditions. RESULTS: The findings showed no significant difference in thyroxin and cTSH concentrations between anxious and non-anxious dogs, indicating that anxiety might not directly influence these hormones. However, a significant elevation in prolactin levels was observed in anxious dogs, suggesting its potential as a biomarker for anxiety-related disorders in canines. LIMITATIONS: The study should be conducted on more dogs to confirm these results. Exploring prolactin concentration levels in females considering their estrous cycle should be performed in future research to be able to use prolactin as a biological marker of anxiety. CONCLUSION: This study contributes to the understanding of the neuroendocrine underpinnings of canine anxiety, proposing future research directions to explore the causal relationships between prolactin and anxiety and the therapeutic implications of modulating prolactin levels.",
+      "affiliations": [
+        "Atlantia Centre Hospitalier V&#xe9;t&#xe9;rinaire, Nantes, France.",
+        "Veterinary Behaviour Clinic, Voreppe, France.",
+        "No Ledge Research, Voreppe, France.",
+        "Independent Practitioner, Tel-Aviv, Israel.",
+        "Advetia Centre Hospitalier V&#xe9;t&#xe9;rinaire, V&#xe9;lizy Villacoublay, France."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Prolactin",
+        "Male",
+        "Anxiety",
+        "Thyroxine",
+        "Prospective Studies",
+        "Dog Diseases",
+        "Biomarkers",
+        "Female"
+      ],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -31430,6 +32214,31 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41491344",
+      "title": "Transpalpebral exenteration in dogs: A retrospective study (2003‒2023).",
+      "authors": "Patel K, de Lacerda RP, Mazzucchelli S, Smith K, Robinson W, Lockhart R, Tsvetanova A, Iga C, Tee FLM, Gomez AP",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 05",
+      "sortdate": "2026-01-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41491344/",
+      "abstract": "BACKGROUND: Transpalpebral exenteration is indicated in cases of neoplasia, infection or severe trauma involving the globe and orbit. Limited peer-reviewed literature exists on the indications, complications and outcomes associated with this procedure in dogs. METHODS: This retrospective study analysed medical records of 35 dogs undergoing transpalpebral exenteration at three UK veterinary referral centres between 2003 and 2023. The data included signalment, diagnostic findings, surgical details and postoperative complications. Kruskal&#x2012;Wallis and Fisher's exact tests were used to analyse relationships between clinical variables and complications. RESULTS: Orbital neoplasia was the most common indication (54.3%, 19/35), followed by orbital inflammatory disease (25.7%, 9/35), orbital cyst (11.4%, 4/35), orbital foreign body (5.7%, 2/35) and orbital pseudotumour (2.9%, 1/35). Immediate postoperative complications (&lt;2 days) occurred in 60% (21/35) of cases, with surgical site swelling being the most frequent (90.5%). Short-term (2&#x2012;21 days) and long-term (&gt;21 days) complications occurred in 20% (7/35) and 5.7% (2/35) of cases, respectively. Six patients (17.1%) required additional treatment. No significant correlations were found between the independent variables and complication rates. LIMITATIONS: This study is limited by its retrospective nature and the small sample size. CONCLUSION: Transpalpebral exenteration is a safe procedure with primarily minor postoperative complications that typically resolve without intervention.",
+      "affiliations": [
+        "Willows Veterinary Centre &amp; Referral Service, Solihull, UK.",
+        "Davies Veterinary Specialists, Hitchin, UK.",
+        "North Downs Specialist Referrals, Bletchingley, UK."
+      ],
+      "keywords": [
+        "complications",
+        "dog",
+        "exenteration",
+        "indications",
+        "outcomes"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -33555,6 +34364,239 @@
         "Shoulder Joint"
       ],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "41891574",
+      "title": "Why are cats prone to kidney disease?",
+      "authors": "Mills G",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41891574/",
+      "abstract": "Cats can accumulate intracellular fat droplets in their kidneys, even from a young age, which may lead to kidney disease. Here, Georgina Mills reports on new research that looks at the incidence and the types of lipids present.",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Kidney Diseases"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "41527203",
+      "title": "Diagnostic accuracy of symmetric dimethylarginine for chronic kidney disease in cats and dogs: A systematic review.",
+      "authors": "Scobie C, Dean R, Stavisky J, Plüddemann A",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41527203/",
+      "abstract": "BACKGROUND: Chronic kidney disease is common in cats and dogs. The diagnosis previously relied upon serum creatinine; however, symmetric dimethylarginine (SDMA) may identify chronic kidney disease (CKD) earlier. A recent evidence summary questioned the superiority of SDMA in cats. Another study raised concerns over the specificity of SDMA in dogs. METHODS: Electronic databases and grey literature were systematically searched for all relevant studies up to October 2024. Studies were included based on prespecified criteria by two independent reviewers. Studies were assessed for risk of bias and applicability concerns. RESULTS: Eleven studies were included: five in cats (481 animals) and six in dogs (460 animals). There was marked heterogeneity in the design, population and tests used. Nine studies were at high risk of bias, and nine had high applicability concerns. There was marked variation in sensitivity and specificity. Heterogeneity and risk of bias present precluded meta-analysis. Sources of heterogeneity were explored. LIMITATIONS: Grey literature searching, data extraction and risk of bias assessment lacked independent duplication. CONCLUSION: Significant uncertainty remains regarding the diagnostic accuracy of SDMA in CKD in cats and dogs. Well-designed diagnostic accuracy trials in clinically relevant populations with optimised reference standards and thresholds are needed. The use of SDMA may increase the risk of misdiagnosis and overdiagnosis of CKD.",
+      "affiliations": [
+        "VetPartners, York, UK.",
+        "Nuffield Department of Primary Care Health Sciences, University of Oxford, Oxford, UK."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cat Diseases",
+        "Cats",
+        "Dog Diseases",
+        "Renal Insufficiency, Chronic",
+        "Arginine",
+        "Sensitivity and Specificity",
+        "Biomarkers"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "41405184",
+      "title": "Relationship between sleep and pain in Cavalier King Charles spaniels.",
+      "authors": "Sherman AR, Quigley MA, Werre SR, Rossmeisl JH, Parker RL",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41405184/",
+      "abstract": "BACKGROUND: Cavalier King Charles spaniels (CKCS) have a high frequency of chronic pain and may have abnormal sleep patterns. We hypothesised that CKCS with neuropathic pain (elevated NeP score) would have an increased nighttime restlessness (sleep and nighttime restless [SNoRE 3.0] score) and a worse quality of life (QOL). METHODS: Owners of CKCS were recruited to complete an online survey, including demographic information, the SNoRE 3.0 sleep survey, the NeP survey and QOL. RESULTS: The median SNoRE 3.0 score was 12.5, the median NeP score was 0.83 and the median QOL score was 2. The Spearman correlation coefficient between SNoRE 3.0 and NeP was 0.381 (p&#xa0;=&#xa0;0.0012), between SNoRE 3.0 and QOL was 0.29 (p&#xa0;=&#xa0;0.014) and between NeP and QOL was 0.58 (p&#xa0;&lt;&#xa0;0.0001). LIMITATIONS: This is a questionnaire-based study with a small sample size. Due to the study design, diagnoses are not confirmed. CONCLUSIONS: These data indicate that there is a positive correlation between owner survey responses regarding increased nighttime restlessness, worse NeP and worse QOL.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, Virginia-Maryland College of Veterinary Medicine, Blacksburg, Virginia, USA.",
+        "Department of Biological Sciences and Pathobiology, Virginia-Maryland College of Veterinary Medicine, Blacksburg, Virginia, USA.",
+        "Veterinary and Comparative Neuro-Oncology Laboratory, Virginia-Maryland College of Veterinary Medicine, Blacksburg, Virginia, USA."
+      ],
+      "keywords": [
+        "dog",
+        "neuropathic pain",
+        "pain",
+        "sleep"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Quality of Life",
+        "Dog Diseases",
+        "Female",
+        "Surveys and Questionnaires",
+        "Male",
+        "Humans",
+        "Neuralgia",
+        "Sleep",
+        "Sleep Wake Disorders"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41342436",
+      "title": "Magnetic resonance imaging of the normal feline eye using a T1-weighted volumetric sequence.",
+      "authors": "He J, de Lacerda RP, Gómez AP, Griffin S, Smith K, Mazzucchelli S",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41342436/",
+      "abstract": "BACKGROUND: This study aimed to characterise the normal magnetic resonance imaging (MRI) appearance of the feline eye and establish reference ranges. METHODS: Medical records of cats that underwent MRI of the head between 2022 and 2023 were reviewed. Patients with any ocular and/or orbital abnormalities were excluded. Measurements were performed from the T1-weighted volumetric sequence. RESULTS: Forty-six cats (89 eyes) were included, with a mean age at presentation of 7.5 years. Domestic shorthair was overrepresented (82%). Median axial globe length was 2.13&#xa0;cm and median equatorial globe width was 2.01&#xa0;cm. Median anterior chamber depth and mean vitreous chamber depth were 0.47 and 0.79&#xa0;cm (&#xb1;0.05 cm), respectively. Median axial lens length was 0.86&#xa0;cm and median equatorial lens width was 1.33&#xa0;cm. The median width of the optic nerve was 0.16&#xa0;cm and the mean width of the entire optic nerve sheath was 0.45&#xa0;cm (&#xb1;0.05 cm). Weak positive relationships were statistically noted between skull width and axial globe length, equatorial globe width and anterior chamber depth. No associations were found between all parameters and age, weight or sex. LIMITATIONS: Main limitations include retrospective nature, single observer and overrepresentation of domestic shorthair cats. CONCLUSION: This study establishes normative values of feline ocular structures on T1-weighted volumetric MRI sequence. Some measurements of globe dimensions vary with skull size.",
+      "affiliations": [
+        "Willows Veterinary Centre &amp; Referral Service, Solihull, UK."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Female",
+        "Male",
+        "Reference Values",
+        "Magnetic Resonance Imaging",
+        "Eye",
+        "Retrospective Studies"
+      ],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "41342128",
+      "title": "Cross-sectional survey of the development and use of surgical safety checklists in small animal referral hospitals.",
+      "authors": "Malucelli D, Tivers MS",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41342128/",
+      "abstract": "BACKGROUND: There is limited information on the type and development process of surgical safety checklists (SSCs) in UK small animal referral practices. METHODS: An anonymous questionnaire was distributed to veterinary surgeons, registered veterinary nurses and paraprofessionals in 17 small animal private referral hospitals across the UK. SSCs were requested for analysis. A descriptive analysis of questionnaire responses was performed. SSCs were compared with the World Health Organization (WHO) and Royal College of Veterinary Surgeons Knowledge checklists. RESULTS: The response rate was 82% (14/17). All hospitals used an SSC, with 86% (12/14) believing it improved patient safety. Most SSCs (57%) were developed 'from scratch', while 43% were adapted from pre-existing templates, with WHO SSC as the only referenced template. Five of 14 (36%) hospitals had a designated SSC champion. Eight of 14 (57%) respondents could describe SSC development. Out of 14 hospitals, seven (50%) regularly reviewed and updated their SSC and two (14%) performed staff training sessions. SSCs were available for review from 13 of 14 (93%) hospitals. The median number of sections was 3 (range 3&#x2012;5), and the median number of items was 30 (range 20&#x2012;42). Eleven of 13 SSCs (85%) included non-killer items (not relating to patient safety). LIMITATIONS: Limitations include small sample size and hospitals belonging to the same network. CONCLUSIONS: SSCs are widely used in UK small animal referral hospitals. However, there was considerable variability and inconsistency in their development and use.",
+      "affiliations": [
+        "Paragon Veterinary Referrals, Wakefield, UK."
+      ],
+      "keywords": [
+        "UK",
+        "small animals",
+        "surgical safety checklist",
+        "veterinary referral",
+        "veterinary surgery"
+      ],
+      "mesh": [
+        "Checklist",
+        "Animals",
+        "Humans",
+        "United Kingdom",
+        "Cross-Sectional Studies",
+        "Surveys and Questionnaires",
+        "Hospitals, Animal",
+        "Referral and Consultation",
+        "Patient Safety"
+      ],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41332314",
+      "title": "Hypofolataemia in five cats with immune-mediated haemolytic anaemia.",
+      "authors": "Zoia A",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41332314/",
+      "abstract": "BACKGROUND: Folate deficiency has been reported in humans and dogs with immune-mediated haemolytic anaemia (IMHA) but not in cats. METHODS: Cats with IMHA and without primary intestinal disease were included. Serum folate was measured at varying timepoints following IMHA diagnosis. RESULTS: Five cats (three with non-associative IMHA and two with possible concurrent acute pancreatitis) were followed for a median of 300 days (range: 40&#x2012;540 days). Serum folate concentration was evaluated 36 times (median: 6 per cat; range: 1&#x2012;19) and ranged from 5.1 to 20.1&#xa0;ng/mL (median: 7.4&#xa0;ng/mL), including nine samples in three cats receiving folic acid (400&#xa0;&#xb5;g/day). Hypofolataemia in the 27 samples without supplementation was detected in all cats on at least one occasion (median: 3 times; range: 1&#x2012;4) for a total of 13 episodes. The median time to detection was 13 days after diagnosis (range: 1&#x2012;310 days). The median haemoglobin concentration at the time of hypofolataemia was 7.01&#xa0;g/dL (range: 3.9&#x2012;9.92 g/dL). Oral folate supplementation normalised folate concentration (median: 16.0&#xa0;ng/mL; range: 11.8&#x2012;20.1&#xa0;ng/mL) in all nine tested samples. LIMITATIONS: Small sample size and lack of a control group prevented analysing the IMHA and folate link. CONCLUSIONS: Hypofolataemia occurred in all five cats with IMHA, possibly due to increased demand.",
+      "affiliations": [
+        "Division of Internal Medicine, San Marco Veterinary Clinic, Padua, Italy."
+      ],
+      "keywords": [
+        "DNA synthesis",
+        "IMHA",
+        "feline",
+        "folate deficiency",
+        "haemolysis"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Female",
+        "Male",
+        "Anemia, Hemolytic, Autoimmune",
+        "Folic Acid",
+        "Folic Acid Deficiency"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "41328740",
+      "title": "Development of a proptosis model as a surgical training tool for veterinary students and practitioners.",
+      "authors": "Pe'er O, Sebbag L, Ofri R",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41328740/",
+      "abstract": "BACKGROUND: Effective training is fundamental to the development of critical skills for emergency veterinary interventions. This study presents a synthetic canine proptosis model designed to train veterinary interns, final-year students and practitioners, offering an ethical, reproducible and high-fidelity option for learning proptosis management. The model aims to simulate key anatomical and mechanical features of the canine eye, providing a hands-on experience in a high-fidelity setting. METHODS: Sixteen participants, including veterinary interns and students with limited surgical backgrounds, underwent training sessions using this model, and completed pre- and post-training surveys. RESULTS: This training tool was highly rated for anatomical accuracy (8.3/10) and its utility in enhancing proptosis management skills (9.5/10). Confidence levels in performing proptosis correction in real-life scenarios showed significant improvement, with mean &#xb1; SD pre- and post-training scores of 4.3 &#xb1; 2.5 and 8.1 &#xb1; 1.6, respectively (p = 0.0005). LIMITATIONS: While the model provided effective simulation, it does not fully capture the biological variability and tactile feedback inherent to living tissue, including oedema and haemorrhage. CONCLUSIONS: The model provides a practical, ethical alternative to cadaver training, yielding measurable benefits in skill acquisition. Further studies should explore the extension of this model for additional ophthalmic training applications.",
+      "affiliations": [
+        "Koret School of Veterinary Medicine, Hebrew University of Jerusalem, Rehovot, Israel."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Dogs",
+        "Animals",
+        "Education, Veterinary",
+        "Humans",
+        "Exophthalmos",
+        "Dog Diseases",
+        "Veterinarians",
+        "Clinical Competence",
+        "Models, Anatomic"
+      ],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "41084903",
+      "title": "Frequency and risk factors for tail injuries in UK dogs under primary veterinary care.",
+      "authors": "Pegram C, O'Neill DG, Edwards A, Church DB, Brodbelt DC",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41084903/",
+      "abstract": "BACKGROUND: Tail injuries in dogs can severely impact welfare and pose clinical challenges. This study aimed to describe the annual incidence and clinical management of tail injury in UK dogs under primary care and identify risk factors. METHODS: A nested case&#x2012;control design was used within a cohort of dogs under primary care in the UK in 2019. Clinical records were automatically searched and manually verified to identify incident tail injury cases and extract management data. Multivariable logistic regression was then used to evaluate associations between potential risk factors and tail injury diagnosis. RESULTS: The analysis included 285 tail injury cases and 285,000 randomly selected controls. The estimated annual incidence risk for tail injury was 0.23%. Increased odds of injury were observed in boxers, English springer spaniels and cocker spaniels; dogs aged less than 2 years; male entire, male neutered and female neutered dogs; working and gundog breeds; and dogs weighing between 20 and 30&#xa0;kg. Systemic analgesia and antibiosis were prescribed in 45.6% and 32.6% of cases, respectively. Surgical amputation was undertaken in 9.1% of cases. LIMITATIONS: This study relied on retrospective electronic health record data. Only factors consistently recorded in clinical records were available. CONCLUSION: Tail injury is relatively uncommon but carries serious welfare risks. Identifying high-risk groups offers valuable insights for veterinarians, breeders and policymakers.",
+      "affiliations": [
+        "Pathobiology and Population Sciences, Royal Veterinary College, Hatfield, UK.",
+        "Clinical Science and Services, Royal Veterinary College, Hatfield, UK."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Tail",
+        "United Kingdom",
+        "Risk Factors",
+        "Male",
+        "Female",
+        "Case-Control Studies",
+        "Retrospective Studies",
+        "Incidence",
+        "Wounds and Injuries",
+        "Primary Health Care"
+      ],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -41235,6 +42277,23 @@
       "summary_ko": ""
     },
     {
+      "id": "37082758",
+      "title": "Arthroscopic Treatment of Chronic Cruciate Ligament Rupture in the Dog without Stifle Stabilization: 13 Cases (2001-2020).",
+      "authors": "Creamer DG, Muir P",
+      "journal": "Case Rep Vet Med",
+      "date": "2023 Apr 11",
+      "sortdate": "2023-04-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37082758/",
+      "abstract": "OBJECTIVE: The objective was to study clinical outcomes in dogs with chronic cruciate ligament rupture (CR) treated with palliative arthroscopy as the sole surgical treatment. METHODS: Thirteen client-owned dogs with CR underwent physical examination, stifle radiography, and arthroscopy with resection of damaged meniscal tissue. Records were evaluated, and orthopaedic examination, radiographs, and arthroscopy images were assessed. Long-term clinical outcome was also assessed by use of an owner questionnaire. RESULTS: Thirteen dogs that underwent arthroscopy at the UW Veterinary Care between 2001 and 2020 were included. Long-term follow-up was available for 7 of 13 dogs. Lameness was static to improved in all dogs in which arthroscopy was performed. Subsequent stifle stabilization was performed after arthroscopy in only 1 of 7 dogs with follow-up data. CONCLUSION: Palliative arthroscopy and resection of damaged meniscal tissue in combination with medical management of osteoarthritis can be considered in dogs with chronic CR and cranial tibial subluxation with little passive laxity during examination. Revision surgery with TPLO is uncommon after arthroscopy based on this study.",
+      "affiliations": [
+        "Comparative Orthopaedic Research Laboratory, School of Veterinary Medicine, University of Wisconsin-Madison, Madison, WI 53706, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "arthroscopy",
+      "summary_ko": ""
+    },
+    {
       "id": "37020978",
       "title": "A shortened whole brain radiation therapy protocol for meningoencephalitis of unknown origin in dogs.",
       "authors": "Herzig R, Beckmann K, Körner M, Steffen F, Rohrer Bley C",
@@ -41749,6 +42808,26 @@
       "summary_ko": ""
     },
     {
+      "id": "36523648",
+      "title": "Epidural Fat and Perineural Adipose Tissue Septic Emboli Mimicking Peripheral Nerve Sheath Tumor in a Dog.",
+      "authors": "Merbl Y, Ramsay KM, Hanna A, Chen AV, White LA, Burbick CR",
+      "journal": "Case Rep Vet Med",
+      "date": "2022 Dec 06",
+      "sortdate": "2022-12-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36523648/",
+      "abstract": "Summary. A 9-year-old 35.6&#x2009;kg (90&#x2009;lb) female neutered German Shepherd dog was admitted due to progression of tetraparesis. The dog presented pyrexia, mild leukocytosis, and nonambulatory tetraparesis with decreased general proprioception and withdrawal in all the limbs, with the front limbs more severely affected. Magnetic resonance imaging revealed T2-weighted image (WI) hyperintense, contrast-enhancing lesion at the level of the C6-C8 spinal nerves, and epidural fat, suspected to be an infiltrative neoplasm. Medical treatments during hospitalization included glucocorticoids, antibiotics, and supportive care. Euthanasia was elected 4 days later due to financial constraints, despite clinical improvement. Postmortem findings revealed septic emboli (SE) in the epidural fat exiting the canal and following the tract of the spinal nerve roots and nerves. Staphylococcus pseudintermedius was identified as the causative agent. Although the incidence of SE without severe systemic disease is considered low in dogs, it should be considered in the differential diagnosis of focal intraspinal disease.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, Cornell University, Ithaca, NY 14853-6401, USA.",
+        "VDx Veterinary Diagnostics and Preclinical Research Services, Davis, CA 95616, USA.",
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Washington State University, Pullman, WA 99164-7060, USA.",
+        "Washington Animal Disease Diagnostic Laboratory, College of Veterinary Medicine, Washington State University, Pullman, WA 99164-7060, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
       "id": "36209994",
       "title": "Parallel roles of neuroinflammation in feline and human epilepsies.",
       "authors": "Binks S, Lamquet S, Crawford AH, Meurs A, Irani SR, Pakozdy A",
@@ -42188,6 +43267,25 @@
       ],
       "mesh": [],
       "category": "jointreplacement",
+      "summary_ko": ""
+    },
+    {
+      "id": "36213086",
+      "title": "Transient Postoperative Hemorrhage from Elbow Arthroscopy Portals following Intra-Articular Pentosan Polysulfate Sodium Injection.",
+      "authors": "Parker LA, Wustefeld-Janssens B, Dundas JM",
+      "journal": "Case Rep Vet Med",
+      "date": "2022 Sep 29",
+      "sortdate": "2022-09-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36213086/",
+      "abstract": "Four adult, client owned dogs with diagnosed bilateral elbow dysplasia undergoing elbow arthroscopy for removal of fragmented medial coronoid process were identified via a retrospective database search, who also received intra-articular administration of pentosan polysulfate sodium (PPS) (Cartrophen Vet, Biopharm Australia Pty Ltd., Bondi Junction, New South Wales). Dogs had postoperative administration of 5&#x2009;ml PPS injected into each elbow joint following elbow arthroscopy. Within 1-3 hours of administration, each dog experienced hemorrhage from arthroscopy incisions that was determined to be independent of surgical trauma given lack of hemorrhage intraoperatively. Pressure bandages were placed, and the hemorrhage and elevated coagulation parameters resolved 12-18 hours following intra-articular injection. No further intervention was required, and the dogs were discharged 20-26 hours postoperatively. The purpose of this case series is to describe 4 dogs who experienced transient and focal hemorrhage following off-label intra-articular administration of pentosan polysulfate sodium (PPS). While this case series is limited due to small number of cases, results following bilateral, intra-articular injection of PPS support a transient systemic coagulopathy. Though this report represents administration of PSS via a route and at doses beyond that recommended on the label, results suggest that administration of PSS in the manner described in this report should be avoided.",
+      "affiliations": [
+        "University of Missouri Veterinary Health Center, 900 East Campus Drive, Columbia, Missouri 65211, USA.",
+        "Atlantic Veterinary College, University of Prince Edward Island, 550 University Avenue, Charlottetown, Prince Edward Island, Canada C1A 4P3.",
+        "Colorado State University, Flint Animal Cancer Center, 300 West Drake Road, Fort Collins, Colorado 80523, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "arthroscopy",
       "summary_ko": ""
     },
     {
@@ -42958,6 +44056,32 @@
         "Stifle",
         "Surgical Wound Infection",
         "Tibia"
+      ],
+      "category": "arthroscopy",
+      "summary_ko": ""
+    },
+    {
+      "id": "34743341",
+      "title": "Computed tomographic assessment of the completeness of arthroscopic subtotal coronoidectomy in dogs with medial coronoid disease.",
+      "authors": "Renner C, Medl N",
+      "journal": "Vet Rec",
+      "date": "2022 Apr 01",
+      "sortdate": "2022-04-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34743341/",
+      "abstract": "BACKGROUND: Until recent years, arthroscopic subtotal coronoidectomy has been the universally accepted treatment for medial coronoid disease but has variable clinical outcomes. The aim of this study was to evaluate the completeness of arthroscopic medial coronoid debridement and to detect the most vulnerable location of failure. METHODS: Eighty-three dogs with a diagnosis of medial coronoid disease were included in the study. Arthroscopic debridement was performed in 92 elbow joints, and the completeness of removal was assessed by postoperative computed tomography scans. RESULTS: Pathological changes were confined to the coronoid apex in 92/92 (100%) of cases and combined with radial incisure lesions in 39/92 (42%). Apical lesions were completely removed in 66/92 (72%) of cases and radial incisure lesions in 2/39 (5%). Bony remnants were detected at the apex (46%) and base (24%) of the medial coronoid process, free within the elbow joint (9%), and/or within the instrument port (84%). Fissures were positively associated with the occurrence of bony remnants (p&#xa0;=&#xa0;0.038) and a 37% higher probability of incomplete removal of radial incisure lesions (p&#xa0;=&#xa0;0.001). CONCLUSION: In this study, incomplete removal was more likely to occur in the presence of radial incisure lesions. Thorough assessment of this region during arthroscopy is strongly recommended.",
+      "affiliations": [
+        "AniCura Kleintierklinik Babenhausen GmbH, Alpenstra&#xdf;e 27, Babenhausen, Bavaria, 87727, Germany."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Arthroscopy",
+        "Dog Diseases",
+        "Dogs",
+        "Elbow Joint",
+        "Forelimb",
+        "Joint Diseases",
+        "Tomography, X-Ray Computed"
       ],
       "category": "arthroscopy",
       "summary_ko": ""
@@ -43798,6 +44922,38 @@
       "summary_ko": ""
     },
     {
+      "id": "34118160",
+      "title": "Defining the rate of, and factors influencing, radiographic progression of osteoarthritis of the canine hip joint.",
+      "authors": "Enomoto M, Baines EA, Roe SC, Marcellin-Little DJ, Lascelles BDX",
+      "journal": "Vet Rec",
+      "date": "2021 Nov 01",
+      "sortdate": "2021-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34118160/",
+      "abstract": "BACKGROUND: This study aimed to define the rate of progression of radiographic osteoarthritis (OA) of the canine hip joint and to describe factors affecting this progression. METHODS: Dogs that underwent unilateral total hip replacement (THR) were reviewed for the evaluation of radiographic appearance of the non-operated hip joint over time. Standard extended ventrodorsal hip radiographs were taken preoperatively and postoperatively. All images were anonymized, randomized and scored using three different methods. The mean daily change between evaluations was calculated in each individual dog, and the effect of sex, age, body weight, open/closed status of the proximal femoral physis, preoperative severity of OA, time after surgery and their interactions, were investigated as potential influencing factors. RESULTS: After reviewing the medical records, 163 dogs (468 images) met the inclusion criteria. Consistent across the three scoring systems, radiographic progression of OA was greater in younger (open physis) and spayed female dogs. A subset of seven patients (4.3%) had a faster progression of OA and was considered outliers. No dog was rated as outlier by all three scoring systems. CONCLUSION: The rate of progression of radiographically assessed coxofemoral OA varies greatly, but is faster in younger, spayed female dogs. Unusually fast progression occasionally occurs.",
+      "affiliations": [
+        "Translational Research in Pain (TRiP), Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Willows Veterinary Centre and Referral Service, Solihull, UK.",
+        "Orthopedic Research Laboratory, Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Department of Surgical and Radiological Sciences, UC Davis School of Veterinary Medicine, Davis, California, USA.",
+        "Comparative Pain Research and Education Center, North Carolina State University, Raleigh, North Carolina, USA.",
+        "Thurston Arthritis Center, UNC School of Medicine, Chapel Hill, North Carolina, USA.",
+        "Center for Translational Pain Research, Department of Anesthesiology, Duke University, Durham, North Carolina, USA."
+      ],
+      "keywords": [],
+      "mesh": [
+        "Animals",
+        "Arthroplasty, Replacement, Hip",
+        "Dog Diseases",
+        "Dogs",
+        "Female",
+        "Hip Joint",
+        "Osteoarthritis, Hip",
+        "Radiography"
+      ],
+      "category": "jointreplacement",
+      "summary_ko": ""
+    },
+    {
       "id": "34827811",
       "title": "Effects of Multi-Bacteria Solid-State Fermented Diets with Different Crude Fiber Levels on Growth Performance, Nutrient Digestibility, and Microbial Flora of Finishing Pigs.",
       "authors": "Hu P, Wang L, Hu Z, Jiang L, Hu H, Rao Z, Wu L, Tang Z",
@@ -44628,6 +45784,41 @@
         "Ulna"
       ],
       "category": "arthroscopy",
+      "summary_ko": ""
+    },
+    {
+      "id": "33666999",
+      "title": "Cerebrospinal fluid analysis in dogs: Main patterns and prevalence of albuminocytological dissociation.",
+      "authors": "Suñol A, Garcia-Pertierra S, Faller KME",
+      "journal": "Vet Rec",
+      "date": "2021 Mar 01",
+      "sortdate": "2021-03-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33666999/",
+      "abstract": "BACKGROUND: Albuminocytological dissociation (ACD) of the cerebrospinal fluid (CSF) is defined as an increased total protein concentration with normal total nucleated cell count. It is suspected to occur in diseases that alter the blood-brain barrier, increase the production of protein or obstruct the flow of CSF. The purposes of this study were to review the CSF analysis results of a large cohort of dogs with neurological conditions, to analyse the total prevalence of ACD and to describe which diseases have a higher prevalence of ACD. STUDY DESIGN AND METHODS: Medical records were retrospectively searched for dogs whom CSF was sampled from 2012-2019. Data collected included signalment, body weight, site of collection of the CSF, CSF analysis results, and final diagnosis. RESULTS: A total of 497 dogs met the inclusion criteria. ACD was identified in 16.5% (82/497) of dogs. The diseases with higher proportion of ACD were cranial nerve neuropathy (6/10; 60.0%), brain tumour (10/24; 41.7%), idiopathic vestibular disease (7/17; 41.2%) and brain vascular disease (4/13; 30.8%). CLINICAL SIGNIFICANCE: This study describes the CSF patterns of the most common neurological conditions in dogs, also characterizing, for the first time in dogs, the prevalence and causes of ACD, which was identified in 16.5% of the samples. The diseases with highest proportions of ACD were cranial nerve neuropathy, brain tumour, idiopathic vestibular disease and brain vascular disease.",
+      "affiliations": [
+        "Hospital for Small Animals, Royal (Dick) School of Veterinary Studies, University of Edinburgh, Roslin, UK."
+      ],
+      "keywords": [
+        "canine",
+        "central nervous system",
+        "clinical pathology",
+        "neurology",
+        "total protein concentration"
+      ],
+      "mesh": [
+        "Albumins",
+        "Animals",
+        "Cerebrospinal Fluid",
+        "Cerebrospinal Fluid Proteins",
+        "Dog Diseases",
+        "Dogs",
+        "Female",
+        "Male",
+        "Nervous System Diseases",
+        "Prevalence",
+        "Retrospective Studies"
+      ],
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
