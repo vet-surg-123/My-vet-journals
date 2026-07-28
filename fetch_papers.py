@@ -171,6 +171,14 @@ NEUROONCO_PHRASES = [
     "pituitary carcinoma", "pituitary neoplas",
     "cns lymphoma", "spinal lymphoma", "central nervous system lymphoma",
     "cns neoplas", "central nervous system neoplas",
+    # 지주막 게실/낭종 (종양은 아니나 신경계 점거병변 — 신경종양 그룹에 포함 요청).
+    #   ※ 'cyst·pseudocyst·diverticulum' 단독은 신장·간·췌장·소화기 등 타과와 겹치므로 절대 미포함.
+    #     반드시 신경계 부위어(subarachnoid·arachnoid·meningeal)와 결합된 구절로만 매칭.
+    "subarachnoid diverticulum", "subarachnoid diverticula",
+    "arachnoid diverticulum", "arachnoid diverticula",
+    "subarachnoid cyst", "arachnoid cyst",           # 'intra-arachnoid cyst'·'spinal arachnoid cyst'도 포함됨
+    "subarachnoid pseudocyst", "arachnoid pseudocyst",
+    "meningeal cyst", "leptomeningeal cyst", "meningeal pseudocyst",
 ]
 
 CATEGORY_LABELS = {
