@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28 12:29 UTC",
-  "total": 1583,
+  "updated": "2026-07-28 23:37 UTC",
+  "total": 1586,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -1484,6 +1484,81 @@
       "summary_ko": ""
     },
     {
+      "id": "42519726",
+      "title": "Acoustic myography of the biceps and triceps brachii muscles during retrieving drills in field trial dogs.",
+      "authors": "Hugel AK, Manfredi J, Tomlinson J",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 06",
+      "sortdate": "2026-07-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519726/",
+      "abstract": "INTRODUCTION: Field-trial dogs decelerate from speed, turn, and retrieve birds, potentially predisposing to biceps tendinopathy. Acoustic myography (AMG) measures muscle contraction. We hypothesized that braking/turning (turn) to retrieve birds produces more biceps and triceps work vs. gallop to the bird (out-run), or back with the bird (return) and that work in these muscles would be asymmetric between limbs at turn. METHODS: Fourteen conditioned, orthopedically sound retrievers were fitted with wired sensors adhered bilaterally to triceps and biceps, connected to a harness holding AMG equipment. Dogs performed three 91.44 m retrieves with 2 s AMG recordings sampled mid out-run and return, and 1 s during turn; speed was calculated for each section. Data analysis: Shapiro-Wilk tests for normality and either Student's t-test (AMG data inside vs. outside leg at turn) or one-way mixed effects model with Geisser-Greenhouse correction or ANOVA with Tukey's multiple comparisons post-hoc test (other AMG parameters, dog speed). Significance was p &lt; 0.05. RESULTS: Speed was faster at out-run vs. return. Biceps at out-run had greater amplitude vs. return and frequency vs. turn. Biceps at turn had greater amplitude than return. Triceps at both out-run and turn had greater amplitude vs. return. Contraction frequency was greater for biceps at out-run vs. turn and for triceps at turn vs. out-run. DISCUSSION: Carrying a bird is not a risk factor for biceps tendinopathy in field trial dogs; excess tensile load on the biceps from triceps action at turn, and high muscle work in the biceps at out-run are likely risk factors.",
+      "affiliations": [
+        "Twin Cities Animal Rehabilitation + Sports Medicine, Burnsville, MN, United States.",
+        "College of Veterinary Medicine, Department of Large Animal Clinical Sciences, Michigan State University, East Lansing, MI, United States."
+      ],
+      "keywords": [
+        "AMG",
+        "biceps tendinopathy",
+        "canine",
+        "lameness",
+        "muscle function",
+        "speed"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42519725",
+      "title": "Structured therapeutic exercise program effect on PROM and muscle mass in dogs with osteoarthritis: a prospective clinical study.",
+      "authors": "Török M, Dvoranová M, Lipták T, Mad'ari A, Kuricová M",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 06",
+      "sortdate": "2026-07-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519725/",
+      "abstract": "BACKGROUND: Degenerative joint disease, namely osteoarthritis, represents a major cause of chronic pain and functional limitation in dogs. Although rehabilitation is widely incorporated into clinical management, objective data quantifying joint mobility and muscular adaptations following structured exercise protocols remain limited. OBJECTIVE: To evaluate changes in passive range of joint motion (PROM) and limb circumference following a five-week therapeutic exercise program in dogs diagnosed with degenerative joint disease. METHODS: Twenty-one client-owned dogs underwent a standardized rehabilitation protocol consisting of three sessions per week. Goniometric measurements of appendicular joints and limb circumference assessments were performed before and after intervention. Deviations from published reference midpoints were calculated, and improvement in joint motion was defined as reduction in deviation regardless of direction of absolute change. Morphometric parameters were also recorded. Joints were analyzed individually to describe distribution of changes across the cohort. RESULTS: Across most joints, extension movements were associated with a higher proportion of PROM increases, whereas flexion showed a more mixed pattern with frequent decreases or unchanged values. The most pronounced response was observed in the hip joint. Pelvic limb musculature showed greater circumference than thoracic limb musculature, with the largest mean increase in circumference recorded in the thigh region. Body weight and trunk circumferences remained largely stable during the intervention period. Considerable inter-individual variability in response to therapy was observed. CONCLUSION: A structured exercise-based rehabilitation program was associated with measurable changes in goniometry and muscle circumference in dogs with secondary degenerative joint disease. These findings support the integration of targeted therapeutic exercise into multimodal conservative management strategies for orthopedic patients.",
+      "affiliations": [
+        "University of Veterinary Medicine and Pharmacy in Ko&#x161;ice, Ko&#x161;ice, Slovakia."
+      ],
+      "keywords": [
+        "degenerative joint disease",
+        "dog",
+        "goniometry",
+        "limb circumference",
+        "physiotherapy"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42519719",
+      "title": "Spinal arachnoid diverticula and constrictive myelopathy in dogs: different conditions or a spectrum of spinal meningeal disease in veterinary and human medicine?",
+      "authors": "De Frias JM, Khan S, Rohdin C, Bhatti SFM, De Decker S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 06",
+      "sortdate": "2026-07-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42519719/",
+      "abstract": "Different conditions affecting the spinal meningeal layers have been reported in human and veterinary medicine. In veterinary medicine, two separate conditions have been reported. Spinal arachnoid diverticula (SAD) have been well documented for decades, while constrictive myelopathy (CM) in pugs was identified more recently. However, the distinction between SAD and CM in dogs can be challenging. There is a lack of understanding about the pathophysiology of these puzzling conditions, which impacts the ability to select the most appropriate treatment. In humans, four different spinal meningeal diseases are described, including intradural or extradural spinal arachnoid cysts, spinal arachnoid webs, spinal adhesive arachnoiditis, and idiopathic spinal cord herniation. Similar challenges to veterinary medicine are also encountered in human medicine. This brief comparative review aims to emphasize the parallels and obstacles found in both veterinary and human medicine and to explore potential future developments. The term 'spinal meningeal adhesive disease' is proposed as a unified term in veterinary medicine for pathologies affecting the meninges of the spinal cord (SAD and CM), potentially causing progressive clinical signs of myelopathy.",
+      "affiliations": [
+        "Hospital for Small Animals, The Royal (Dick) School of Veterinary Studies, University of Edinburgh, Edinburgh, United Kingdom.",
+        "Department of Neurosurgery, Royal Infirmary of Edinburgh, Edinburgh, United Kingdom.",
+        "AniCura Djursjukhuset Albano, Danderyd, Sweden.",
+        "Small Animal Department, Faculty of Veterinary Medicine, Ghent University, Merelbeke-Melle, Belgium.",
+        "Department of Clinical Science and Services, The Royal Veterinary College, University of London, London, United Kingdom."
+      ],
+      "keywords": [
+        "meningeal fibrosis",
+        "one health",
+        "spinal meningeal disease",
+        "subarachnoid cyst",
+        "translational research"
+      ],
+      "mesh": [],
+      "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42450788",
       "title": "Fracture Risk Evaluation of Trochlear Groove Depth in Toy and Small-Breed Dogs Under Gait-Based Loading: A Finite Element and Fatigue Analysis Study.",
       "authors": "Jeong M, Woo HM, Kim K, Kim J",
@@ -1819,16 +1894,14 @@
       ],
       "mesh": [
         "Animals",
-        "Cat Diseases",
         "Cats",
         "Amino Acid Metabolism, Inborn Errors",
-        "Magnetic Resonance Imaging",
-        "Fatal Outcome",
         "Brain",
-        "Vitamin B 12",
+        "Cat Diseases",
+        "Fatal Outcome",
+        "Magnetic Resonance Imaging",
         "Methylmalonic Acid",
-        "Female",
-        "Male"
+        "Vitamin B 12"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -3751,16 +3824,15 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Cat Diseases",
-        "Retrospective Studies",
-        "Female",
-        "Lasers, Semiconductor",
         "Male",
-        "Laser Therapy",
         "Apocrine Glands",
+        "Cat Diseases",
+        "Cystadenoma",
         "Eyelid Diseases",
         "Eyelid Neoplasms",
-        "Cystadenoma",
+        "Laser Therapy",
+        "Lasers, Semiconductor",
+        "Retrospective Studies",
         "Treatment Outcome"
       ],
       "category": "surgery",
