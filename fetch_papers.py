@@ -37,11 +37,15 @@ START_DATE = os.environ.get("START_DATE", "2026-01-01").replace("-", "/")
 # 🔧 증분 수집 창(일). 0이면 매번 START_DATE~오늘 전체를 조회(권장, 누락 없음).
 #    속도가 필요하면 예) 30 → 최근 30일만 조회하고 기존 데이터에 '추가'로 병합.
 INCREMENTAL_DAYS = int(os.environ.get("INCREMENTAL_DAYS", "0"))
-# 🔧 인공관절(jointreplacement)만 더 오래전부터 수집. (양이 적어 기간을 넓힘)
-#    본검색과 별개로, 아래 날짜~오늘 범위를 '인공관절 키워드'로 추가 검색하고
-#    실제로 '인공관절'로 분류된 논문만 추가한다. (다른 분야는 영향 없음)
-JOINTREPL_START_DATE = os.environ.get("JOINTREPL_START_DATE", "2020-01-01").replace("-", "/")
-JOINTREPL_BACKFILL   = os.environ.get("JOINTREPL_BACKFILL", "1") != "0"   # 0이면 끔
+# 🔧 특정 분야만 더 오래전부터 수집(백필). 양이 적은 분야를 과거까지 채운다.
+#    본검색(START_DATE~오늘)과 별개로, 아래 분야들을 BACKFILL_START_DATE~오늘 범위로 추가 검색하고
+#    '실제로 그 분야로 분류된 논문'만 추가한다. (다른 분야·기간엔 영향 없음)
+BACKFILL_START_DATE = os.environ.get("BACKFILL_START_DATE", "2020-01-01").replace("-", "/")
+#    백필할 분야 목록(쉼표구분). 인공관절·신경종양·관절경. 끄려면 env BACKFILL_CATS="" 로.
+BACKFILL_CATS = [c.strip() for c in
+                 os.environ.get("BACKFILL_CATS",
+                                "jointreplacement,neurooncology,arthroscopy").split(",")
+                 if c.strip()]
 # 🔧 최대 수집 개수 — 0이면 제한 없음(조건 맞는 것 전부, 수만 개 가능)
 MAX_RESULTS    = int(os.environ.get("MAX_RESULTS", "0"))
 # 🔧 초록 저장 최대 글자수 — 0이면 전체 저장. 수만 개면 파일이 커지니 800 등으로 제한 권장
@@ -368,10 +372,16 @@ def build_query():
     return build_query_dated(date_from)
 
 
-def build_jointrepl_query():
-    """인공관절 백필: 인공관절 키워드 포함 + JOINTREPL_START_DATE(기본 2020)~오늘."""
-    return build_query_dated(JOINTREPL_START_DATE,
-                             extra_terms=CATEGORY_KEYWORDS["jointreplacement"])
+def category_search_terms(cat):
+    """백필 검색에 쓸 그 분야의 키워드 목록. (신경종양은 별도 표현 목록 사용)"""
+    if cat == "neurooncology":
+        return NEUROONCO_PHRASES
+    return CATEGORY_KEYWORDS.get(cat, [])
+
+
+def build_backfill_query(cat):
+    """분야 백필: 그 분야 키워드 포함 + BACKFILL_START_DATE(기본 2020)~오늘."""
+    return build_query_dated(BACKFILL_START_DATE, extra_terms=category_search_terms(cat))
 
 
 def esearch_history(query):
@@ -513,9 +523,12 @@ def _collect_one(query, only_cat, cache, collected, summ_state):
 def get_papers():
     # 검색 작업 목록: (쿼리, 이 분야만, 라벨)
     jobs = [(build_query(), None, "본검색")]
-    if JOINTREPL_BACKFILL:
-        jobs.append((build_jointrepl_query(), "jointreplacement",
-                     f"인공관절 백필 {JOINTREPL_START_DATE}~오늘"))
+    for cat in BACKFILL_CATS:
+        if not category_search_terms(cat):
+            print(f"  [백필 건너뜀] 알 수 없는 분야: {cat}")
+            continue
+        label = f"{CATEGORY_LABELS.get(cat, cat)} 백필 {BACKFILL_START_DATE}~오늘"
+        jobs.append((build_backfill_query(cat), cat, label))
 
     cache = load_previous_summaries()
     collected = {}                 # pid → paper (검색 간 중복 자동 제거)
