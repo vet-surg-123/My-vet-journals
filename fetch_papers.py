@@ -99,6 +99,8 @@ JOURNAL_WHITELIST = [
     "BMC Vet Res",                 # BMC
     "Animals (Basel)",             # Animals (MDPI)
     "Front Vet Sci",               # Frontiers
+    "Vet Rec",                     # Veterinary Record (BVA, MEDLINE 색인)
+    "Case Rep Vet Med",            # Case Reports in Veterinary Medicine (증례 전문지, PMC 2016~)
 ]
 USE_WHITELIST = True
 
