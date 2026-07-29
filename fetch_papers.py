@@ -197,17 +197,18 @@ MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
 BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 
 
-def fmt_date(item):
-    """PubMed 날짜를 (표시용, 정렬용)으로 정규화.
-    - sortpubdate(항상 YYYY/MM/DD)를 우선 사용 → 월·일이 항상 나옴.
-    - 정렬용은 YYYY-MM-DD 형식(문자열로 비교해도 날짜순).
-    """
-    raw = item.get("sortpubdate") or item.get("epubdate") or item.get("pubdate") or ""
-    m = re.match(r"(\d{4})/(\d{1,2})/(\d{1,2})", raw)          # 숫자형 2026/07/15
+def _parse_date(raw):
+    """날짜 문자열 하나를 (표시용, 정렬용, 완전도) 로 파싱. 실패 시 None.
+    완전도: 2=일까지, 1=월까지, 0=연도만."""
+    raw = (raw or "").strip()
+    if not raw:
+        return None
+    m = re.match(r"(\d{4})[/-](\d{1,2})[/-](\d{1,2})", raw)     # 2026/05/26 · 2026-05-26
     if m:
         y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
-        return f"{y} {MONTHS[mo - 1]} {d:02d}", f"{y:04d}-{mo:02d}-{d:02d}"
-    m = re.match(r"(\d{4})(?:\s+([A-Za-z]{3,}))?(?:\s+(\d{1,2}))?", raw)  # 문자형 2026 Jul 15
+        if 1 <= mo <= 12:
+            return f"{y} {MONTHS[mo - 1]} {d:02d}", f"{y:04d}-{mo:02d}-{d:02d}", 2
+    m = re.match(r"(\d{4})(?:\s+([A-Za-z]{3,}))?(?:\s+(\d{1,2}))?", raw)  # 2026 May 26 · 2026 Jul · 2026
     if m:
         y = int(m.group(1))
         mon, d = m.group(2), m.group(3)
@@ -218,7 +219,32 @@ def fmt_date(item):
         if d:
             disp += f" {int(d):02d}"
         sortk = f"{y:04d}-{mo:02d}-{int(d) if d else 0:02d}"
-        return disp, sortk
+        comp = 2 if d else (1 if mo else 0)
+        return disp, sortk, comp
+    return None
+
+
+def fmt_date(item, det=None):
+    """(표시용, 정렬용) 날짜 = '온라인 최초 공개일' 우선.
+    우선순위: ①ArticleDate[Electronic] → ②epubdate → ③History epublish
+              → ④sortpubdate/pubdate(발간호, 전자 날짜 없을 때만).
+    수의사가 실제로 읽는 early access(온라인) 날짜를 기준으로 표시·정렬한다."""
+    det = det or {}
+    candidates = [
+        det.get("article_electronic"),   # ① 온라인 최초 공개일 (efetch)
+        item.get("epubdate"),            # ② 전자출판일 (esummary)
+        det.get("epublish"),             # ③ History 전자출판 이력 (efetch)
+        item.get("sortpubdate"),         # ④ 발간호 날짜 (esummary)
+        item.get("pubdate"),
+    ]
+    parsed = [_parse_date(c) for c in candidates]
+    for pr in parsed:                    # 월 이상 정보가 있는 첫 후보 사용
+        if pr and pr[2] >= 1:
+            return pr[0], pr[1]
+    for pr in parsed:                    # 그래도 없으면 연도만이라도
+        if pr:
+            return pr[0], pr[1]
+    raw = item.get("sortpubdate") or ""
     return raw, raw
 
 
@@ -407,6 +433,18 @@ def _strip(s):
     return re.sub(r"<[^>]+>", "", s or "").strip()
 
 
+def _ymd(sub):
+    """<Year>/<Month>/<Day> 조각 → 'YYYY/MM/DD' (일 없으면 01). 실패 시 ''."""
+    y = re.search(r"<Year>(\d{4})</Year>", sub)
+    mo = re.search(r"<Month>(\d{1,2})</Month>", sub)
+    d = re.search(r"<Day>(\d{1,2})</Day>", sub)
+    if y and mo and d:
+        return f"{int(y.group(1)):04d}/{int(mo.group(1)):02d}/{int(d.group(1)):02d}"
+    if y and mo:
+        return f"{int(y.group(1)):04d}/{int(mo.group(1)):02d}/01"
+    return ""
+
+
 def parse_details(xml):
     """efetch XML → {pmid: {abstract, affiliations, keywords, mesh}}."""
     out = {}
@@ -437,8 +475,21 @@ def parse_details(xml):
         # 중복 제거
         kws = list(dict.fromkeys(kws))
         mesh = list(dict.fromkeys(mesh))
+        # 온라인 최초 공개일: <ArticleDate DateType="Electronic"> (연·월·일)
+        art_el = ""
+        am = re.search(r'<ArticleDate[^>]*DateType="Electronic"[^>]*>(.*?)</ArticleDate>',
+                       block, re.DOTALL)
+        if am:
+            art_el = _ymd(am.group(1))
+        # History 전자출판 이력: <PubMedPubDate PubStatus="epublish">
+        epub = ""
+        hm = re.search(r'<PubMedPubDate[^>]*PubStatus="epublish"[^>]*>(.*?)</PubMedPubDate>',
+                       block, re.DOTALL)
+        if hm:
+            epub = _ymd(hm.group(1))
         out[pmid] = {"abstract": abstract, "affiliations": affs[:12],
-                     "keywords": kws, "mesh": mesh[:25]}
+                     "keywords": kws, "mesh": mesh[:25],
+                     "article_electronic": art_el, "epublish": epub}
     return out
 
 
@@ -510,7 +561,7 @@ def _collect_one(query, only_cat, cache, collected, summ_state):
                 else:
                     summary_ko = ""   # 상한 도달/키 없음 → 이번엔 비움 (다음 실행 때 채워짐)
 
-            disp_date, sort_date = fmt_date(item)
+            disp_date, sort_date = fmt_date(item, det)
             collected[pid] = {
                 "id": pid,
                 "title": title,
