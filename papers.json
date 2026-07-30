@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-29 03:02 UTC",
-  "total": 1586,
+  "updated": "2026-07-30 07:44 UTC",
+  "total": 1593,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -14,6 +14,74 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42526683",
+      "title": "Anti-tumour Activity of Canine Activated T-Cells and Cytokine-Induced Killer Cells against Canine Malignant Melanoma In Vitro.",
+      "authors": "Conti LC, Capellero S, Piras L, Morello E, Iurascu S, Erriquez J, Marconato L, Aresu L, De Maria R",
+      "journal": "Vet J",
+      "date": "2026 Jul 29",
+      "sortdate": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526683/",
+      "abstract": "Adoptive cell transfer (ACT) immunotherapy represents a promising therapeutic approach for cancer treatment, utilising ex vivo-expanded immune effector cells such as T-lymphocytes, natural killer (NK) cells, and cytokine-induced killer (CIK) cells. CIK cells are characterised by dual T-cell and NK cell-like properties, exhibiting high proliferative capacity, cytolytic activity, and non-MHC-restricted tumour recognition. Canine malignant melanoma (CMM) is an aggressive neoplasm with significant translational relevance to human melanoma, yet the cytotoxic potential of CIK cells against CMM remains unexplored. This study aimed to expand and functionally characterise canine CIK and T-cells from healthy donors, comparing their cytotoxic activity against CMM cell lines in allogeneic and autologous settings. Peripheral blood mononuclear cells were isolated and expanded using standardised protocols with IFN-&#x3b3;, anti-CD3/CD28 activation, and IL-2 supplementation. Flow cytometry confirmed successful expansion with CIK cells showing 85% NKp46 expression and T-cells reaching 91.96% CD8 expression, with comparable expansion folds (7.94 vs. 7.88). Cytotoxicity assays against seven CMM cell lines demonstrated robust anti-tumour activity for both effector populations, with CIK cells achieving 61.5% mean killing and T-cells 59.8% in allogeneic assays at 10:1 effector-to-target ratios. Pearson's correlation analysis revealed strong negative correlations between effector cell numbers and target viability (r = -0.960 for CIK cells; r = -0.790 for T cells). Cytokine profiling showed distinct secretion patterns, with T-cells producing a broader cytokine repertoire. These findings establish the feasibility and comparable efficacy of both CIK cells and T-cells against CMM, supporting their therapeutic development for canine melanoma immunotherapy.",
+      "affiliations": [
+        "University of Turin Department of Veterinary Sciences, Grugliasco, Torino ITALY. Electronic address: luiza.conti@alumni.usp.br.",
+        "University of Turin.",
+        "Istituto di Candiolo.",
+        "University of Bologna."
+      ],
+      "keywords": [
+        "Adoptive Immunotherapy",
+        "CIK cells",
+        "CMM cell lines",
+        "Dog",
+        "Oncology"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526511",
+      "title": "Euthanasia rates and risk factors for euthanasia in dogs diagnosed with diabetes mellitus in Australian primary care practices: 2078 cases (2008-2017).",
+      "authors": "Roberts E, Stevenson MA, Mansfield CS",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Jul 29",
+      "sortdate": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526511/",
+      "abstract": "OBJECTIVES: Detailed assessments of euthanasia rates of dogs with diabetes mellitus in Australian primary care practice and evaluation of associated risk factors have not been performed. Study objectives were to describe the euthanasia timing in this population and identify patient characteristics at diagnosis that increased the probability of euthanasia. MATERIALS AND METHODS: Records of dogs diagnosed with diabetes mellitus in primary care practice (n&#x2009;=&#x2009;2078) during 2008 to 2017, inclusively, were sourced through VetCompass Australia. For cases that were euthanised, reasons were attributed to being related to diabetes mellitus or not. Time to euthanasia post-diagnosis was described using Kaplan-Meier survival curves. A Cox proportional hazards regression model was developed to identify risk factors for euthanasia following diabetes mellitus diagnosis. RESULTS: The cumulative percentage of dogs euthanised for diabetes-related reasons at diagnosis, and within 6 and 12&#x2009;months of diagnosis was 13%, 46% and 53%, respectively. During the first 12&#x2009;months post-diagnosis, dogs that were entire [HR 1.9 (95% CI 1.6 to 2.3)], &#x2265;10&#x2009;years of age [HR 2.4 (95% CI 2.1 to 2.7)], female [HR 1.1 (95% CI 1.0 to 1.3)] and of breeds at higher risk of developing diabetes mellitus [HR 1.2 (95% CI 1.0 to 1.4)] had an increased daily hazard of euthanasia. Quality of life was the most frequently reported reason for euthanasia. CLINICAL SIGNIFICANCE: This study documents higher euthanasia rates among dogs with diabetes mellitus within the first year of diagnosis than previously reported. The findings help identify cases where additional owner support could be warranted.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, Melbourne Veterinary School, University of Melbourne, Melbourne, Victoria, Australia.",
+        "Asia-Pacific Centre for Animal Health, Melbourne Veterinary School, University of Melbourne, Melbourne, Victoria, Australia."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42526502",
+      "title": "Teleneurology video recordings and live streams provide reliable neuroanatomic lesion localization in dogs and cats.",
+      "authors": "Shinn R, Connolly B, Parker R, Togawa G, Rossmeisl J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 29",
+      "sortdate": "2026-07-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42526502/",
+      "abstract": "OBJECTIVE: This study aimed to evaluate the reliability and accuracy of teleneurology consultation for neuroanatomical lesion localization in client-owned dogs and cats. METHODS: This prospective cross-sectional study was conducted from June to July 2023. Fifty-five client-owned dogs and cats presenting to an academic teaching hospital neurology service were enrolled. Animals were pragmatically allocated into 2 groups to undergo neurologic examination performed by veterinary students; group 1 underwent neurologic examination via prerecorded video, and group 2 was live streamed. A separate, in-person neurologic examination by a blinded board-certified neurologist or neurology resident served as the baseline assessment. The Cohen &#x3ba; statistic was used to assess agreement between the neuroanatomical localization for each group. RESULTS: In total, 30 animals were evaluated in group 1 and 25 animals in group 2. Both teleneurology modalities demonstrated strong agreement with the in-person neuroanatomic localization. For group 1, &#x3ba; was 0.84 (95% CI, 0.69 to 0.98). For group 2 (live stream), &#x3ba; was 0.85 (95% CI, 0.66 to 1.00). Discrepancies in neuroanatomic localization were observed in 4 cases (13%) from group 1 and 3 (12%) from group 2. CONCLUSIONS: Teleneurology consultation shows promise as a reliable method for neuroanatomical localization in small animals. CLINICAL RELEVANCE: The observed high agreement suggested the potential utility of teleneurology consultation for nonemergent consultations, recheck appointments, and surgical follow-ups, particularly when a thorough examination with a dedicated videographer is ensured. Further standardization of protocols could enhance its widespread application.",
+      "affiliations": [
+        "1Department of Small Animal Clinical Sciences, Virginia-Maryland College of Veterinary Medicine, Virginia Tech, Blacksburg, VA.",
+        "2Department of Cancer Biology, Wake Forest Baptist Comprehensive Cancer Center, Winston-Salem, NC."
+      ],
+      "keywords": [
+        "cat",
+        "dog",
+        "neurology",
+        "teleconsultation",
+        "teleneurology"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
@@ -702,6 +770,32 @@
       "summary_ko": ""
     },
     {
+      "id": "42523665",
+      "title": "Urinary metabolite profiles differ by tumor size and malignancy in dogs with mammary tumors.",
+      "authors": "Moore R, Estrela-Lima A, Turunen S, Holm SV, Lehtonen M, Kärkkäinen O, Hielm-Björkman A",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 14",
+      "sortdate": "2026-07-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42523665/",
+      "abstract": "BACKGROUND: Urine metabolomics may offer a non-invasive way to detect systemic metabolic alterations associated with canine mammary tumors, but previous studies have been few and have not accounted for diet as a potential confounder. METHODS: In this observational case-control study, urine from 118 client-owned female dogs in Finland was analyzed by untargeted liquid chromatography-mass spectrometry, including 71 dogs with mammary tumors and 47 tumor-free controls. Case dogs were further evaluated by tumor malignancy (28 benign, 27 malignant, 16 with both benign and malignant tumors), tumor size (53 small, 12 medium, 6 large), and tumor number (43 single, 28 multiple). Statistical models were adjusted for diet, age, body size, and sterilization status. RESULTS: After covariate adjustment, no features remained significant in the overall case-control comparison or in analyses of tumor number, whereas tumor size showed the clearest signal. Three features remained significant in the covariate-adjusted analysis of variance for tumor size, and per-contrast linear models identified four false discovery rate-significant urinary features associated with tumor size and four associated with tumor malignancy. All showed lower intensities in tumor-bearing dogs than in controls. Hippurate was the most robust and consistently supported finding, with lower levels in dogs with large tumors. Several unknown aromatic and sulfur-containing features covaried with hippurate and tumor size, suggesting a broader host metabolic response. Exploratory pathway analysis indicated glucose homeostasis as the strongest enrichment signal in adjusted models, although this did not remain significant after false discovery rate correction. Adjustment for diet and other background variables substantially reduced the number of significant findings, highlighting the importance of accounting for physiological and environmental variation in veterinary metabolomics. CONCLUSION: Urine metabolomics detected a limited but biologically plausible metabolic signature associated primarily with tumor size rather than with overall case-control status or tumor number. Hippurate and a small set of unknown features emerged as candidate urinary markers of tumor-associated systemic metabolic change, supporting the value of urine as a non-invasive matrix for studying canine mammary tumors while underscoring the need for careful covariate control.",
+      "affiliations": [
+        "Department of Equine and Small Animal Medicine, University of Helsinki, Helsinki, Finland.",
+        "Department of Veterinary Anatomy, Pathology and Clinics, School of Veterinary Medicine and Zootechnics, Federal University of Bahia, Bahia, Brazil.",
+        "School of Pharmacy, University of Eastern Finland, Kuopio, Finland."
+      ],
+      "keywords": [
+        "cancer",
+        "canine",
+        "mammary",
+        "metabolite profiles",
+        "metabolomics",
+        "urine"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42443886",
       "title": "Serum insulin-like growth factor-1 concentrations are not reduced in Pomeranian dogs with Alopecia X: a case-control study.",
       "authors": "Halajian Z, Khoshnegah J, Parham A",
@@ -835,7 +929,7 @@
       "affiliations": [
         "Veterinary Anaesthesia and Analgesia Dept., Clinica Veterinaria San Marco, Veggiano, Italy.",
         "Department of Statistical Sciences, University of Padova, Italy.",
-        "Veterinary Anaesthesia and Analgesia Dept., Clinica Veterinaria San Marco, Veggiano, Italy. Electronic address: elisabortolami@hotmail.it."
+        "Veterinary Anaesthesia and Analgesia Dept., Clinica Veterinaria San Marco, Veggiano, Italy. Electronic address: elisa.bortolami@sanmarcovet.it."
       ],
       "keywords": [
         "Abdominal surgery",
@@ -3406,6 +3500,51 @@
       "summary_ko": ""
     },
     {
+      "id": "42525883",
+      "title": "Survival outcomes of dogs with multicentric lymphoma treated with sequential half-body radiotherapy and L-CHOP without maintenance chemotherapy.",
+      "authors": "Colosi J, Kent MS, Close NC, Lawrence J, Skorupski KA, Rebhun RB, Rosseel M, Al-Nadaf S, Lejeune AT",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42525883/",
+      "abstract": "BACKGROUND: L-CHOP (L-asparaginase, cyclophosphamide, doxorubicin, vincristine, prednisone) is the standard therapy for lymphoma in dogs, but relapse and limited long-term survival are common. Given the radiosensitivity of lymphoma, sequential half-body radiotherapy (HBRT) has been investigated to improve outcomes. HYPOTHESIS/OBJECTIVES: Evaluate progression-free survival (PFS), overall survival (OS), and adverse events in dogs treated with a no-maintenance L-CHOP protocol combined with low-dose-rate (LDR, 6&#xa0;Gy; 8-14&#xa0;cGy/min) HBRT compared to L-CHOP alone. ANIMALS: Client-owned dogs with intermediate- to high-grade multicentric lymphoma treated with L-CHOP-LDR-HBRT or a 6-month&#xa0;L-CHOP protocol (controls). METHODS: Medical records were retrospectively reviewed in this case-control study. Adverse events were graded using VCOG-CTCAE v2 (Veterinary Cooperative Oncology Group-Common Terminology Criteria for Adverse Events guidelines) criteria. RESULTS: Seventy-five dogs received L-CHOP-LDR-HBRT and were compared with 115 controls. Median PFS and OS for the L-CHOP-LDR-HBRT group were 532&#xa0;days (95% confidence interval [CI], 389-782) and 752&#xa0;days (95% CI, 526-963), significantly longer than in controls (296&#xa0;days [95% CI, 260-331] and 457&#xa0;days [95% CI, 382-553], respectively, P&#xa0;&lt;&#xa0;.0001). A delay in irradiating the caudal half negatively affected PFS and OS. Adverse event data were available for 30 dogs treated with L-CHOP-LDR-HBRT; most were low-grade, with grade 3 and 4 toxicities occurring in 4.5% of all administered treatments. One dog required hospitalization after HBRT. Dose reductions and treatment delays were observed in 39 and 74 instances, respectively, over the 28-week protocol in this cohort. CONCLUSIONS AND CLINICAL IMPORTANCE: Combining L-CHOP with LDR-HBRT, without maintenance chemotherapy, might substantially extend PFS and OS over L-CHOP alone in dogs with multicentric lymphoma, with predominantly mild, manageable toxicities.",
+      "affiliations": [
+        "Cerro Alto Veterinary Specialty and Emergency Hospital, Oncology Service, San Luis Obispo, CA, United States.",
+        "William R. Pritchard Veterinary Medical Teaching Hospital, University of California, Davis, Davis, CA, United States.",
+        "Department of Surgical and Radiological Sciences, Weill School of Veterinary Medicine, University of California, Davis, Davis, CA, United States.",
+        "EmpiriStat, PO Box 1604, Kitty Hawk, NC 27949, United States."
+      ],
+      "keywords": [
+        "adverse events",
+        "canine",
+        "chemoirradiation",
+        "low-dose-rate radiation",
+        "multicentric lymphoma",
+        "veterinary"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Vincristine",
+        "Doxorubicin",
+        "Cyclophosphamide",
+        "Prednisone",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Female",
+        "Lymphoma",
+        "Retrospective Studies",
+        "Male",
+        "Case-Control Studies",
+        "Hemibody Irradiation",
+        "Treatment Outcome",
+        "Asparaginase",
+        "Combined Modality Therapy"
+      ],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42381034",
       "title": "Molecular characterization and risk factors analyses of zoonotic gastrointestinal nematodes in pet and semi-pet dogs in Haryana, India.",
       "authors": "Rani S, Moudgil P, Gupta R, Agnihotri D, Kumar M, Moudgil AD",
@@ -3965,7 +4104,17 @@
         "Department of Small Animal Clinical Sciences, University of Florida, College of Veterinary Medicine, Gainesville, Florida, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Ligation",
+        "Cadaver",
+        "Lymph Nodes",
+        "Carotid Artery, Common",
+        "Lymph Node Excision",
+        "Tomography, X-Ray Computed",
+        "Female"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -4711,7 +4860,16 @@
         "Graduate School for Cellular and Biomedical Sciences, University of Bern, Bern, Switzerland."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Biomechanical Phenomena",
+        "Stifle",
+        "Anterior Cruciate Ligament",
+        "Cadaver",
+        "Muscle, Skeletal",
+        "Rotation"
+      ],
       "category": "arthroscopy",
       "summary_ko": ""
     },
@@ -5006,7 +5164,20 @@
         "Clinic for Small Animal Surgery, University of Zurich, Z&#xfc;rich, Switzerland."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Osteotomy",
+        "Retrospective Studies",
+        "Female",
+        "Tibia",
+        "Patellar Dislocation",
+        "Male",
+        "Treatment Outcome",
+        "Postoperative Complications",
+        "Stifle",
+        "Dog Diseases"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -5073,6 +5244,24 @@
       "keywords": [],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42298789",
+      "title": "Reply to the Letter-to-the-Editor about \"Thoracoscopic resection of cranial mediastinal masses: Retrospective study in 17 cats\".",
+      "authors": "Renier S, Cinti F",
+      "journal": "Vet Surg",
+      "date": "2026 Jun 15",
+      "sortdate": "2026-06-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42298789/",
+      "abstract": "",
+      "affiliations": [
+        "San Marco Veterinary Clinic and Laboratory, Surgery Department, Veggiano, Italy.",
+        "Ospedale Veterinario I Portoni Rossi-Anicura, Zola Predosa, Italy."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -5839,23 +6028,35 @@
     },
     {
       "id": "42265866",
-      "title": "EXPRESS: Evaluation of the incidence of haematuria following the placement of subcutaneous ureteral bypass devices in 18 cats (2016-2022).",
-      "authors": "Lloyd-Bradley BA, Hattersley R",
+      "title": "Evaluation of the incidence of haematuria following the placement of subcutaneous ureteral bypass devices in 18 cats (2016-2022).",
+      "authors": "Lloyd-Bradley B, Hattersley R",
       "journal": "J Feline Med Surg",
       "date": "2026 Jun 09",
       "sortdate": "2026-06-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42265866/",
-      "abstract": "OBJECTIVES: To evaluate the incidence of post-operative haematuria in cats treated with a subcutaneous ureteral bypass (SUB) device for the management of benign ureteral obstruction. METHODS: Medical records from a single referral institute were retrospectively searched for cats that underwent placement of a SUB device for the management of benign ureteral obstruction between June 2016 and June 2022. Signalment, history, diagnostic imaging findings, surgery duration, pre- and postprocedural clinicopathological data were recorded. RESULTS: In total, 18 cats presented with placement of de novo SUB devices; 14 unilateral SUBs and 4 bilateral SUBs. All 18 (100%) cats developed microscopic haematuria post-operatively. Median time to detection of microscopic haematuria was one month (range 1 - 11 months), with 16/18 (89%) detected on the first post-operative urinalysis. Fourteen (78%) cats had persistent microscopic haematuria, two cats (11%) had recurrent microscopic haematuria, and a further two cats (11%) had recurrent persistent microscopic haematuria. Severe haematuria (&#x2265; 50 RBC per hpf) was identified in 13 cats (72%), however gross haematuria as a clinical sign was infrequently reported (two out of 18 cats, 11%). The median time to first detection of severe haematuria was one month (range: 1 - 31 months). Persistent severe haematuria was documented in seven cats with a median duration of persistence of 17 months (range: 5 - 31). Haematuria without a positive urine culture at any time point was present in 11 out of 18 (61%) cats. CONCLUSIONS AND RELEVANCE: In this study population, post-operative persistent microscopic haematuria was a frequent finding in cats following subcutaneous ureteral bypass device placement. Further studies are necessary to understand if microscopic haematuria is a clinically relevant finding, and to further understand the aetiology of haematuria in such patients.",
+      "abstract": "ObjectivesThe aim of the present study was to evaluate the incidence of postoperative haematuria in cats treated with a subcutaneous ureteral bypass (SUB) device for the management of benign ureteral obstruction.MethodsMedical records from a single referral institute were retrospectively searched for cats that underwent placement of a SUB device for the management of benign ureteral obstruction between June 2016 and June 2022. Signalment, history, diagnostic imaging findings, surgery duration, and pre- and postoperative clinicopathological data were recorded.ResultsIn total, 18 cats presented with placement of de novo SUB devices: 14 unilateral SUBs and four bilateral SUBs. All 18 (100%) cats developed microscopic haematuria postoperatively. Median time to detection of microscopic haematuria was 1 month (range 1-11), with 16/18 (89%) detected on the first postoperative urinalysis. In total, 14 (78%) cats had persistent microscopic haematuria, two (11%) had recurrent microscopic haematuria and a further two (11%) cats had recurrent persistent microscopic haematuria. Severe haematuria (&#x2a7e;50 red blood cells per high-power field) was identified in 13 (72%) cats; however, gross haematuria as a clinical sign was infrequently reported (n&#x2009;=&#x2009;2/18, 11%). The median time to first detection of severe haematuria was 1 month (range: 1-31 months). Persistent severe haematuria was documented in seven cats, with a median duration of persistence of 17 months (range 5-31). Haematuria without a positive urine culture at any time point was present in 11/18 (61%) cats.Conclusions and relevanceIn this study population, postoperative persistent microscopic haematuria was a frequent finding in cats after SUB device placement. Further studies are necessary to understand if microscopic haematuria is a clinically relevant finding, and to further understand the aetiology of haematuria in such patients.",
       "affiliations": [
-        "DWR Veterinary Specialists, Cambridgeshire, UK."
+        "DWR Veterinary Specialists, part of Linnaeus Veterinary Limited, Cambridgeshire, UK."
       ],
       "keywords": [
+        "Haematuria",
         "SUB",
-        "haematuria",
-        "subcutaneous ureteral bypass",
+        "postoperative complications",
+        "subcutaneous ureteral bypass device",
         "ureteral obstruction"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Hematuria",
+        "Cat Diseases",
+        "Female",
+        "Retrospective Studies",
+        "Incidence",
+        "Male",
+        "Ureteral Obstruction",
+        "Postoperative Complications"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -8153,7 +8354,18 @@
         "Department of Surgery, Faculty of Veterinary Medicine, Dokuz Eylul University, &#x130;zmir, T&#xfc;rkiye."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Fracture Fixation, Internal",
+        "Bone Plates",
+        "Ilium",
+        "Male",
+        "Female",
+        "Fractures, Bone",
+        "Treatment Outcome",
+        "Prospective Studies"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -10201,14 +10413,14 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Ganglioglioma",
-        "Dog Diseases",
-        "Spinal Cord Neoplasms",
-        "Magnetic Resonance Imaging",
-        "Immunohistochemistry",
-        "Fatal Outcome",
+        "Female",
         "Male",
-        "Female"
+        "Dog Diseases",
+        "Fatal Outcome",
+        "Ganglioglioma",
+        "Immunohistochemistry",
+        "Magnetic Resonance Imaging",
+        "Spinal Cord Neoplasms"
       ],
       "category": "neurooncology",
       "summary_ko": ""
@@ -13673,7 +13885,18 @@
         "Veterinary Clinic Vezzoni, Cremona, Italy."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Bone Plates",
+        "Female",
+        "Shoulder Dislocation",
+        "Male",
+        "Treatment Outcome",
+        "Dog Diseases",
+        "Shoulder Joint",
+        "Bone Screws"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -14730,6 +14953,23 @@
       ],
       "mesh": [],
       "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "41952387",
+      "title": "Letter-to-the-editor about \"Thoracoscopic resection of cranial mediastinal masses: Retrospective study in 17 cats\".",
+      "authors": "Lu HY",
+      "journal": "Vet Surg",
+      "date": "2026 Apr 08",
+      "sortdate": "2026-04-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41952387/",
+      "abstract": "",
+      "affiliations": [
+        "Small Animal Specialist Hospital Adelaide, Adelaide, South Australia, Australia."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -18371,7 +18611,17 @@
         "Department of Surgical and Radiological Sciences, School of Veterinary Medicine, University of California-Davis, Davis, California, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Laparoscopy",
+        "Gastropexy",
+        "Male",
+        "Female",
+        "Dog Diseases",
+        "Prospective Studies",
+        "Suture Techniques"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -19587,19 +19837,19 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Dog Diseases",
-        "United Kingdom",
         "Female",
-        "Retrospective Studies",
-        "Prevalence",
         "Male",
         "Anti-Bacterial Agents",
         "Bacterial Infections",
-        "Genetic Predisposition to Disease",
-        "Microbial Sensitivity Tests",
         "Biliary Tract Diseases",
+        "Dog Diseases",
+        "Drug Resistance, Bacterial",
+        "Genetic Predisposition to Disease",
         "Liver Diseases",
-        "Drug Resistance, Bacterial"
+        "Microbial Sensitivity Tests",
+        "Prevalence",
+        "Retrospective Studies",
+        "United Kingdom"
       ],
       "category": "imaging",
       "summary_ko": ""
@@ -20658,13 +20908,13 @@
       "keywords": [],
       "mesh": [
         "Animals",
-        "Ovariectomy",
-        "Laparoscopy",
         "Dogs",
         "Female",
-        "Education, Veterinary",
         "Humans",
         "Clinical Competence",
+        "Education, Veterinary",
+        "Laparoscopy",
+        "Ovariectomy",
         "Students, Medical"
       ],
       "category": "surgery",
