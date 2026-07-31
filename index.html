@@ -45,6 +45,11 @@
   .side-update .refresh-btn{width:100%;font-size:12.5px;padding:9px 14px}
   .side-foot{padding:16px 4px 4px;font-size:11.5px;color:var(--muted);line-height:1.75;border-top:1px solid var(--line);margin-top:14px}
   .side-foot b{color:var(--ink-2);font-weight:700}
+  /* 방문자 수 (왼쪽 아래, 작게) */
+  .side-visits{margin-top:12px;padding:9px 4px 2px;border-top:1px solid var(--line-2);
+    font-size:11px;color:var(--muted);line-height:1.65;letter-spacing:-.1px;min-height:14px}
+  .side-visits b{color:var(--ink-2);font-weight:700}
+  .side-visits .dot{color:var(--line);margin:0 5px}
 
   /* 메인 */
   .main{flex:1;min-width:0;padding:20px 36px 64px}
@@ -200,6 +205,7 @@
   <div class="side-foot">
     개선 아이디어 환영 — <b>분야·저널 추가/분리</b>, <b>필터 키워드</b>, <b>그 외 개선 사항</b>이 있으면 언제든 편하게 저에게 바로 연락 주세요.
   </div>
+  <div class="side-visits" id="visits" style="display:none" aria-label="방문자 수"></div>
 </aside>
 
 <main class="main">
@@ -494,12 +500,46 @@ async function submitFeedback(ev){
   btn.disabled=false; return false;
 }
 
+/* ---------- 방문자 수 (누적 · 오늘) ----------
+   무료·무가입 카운터 API(countapi.mileshilliard.com) 사용.
+   같은 방문(세션)에서는 하루 1번만 집계하고, 이후엔 현재 수치만 표시.
+   서비스 장애 시 조용히 숨김 → 페이지엔 영향 없음. */
+const VISIT_NS="vetradar_smallanimal";
+const VISIT_API="https://countapi.mileshilliard.com/api/v1/";
+function kstDateKey(){
+  // 한국시간(KST) 기준 YYYYMMDD → '오늘' 경계를 KST로 고정
+  return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul'}).format(new Date()).replace(/-/g,'');
+}
+async function initVisits(){
+  const box=document.getElementById("visits");
+  if(!box) return;
+  try{
+    const day=kstDateKey();
+    const flag="vr_visited_"+day;
+    const fresh=!sessionStorage.getItem(flag);   // 이 세션에서 오늘 첫 방문인가
+    const verb=fresh?"hit/":"get/";
+    const totalKey=VISIT_NS+"_total";
+    const dayKey=VISIT_NS+"_day_"+day;
+    const [t,d]=await Promise.all([
+      fetch(VISIT_API+verb+totalKey).then(r=>r.json()),
+      fetch(VISIT_API+verb+dayKey ).then(r=>r.json())
+    ]);
+    if(fresh) sessionStorage.setItem(flag,"1");
+    const tv=parseInt(t&&t.value,10), dv=parseInt(d&&d.value,10);
+    if(isNaN(tv)||isNaN(dv)) return;             // 값 이상 → 숨김 유지
+    box.innerHTML='누적 <b>'+tv.toLocaleString('ko-KR')+'</b>'
+      +'<span class="dot">·</span>오늘 <b>'+dv.toLocaleString('ko-KR')+'</b>';
+    box.style.display="block";
+  }catch(e){ /* 서비스 장애 → 숨김 유지 */ }
+}
+
 async function init(){
   try{ await loadData(); }
   catch(e){
     document.getElementById("updated").textContent="업데이트 정보 없음";
     document.getElementById("list").innerHTML='<div class="state">papers.json 을 불러올 수 없습니다.</div>';
   }
+  initVisits();   // 실패해도 본문에 영향 없음
 }
 init();
 </script>
