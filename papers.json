@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-30 09:47 UTC",
-  "total": 1593,
+  "updated": "2026-07-31 08:22 UTC",
+  "total": 1598,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -14,6 +14,69 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42532508",
+      "title": "The incidence of vaccine-associated sarcomas in cats: a systematic review and meta-analysis.",
+      "authors": "Emdin F, Naro SG, Hoang PM, Brown KA, Daneman N, Weese JS",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Jul 30",
+      "sortdate": "2026-07-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42532508/",
+      "abstract": "OBJECTIVES: Feline injection-site sarcoma is a rare but serious adverse event associated with vaccination in cats. Published estimates of feline injection-site sarcoma incidence vary widely, contributing to uncertainty in clinical decision-making and incidence communication. MATERIALS AND METHODS: We conducted a systematic review and meta-analysis to estimate the incidence of feline injection-site sarcoma following vaccination in cats and to assess the certainty of the evidence. MEDLINE (via Ovid), CAB Abstracts and Web of Science were searched from database inception through January 2026 using terms related to cats, vaccination, sarcomas and adverse vaccine events. Eligible studies reported quantitative estimates of feline injection-site sarcoma incidence, including incidence, incidence rate or measures of association. Two reviewers independently screened studies, extracted data and assessed study quality using the Joanna Briggs Institute checklist for prevalence studies. Incidence estimates were calculated using random-effects meta-analysis. Certainty of evidence was evaluated using the Grading of Recommendations Assessment, Development, and Evaluation framework. RESULTS: Eight studies met inclusion criteria, representing 14,059,036 vaccinations and 411 reported feline injection-site sarcoma cases. Study-level incidence estimates ranged from near zero to substantially higher values per vaccination. The incidence was 8.8 feline injection-site sarcoma cases per 100,000 vaccinations (95% CI 0.8 to 100.6), equivalent to approximately 1 feline injection-site sarcoma per 10,000 vaccinations. Between-study heterogeneity was very high (I2&#x2009;=&#x2009;99.61%), reflecting differences in study design, surveillance systems and reporting methods. Subgroup analyses comparing studies conducted before and after 2000 found no significant difference in feline injection-site sarcoma incidence; although lower incidence estimates were observed in later studies, suggesting that the introduction of non-adjuvanted vaccines may have reduced feline injection-site sarcoma incidence. Overall certainty of evidence was rated as very low due to high risk of bias and imprecision. CLINICAL SIGNIFICANCE: Feline injection-site sarcoma remains a rare adverse event associated with vaccination in cats. Current evidence supports a low absolute incidence and reinforces the importance of routine feline vaccination while underscoring the need for improved surveillance and higher quality epidemiologic studies.",
+      "affiliations": [
+        "Public Health Ontario, Toronto, Ontario, Canada.",
+        "Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Ontario, Canada.",
+        "Global Strategy Lab, York University, Toronto, Ontario, Canada.",
+        "Division of Geriatric Medicine, Department of Medicine, University of Toronto, Toronto, Ontario, Canada.",
+        "Women's Age Lab and Women's College Research Institute, Women's College Hospital, Toronto, Ontario, Canada.",
+        "Sinai Health Systems, University Health Network, Toronto, Ontario, Canada.",
+        "Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada.",
+        "Division of Infectious Diseases, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.",
+        "Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada.",
+        "Centre for Public Health and Zoonoses, University of Guelph, Guelph, Ontario, Canada."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529919",
+      "title": "Delays to fracture stabilization and the effect on postoperative outcomes: A retrospective cohort study of 211 canine humeral condylar fractures.",
+      "authors": "Low D, Manou M, Rutherford S",
+      "journal": "Vet Surg",
+      "date": "2026 Jul 30",
+      "sortdate": "2026-07-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529919/",
+      "abstract": "OBJECTIVE: To investigate the effect of surgical delay on radiographic and patient outcomes following canine humeral condylar fracture stabilization. STUDY DESIGN: Retrospective observational cohort study. SAMPLE POPULATION: A total of 211humeral condylar fractures (204 dogs). METHODS: Time to surgery and clinical data were collected from the medical record. Immediate postoperative radiographs were reviewed for an intracondylar gap or articular step defect. Postoperative complications and short-term outcome data were collected with a minimum 28-day follow-up period. Multivariable logistic regression analysis modeled radiographic and patient outcomes. RESULTS: Fracture events occurring on Friday or Saturday were systematically associated with longer delays to surgery (p&#x2009;&lt;&#x2009;.001). Increasing delays to surgery were associated with an increased risk of an intracondylar gap or articular step defect on immediate postoperative radiographs (adjusted OR&#x2009;=&#x2009;3.86 per additional day, 95% CI:&#x2009;2.04-7.29, p&#x2009;&lt;&#x2009;.001). Presence of an intracondylar gap or articular step defect was associated with an increased risk of postoperative complications (adjusted OR&#x2009;=&#x2009;5.92, 95% CI:&#x2009;1.44-24.36, p&#x2009;=&#x2009;.01). Presence of an intracondylar gap or articular step defect was associated with an increased risk of a poorer short-term outcome (adjusted OR&#x2009;=&#x2009;0.13, 95% CI:&#x2009;0.04-0.42, p&#x2009;=&#x2009;.001). The presence of postoperative complications increased the risk of a poorer short-term outcome (adjusted OR&#x2009;=&#x2009;0.38, 95% CI:&#x2009;0.17-0.87, p&#x2009;=&#x2009;.02). CONCLUSION: Delays to surgery are an important system-level factor influencing the accuracy of fracture reduction, postoperative complications, and short-term outcomes in canine humeral condylar fracture repair. CLINICAL SIGNIFICANCE: System-level optimization may be an avenue for quality improvement in this patient population.",
+      "affiliations": [
+        "frank. Pet Surgeons, Leeds, UK.",
+        "Department of Small Animal Clinical Sciences, The Ohio State University, Columbus, Ohio, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529899",
+      "title": "Surgical closure of labial and alveolar cleft defects with a modified Millard technique: A prospective study of ten dogs.",
+      "authors": "Maitre P, Jourdain M, Brignon P, Loin J, Corre P, Gauthier O",
+      "journal": "Vet Surg",
+      "date": "2026 Jul 30",
+      "sortdate": "2026-07-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529899/",
+      "abstract": "OBJECTIVE: To provide a step-by-step description of canine lip/alveolar cleft repair, describe intra- and postoperative complications, and report mid-term clinical, functional and cosmetic outcomes. STUDY DESIGN: Prospective study. ANIMALS: A total of 10 client-owned puppies with unilateral or bilateral lip/alveolar clefts. METHODS: Detailed clinical and historical data were recorded. The lip/alveolar clefts were repaired using a surgical technique adapted from human medicine including: (1) alveolar cleft and labial vestibulum repair, (2) cheilorhinoplasty and (3) palatal cleft repair when indicated. Intra- and postoperative complications, as well as clinical, functional and cosmetic outcomes, were recorded at 7 and 14&#x2009;days and at a minimum of 3&#x2009;months postoperatively. Cosmetic outcomes were evaluated using postoperative CT measurements. RESULTS: A total of 10 puppies (4 males, 6 females) were included. Of these, six presented with unilateral lip/alveolar clefts (2 right-sided and 4 left-sided) and four presented with bilateral clefts. A total of 14 lip/alveolar clefts were repaired. Four dogs had a complete secondary palate cleft. No intraoperative surgical complications were reported. Three cases of minor dehiscence of the cheilorhinoplasty suture line were observed, all healed by second intention within 14&#x2009;days postoperatively. One case of oronasal communication on the hard palate was successfully treated with minor revision surgery. Successful clinical and functional outcomes were reported for all dogs at the 3-month postoperative evaluation. Overall cosmetic outcomes were rated as good to excellent. CONCLUSION: The described step-by-step surgical technique resulted in good to excellent clinical, functional, and cosmetic outcomes. IMPACT: This technique offers a new surgical treatment with a low complication rate.",
+      "affiliations": [
+        "Small Animal Surgery Department - Veterinary Hospital, Oniris VetAgroBio College of Veterinary Medicine Food Science and Engineering, National Veterinary School of Nantes, Nantes, France.",
+        "Nantes Universit&#xe9;, Univ Angers, Oniris, CHU Nantes, INSERM, Regenerative Medicine and Skeleton, RMeS, UMR 1229, Nantes, France.",
+        "Nantes Universit&#xe9;, CHU Nantes, Service de chirurgie maxillo-faciale et stomatologie, Nantes, France."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
     {
       "id": "42526683",
       "title": "Anti-tumour Activity of Canine Activated T-Cells and Cytokine-Induced Killer Cells against Canine Malignant Melanoma In Vitro.",
@@ -677,6 +740,29 @@
         "cytological sample collection",
         "neoplasia",
         "veterinary imaging"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42529517",
+      "title": "Case Report: Multi-drug-resistant pneumonia and chronic enteropathy in a Bernadoodle with selective IgA deficiency.",
+      "authors": "Kovarsky M, Rifkin J, Bahr K",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 15",
+      "sortdate": "2026-07-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529517/",
+      "abstract": "This case is the first to describe a selective immunoglobulin A deficiency (sIgAD) in a Bernadoodle with recurrent multi-drug-resistant (MDR) pneumonia and a chronic enteropathy. The patient experienced chronic coughing and regurgitation from puppyhood, and advanced imaging and endoscopic procedures documented MDR Bordetella bronchisceptica (Bb) and Mycoplasma infections. Serum immunology testing documented sIgAD. Clinical signs have been well-managed with long-term prophylactic antibiotics, anti-inflammatory steroids, probiotics, and hydrolyzed protein diet. Low serum IgA levels have not been previously documented in the Bernese Mountain dog nor designer cross breeds, such as the Bernadoodle.",
+      "affiliations": [
+        "VCA Animal Hospitals, Los Angeles, CA, United States."
+      ],
+      "keywords": [
+        "canine infectious respiratory disease complex",
+        "case report",
+        "immunoglobulin a",
+        "multidrug resistance",
+        "primary immunodeficiency"
       ],
       "mesh": [],
       "category": "imaging",
@@ -3542,6 +3628,47 @@
         "Combined Modality Therapy"
       ],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42531050",
+      "title": "Dachshund spinal health by coat and size type.",
+      "authors": "Hopper M, Liu CC, Embersics C, Otamendi A, Sullivan S",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42531050/",
+      "abstract": "BACKGROUND: A prior report demonstrated that intervertebral disc disease (IVDD) risk varies in dachshunds by size-coat type, suggesting that coat and size genes affect IVDD risk. The furnishings (wire) coat gene, R-spondin-2, affects disc health in dogs, making such a role plausible. HYPOTHESIS/OBJECTIVES: Identify differences in spinal health metrics (SHMs): by coat type, within a coat type by size, and by size-coat type. ANIMALS: Dachshunds (n&#xa0;=&#xa0;4295) with known SHMs. METHODS: Retrospective study reporting SHMs by coat and size type in dachshund populations in the United Kingdom (UK), Norway, and Denmark. For the UK population, a binary logistic regression was fitted with owner-reported disc disease status (yes vs no) as the outcome variable. For Denmark and Norway, populations were analyzed using proportional-odds ordinal logistic regression models, with calcification number (KN) groups (K0, K1/2, K3/4, and K5+) as the ordinal outcome. RESULTS: In all 3 populations, smooth coat was associated with worse SHMs compared with other coat types (eg, Norway vs long; odds ratio [OR], 2.11; 95% confidence interval [CI], 1.58-2.83; overall OR range, 1.81-2.59). Within a coat type, size was inconsistently associated with SHMs. In 12 of 15 comparisons, small smooth dachshunds had worse SHMs compared with other size-coat types (eg, Norway vs standard long; OR, 3.56; 95% CI, 2.19-5.79; range, 1.80-5.40). CONCLUSIONS AND CLINICAL IMPORTANCE: Dachshund spinal health varies by coat and inconsistently by size type. Coat and size genes may be factors that determine IVDD risk in dachshunds. We investigated differences in spinal health (disc disease risk) by coat and size in dachshunds from the UK, Norway, and Denmark (number, 4295). In these populations, smooth coat was consistently and small size was inconsistently associated with worse spinal health. Small (miniature and kaninchen) smooth dachshunds had worse spinal health than other size-coat combinations. Our findings could be explained by a higher fibroblast growth factor 4 like 2 (FGF4L2) chondrodystrophy (CDDY) allele frequency in smooth or small dachshunds, but data supporting this explanation is currently lacking. Another possibility is that coat and size genes affect spinal health in the following manner: smooth gene (fibroblast growth factor 5, FGF5)&#xa0;=&#xa0;detrimental, long gene (non-functional FGF5)&#xa0;=&#xa0;protective, furnishings (wire) gene (R-spondin-2, RSPO2)&#xa0;=&#xa0;very protective. Six genes in variable combinations produce small body size in dogs but which of these are present in dachshunds is poorly understood, and may explain the inconsistent association between size and spinal health. Our findings support the view that disc disease is polygenetic in dachshunds. Further research suggested by these findings should include: determining CDDY allele frequency by coat and size type, determining which small size gene combinations are most common in dachshunds, and investigating the mechanisms by which RSPO2 and FGF5 might affect disc health in dogs.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, Auburn University, Auburn, AL 36832, United States.",
+        "Office of Research and Graduate Education, School of Veterinary Medicine, Louisiana State University, Baton Rouge, LA 70803-8410, United States.",
+        "Department of Veterinary Clinical Sciences, School of Veterinary Medicine, Louisiana State University, Baton Rouge, LA 70803-8410, United States.",
+        "Neuro Vet, Pleasant Hill, CA 94523, United States."
+      ],
+      "keywords": [
+        "FGF4L2",
+        "FGF5",
+        "RSPO2",
+        "body size reduction",
+        "canine notochord",
+        "intervertebral disc disease",
+        "nucleus pulposus"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Intervertebral Disc Degeneration",
+        "Retrospective Studies",
+        "Hair",
+        "Female",
+        "Male",
+        "Norway",
+        "Denmark",
+        "United Kingdom",
+        "Intervertebral Disc Displacement"
+      ],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
