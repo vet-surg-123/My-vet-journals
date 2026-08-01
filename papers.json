@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31 10:15 UTC",
-  "total": 1598,
+  "updated": "2026-08-01 07:38 UTC",
+  "total": 1599,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -14,6 +14,24 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42535405",
+      "title": "Computed tomography versus magnetic resonance imaging for the perioperative management of acute thoracolumbar intervertebral disc extrusion in non-ambulatory chondrodystrophic dogs.",
+      "authors": "Low D, Markovic A",
+      "journal": "Vet Surg",
+      "date": "2026 Jul 31",
+      "sortdate": "2026-07-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42535405/",
+      "abstract": "OBJECTIVE: To determine whether perioperative management guided by conditional computed tomography-myelography (C-CTM) is non-inferior to magnetic resonance imaging (MRI) regarding functional outcome for acute thoracolumbar intervertebral disc extrusion (IVDE) in non-ambulatory chondrodystrophic dogs. STUDY DESIGN: Quasi-randomized natural experiment utilizing unscheduled MRI downtime as an exogenous instrument. SAMPLE POPULATION: A total of 560 client-owned dogs (MRI, 518 dogs; C-CTM, 42 dogs). METHODS: A retrospective cohort study was conducted. The primary outcome was recovery of ambulation, analyzed with intention-to-treat (ITT) and per-protocol (PP) principles with a prespecified non-inferiority margin of -12%. Secondary outcomes included safety events (postoperative neurologic deterioration, progressive myelomalacia, major complications) and time-adjusted treatment costs. RESULTS: C-CTM was non-inferior to MRI for recovery of ambulation in both ITT (risk difference&#x2009;+&#x2009;6.5%, 95% CI: -2.7%-15.7%, one-sided p&#x2009;&lt;&#x2009;.001) and PP analyses (risk difference&#x2009;+&#x2009;2.5%, 95% CI: -7.3%-12.2%, one-sided p&#x2009;&lt;&#x2009;.001). There was no difference in rates of postoperative neurologic deterioration, progressive myelomalacia, or major complications. Total treatment costs and imaging costs were significantly lower for C-CTM (p&#x2009;&lt;&#x2009;.01). There was no difference in non-imaging costs between groups. CONCLUSION: In non-ambulatory chondrodystrophic dogs with acute thoracolumbar IVDE, C-CTM is non-inferior to MRI for recovery of ambulation with a similar safety profile, at significantly lower cost. CLINICAL SIGNIFICANCE: In dogs with a high pretest probability of acute thoracolumbar IVDE, routine use of MRI may not be justified given the comparable clinical outcomes and lower treatment costs achieved with C-CTM.",
+      "affiliations": [
+        "Swift Referrals, Wetherby, UK.",
+        "frank. Pet Surgeons, Leeds, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42532508",
       "title": "The incidence of vaccine-associated sarcomas in cats: a systematic review and meta-analysis.",
@@ -7867,7 +7885,15 @@
         "intra-articular reconstruction",
         "round ligament"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Hip Dislocation",
+        "Dog Diseases",
+        "Video Recording",
+        "Round Ligaments",
+        "Prostheses and Implants"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -8143,7 +8169,16 @@
         "pelvis",
         "ultrasound"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Ultrasonography",
+        "Magnetic Resonance Imaging",
+        "Muscle, Skeletal",
+        "Cadaver",
+        "Female",
+        "Hip"
+      ],
       "category": "anatomy",
       "summary_ko": ""
     },
@@ -8419,7 +8454,14 @@
         "systematic",
         "thoracic"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Observer Variation",
+        "Radiography, Thoracic",
+        "Prevalence"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -8793,7 +8835,18 @@
         "interdigital follicular cysts",
         "reconstructive surgery"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Follicular Cyst",
+        "Treatment Outcome",
+        "Postoperative Complications",
+        "Foot Diseases"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -8827,7 +8880,18 @@
         "biorepository",
         "fitness-for-purpose"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Biological Specimen Banks",
+        "Cats",
+        "Translational Research, Biomedical",
+        "Dog Diseases",
+        "Feasibility Studies",
+        "Cat Diseases",
+        "Prospective Studies",
+        "Surveys and Questionnaires"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -9097,7 +9161,19 @@
         "magnetic resonance imaging",
         "spinal neoplasia"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Magnetic Resonance Imaging",
+        "Female",
+        "Intervertebral Disc Degeneration",
+        "Intervertebral Disc Displacement",
+        "Male",
+        "Cervical Vertebrae",
+        "Body Weight",
+        "Retrospective Studies"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -9321,7 +9397,19 @@
         "hemilaminectomy",
         "thoracolumbar"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Intervertebral Disc Displacement",
+        "Dog Diseases",
+        "Female",
+        "Hyperbaric Oxygenation",
+        "Retrospective Studies",
+        "Laminectomy",
+        "Intervertebral Disc Degeneration",
+        "Male",
+        "Pain Perception"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -9383,7 +9471,21 @@
         "primary hyperparathyroidism",
         "recurrent hypercalcemia"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Hypercalcemia",
+        "Dog Diseases",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Hyperparathyroidism, Primary",
+        "Recurrence",
+        "Calcium",
+        "Parathyroidectomy",
+        "Adenoma",
+        "Parathyroid Hormone"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -10513,7 +10615,15 @@
         "hip",
         "luxation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Female",
+        "Male",
+        "Hip Joint",
+        "Range of Motion, Articular",
+        "Prospective Studies"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -11953,14 +12063,14 @@
       "mesh": [
         "Animals",
         "Dogs",
+        "Female",
+        "Male",
+        "Cadaver",
+        "Dog Diseases",
+        "Fluoroscopy",
+        "Lumbar Vertebrae",
         "Pedicle Screws",
         "Printing, Three-Dimensional",
-        "Cadaver",
-        "Lumbar Vertebrae",
-        "Female",
-        "Dog Diseases",
-        "Male",
-        "Fluoroscopy",
         "Sacrum"
       ],
       "category": "surgery",
@@ -13357,7 +13467,18 @@
         "neuronavigation",
         "ventriculoperitoneal shunt (VP shunt)"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Neuronavigation",
+        "Ventriculoperitoneal Shunt",
+        "Hydrocephalus",
+        "Dog Diseases",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Electromagnetic Phenomena"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -32849,14 +32970,14 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Arnold-Chiari Malformation",
-        "Syringomyelia",
-        "Dog Diseases",
         "Female",
-        "Retrospective Studies",
-        "Treatment Outcome",
         "Male",
-        "Decompression, Surgical"
+        "Arnold-Chiari Malformation",
+        "Decompression, Surgical",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Syringomyelia",
+        "Treatment Outcome"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
