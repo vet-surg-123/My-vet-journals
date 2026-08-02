@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-01 08:43 UTC",
-  "total": 1599,
+  "updated": "2026-08-02 07:42 UTC",
+  "total": 1601,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -30,6 +30,58 @@
       "keywords": [],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542130",
+      "title": "An anatomic plate provides successful outcomes for stabilization of periprosthetic femoral fractures and greater trochanteric osteotomies in dogs undergoing total hip replacement.",
+      "authors": "Lotsikas PJ, Fink OT, Murphy S, Lirtzman RA, Kim SE, Lu M, Rochat M",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Jul 31",
+      "sortdate": "2026-07-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542130/",
+      "abstract": "OBJECTIVE: To report the clinical and radiographic outcomes of a locking proximal femoral anatomic bone plate in the management of periprosthetic femoral fractures (PFFs) and greater trochanteric osteotomies (GTOs) in dogs undergoing total hip replacement (THR). ANIMALS: Medical records from August 2023 to February 2026 were reviewed for dogs with THR that developed PFF or underwent planned GTO and were subsequently stabilized with a locking proximal femoral anatomic bone plate. Cases involving a second plate, preexisting surgical site infection, or THR implant removal at the time of surgery were excluded. Eleven dogs were included-8 with PFF and 3 with GTO. CLINICAL PRESENTATION: The median age of dogs that sustained a femoral fracture was 7.5 years (range, 2 to 12.5 years). Three fractures occurred intraoperatively, and 5 occurred &lt; 30 days postoperatively. The median age of dogs that underwent GTO was 2 years (range, 1 to 9 years). Of the 3 cases, 1 was a revision of a previously failed pin and tension-band repair of a GTO, and the other 2 were the primary repairs of the GTO. RESULTS: Radiographic bone healing and full function were achieved in all PFF cases. Two cases of GTO completely healed, and 1 was a delayed union but stable at12 weeks; all achieved full or acceptable function. One major complication occurred in the PFF group and was successfully revised with a larger plate. CLINICAL RELEVANCE: A locking proximal femoral anatomic bone plate provided adequate fixation and successful outcomes in dogs with PFF or elective GTO in dogs undergoing total hip replacement.",
+      "affiliations": [
+        "1Skylos Sports Medicine, A BluePearl Pet Hospital, Woodstock, MD.",
+        "2WestVet Emergency and Specialty Center, Garden City, ID.",
+        "3Arizona Canine Orthopedics &amp; Sports Medicine, Scottsdale, AZ.",
+        "4College of Veterinary Medicine, University of Florida, Gainesville, FL.",
+        "5Weill School of Veterinary Medicine, University of California-Davis, Davis, CA.",
+        "6College of Veterinary Medicine, Purdue University, West Lafayette, IN."
+      ],
+      "keywords": [
+        "anatomic plate",
+        "greater trochanteric osteotomy",
+        "periprosthetic femoral fractures",
+        "prophylactic plating",
+        "total hip replacement"
+      ],
+      "mesh": [],
+      "category": "jointreplacement",
+      "summary_ko": ""
+    },
+    {
+      "id": "42542129",
+      "title": "Serum iodine concentrations in euthyroid dogs and dogs with autoimmune thyroiditis and hypothyroidism.",
+      "authors": "Egbert RJ, Buchweitz JP, Godfrey MA, Petroff BK",
+      "journal": "Am J Vet Res",
+      "date": "2026 Jul 31",
+      "sortdate": "2026-07-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542129/",
+      "abstract": "OBJECTIVE: To characterize the total and inorganic serum iodine concentrations of canines with varying thyroid disease status. METHODS: Leftover serum samples submitted to the Michigan State University Veterinary Diagnostic Laboratory for diagnostic thyroid panel screening between January and June 2023 were utilized for this retrospective study. Thyroglobulin autoantibody was used as a marker for autoimmune thyroiditis. Inorganic and total iodine were measured via an inductively coupled plasma-mass spectrometer. An estimated reference interval was calculated for inorganic and total iodine using results from euthyroid dogs. RESULTS: Iodine concentrations were measured in dogs with autoimmune thyroiditis (n = 101) and hypothyroidism (97) and euthyroid dogs (86). Serum iodine concentrations ranged widely but were not increased in dogs with autoimmune thyroiditis or hypothyroidism in comparison to euthyroid animals. Concentrations of both total and inorganic iodine were statistically different between dogs suffering from autoimmune thyroiditis and those with hypothyroidism. CONCLUSIONS: Elevated serum iodine is not associated with autoimmune thyroiditis or hypothyroidism in dogs. CLINICAL RELEVANCE: The concentration of iodine alone in canine serum is not a marker for thyroid disease in dogs.",
+      "affiliations": [
+        "Department of Veterinary Pathobiology and Diagnostic Information, College of Veterinary Medicine, Michigan State University, Lansing, MI.",
+        "Veterinary Diagnostic Laboratory, College of Veterinary Medicine, Michigan State University, Lansing, MI."
+      ],
+      "keywords": [
+        "autoimmune thyroiditis",
+        "hypothyroid",
+        "inorganic iodine",
+        "thyroid",
+        "total iodine"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
