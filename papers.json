@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02 09:01 UTC",
-  "total": 1601,
+  "updated": "2026-08-03 10:59 UTC",
+  "total": 1605,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -3329,34 +3329,11 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42244366/",
-      "abstract": "In dogs with chylothorax that are refractory to medical management, surgical intervention is often recommended. Computed tomographic lymphangiography (CTL) is the most commonly used preoperative imaging study, but it has the disadvantages of being time-consuming and requiring contrast medium administration. In human medicine, magnetic resonance imaging (MRI) allows noninvasive visualization of lymphatic ducts. The aim of this prospective study was to compare the use of a T2-W 3D fat-suppressed MRI sequence to traditional CTL for identifying the number and anatomic location of thoracic duct branches. MRI and CTL studies were performed in six healthy dogs. Images were anonymized and independently reviewed by a board-certified veterinary surgeon and a board-certified veterinary radiologist. For each study, the number of duct branches was recorded at four sites (T9, T11, T13, and L2) in addition to the location of the cisterna chyli. Additionally, the surgeon's proposed surgical site and duration of MRI and CTL procedures were noted. There was no significant difference in the number of branches identified between MRI and CTL (p&#xa0;=&#xa0;0.751). Each dog had at least one location with only one observed thoracic duct branch on both CT and MRI, and this was chosen as the proposed surgical site for the dog. There was no statistical difference in study duration between CTL and MRI (p&#xa0;=&#xa0;0.294). MRI may prove to be a beneficial and efficient alternative to CTL for surgical planning in dogs with chylothorax.",
-      "affiliations": [
-        "Department of Small Animal Clinical Sciences, University of Tennessee College of Veterinary Medicine, Knoxville, Tennessee, USA.",
-        "Research Computing Support, Office of Innovative Technologies, University of Tennessee College of Veterinary Medicine, Knoxville, Tennessee, USA."
-      ],
-      "keywords": [
-        "CT",
-        "canine",
-        "chylothorax",
-        "ductography",
-        "lymphatic duct",
-        "magnetic resonance imaging (MRI)",
-        "thorax"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Thoracic Duct",
-        "Lymphography",
-        "Tomography, X-Ray Computed",
-        "Magnetic Resonance Imaging",
-        "Prospective Studies",
-        "Female",
-        "Male",
-        "Chylothorax",
-        "Imaging, Three-Dimensional"
-      ],
-      "category": "surgery",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -3405,28 +3382,10 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42244351/",
-      "abstract": "Abdominal ultrasonography (AUS) is considered an important diagnostic tool for assessing pancreatic disease in dogs. However, AUS interpretation is highly subjective and operator-dependent, with no prior studies evaluating observer variability in assessing the canine pancreas. This survey-based, observer agreement study aimed to assess inter- and intra-observer variability in the ultrasonographic evaluation of canine pancreases. Fifteen ultrasound images of dog pancreases were independently reviewed by 104 veterinary radiologists and radiology residents. Twenty-four veterinary radiologists repeated the review approximately 2.5 months later. Assessments included relative echogenicity, echotexture, margination, and clinical interpretation. Agreement was quantified using Krippendorff's alpha (K&#x3b1;), prevalence-adjusted bias-adjusted kappa (PABAK), Cohen's kappa (&#x3ba;), and intraclass correlation coefficient (ICC). Average inter-observer agreement was poor (K&#x3b1;&#xa0;=&#xa0;0.34), whereas intra-observer agreement was moderate (PABAK&#xa0;=&#xa0;0.49). Global pancreatic echogenicity and echogenicity relative to mesenteric fat had the highest inter-observer agreement (K&#x3b1;&#xa0;=&#xa0;0.58 and 0.53, respectively) as did echotexture assessed by a semi-objective scale (K&#x3b1;&#xa0;=&#xa0;0.50). However, veterinary radiologists demonstrated poor inter-observer agreement on the clinical significance (K&#x3b1;&#xa0;=&#xa0;0.35) and prioritized cause (K&#x3b1;&#xa0;=&#xa0;0.14) of the pancreatic heterogeneity. Observer variables (age, training level, experience, primary practice, and accrediting organization) had minimal effect on inter-observer agreement, apart from experience, where early-career radiologists (&lt;10 years' experience) demonstrated the highest inter-observer agreement among all groups, with moderate agreement for global echogenicity (K&#x3b1;&#xa0;=&#xa0;0.71). These findings highlight substantial variability in the ultrasonographic interpretation of the canine pancreas, particularly in clinical decision-making. Standardization of assessment criteria is necessary to improve consistency, clinical validity, and reduce diagnostic uncertainty.",
-      "affiliations": [
-        "Melbourne Veterinary School, Faculty of Science, University of Melbourne, Werribee, Victoria, Australia.",
-        "School of Agriculture, Food and Ecosystem Sciences, Faculty of Sciences, University of Melbourne, Parkville, Victoria, Australia.",
-        "School of Biology, Faculty of Biological Science, The University of Leeds, Leeds, UK.",
-        "College of Veterinary Medicine, Michigan State University, East Lansing, Michigan, USA."
-      ],
-      "keywords": [
-        "dog",
-        "pancreas",
-        "ultrasound"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Observer Variation",
-        "Ultrasonography",
-        "Dog Diseases",
-        "Pancreas",
-        "Pancreatic Diseases",
-        "Surveys and Questionnaires"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -3438,26 +3397,11 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42244344/",
-      "abstract": "A 12-year-old male neutered domestic shorthair presented for a 3-month history of pollakiuria, stranguria, tenesmus, and dyschezia. Computed tomography (CT) identified an intrapelvic mass. Midline celiotomy revealed a cystic-like mass at the dorsal aspect of the intrapelvic urethra. Debulking and omentalization of the mass were performed. Histopathological examination was consistent with a phyllodes tumor of the prostate, a novel tumor in cats. At the 7-month follow-up, the patient was doing well, with improved pollakiuria and constipation. Unfortunately, local progression and possible pulmonary metastasis were identified on repeat CT.",
-      "affiliations": [
-        "Small Animal Specialist Hospital North Ryde, Sydney, Australia."
-      ],
-      "keywords": [
-        "diagnostic imaging",
-        "feline",
-        "neoplasia",
-        "prostate"
-      ],
-      "mesh": [
-        "Animals",
-        "Male",
-        "Cats",
-        "Cat Diseases",
-        "Phyllodes Tumor",
-        "Prostatic Neoplasms",
-        "Tomography, X-Ray Computed"
-      ],
-      "category": "surgery",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -3468,27 +3412,11 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42216735/",
-      "abstract": "A 7-month-old male neutered Labrador Retriever was referred for vomiting, inappetence, and lethargy. Baseline bloodwork revealed mild mature neutrophilia, elevated amylase and lipase, and mild hypochloremia. Abdominal ultrasound showed a cavitated left cranial abdominal mass with a \"whirl sign,\" indicating a torsed organ. Surgical resection and histopathology confirmed pancreatic torsion, a rare disease in young dogs. The patient recovered uneventfully and was discharged the following day. This is the first report describing a \"whirl sign\" on ultrasound associated with pancreatic torsion in a dog.",
-      "affiliations": [
-        "Department of Radiology, MedVet Medical and Cancer Centers for Pets, Worthington, Ohio, USA."
-      ],
-      "keywords": [
-        "left cranial abdominal mass",
-        "pancreatic torsion",
-        "whirl sign",
-        "young dog"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Male",
-        "Dog Diseases",
-        "Pancreatic Diseases",
-        "Torsion Abnormality",
-        "Ultrasonography",
-        "Pancreas"
-      ],
-      "category": "surgery",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -3499,30 +3427,11 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42216724/",
-      "abstract": "This retrospective study evaluated a novel hypofractionated radiation therapy (RT) protocol for canine urothelial carcinoma (UC). Medical records of dogs diagnosed with UC and treated were retrospectively reviewed. Inclusion criteria included diagnosis of UC, treatment with hypofractionated RT, absence of prostatic involvement or metastatic disease, and adequate follow-up. The RT protocol consisted of 25&#xa0;Gy delivered to the planning target volume (PTV) in five fractions on an every-other-day schedule. Dynamic adaptive radiation therapy (DART) was used in select bladder tumors to minimize geographic miss. Data on adverse events, clinical response, adjuvant therapies, and prognostic factors were evaluated in relation to progression-free survival (PFS) and overall survival (OS). Eighteen dogs met the inclusion criteria. All received nonsteroidal anti-inflammatory drugs (NSAIDs), and 67% also received chemotherapy after RT. Tumor location included bladder only (55%), urethra only (28%), or both (17%). RT was well tolerated, with only low-grade gastrointestinal (17%) or urinary (6%) adverse events observed. Measurable tumor response was observed in 82% (14/17) with follow-up imaging. Median PFS was 394 days (95% CI: 169-619), and median OS was 565 days (95% CI: 497-632). Dogs with urethral involvement demonstrated a shorter PFS compared to those without (median&#xa0;=&#xa0;182 vs. 457 days, respectively [p&#xa0;=&#xa0;0.02]). Chemotherapy did not impact PFS or OS. The novel hypofractionated RT protocol was well tolerated alone and in combination with other treatments. Tumor responses and survival times were improved compared to historical data on dogs receiving NSAIDs and/or chemotherapy alone.",
-      "affiliations": [
-        "Department of Small Animal Clinical Sciences, University of Florida, Gainesville, Florida, USA.",
-        "Department of Small Animal Medicine and Surgery, University of Georgia, Athens, Georgia, USA."
-      ],
-      "keywords": [
-        "bladder",
-        "dog",
-        "palliative",
-        "radiation"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Retrospective Studies",
-        "Dog Diseases",
-        "Male",
-        "Radiation Dose Hypofractionation",
-        "Urinary Bladder Neoplasms",
-        "Female",
-        "Carcinoma, Transitional Cell",
-        "Treatment Outcome"
-      ],
-      "category": "imaging",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -3533,27 +3442,10 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42216723/",
-      "abstract": "A 4-year-old domestic shorthair cat from Switzerland presented with seizures and peripheral lymphadenomegaly. Thoracic radiographs demonstrated cranioventral pulmonary masses and enlargement of the cranial mediastinal and tracheobronchial lymph nodes. Abdominal ultrasonography revealed generalized lymphadenopathy characterized by rounded, homogeneously hypoechoic lymph nodes with an effaced hilus. Imaging differentials included lymphoma, feline coronavirus-associated granulomatous disease, and other fungal infections; cytology and culture confirmed mucormycosis. The pulmonary masses and lymphadenomegaly initially responded to azole therapy; however, they later progressed despite further treatment, and the cat was humanely euthanized 8 months after diagnosis. This case highlights an atypical presentation of mucormycosis in an immunocompetent adult cat, with an unusual lesion distribution localized within the lymphatic system, respiratory system, and suspected central nervous system involvement.",
-      "affiliations": [
-        "Marigin Zentrum f&#xfc;r Tiermedizin, Feusisberg, Switzerland."
-      ],
-      "keywords": [
-        "feline",
-        "fungal disease",
-        "granuloma"
-      ],
-      "mesh": [
-        "Animals",
-        "Cats",
-        "Cat Diseases",
-        "Mucormycosis",
-        "Ultrasonography",
-        "Lymphadenopathy",
-        "Diagnosis, Differential",
-        "Male",
-        "Immunocompetence",
-        "Female"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -3565,29 +3457,10 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42216722/",
-      "abstract": "A 10.5-year-old male castrated Standard Poodle was referred for the evaluation of chronic C6-T2 myelopathy. MRI revealed a severe asymmetric enlargement of the ventral internal vertebral venous plexus, intervertebral/vertebral veins, and possibly the C6 basivertebral vein, with secondary mild spinal cord compression. Intravascular neoplasm, particularly lymphoma, with probable concurrent thrombus formation, was prioritized. Due to the poor prognosis and subsequent development of severe anemia and melena, the patient was euthanized. Necropsy and histopathology diagnosed cervical intravascular osteosarcoma within the ventral internal vertebral venous plexus. This case represents the first description of magnetic resonance imaging features of intravascular osteosarcoma in a canine patient.",
-      "affiliations": [
-        "Department of Clinical Sciences and Advanced Medicine, Section of Radiology, University of Pennsylvania School of Veterinary Medicine, Philadelphia, Pennsylvania, USA.",
-        "Department of Pathobiology, University of Pennsylvania School of Veterinary Medicine, Philadelphia, Pennsylvania, USA."
-      ],
-      "keywords": [
-        "chronic cervical pain",
-        "intravascular tumor",
-        "vascular metastasis"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Male",
-        "Dog Diseases",
-        "Osteosarcoma",
-        "Magnetic Resonance Imaging",
-        "Cervical Vertebrae",
-        "Spinal Cord Compression",
-        "Fatal Outcome",
-        "Spinal Cord Diseases",
-        "Vascular Neoplasms"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -3599,32 +3472,10 @@
       "date": "2026 Jul 01",
       "sortdate": "2026-07-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42216717/",
-      "abstract": "The application of deep learning-based reconstruction (DLR) to magnetic resonance imaging (MRI) has been recently introduced in human and veterinary medicine to improve image quality without prolonging acquisition time. We hypothesized that cranial abdominal MRI with DLR would have superior image quality than conventional MRI. This prospective comparative pilot study aimed to compare cranial abdominal MR image quality with versus without DLR application in dogs. Transverse T2-weighted and T1-weighted images with and without contrast enhancement of the cranial abdomen region were performed in 10 clinically healthy dogs. The original and DLR images were generated from a single set of raw data using the DLR network embedded reconstruction pathway. The signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) were calculated for quantitative analysis. Qualitative analysis included evaluation of the edge sharpness of the liver and pancreas, the conspicuity of the adrenal glands, respiratory motion artifacts, coarseness, and overall image quality using a 4-point scale. Quantitative and qualitative values were compared between images with DLR and their counterparts. The mean SNR and CNR of all images with DLR were significantly higher than those of their counterparts (p&#xa0;&lt;&#xa0;0.05). Qualitative analysis parameters, except for respiratory motion artifacts, were significantly superior in images with DLR compared with counterparts for all sequences (p&#xa0;&lt;&#xa0;0.05). The present study demonstrated that cranial abdominal MRI with DLR is feasible to improve image quality without prolonging acquisition time.",
-      "affiliations": [
-        "College of Veterinary Medicine, Kyungpook National University, Daegu, Republic of Korea.",
-        "College of Veterinary Medicine, Chungnam National University, Daejeon, Republic of Korea.",
-        "Laboratory of Veterinary Radiology, Azabu University, Sagamihara, Kanagawa, Japan."
-      ],
-      "keywords": [
-        "abdomen",
-        "artificial intelligence",
-        "denoise",
-        "dog",
-        "magnetic resonance imaging"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Pilot Projects",
-        "Magnetic Resonance Imaging",
-        "Prospective Studies",
-        "Abdomen",
-        "Deep Learning",
-        "Image Processing, Computer-Assisted",
-        "Signal-To-Noise Ratio",
-        "Female",
-        "Male"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -3739,6 +3590,40 @@
         "Intervertebral Disc Displacement"
       ],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42544490",
+      "title": "Association of hypoalbuminemia with disease and survival in 1664 cats presenting to a tertiary teaching hospital: a retrospective case-control study.",
+      "authors": "Hayes CC, Zhu X, Pazzi P, Schmid SM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544490/",
+      "abstract": "BACKGROUND: Hypoalbuminemia (HA) is associated with a higher case fatality rate in people. HYPOTHESIS/OBJECTIVES: To describe the affected organ systems and pathoetiologies in cats with mild (2.5-2.9&#xa0;g/dL), moderate (2-2.4&#xa0;g/dL), or severe (&lt; 2&#xa0;g/dL) HA, and compare hospitalization and survival times to cats without HA (wHA; &#x2265; 3&#xa0;g/dL). ANIMALS: Eight hundred thirty-two HA and 832 wHA cats. METHODS: Retrospective case-control study of cats with plasma albumin concentrations measured between 2017 and 2023. Diagnoses were categorized by organ system and pathoetiology and subsequently compared among HA and wHA groups. Hospitalization and survival times were compared. RESULTS: HA prevalence was 32% (948/2927); 116 cats were excluded. Cats with HA were more often diagnosed with infectious (211/832, 25%) or neoplastic (198/832, 24%) pathoetiologies, and diseases affecting the hematopoietic (140/832, 17%) or multisystemic (71/832, 9%) organ systems compared to cats wHA (P&#xa0;&lt;&#xa0;.001 for all). Cats with severe HA were more likely to have infectious diseases than all other severities (P&#xa0;&lt;&#xa0;.001). Cats with HA had longer hospitalizations and shorter survival than wHA cats (P&#xa0;&lt;&#xa0;.001). Cats with severe HA had significantly shorter restricted mean survival times from admission to 6 months (71&#xa0;days, 95% CI 51-92&#xa0;days) than wHA (144&#xa0;days, 95% CI 138-149&#xa0;days, P&#xa0;&lt;&#xa0;.001), mild HA (119&#xa0;days, 95% CI 111-127, P&#xa0;&lt;&#xa0;.001), and moderate HA (108&#xa0;days, 95% CI 95-122&#xa0;days, P&#xa0;=&#xa0;.02) cats. CONCLUSIONS AND CLINICAL IMPORTANCE: In cats with severe HA, investigation of infectious diseases should be prioritized.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Tennessee, Knoxville, TN 37996, &#xa0;United States.",
+        "Office of Innovative Technologies, University of Tennessee, Knoxville, TN 37919, &#xa0;United States."
+      ],
+      "keywords": [
+        "albumin",
+        "feline",
+        "hypoproteinemia",
+        "negative prognostic indicator"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Retrospective Studies",
+        "Hypoalbuminemia",
+        "Case-Control Studies",
+        "Female",
+        "Male",
+        "Hospitals, Teaching",
+        "Hospitals, Animal"
+      ],
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -5572,17 +5457,11 @@
       "date": "2026 Jun 12",
       "sortdate": "2026-06-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42285142/",
-      "abstract": "OBJECTIVE: To compare the frequency of thoracic duct (TD) enhancement, time to enhancement, and quality after metatarsal pad (MTP) and perirectal region (PR) administration of iohexol in cats undergoing CT lymphangiography (CTLA). METHODS: Purpose-bred, healthy cats underwent 2 sedated CTLA at a veterinary teaching hospital between August and October 2025, during which MTP or PR iohexol was administered in a cross-over, randomized design. Frequency of TD enhancement, time to enhancement, quality of enhancement, and Glasgow Feline Composite Measure Pain Scale scoring were performed upon recovery and at 1, 4, and 7 days after each scan. RESULTS: Bilateral TDs were appreciated in all 7 cats. Seven out of 7 and 6 out of 7 cats after MTP and PR iohexol administration, respectively, achieved TD enhancement. Metatarsal pad administration resulted in superior quality TD enhancement by both subjective grading (median MTP, grade 2 [IQR, 2 to 3]; median PR, grade 1 [IQR, 0 to 2]) and measured HU at T10-T12 (MTP, 452.5 &#xb1; 130.4 HU; PR, 91.17 &#xb1; 19.5 HU). Mild discomfort, which resolved spontaneously within 24 hours of injection without additional treatment, was appreciated in 5 of 7 and 3 of 7 upon recovery after MTP and PR, respectively. CONCLUSIONS: Both MTP and PR iohexol administration are safe and effective in cats undergoing CTLA. However, MTP iohexol administration results in superior TD enhancement. CLINICAL RELEVANCE: Although both MTP and PR iohexol administration effectively highlight individual TD morphology on CTLA in cats, MTP might represent a better choice for understanding the preoperative anatomy of the TD.",
+      "abstract": "",
       "affiliations": [],
-      "keywords": [
-        "CT lymphangiography",
-        "feline",
-        "idiopathic chylothorax",
-        "lymphatic system",
-        "thoracic duct"
-      ],
+      "keywords": [],
       "mesh": [],
-      "category": "anatomy",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -5593,19 +5472,11 @@
       "date": "2026 Jun 12",
       "sortdate": "2026-06-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42283139/",
-      "abstract": "Osteosarcoma is the most common primary bone tumour in dogs, with approximately 75% of cases occurring in the appendicular skeleton. Standard-of-care therapy consists of limb amputation followed by carboplatin chemotherapy. A minority of dogs have limb-sparing treatments including stereotactic body radiation therapy (SBRT) or surgery. SBRT has a high incidence of pathologic fracture (41%-80% of cases) following treatment, which often results in amputation or euthanasia. Prophylactic bone stabilisation following SBRT has not been recommended due to high complication rates. The IlluminOss system (IS) is an intramedullary implant consisting of a light-curable polymer within an inflatable balloon catheter, which is approved in humans for traumatic fractures and prevention of fractures secondary to bone metastases. We performed a study to assess the safety and feasibility of using the IS following SBRT in six dogs with suspected appendicular osteosarcoma. The IS was placed the day after completion of SBRT. Five of six dogs received adjuvant carboplatin chemotherapy. The IS was well tolerated with no implant-associated infections or immediate post-operative complications occurring. Pathologic fractures occurred in four dogs with a median fracture-free interval of 107&#x2009;days. Three dogs ultimately underwent amputation due to pathologic fractures. No other post-operative complications occurred. The median survival time was 156&#x2009;days. These findings suggest that the IS may be a palliative option for dogs following SBRT, but further research to optimise use in the dog and evaluation of the use of the IS with ancillary fixation is necessary.",
-      "affiliations": [
-        "Department of Veterinary Clinical Sciences, The Ohio State University Veterinary Medical Center, Columbus, Ohio, USA.",
-        "IlluminOss Medical, East Providence, Rhode Island, USA."
-      ],
-      "keywords": [
-        "fractures",
-        "limb&#x2010;sparing",
-        "osteosarcoma",
-        "radiosurgery"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "orthopedics",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -5729,19 +5600,9 @@
       "date": "2026 Jun 11",
       "sortdate": "2026-06-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42277760/",
-      "abstract": "BACKGROUND: Canine lymphoma is a common malignancy with an annual incidence rate of 160 cases per 100,000 dogs. The primary therapeutic protocol in clinical use is treatment with cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP); however, relapses remain frequent, and early detection of recurrence is challenging. IDEXX Cancer Dx&#x2122; testing is a commercially available, blood-based test developed for the detection of canine lymphoma and may also have utility as a minimally invasive tool for longitudinal monitoring during treatment. Ten client-owned dogs with cytologic confirmation of lymphoma, immunophenotyping by flow cytometry and/or genotypic clonality testing by PCR for antigen receptor rearrangement (PARR), and an initial response to CHOP therapy were enrolled in this prospective longitudinal study. Whole blood was collected serially during chemotherapy and analyzed using Cancer Dx testing, with results reported as positive or negative. Clinical response was evaluated using the Veterinary Cooperative Oncology Group (VCOG) response evaluation criteria for peripheral nodal lymphoma in dogs. RESULTS: Cancer Dx test results showed concordance with clinical disease status (Somers' D&#x2009;=&#x2009;0.70, 95% CI [0.59, 0.82]; Kendall's &#x3c4;-b&#x2009;=&#x2009;0.67, 95% CI [0.56, 0.78]). Among the ten cases, test results for eight (80%) dogs became negative, corresponding with clinical remission. Seven of ten (70%) dogs maintained negative test results during complete remission; five of ten (50%) dogs became positive at clinical relapse. Discordance between Cancer Dx testing results and clinical status at the time of initial clinical remission occurred in 2 out of 10 (20%) of the enrolled dogs. Two dogs (Dogs D and I) remained positive despite achieving clinical remission during the initial weeks of CHOP therapy, suggesting delayed or incomplete biomarker conversion. CONCLUSION: Serial Cancer Dx testing results were concordant with VCOG Response Evaluation Criteria-defined clinical status. While these results support further investigation of Cancer Dx testing as a monitoring tool during chemotherapy for lymphoma, the current performance of the assay is insufficient for reliable, stand-alone monitoring without further refinement.",
-      "affiliations": [
-        "IDEXX Laboratories, Inc., One IDEXX Drive, Westbrook, ME, 04092, USA.",
-        "IDEXX Laboratories, Inc., One IDEXX Drive, Westbrook, ME, 04092, USA. sarah-peterson@idexx.com.",
-        "Pet Cancer Care Consulting, LLC, 17819 N 93rd Pl, Scottsdale, AZ, 85255, USA."
-      ],
-      "keywords": [
-        "Biomarker",
-        "Canine lymphoma",
-        "Chemotherapy",
-        "Liquid biopsy",
-        "Remission"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -5827,20 +5688,11 @@
       "date": "2026 Jun 11",
       "sortdate": "2026-06-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42276122/",
-      "abstract": "OBJECTIVE: To evaluate whether adjunctive toceranib phosphate improves survival time in dogs with nasal tumors treated with megavoltage radiation therapy using a simplified 2-tier, CT-based staging system. METHODS: The medical records of 279 client-owned dogs with nasal tumors that underwent CT and megavoltage radiation therapy from 2015 through 2024 were retrospectively reviewed. Dogs were classified as stage I (no cribriform plate destruction) or stage II (cribriform plate destruction present). Survival time was analyzed using Kaplan-Meier methods and Cox proportional hazards models. RESULTS: The median survival time was longer in stage I than in stage II (468 vs 191 days). Toceranib phosphate was administered to 44 dogs. In the overall cohort, dogs treated with toceranib phosphate had longer survival times than untreated dogs (389 vs 250 days). Stage-specific analysis revealed no survival benefit in stage I. In contrast, toceranib phosphate was associated with prolonged survival in stage II. Multivariable analysis confirmed that toceranib phosphate was associated with improved survival in the overall cohort and in stage II but not in stage I. CONCLUSIONS: Adjunctive toceranib phosphate was associated with improved survival in dogs with nasal tumors with cribriform plate destruction, whereas no benefit was observed in dogs without cribriform plate destruction. These findings indicate that the therapeutic effect of toceranib phosphate is stage dependent. CLINICAL RELEVANCE: A stage-based treatment approach may be appropriate in canine nasal tumors, with radiation therapy alone for stage I disease and combination therapy with toceranib phosphate for stage II disease.",
-      "affiliations": [
-        "Joint Graduate School of Veterinary Science, Gifu University, Gifu, Japan.",
-        "Animal Medical Center, Faculty of Applied Biological Sciences, Gifu University, Gifu, Japan."
-      ],
-      "keywords": [
-        "canine nasal tumors",
-        "radiation therapy",
-        "staging",
-        "survival",
-        "toceranib phosphate"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "imaging",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -5928,18 +5780,11 @@
       "date": "2026 Jun 10",
       "sortdate": "2026-06-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42272092/",
-      "abstract": "OBJECTIVE: To describe the surgical techniques and evaluate outcomes of laparoscopic hepatectomy using en bloc hilar pedicle control (EHPC) in dogs with hepatic masses. STUDY DESIGN: Prospective study. ANIMALS: A total of 10 client-owned dogs. METHODS: Dogs with hepatic masses not involving the hilar pedicle (portal vein, hepatic artery, and bile duct), hepatic veins at the hilus, and caudal vena cava (CVC) underwent laparoscopic hepatectomy using EHPC. Data on signalment, blood tests, imaging, intraoperative findings, histopathology, and clinical outcomes were collected. RESULTS: Masses were located in the right lateral, right medial, left medial, and left lateral lobes, or the caudate process of the caudate lobe. All dogs completed laparoscopic hepatectomy without conversion to laparotomy. Median operation time was 165&#x2009;min (range: 90-230&#x2009;min). Histopathology revealed hepatocellular carcinoma (n&#x2009;=&#x2009;9) and adenoma (n&#x2009;=&#x2009;1) and nodular hyperplasia (n&#x2009;=&#x2009;2). Median hospital stay was 3&#x2009;days (range: 2-4&#x2009;days). One dog developed tension pneumothorax from an iatrogenic diaphragmatic injury, and three were diagnosed with bradycardia and hypotension following the Pringle maneuver. Disseminated hepatocellular carcinoma lesions were detected on the greater omentum in one dog 724&#x2009;days post-surgery. All dogs were discharged. CONCLUSION: Laparoscopic hepatectomy using EHPC was safely performed in dogs with liver masses, with favorable short- and long-term outcomes. CLINICAL RELEVANCE: Laparoscopic hepatectomy using EHPC is a viable option for dogs with liver masses, provided there is no involvement of the hilar pedicle, hepatic veins at the hilus, and CVC.",
-      "affiliations": [
-        "St. Luke's Animal Medical Center, Osaka, Japan.",
-        "School of Veterinary Medicine, Azabu University, Sagamihara, Japan.",
-        "Tokyo Animal Medical Center, Tokyo, Japan.",
-        "Petemo Animal Medical Center, Sapporo, Japan.",
-        "Asakadai Animal Medical Center, Saitama, Japan.",
-        "Department of Surgery, School of Medicine, Iwate Medical University, Iwate, Japan."
-      ],
+      "abstract": "",
+      "affiliations": [],
       "keywords": [],
       "mesh": [],
-      "category": "surgery",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -6020,22 +5865,9 @@
       "date": "2026 Jun 10",
       "sortdate": "2026-06-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269678/",
-      "abstract": "OBJECTIVE: To describe the clinical presentation, perioperative variables, surgical management, and outcomes in cats that underwent surgery for biliary cystadenomas. ANIMALS: 21 cats met inclusion criteria. These cats had surgery for biliary cystadenomas between 2008 and 2023, with a corresponding histopathologic diagnosis. CLINICAL PRESENTATION: Cats were reported as domestic shorthair (15 of 21), domestic longhair (3 of 21), Himalayan (1 of 21), Ragdoll (1 of 21), and Persian (1 of 21). This included 13 neutered males and 8 spayed females with a median age of 13 years. Cats most commonly presented with nonspecific clinical signs such as vomiting, weight loss, hyporexia, and lethargy. Cats were occasionally subclinical with a liver mass identified on physical examination or abdominal imaging. RESULTS: Surgery was pursued based on a variety of factors, including comorbidities requiring surgery, features of the mass, and clinical signs attributed to the mass. Major surgical complications were uncommon, and the perioperative mortality rate was 10% (2 of 21). Three cats had concerns for malignant transformation on histopathology. The recurrence rate was 22% (4 of 18) for the cats with follow-up. The biliary cystadenoma was not the life-limiting issue for cats that survived the perioperative period. The median survival time was 570 days with 1-, 2-, and 3-year survival rates of 67%, 43%, and 15%, respectively. CLINICAL RELEVANCE: Cats had positive short-term outcomes and long-term prognosis, and surgery should be considered for suspected biliary cystadenomas to obtain a definitive diagnosis and address associated morbidity. The potential for malignant transformation exists for feline biliary cystadenomas.",
-      "affiliations": [
-        "1Department of Clinical Sciences and Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA.",
-        "2Red Bank Veterinary Hospital, Compassion-First Pet Hospitals, Tinton Falls, NJ.",
-        "3Department of Clinical Sciences, Small Animal Hospital, College of Veterinary Medicine, University of Florida, Gainesville, FL.",
-        "4Department of Small Animal Medicine and Surgery, College of Veterinary Medicine, University of Georgia, Athens, GA.",
-        "5Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC.",
-        "6Department of Pathobiology, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA."
-      ],
-      "keywords": [
-        "biliary cystadenoma",
-        "feline",
-        "liver",
-        "malignant transformation",
-        "soft tissue surgery"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "surgery",
       "summary_ko": ""
@@ -6048,28 +5880,9 @@
       "date": "2026 Jun 10",
       "sortdate": "2026-06-10",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269671/",
-      "abstract": "Liquid biopsy (LBx) is the analysis of fluids such as blood, urine, saliva, or secretions to detect cancer biomarkers and circulating tumor cells. It is becoming a common investigational tool in human oncology, but less so in veterinary medicine. Liquid biopsy is less invasive and has fewer complications than tissue biopsy, but it is not intended to replace tissue biopsy. In human oncology, LBx is primarily used as an investigational tool because of the cost and technology requirements. Liquid biopsy may eventually provide early-stage cancer detection, but this has not been proven for humans or dogs. Several LBx tests are currently available commercially to dog owners and veterinarians. A new test, Urine Molecular Fingerprinting, has been developed and addresses the limitations of blood-based technologies.",
-      "affiliations": [
-        "1Department of Biomedical Engineering, College of Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA.",
-        "2Department of Small Animal Clinical Sciences, College of Veterinary Medicine, Virginia Polytechnic Institute and State University, Blacksburg, VA.",
-        "3Rametrix Technologies Inc, Blacksburg, VA.",
-        "4Department of Biological Systems Engineering, College of Agriculture and Life Sciences, Virginia Polytechnic Institute and State University, Blacksburg, VA.",
-        "5Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Purdue University, West Lafayette, IN.",
-        "6Purdue Institute for Cancer Research, Purdue University, West Lafayette, IN.",
-        "7Westie Foundation of America c/o Suburbia North Animal Hospital, Houston, TX.",
-        "8Berner Garde Foundation, Leesburg, VA.",
-        "9Department of Veterinary Medical Sciences, University of Bologna, Bologna, Italy.",
-        "10Department of Internal Medicine in Small Animals, Paulista University, Brazil.",
-        "11Department of Veterinary Clinical Sciences, College of Veterinary Medicine, University of Minnesota, St Paul, MN.",
-        "12Chimeritope DX, Richmond, VA."
-      ],
-      "keywords": [
-        "DNA/RNA",
-        "blood",
-        "cancer",
-        "mucus",
-        "urine"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -6377,35 +6190,11 @@
       "date": "2026 Jun 05",
       "sortdate": "2026-06-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42249548/",
-      "abstract": "ObjectivesThe aim of the present study was to compare analgesic and cardiopulmonary effects after bilateral ultrasound-guided quadratus lumborum block (QLB) and lumbosacral epidural (LsE) with levobupivacaine in cats undergoing ovariohysterectomy (OVH).MethodsA prospective, randomized, blinded clinical trial was conducted. A total of 20 healthy female cats were allocated (1:1) to the LsE group (0.4&#x2009;ml/kg 0.25% levobupivacaine) or the QLB group (0.3&#x2009;ml/kg 0.25% levobupivacaine per hemiabdomen). Cats were premedicated with dexmedetomidine 3&#x2009;&#xb5;g/kg and meloxicam 0.1&#x2009;mg/kg. Anesthesia was performed using propofol variable rate infusion (adjusted to clinical depth). Heart rate, respiratory rate, hemoglobin oxygen saturation, end-tidal carbon dioxide and systolic, mean and diastolic arterial pressures were recorded at seven standardized surgical time points. Postoperative pain (UNESP-Botucatu multidimensional composite pain scale) and sedation were assessed up to 6&#x2009;h after surgery; methadone (0.25&#x2009;mg/kg IM) was administered as rescue analgesia when indicated. Recovery milestones and mean propofol infusion rates were also compared. Data were analyzed using repeated measures ANOVA, unpaired t-tests or non-parametric tests, as appropriate (P&#x2009;&lt;0.05).ResultsNo significant between-group differences were detected for any cardiopulmonary variable (P&#x2009;&gt;0.05), and no intraoperative rescue analgesia was required. Mean propofol infusion rates were similar (LsE 0.36&#x2009;&#xb1;&#x2009;0.07 vs QLB 0.39&#x2009;&#xb1;&#x2009;0.02&#x2009;mg/kg/min; P&#x2009;=&#x2009;0.0863). Postoperative pain scores did nor differ between groups. Only one cat in the QLB group required methadone at 6&#x2009;h. Recovery milestones (extubation to standing: LsE 73&#x2009;mins, QLB 79&#x2009;mins; P&#x2009;=&#x2009;0.4182) and sedation scores were comparable. No block-related complications or adverse events were observed.Conclusions and relevanceBilateral ultrasound-guided QLB with 0.25% levobupivacaine provided cardiopulmonary stability and early perioperative analgesic performance comparable to lumbosacral epidural anesthesia in cats premedicated with dexmedetomidine and meloxicam undergoing OVH, supporting its use as a clinical alternative, particularly when epidural access is contraindicated.",
-      "affiliations": [
-        "School of Veterinary Medicine and Animal Science, Federal University of Bahia, Salvador, Brazil.",
-        "Department of Anatomy, Pathology and Veterinary Clinics, School of Veterinary Medicine and Animal Science, Federal University of Bahia, Salvador, Brazil."
-      ],
-      "keywords": [
-        "Quadratus lumborum block",
-        "analgesia",
-        "epidural",
-        "levobupivacaine",
-        "ovariohysterectomy",
-        "regional anesthesia"
-      ],
-      "mesh": [
-        "Animals",
-        "Cats",
-        "Hysterectomy",
-        "Female",
-        "Ovariectomy",
-        "Pilot Projects",
-        "Ultrasonography, Interventional",
-        "Nerve Block",
-        "Anesthesia, Epidural",
-        "Levobupivacaine",
-        "Postoperative Pain",
-        "Anesthetics, Local",
-        "Prospective Studies"
-      ],
-      "category": "surgery",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -6493,20 +6282,11 @@
       "date": "2026 Jun 05",
       "sortdate": "2026-06-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42248174/",
-      "abstract": "OBJECTIVE: To evaluate the accuracy of 3 femoral craniocaudal radiographic techniques in assessment of femoral morphology using CT scans as the imaging modality of choice. METHODS: Candidates were assessed from September 2024 through October 2025, and those with a normal orthopedic examination were enrolled. Extended limb, sitting position, and horizontal beam radiographs and CT scans were evaluated for frontal plane alignment, with the following measurements completed by 2 investigators independently: anatomic lateral distal femoral angle (aLDFA), mechanical lateral distal femoral angle, anatomic lateral proximal femoral angle, and mechanical lateral proximal femoral angle. Angles were statistically compared (P &lt; .05) between groups, and interobserver variability was evaluated. RESULTS: Femoral morphology of 25 dogs (50 femora) with body weights ranging from 14 to 45 kg was assessed. Horizontal beam was most accurate for anatomic lateral proximal femoral angle, mechanical lateral proximal femoral angle, and aLDFA, whereas extended limb was most accurate for mechanical lateral distal femoral angle, with each showing no significant difference from CT. Sitting position was not the most accurate for any measurement. All measurements demonstrated high interobserver agreement (intraclass correlation coefficient &gt; 0.8 for all parameters). CONCLUSIONS: Proximal and distal canine femoral morphology can be reliably measured by specific radiographic views in the absence of CT. CLINICAL RELEVANCE: In the absence of a CT scan, horizontal beam is recommended for accurate assessment of proximal femoral morphology in planning of total hip replacement and also demonstrated superiority when considering aLDFA measurements used for patellar luxation surgery planning.",
-      "affiliations": [
-        "Department of Small Animal Clinical Sciences, Michigan State University, East Lansing, MI.",
-        "Department of Small Animal Clinical Sciences, The Ohio State University, Columbus, OH."
-      ],
-      "keywords": [
-        "angular deformity",
-        "computed tomography scan",
-        "femoral morphology",
-        "femoral radiographs",
-        "total hip replacement"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "jointreplacement",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -6570,21 +6350,9 @@
       "date": "2026 Jun 04",
       "sortdate": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42248237/",
-      "abstract": "This prospective, randomized, blinded and non-inferiority clinical study was conducted to assess the analgesic efficacy of ultrasound-guided transversus abdominis plane (TAP) block compared with administration of methadone in dogs undergoing laparoscopic ovariectomy. After intramuscular premedication with dexmedetomidine and methadone, dogs were randomly assigned to receive an ultrasound-guided TAP block with ropivacaine 0.25% (0.25&#x202f;ml/kg per point; group R, n&#x202f;=&#x202f;22) or 0.9% saline (0.25&#x202f;ml/kg per point; group C, n&#x202f;=&#x202f;20) at three points per hemiabdomen. Intraoperative end-tidal isoflurane, heart rate and invasive mean arterial pressure were recorded, and fentanyl (2&#x202f;mcg/kg IV) was administered as rescue analgesia if required. Postoperative pain was assessed at 1, 2, 4, 6, 8 and 24&#x202f;h using the Glasgow Composite Measure Pain Score-Short Form (CMPS-SF), dynamic and interactive visual analogue scales (DIVASa, DIVASb and DIVASc), and mechanical nociceptive threshold (MNT). Methadone (0.2&#x202f;mg/kg IV) was administered every 4&#x202f;h in group C and in both groups if CMPS-SF &#x2265;&#x202f;6/24. Group R required a significantly lower amount of intraoperative fentanyl (p&#x202f;=&#x202f;0.02) and isoflurane (p&#x202f;=&#x202f;0.028) than group C. Postoperatively, group R showed significantly lower DIVASc scores (p&#x202f;=&#x202f;0.013), while no differences were observed for CMPS-SF, DIVASa, DIVASb or MNT. Three bitches in group C required rescue methadone compared with none in group R. In conclusion, the three-points TAP block reduced intraoperative anaesthetic and opioid requirements and provided effective postoperative analgesia for 24&#x202f;h in dogs undergoing laparoscopic ovariectomy.",
-      "affiliations": [
-        "University of Cordoba, Spain.",
-        "Hospital Veterinari Canis Mallorca IVC Evidensia Author Institution is Unverified Palma, Illes Balears, Spain. Electronic address: francesco.aprea@ivcevidensia.es.",
-        "Universidad de C&#xf3;rdoba, Spain."
-      ],
-      "keywords": [
-        "Analgesia",
-        "Bitches",
-        "Ovariectomy",
-        "Regional anaesthesia",
-        "Ropivacaine",
-        "TAP block",
-        "Transversus abdominis plane"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "imaging",
       "summary_ko": ""
@@ -6597,25 +6365,11 @@
       "date": "2026 Jun 04",
       "sortdate": "2026-06-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42237202/",
-      "abstract": "Electrochemotherapy (ECT) is a local ablative treatment and in veterinary oncology, evidence supporting ECT efficacy is mainly derived from case reports and small case series, underscoring the need for standardized, multicentric data collection comparable to human oncology registries. The primary aim of this study was to establish VetInspECT, a veterinary clinical registry adapted from the human InspECT platform, to enable standardized reporting and multicentre data collection for ECT. The secondary aim was to evaluate antitumor effectiveness using data from the single centre that initiated the registry. VetInspECT was designed to systematically record patient characteristics, tumor features, treatment parameters, and follow-up outcomes in animals treated with ECT. Retrospective data spanning from 2012 to 2024 from feline patients treated at a Slovenian center were entered into the database. Squamous cell carcinoma (SCC) was the most frequently treated tumor (66%), followed by mast cell tumors (MCT; 12%) and other carcinomas and sarcomas. Complete response rates were highest in MCT (95%), followed by non-SCC carcinomas (90%), SCC (74%), and sarcomas (33%). Tumor size, clinical stage, anatomical location, and mucosal involvement significantly affected treatment response and progression-free survival. In conclusion, VetInspECT represents an important step toward standardized ECT reporting in veterinary oncology and supports the use of shared registries to enable robust multicentric analyses and broader clinical integration of ECT.",
-      "affiliations": [
-        "Veterinary Faculty, University of Ljubljana, Ljubljana, Slovenia. natasa.tozonmask@vf.uni-lj.si.",
-        "Veterinary Faculty, University of Ljubljana, Ljubljana, Slovenia.",
-        "Institute of Oncology Ljubljana, Ljubljana, Slovenia.",
-        "Medical Faculty, University of Ljubljana, Ljubljana, Slovenia.",
-        "Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush Campus, Midlothian, UK.",
-        "IUGEA S.p.A., Clinical Biophysics Lab. Carpi, Modena, Italy.",
-        "Faculty of Health Sciences, University of Ljubljana, Ljubljana, Slovenia.",
-        "Faculty of Health Sciences, University of Primorska, Isola, Slovenia."
-      ],
-      "keywords": [
-        "Cats",
-        "Clinical study",
-        "Electrochemotherapy",
-        "Veterinary oncology"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "anatomy",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -6783,14 +6537,8 @@
       "date": "2026 Jun 02",
       "sortdate": "2026-06-02",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42278186/",
-      "abstract": "There was an error in Reference 21 in the original publication [...].",
-      "affiliations": [
-        "North Dublin Orthopaedic Animal Hospital, Warrenhouse Rd 38, Baldoyle, D13 K5H0 Dublin, Ireland.",
-        "Department of Veterinary Medicine, School of Veterinary Medicine, University of Nicosia, 2414 Nicosia, Cyprus.",
-        "Department of Surgery and Intensive Care, Faculty of Veterinary Medicine, University of Agricultural Sciences and Veterinary Medicine, Calea Manastur 3-5, 400372 Cluj-Napoca, Romania.",
-        "CYVETS, Leof. T. Papadopoulou 138, 8025 Paphos, Cyprus.",
-        "Department of Small Animal Surgery, Koret School of Veterinary Medicine, The Robert H. Smith Faculty of Agriculture, Food &amp; Environment, The Hebrew University of Jerusalem, P.O. Box 12, Rehovot 76100, Israel."
-      ],
+      "abstract": "",
+      "affiliations": [],
       "keywords": [],
       "mesh": [],
       "category": "imaging",
@@ -6889,21 +6637,9 @@
       "date": "2026 Jun 01",
       "sortdate": "2026-06-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42278128/",
-      "abstract": "The Anatomage Table Vet (ATV) is a digital tool that may facilitate the understanding of complex structures and improve visuospatial skills. This study evaluated the effectiveness of the ATV as a review method prior to cadaveric dissection and collected students' feedback. During a sport-medicine seminar, consisting of an oral presentation and a practical anatomy review session, a small sample of veterinary students voluntarily participated in this trial. A pre-test assessed baseline knowledge on muscle identification, muscle insertions and origins and biomechanics. Twenty-nine students were divided into two groups, ATV (A) and traditional lecture (C), to review canine anatomy of the caninethoracic limb and cingulum, before compiling a post-test, represented by muscle identification on five cadaveric specimens. A feedback questionnaire was administered afterwards. Mean post-test scores were significantly higher in both groups in all subsections and total score (A pre = 2.40; A post = 6.60; C pre = 2.43; C post = 6.57). No significant difference was observed in improvement between groups. Student feedback was generally positive. From the results limited to this preliminary assessment, the ATV seems well-received by students. Further research with a larger sample size is needed to clarify its educational impact.",
-      "affiliations": [
-        "Department of Veterinary Medicine, University of Perugia, Via S. Costanzo, 4, 06126 Perugia, PG, Italy.",
-        "Independent Researcher, 52037 Sansepolcro, AR, Italy."
-      ],
-      "keywords": [
-        "3D anatomy",
-        "digital anatomy",
-        "digital teaching",
-        "domestic animals",
-        "innovative teaching",
-        "innovative tools",
-        "myology",
-        "veterinary anatomy"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "anatomy",
       "summary_ko": ""
@@ -6955,19 +6691,9 @@
       "date": "2026 May 30",
       "sortdate": "2026-05-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42278106/",
-      "abstract": "The information available on cervical myelopathies (CMs) and cervical pain (CP) in non-chondrodystrophic breeds remains limited compared to chondrodystrophic breeds. The expression of CP in CMs may depend on lesion type, severity and onset of clinical signs. This retrospective single-centre study reviewed the medical records of 112 purebred non-chondrodystrophic dogs referred for neurological evaluation, in which C1-T2 lesions were subsequently confirmed by magnetic resonance imaging (MRI). Clinical onset was categorised as acute (&#x2264;7 days) or chronic (&gt;7 days). Neurological grade was classified into four neurological groups (G1-G4). CP was graded using a study-specific, non-validated five-point ordinal clinical scale. Multifactorial analysis of variance (ANOVA), odds ratios with 95% confidence intervals, and multivariable binomial logistic regression were performed. ANOVA showed significant effects of group (p &lt; 0.0001), disease category (p &lt; 0.05), and clinical onset (p &lt; 0.02) on CP scores. Post-hoc comparison showed significantly lower CP scores in chronic onset than in acute onset (p &lt; 0.0001). Acute onset was associated with CP in G2 (OR = 71.0; p &lt; 0.0002) and remained associated with CP after adjustment for groups (adjusted OR = 4.42; 95% CI: 1.28-15.28; p = 0.019). These findings suggest that clinical onset may contribute to CP expression in non-chondrodystrophic dogs with CMs. Acute onset, particularly in ambulatory myelopathic patients, appears more frequently associated with CP. However, due to the retrospective design, the heterogeneous diagnostic composition, and the study-specific nature of the CP score, these associations should be interpreted cautiously.",
-      "affiliations": [
-        "Department of Veterinary Sciences, University of Messina, 98168 Messina, Italy.",
-        "Ospedale Veterinario San Francesco, 31038 Castagnole, Italy.",
-        "Department of Veterinary Medicine and Animal Production, University of Naples \"Federico II\", 80137 Naples, Italy."
-      ],
-      "keywords": [
-        "cervical pain",
-        "clinical onset",
-        "dog",
-        "magnetic resonance imaging",
-        "non-chondrodystrophic breed"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -7019,20 +6745,9 @@
       "date": "2026 May 29",
       "sortdate": "2026-05-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42216029/",
-      "abstract": "BACKGROUND: Canine mammary tumors (CMTs) are the most common neoplasms in intact female dogs. Although the number of publications on CMTs has increased steadily over recent decades, a comprehensive overview of the knowledge structure, research hotspots, and evolutionary trends in this field is still lacking. METHODS: Publications related to CMTs were retrieved from the Web of Science Core Collection without restrictions on language or document type. Bibliometric and visualization analyses were conducted using CiteSpace (version 6.3.1) and VOSviewer (version 1.6.20). Co-authorship, co-citation, and keyword co-occurrence networks were constructed to identify influential countries, institutions, authors, core journals, research themes, and emerging trends. RESULTS: The annual number of publications on CMTs showed a long-term increasing trend and has remained relatively stable in recent years, indicating a mature research stage. Brazil, the United States, and Italy were the most productive and influential countries, forming the core of the international collaboration network. A limited number of institutions and author groups dominated the field, with strong intra-group collaboration. Keyword and co-citation analyses revealed that histopathology, molecular expression, prognosis constitute the central research themes. Temporal and burst analyses indicated a shift from descriptive pathology toward molecular characterization, prognostic evaluation, reflecting the increasing depth and complexity of research in this field. CONCLUSIONS: Research on CMTs has evolved from morphology-based studies to increasingly molecular and clinically oriented approaches. This bibliometric analysis clarifies the intellectual structure and developmental trajectory of the field and provides a systematic reference for future research on CMTs.",
-      "affiliations": [
-        "Shanxi Key Laboratory for Modernization of TCVM, College of Veterinary Medicine, Shanxi Agricultural University, Taigu, Shanxi, 030801, People's Republic of China.",
-        "Laboratory Animal Center, Shanxi Agricultural University, Taigu, Shanxi, 030801, People's Republic of China.",
-        "Shanxi Key Laboratory for Modernization of TCVM, College of Veterinary Medicine, Shanxi Agricultural University, Taigu, Shanxi, 030801, People's Republic of China. snzh060511@126.com."
-      ],
-      "keywords": [
-        "Bibliometric and visualization analyses",
-        "Canine mammary tumors (CMTs)",
-        "Comprehensive overview",
-        "Evolutionary trends",
-        "Research hotspots",
-        "Spontaneous model"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -7154,31 +6869,10 @@
       "date": "2026 May 28",
       "sortdate": "2026-05-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42206764/",
-      "abstract": "ObjectivesThe aim of this retrospective study was to describe the ultrasonographic findings of cats with large intestinal adenocarcinoma (ACA) and high-grade lymphoma (LSA).MethodsCats diagnosed with large intestinal neoplasia with a complete abdominal ultrasound were included in the study. Signalment, clinical history, physical examination, blood work and outcome data were collected. Tumor location, length, wall thickness and layering, echogenicity, lymphadenopathy, effusion, ulceration and obstruction were recorded.ResultsA total of 44 cats had ACA, with the colon affected in 28/44 cats and the ileocolic junction (ICJ) affected in 16/44 cats. The ACA tumors had a median length of 23&#x2009;mm and a median wall thickening of 9&#x2009;mm. Regional lymphadenopathy was noted in 29/44 cats, with a median thickness of 6.05&#x2009;mm. Obstruction was observed in 30% of the cats with ACA. In total, 38 cats were diagnosed with high-grade LSA, primarily affecting the ICJ in 20/38 cats, the colon in 14/38 cats and multiple sites within the gastrointestinal tract in 4/38 cats. In addition, 7/38 cats had other organ involvement. The LSA tumors had a median length of 40.3&#x2009;mm and a median wall thickening of 15&#x2009;mm. Regional lymphadenopathy was noted in 31/38 cats, with a median thickness of 8.6&#x2009;mm. Obstruction was present in 11% of the cats with LSA. Both tumor types commonly appeared as transmural hypoechoic thickening with loss of wall layering. The median survival time for cats with large intestinal ACA and LSA was 19 days and 23 days, respectively.Conclusions and relevanceCats with large intestinal ACA and LSA shared a similar clinical presentation. ACA and LSA share similar ultrasonographic features; however, LSA lesions are typically thicker and longer and are associated with more frequent and pronounced lymphadenopathy than ACA lesions. ACAs are more likely to cause obstruction, whereas LSA tumors tend to have a multicentric distribution. Because imaging findings overlap, cytologic or histologic sampling remains essential for definitive diagnosis.",
-      "affiliations": [
-        "Cresskill Animal Hospital, Cresskill, NJ, USA.",
-        "Clinical Sciences Department, Cummings School of Veterinary Medicine, Tufts University, North Grafton, MA, USA."
-      ],
-      "keywords": [
-        "Colon",
-        "adenocarcinoma",
-        "ileocolic",
-        "lymphoma",
-        "neoplasia",
-        "ultrasound"
-      ],
-      "mesh": [
-        "Animals",
-        "Cats",
-        "Cat Diseases",
-        "Lymphoma",
-        "Adenocarcinoma",
-        "Female",
-        "Intestinal Neoplasms",
-        "Retrospective Studies",
-        "Male",
-        "Ultrasonography"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -7220,14 +6914,11 @@
       "date": "2026 May 28",
       "sortdate": "2026-05-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42210038/",
-      "abstract": "A Belgian Malinois dog developed advanced gastroparesis with gastric atony and progressive dilatation following surgical correction of gastric dilatation-volvulus. Following gastric dilatation-volvulus, the dog developed recurrent gastric distension, vomiting of undigested food and progressive weight loss. Imaging and endoscopy demonstrated a markedly enlarged, static stomach with a patent pylorus, refractory to prokinetic therapy. Exploratory laparotomy revealed global gastric atony, and a radical sleeve-type gastrectomy was performed. Histopathology identified interstitial fibrosis and sparsely distributed nerve plexuses. Although delayed gastric emptying persisted postoperatively on barium contrast study, the dog regained weight, tolerated liquid meals and remained clinically stable without further vomiting or dilatation at 12&#x2009;months follow-up. Severe gastroparesis with chronic gastric dilatation can occur as a delayed complication of gastric dilatation-volvulus, likely related to truncal vagal injury. Sleeve-type gastrectomy might represent a salvage option for dogs with end-stage, medically refractory gastric atony.",
-      "affiliations": [
-        "Ben-Shemen Referral Centre, Ben-Shemen Youth Village, Israel.",
-        "IDEXX Laboratories, Wetherby, UK."
-      ],
+      "abstract": "",
+      "affiliations": [],
       "keywords": [],
       "mesh": [],
-      "category": "surgery",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -7238,18 +6929,9 @@
       "date": "2026 May 28",
       "sortdate": "2026-05-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42208589/",
-      "abstract": "OBJECTIVE: To determine the short-term effect of sedation on GFR markers in cats with chronic kidney disease (CKD). METHODS: This was a prospective observational study involving client-owned cats with CKD undergoing abdominal sonography. Each cat received 50 mg oral gabapentin, 0.3 mg/kg butorphanol, and 0.3 mg/kg midazolam IM followed by 1 mg/kg alfaxalone IV to effect. Presedation blood tests included hematology and biochemistry. A second blood test for GFR markers (symmetric dimethylarginine [SDMA] and creatinine) was collected at the point of maximum sedation (20 cats) or 2 hours after sedation (12 cats). RESULTS: 20 cats had presedation SDMA and creatinine concentrations of 19 &#xb5;g/dL median (IQR, 15 to 24.5) and 200 &#xb5;mol/L median (IQR, 147.5 to 260), respectively. These were not significantly different from samples from the point of maximal sedation (SDMA: median, 19 &#xb5;g/dL; quantile [Q]-1 to Q3, 15 to 24.5; P = .31; creatinine: median, 200 &#xb5;mol/L; IQR, 147.5 to 255; P = .71). Twelve cats had presedation SDMA and creatinine concentrations of 22 &#xb5;g/dL median (IQR, 19.5 to 24.5) and 210 &#xb5;mol/L median (IQR, 165 to 260), respectively. These were not significantly different from samples obtained 2 hours after sedation (SDMA: median, 25 &#xb5;g/dL; IQR, 20 to 26; P = .51; creatinine: median, 200 &#xb5;mol/L; Q1 to Q3, 175 to 280; P = .06). The only adverse effect was prolonged sedation in some cats. CONCLUSIONS: Sedation with gabapentin, butorphanol, midazolam, and alfaxalone was an effective protocol for cats with CKD undergoing noninvasive diagnostic procedures and was not associated with short-term changes in GFR markers. CLINICAL RELEVANCE: The sedation protocol described is safe and effective in cats with CKD undergoing routine procedures.",
-      "affiliations": [
-        "Small Animal Specialist Hospital, Adelaide, SA, Australia.",
-        "Small Animal Specialist Hospital, North Ryde, NSW, Australia."
-      ],
-      "keywords": [
-        "cats",
-        "chronic kidney disease",
-        "glomerular filtration rate",
-        "kidney function",
-        "sedation"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "internal",
       "summary_ko": ""
@@ -7315,19 +6997,9 @@
       "date": "2026 May 27",
       "sortdate": "2026-05-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42208888/",
-      "abstract": "Renal resistive index (RRI) and pulsatility index (RPI) are valuable tools for the early diagnosis and monitoring of acute and chronic kidney injury, yet age-specific reference values in non-azotemic healthy dogs have not been clearly defined. This study aimed to establish these reference values by evaluating 85 healthy, client-owned dogs, which were divided into five age groups (juvenile, young adult, adult, senior, and geriatric), with 17 dogs per group. Each dog underwent blood tests and physical examinations without abnormalities. Using a standardized protocol, a single operator measured RRI and RPI, revealing a moderate significant correlation between age and both indices (RRI &#x3c1; =.41, p &lt;.001; RPI &#x3c1; =.40, p &lt;.001). In the total sample, the mean RRI and RPI values were 0.613 &#xb1; 0.062 (95% confidence interval (95% CI): 0.600 - 0.627) and 1.144 &#xb1; 0.236 (95% CI: 1.093 - 1.195), respectively. In geriatric dogs, these values increased to 0.663 &#xb1; 0.064 (95% CI: 0.630 - 0.695) for RRI and 1.305 &#xb1; 0.263 (95% CI: 1.170 - 1.440) for RPI. Notably, significant differences in RRI and RPI were found between all groups of dogs younger than 11 years and the geriatric dog group (p =.0004 and p =.0007, respectively). The proposed reference values were 0.71 for RRI and 1.51 for RPI in dogs younger than 11 years old, compared to 0.79 and 1.83, respectively, in geriatric dogs. These findings demonstrate that RRI and RPI vary with age, with younger dogs showing lower values than older dogs, emphasizing the importance of age-specific thresholds to improve the accuracy of renal assessment in dogs.",
-      "affiliations": [
-        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain; Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain. Electronic address: jorgor01@ucm.es.",
-        "Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain.",
-        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain; Diagnostic Imaging Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/N., Madrid 28040, Spain; AniCura Vetsia Veterinary Hospital, C Galileo 3, Madrid 28914, Spain.",
-        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain; Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain."
-      ],
-      "keywords": [
-        "Doppler ultrasound",
-        "age",
-        "canine",
-        "kidney"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "internal",
       "summary_ko": ""
@@ -7347,6 +7019,21 @@
       "keywords": [],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42283014",
+      "title": "Point-of-care-ultrasound measurements of cardiovascular indices across awake, sedated, anesthetized, and recovered states in dogs.",
+      "authors": "Warhoe J, Zersen KM, Cavanagh AA",
+      "journal": "Front Vet Sci",
+      "date": "2026 May 27",
+      "sortdate": "2026-05-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42283014/",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -7408,28 +7095,10 @@
       "date": "2026 May 26",
       "sortdate": "2026-05-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42187184/",
-      "abstract": "ObjectiveThe aim of the present study was to characterize comprehensive vitamin D metabolite profiles in cats with chronic kidney disease (CKD) compared with healthy cats.MethodsA total of 33 healthy cats and 66 cats with CKD (six International Renal Interest Society [IRIS] stage 1, 36 IRIS stage 2, 18 IRIS stage 3, six IRIS stage 4) were prospectively enrolled. Serum vitamin D metabolites, including 25-hydroxyvitamin D3 (25[OH]D3), 3-epi-25-hydroxyvitamin D3 (3-epi-25[OH]D3), 1,25-dihydroxyvitamin D3 (1,25[OH]2D3; calcitriol) and 24,25-dihydroxyvitamin D3 (24,25[OH]2D3), were analyzed via liquid chromatography-tandem mass spectrophotometry. Vitamin D metabolites, clinicopathologic parameters, age, body weight and body condition score were compared between groups using a Mann-Whitney U-test or t-test as appropriate. Correlations between vitamin D metabolites and clinicopathologic parameters, age and weight were assessed using Spearman's rank test.ResultsThere was no significant difference in any vitamin D metabolite between groups. Median 25(OH)D3 concentrations in cats with CKD and healthy cats were 28.9 ng/ml (range 12.2-68.8) and 26.3 ng/ml (range 11.5-55.9), respectively. Median 3-epi-25(OH)D3 concentrations in cats with CKD and healthy cats were 9.1 ng/ml (range 2.2-30.4) and 7.2 ng/ml (range 1.9-22.9), respectively. Median calcitriol concentrations in cats with CKD and healthy cats were 141.3 pg/ml (range 38.6-367.8) and 127.9 pg/ml (range 71.5-235.8), respectively. Median 24,25(OH)2D3 concentrations in cats with CKD and healthy cats were 9.8 ng/ml (range 2.5-32.5) and 8.8 ng/ml (range 1.2-38.4), respectively. There was no correlation between any vitamin D metabolite and age or serum creatinine concentration, and no correlation between 25(OH)D and hematocrit, blood pressure or urine protein:creatinine ratio.Conclusions and relevanceVitamin D metabolites were not significantly different in cats with CKD, which could have implications for recommendations regarding calcitriol supplementation.",
-      "affiliations": [
-        "Department of Veterinary Clinical Sciences, The Ohio State University, Columbus, OH, USA."
-      ],
-      "keywords": [
-        "Calcitriol",
-        "calcifediol",
-        "cholecalciferol",
-        "chronic kidney disease-mineral and bone disorder"
-      ],
-      "mesh": [
-        "Animals",
-        "Cats",
-        "Renal Insufficiency, Chronic",
-        "Cat Diseases",
-        "Male",
-        "Female",
-        "Vitamin D",
-        "Calcifediol",
-        "Calcitriol",
-        "Case-Control Studies"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "internal",
       "summary_ko": ""
     },
@@ -7467,34 +7136,10 @@
       "date": "2026 May 26",
       "sortdate": "2026-05-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42192500/",
-      "abstract": "BACKGROUND: Feline infectious peritonitis (FIP) is a fatal, immune-mediated disease caused by the mutagenic variants of feline coronavirus and manifests as effusive (wet) and non-effusive (dry) clinical forms with distinct pathological features. Although necrosis is a common histopathological finding in FIP, the contribution of specific regulated cell death (RCD) pathway-associated protein expression patterns to tissue injury across different clinical forms remains poorly understood. This study aimed to concurrently and comparatively evaluate apoptosis, necroptosis, autophagy-associated cell death, and ferroptosis in the renal tissues of cats with effusive and non-effusive FIP. METHODS: Archival kidney samples from cats diagnosed with effusive (n&#x2009;=&#x2009;18) and non-effusive (n&#x2009;=&#x2009;18) FIP were included in the study. Immunohistochemistry on tissue sections was performed to assess markers associated with apoptosis by Caspase-3 and Caspase-8, necroptosis-associated signaling by RIP3, autophagy-associated activity by LC3-II, and ferroptosis-associated lipid metabolic susceptibility by ACSL-4. Necrosis was evaluated histomorphologically using a semi-quantitative scoring system, and immunohistochemical expression levels were digitally quantified and statistically compared between the groups. RESULTS: Histopathological evaluation revealed widespread tubular degeneration and necrosis in both clinical forms, with no significant difference in necrosis scores between the effusive and the non-effusive FIP. In contrast, quantitative differences in RCD-associated marker expression were identified. The non-effusive form exhibited significantly higher Caspase-3, Caspase-8, and LC3-II immunoreactivity, suggesting a higher prevalence of markers associated with caspase-dependent apoptosis and autophagy-associated activity. Conversely, RIP3 and ACSL-4 immunoreactivity were significantly increased in the effusive form, indicating increased expression of markers associated with necroptosis-related and ferroptosis-related processes. All evaluated markers were detected in both disease forms, indicating overlapping expression profiles rather than mutually exclusive pathway involvement. CONCLUSION: Collectively, these findings indicate that RCD-associated proteins are differentially expressed in the effusive and the non-effusive FIP, reflecting quantitative differences in marker expression rather than definitive evidence of pathway-specific activation. While the non-effusive form showed higher expression of markers associated with caspase-dependent apoptosis and autophagy-associated activity, the effusive form exhibited increased expression of proteins related to proinflammatory and oxidative cell death-associated pathways. These findings provide a descriptive immunohistochemical profile of cell death-associated markers in renal lesions of FIP and highlight the need for future studies using complementary molecular and protein-based approaches to further clarify their functional significance.",
-      "affiliations": [
-        "Department of Pathology, Faculty of Veterinary Medicine, Bal&#x131;kesir University, Bal&#x131;kesir, T&#xfc;rkiye. mustafa_usta45@hotmail.com.",
-        "Department of Pathology, Faculty of Veterinary Medicine, Bal&#x131;kesir University, Bal&#x131;kesir, T&#xfc;rkiye."
-      ],
-      "keywords": [
-        "Feline infectious peritonitis (FIP); Apoptosis",
-        "Ferroptosis",
-        "Necroptosis",
-        "Necrosis"
-      ],
-      "mesh": [
-        "Animals",
-        "Cats",
-        "Feline Infectious Peritonitis",
-        "Biomarkers",
-        "Apoptosis",
-        "Kidney",
-        "Necroptosis",
-        "Necrosis",
-        "Male",
-        "Female",
-        "Cell Death",
-        "Immunohistochemistry",
-        "Ferroptosis",
-        "Autophagy",
-        "Coronavirus, Feline"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "internal",
       "summary_ko": ""
     },
@@ -7506,14 +7151,11 @@
       "date": "2026 May 26",
       "sortdate": "2026-05-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42191661/",
-      "abstract": "OBJECTIVES: To describe the use of N-butyl cyanoacrylate as an additional method for haemostasis after caudal vena cava venotomy closure during adrenalectomy and to evaluate associated morbidity, mortality and complications in five dogs. MATERIALS AND METHODS: Medical records from a single referral centre were retrospectively reviewed (January 2022 to August 2025) including dogs undergoing adrenalectomy with caudal vena cava venotomy where N-butyl cyanoacrylate was applied post-suturing. Collected data included signalment, clinical signs, imaging findings, tumour type, surgical details, complications, hospitalisation and follow-up outcomes. Postoperative complications were classified as minor (medical management) or major (requiring surgical intervention). Data were summarised descriptively as median (range) or counts and percentages, as appropriate. RESULTS: Twenty-five dogs undergoing cavotomy for adrenal tumours were identified, of which five met the inclusion criteria. Histopathology revealed three pheochromocytomas and two adrenocortical carcinomas. Cavotomy closure was reinforced with N-butyl cyanoacrylate to control minor suture-line bleeding. Surgical glue was applied at the suture entry point through the vessel wall in three dogs and along the suture line in two dogs, based on the location of minor bleeding. No intraoperative complications related to N-butyl cyanoacrylate application occurred. Postoperative recovery was uneventful; two dogs experienced minor complications including self-limiting hypertension and thrombophlebitis. No short- or long-term complications related to the use of N-butyl cyanoacrylate, including thrombosis or caudal vena cava obstruction, were observed. Three dogs survived to the last follow-up, and two died of unrelated causes. CLINICAL SIGNIFICANCE: N-butyl cyanoacrylate appears to be a safe and effective adjunct for haemostasis following cavotomy in dogs undergoing adrenalectomy with vascular invasion.",
-      "affiliations": [
-        "Dipartimento di Medicina Animale, Produzioni e Salute (MAPS), Universit&#xe0; di Padova, Padova, Italy.",
-        "Ospedale Veterinario I Portoni Rossi-AniCura, Bologna, Italy."
-      ],
+      "abstract": "",
+      "affiliations": [],
       "keywords": [],
       "mesh": [],
-      "category": "surgery",
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -7565,26 +7207,9 @@
       "date": "2026 May 26",
       "sortdate": "2026-05-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42273263/",
-      "abstract": "INTRODUCTION: Management of pain in the canine cervical spine is a challenge where regional anesthesia of the cervical dorsal branches via an interfascial plane approach can improve multimodal analgesia. This study aimed to describe the ultrasound-guided multifidus cervicis plane (US-MCP) approach in dogs and evaluate its distribution and nerve staining. METHODS: An anatomical and sonoanatomical study was followed by an experimental phase using 15 ultrasound-guided injections performed at the C3 level (0.3 mL kg-1 of a methylene blue, iodinated contrast, and saline mixture) in canine cadavers. Contrast spread and nerve staining were evaluated using computed tomography (CT) and subsequent anatomical dissection. RESULTS: Sonoanatomical landmarks were consistently identified in all cases. CT contrast spread reached the C1-C2 levels cranially and C4-C5 caudally in most cases. Contrast distribution reached the dorsal midline in 12/15 injections. Epidural migration occurred in 4/15 cases, mainly at the C2-C3 level. Dissection confirmed accurate interfascial deposition in all specimens. Nerve staining was 100% effective (15/15) for the dorsal branches of C2 and C3 and 60% in the case of C4 (9/15). However, success rates decreased caudally and staining was observed in 13.3% (2/15) of C5 nerves, and was absent (0/15) at C6. CONCLUSION: The described US-guided MCP approach is a feasible and highly specific technique for the desensitization of the cranial dorsal cervical region. Consistent staining of the C2 and C3 dorsal branches, and potentially C4, supports its potential as a promising tool for integration into multimodal analgesia protocols. Clinical studies are required to evaluate its safety and analgesic efficacy.",
-      "affiliations": [
-        "Department of Animal Pathology, Faculty of Veterinary Medicine, University of Zaragoza, Zaragoza, Spain.",
-        "Experimental Surgery Unit (ESU), Vall d'Hebron Institut de Recerca (VHIR), Vall d'Hebron, Hospital Universitari, Barcelona, Spain.",
-        "C&#xe1;tedra de Anatom&#xed;a Descriptiva y Topogr&#xe1;fica. Facultad de Ciencias Veterinarias, Universidad Nacional de La Plata (UNLP), La Plata, Argentina.",
-        "Hospital Veterinario AniCura Valencia Sur, Silla, Spain.",
-        "Departamento de Medicina y Cirug&#xed;a Animal, Facultad de Veterinaria y Ciencias Experimentales, Hospital Veterinario de Referencia UCV, Universidad Cat&#xf3;lica de Valencia San Vicente M&#xe1;rtir, Valencia, Spain.",
-        "Departamento Medicina y Cirug&#xed;a Animal, Facultad de Veterinaria y Ciencias Experimentales, Universidad Cat&#xf3;lica de Valencia San Vicente M&#xe1;rtir, Valencia, Spain.",
-        "Departamento de Medicina y Cirug&#xed;a Animal, Facultad de Veterinaria, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain.",
-        "Instituto Universitario de Investigaci&#xf3;n Mixto Agroalimentario de Arag&#xf3;n (IA2), University of Zaragoza, Zaragoza, Spain."
-      ],
-      "keywords": [
-        "canine",
-        "cervical dorsal rami",
-        "cervical spine",
-        "interfascial plane approach",
-        "multimodal analgesia",
-        "regional anesthesia",
-        "sonoanatomy"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "anatomy",
       "summary_ko": ""
@@ -7597,15 +7222,8 @@
       "date": "2026 May 26",
       "sortdate": "2026-05-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42187045/",
-      "abstract": "BACKGROUND: The aim of this study was to evaluate the feasibility of a proprietary collagen-elastin hydrogel microparticulate (CEHM) intra-articular injection into canine stifles with suspected cranial cruciate disease (CCD) and osteoarthritis (OA). METHODS: Forty client-owned dogs over 6 months of age and diagnosed with suspected unilateral CCD or OA, without prior surgical or medical intervention, were enroled. A Simon's two-stage clinical trial design was used, as previously described in human literature. Each stifle was injected with the CEHM device and followed over 84 days. Serial examinations with modified Glasgow composite pain score (mGCPS) and additional subjective clinician- and owner-derived scoring scales were obtained at predefined time points. RESULTS: Twenty-two dogs had a 25% or greater improvement in the primary measured parameter, mGCPS, giving a response rate of 55%. There were also statistically significant improvements in all other subjectively measured parameters. LIMITATIONS: The limitations of the study were the lack of objective lameness measurements, surgical confirmation of CCD, blinding, randomisation and a control population to account for possible placebo effect. CONCLUSIONS: The CEHM device demonstrates feasibility in suspected canine CCD and stifle OA, within the measured subjective parameters of this proof-of-concept study. Additional objective investigations are recommended.",
-      "affiliations": [
-        "Bridger Veterinary Specialists, Bozeman, Montana, USA.",
-        "Wisconsin Veterinary Referral Center Waukesha, Waukesha, Wisconsin, USA.",
-        "Bulger Veterinary Hospital, Lawrence, Massachusetts, USA.",
-        "Wisconsin Veterinary Referral Center Racine/Kenosha, Somers, Wisconsin, USA.",
-        "Veterinary Specialty Hospital San Diego, Sorrento Valley, California, USA.",
-        "Ethos Veterinary Health, San Diego, California, USA."
-      ],
+      "abstract": "",
+      "affiliations": [],
       "keywords": [],
       "mesh": [],
       "category": "orthopedics",
@@ -7619,22 +7237,11 @@
       "date": "2026 May 25",
       "sortdate": "2026-05-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42191061/",
-      "abstract": "Canine cutaneous mast cell tumors (MCTs) exhibit heterogeneous biological behaviors, with increasing evidence implicating the tumor immune microenvironment (TIME) in disease progression. This study evaluated biopsy-confirmed cases of canine MCTs to investigate associations between tumor grade and host factors, and to characterize grade-related differences in immune marker expression. Tumors were histologically graded by the Kiupel system and analyzed using immunohistochemistry for CD4, CD8, CD25, CD57, MHC I, MHC II, PD-1, PD-L1, and mast cell tryptase. Quantitative assessments included positive cell counts, percentages, H-scores, total stained areas, and inter-marker correlations. Demographic analysis revealed significant associations between tumor grade and both age and sex, whereas breed and anatomical location showed no statistical correlation. Low grade (LG) tumors demonstrated greater infiltration of CD4&#x207a;, CD8&#x207a;, CD57&#x207a; T cells and higher MHC I/II expression, consistent with enhanced antigen presentation and immune activity. In contrast, high grade (HG) tumors exhibited increased CD25&#x207a;, PD-1&#x207a;, and PD-L1&#x207a; expression, suggesting a more immunosuppressive phenotype. Correlation analysis highlighted coordinated immune marker expression in LG tumors and disrupted immune architecture in HG tumors. These findings reveal distinct immunophenotypic and epidemiologic features across MCT grades and underscore the potential of immune profiling for prognostication and therapeutic planning in canine oncology.",
-      "affiliations": [
-        "Department of Pathology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand.",
-        "Department of Obstetrics, Gynaecology and Reproduction, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand; Veterinary Clinical Stem Cells and Bioengineering Research Unit, Chulalongkorn University, Bangkok, Thailand.",
-        "Laboratory of Veterinary Surgery, Graduate School of Agricultural and Life Sciences, University of Tokyo, 1-1-1, Yayoi, Bunkyo-ku, Tokyo 113-8657, Japan.",
-        "Department of Pathology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand; Center of Excellence for Companion Animal Cancer (CE-CAC), Department of Pathology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand. Electronic address: theerayuth.k@chula.ac.th."
-      ],
-      "keywords": [
-        "Canine mast cell tumor",
-        "Immunohistochemistry",
-        "MHC expression",
-        "T-cell infiltrates",
-        "Tumor immune microenvironment"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "anatomy",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -7645,22 +7252,9 @@
       "date": "2026 May 25",
       "sortdate": "2026-05-25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42267350/",
-      "abstract": "INTRODUCTION: This pilot study aimed to compare sonographic findings at thoracic sites used to detect pneumothorax in canine cadavers. METHODS: Intubated frozen-thawed cadavers without pre-existing sonographic evidence of pneumothorax were included. Control, unilateral and bilateral pneumothorax groups were created, with the latter induced by infusion of air (3&#x202f;mL/kg) under ultrasound guidance. Four blinded sonographers (two experts and two novices) evaluated positive-pressure-ventilated (PPV) cadavers placed in sternal recumbency. Lung sliding and B-lines were assessed at the chest tube site (CTS) and caudo-dorsal border (CDB), while the abnormal abdominal curtain sign (AACS) was evaluated along the abdominal curtain sign (ACS). When absence of lung sliding was noted, operators searched for a lung-point (LP). Presence or absence of pneumothorax was recorded for the CTS, CDB, AACS, combined CTS&#x202f;+&#x202f;LP, and CDB&#x202f;+&#x202f;AACS + LP (Modified PLUS). Post-study right and left horizontal beam radiography was used as the reference standard to quantify pneumothorax volume by a board-certified radiologist. Results were analyzed by Fisher's exact test with a statistical significance set at p&#x202f;&lt;&#x202f;0.05. RESULTS: Mild pneumothorax was present in 10/16 hemithoraces, scant pneumothorax in 3/16, and no pneumothorax in 3/16. Combined accuracy, sensitivity, and specificity of all operators was 22% (9-40), 4% (0-20), 100% (54-100) for both CTS and CTS&#x202f;+&#x202f;LP; 53% (35-71), 42% (23-63), 100% (54-100) for CDB; 31% (16-50), 15% (4-35), 100% (54-100) for AACS; and 56% (38-74), 46% (27-67), 100%(54-100) for Modified PLUS, respectively. There was a significant difference in identification of pneumothorax between the CTS and CDB (p&#x202f;=&#x202f;0.00027), and CTS and Modified PLUS (p&#x202f;=&#x202f;0.0012) and between CTS&#x202f;+&#x202f;LP and Modified PLUS for all operator comparisons (p&#x202f;=&#x202f;0.00012). DISCUSSION: The site assessed (CDB vs. CTS) for lung sliding and the sonographic signs (AACS, lung sliding) evaluated with different POCUS protocols can influence the accuracy of diagnosing pneumothorax in PPV canine cadavers placed in sternal recumbency.",
-      "affiliations": [
-        "Faculty of Veterinary Medicine, University of Calgary, Calgary, AB, Canada.",
-        "Paramount 24 Hour Animal Hospital, Calgary, AB, Canada.",
-        "VEG Emergency for Pet, White Plains, NY, United States.",
-        "College of Veterinary Medicine, Cornell University, Ithaca, NY, United States.",
-        "Faraday Veterinary Neuroimaging, Totnes, United Kingdom."
-      ],
-      "keywords": [
-        "PLUS",
-        "POCUS",
-        "chest tube site",
-        "curtain sign",
-        "lung point",
-        "lung sliding"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "anatomy",
       "summary_ko": ""
@@ -7698,21 +7292,9 @@
       "date": "2026 May 24",
       "sortdate": "2026-05-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42278034/",
-      "abstract": "OBJECTIVE: To develop and validate a fully automated deep learning workflow that localizes key anatomical landmarks on standard canine hindlimb lateral radiographs, derives the tibial plateau angle (TPA), and recommends a saw blade size for tibial plateau leveling osteotomy (TPLO) preoperative planning. STUDY DESIGN: Retrospective validation study. ANIMALS: Two hundred annotated lateral radiographs obtained from 130 dogs representing 14 breeds, with body weights ranging from 2.4 to 38.0 kg. METHODS: A customized four-stage U-Net was trained using three complementary grayscale representations (normalized, contrast-enhanced, and gamma-adjusted images) to detect five TPLO-related landmarks. A deterministic geometric module then calculated TPA and mapped the derived osteotomy geometry to the nearest clinically available saw blade class. RESULTS: The mean absolute error for TPA prediction was 1.34 &#xb1; 1.73&#xb0;, and the median absolute error was 0.75&#xb0;. Overall, 164/200 cases (82.0%) were within 2&#xb0; and 188/200 cases (94.0%) were within 4.8&#xb0; of the surgeon reference. Mean bias was -0.39&#xb0;, the 95% limits of agreement ranged from -4.62&#xb0; to 3.85&#xb0;, and Pearson's correlation coefficient was 0.87. For saw blade size prediction, mean absolute error was 0.32 &#xb1; 0.85 mm, exact agreement was achieved in 175/200 cases (87.5%), and all predictions remained within one adjacent class. CONCLUSIONS: The proposed pipeline provided clinically useful automated estimates of TPA and saw blade size from routine lateral radiographs. However, occasional high-impact landmark failures remained, indicating that the system should be positioned as an interpretable decision-support tool that requires surgeon verification rather than as an unsupervised autonomous planning system.",
-      "affiliations": [
-        "Department of Veterinary Medicine, Konkuk University, Seoul 05029, Republic of Korea.",
-        "Digital Strategy Team, Chung-Ang University Healthcare System, Seoul 06973, Republic of Korea."
-      ],
-      "keywords": [
-        "TPLO",
-        "deep learning",
-        "dog",
-        "landmark detection",
-        "preoperative planning",
-        "radiography",
-        "tibial plateau angle",
-        "veterinary orthopedics"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "orthopedics",
       "summary_ko": ""
@@ -7725,13 +7307,8 @@
       "date": "2026 May 24",
       "sortdate": "2026-05-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42178858/",
-      "abstract": "OBJECTIVES: To investigate the discriminatory potential of serum amyloid A, neutrophil:lymphocyte ratio, monocyte:lymphocyte ratio and assess renal tubular injury in cats with pyelonephritis. MATERIALS AND METHODS: Diagnostic accuracy study using samples from prospectively enrolled cats and stored material. Cats were classified according to diagnosis as pyelonephritis, ureteral obstruction, chronic kidney disease, subclinical bacteriuria, cystitis, or healthy. Serum amyloid A, neutrophil:lymphocyte ratio, monocyte:lymphocyte ratio and urinary kidney injury marker-1 were compared across groups. Receiver operating characteristic curve analysis assessed the performance of inflammatory biomarkers. Serum amyloid A and urinary kidney injury marker-1 were measured consecutively in a subset of cats with pyelonephritis. RESULTS: Samples from 71 cats (pyelonephritis n&#x2009;=&#x2009;22, other urological conditions n&#x2009;=&#x2009;35, healthy n&#x2009;=&#x2009;14) were included. Median serum amyloid A concentration was significantly higher in cats with pyelonephritis, overlapping minimally with other groups. At a threshold of 49.1&#x2009;mg/L, serum amyloid A showed a positive likelihood ratio of 32, sensitivity of 0.95 (95% CI: 0.74 to 0.99) and specificity of 0.97 (95% CI: 0.85 to 0.99), outperforming neutrophil:lymphocyte ratio. Serum amyloid A normalised in 12/14 cats post-treatment. Urinary kidney injury marker-1 was elevated in more than 50% of cats with pyelonephritis and ureteral obstruction, significantly higher than in healthy cats and those with subclinical bacteriuria or cystitis. Variation in urinary kidney injury marker-1 was observed during follow-up. CONCLUSIONS: At a threshold of 49&#x2009;mg/L, serum amyloid A is a highly accurate biomarker for differentiating pyelonephritis from other urological conditions. Elevated urinary kidney injury marker-1 suggests frequent proximal tubular injury. CLINICAL SIGNIFICANCE: Pyelonephritis is challenging to diagnose. Serum amyloid A can improve diagnostic precision and support timely treatment decisions. Urinary kidney injury marker-1 helps identify tubular injury; however, the clinical implications remain to be investigated.",
-      "affiliations": [
-        "Department of Veterinary Clinical Sciences, University of Copenhagen, Frederiksberg, Denmark.",
-        "Blue Star Veterinary Hospital, Gothenburg, Sweden.",
-        "Department of Animal and Veterinary Sciences, University of Aarhus, Tjele, Denmark.",
-        "Department of Pathobiology, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada."
-      ],
+      "abstract": "",
+      "affiliations": [],
       "keywords": [],
       "mesh": [],
       "category": "internal",
@@ -7809,22 +7386,9 @@
       "date": "2026 May 23",
       "sortdate": "2026-05-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42278021/",
-      "abstract": "Heartworm-Associated Respiratory Disease (HARD) is an early manifestation of feline dirofilariosis caused by immature Dirofilaria immitis stages reaching the lungs and inducing marked inflammatory airway lesions. This study quantified computed tomography (CT)-derived bronchial wall remodeling in cats with clinical and serological features compatible with HARD using the bronchial wall-to-bronchus (BW/B) and bronchial wall-to-pulmonary artery (BW/A) ratios. Twenty-seven client-owned cats were prospectively included: 19 cats with lower-airway clinical signs and D. immitis antibody seropositivity, considered compatible with HARD, and 8 asymptomatic seronegative cats that underwent CT for non-cardiorespiratory clinical indications. All underwent thoracic CT under a standardized anesthetic protocol. Bronchial lumen diameter, total bronchial diameter, and pulmonary artery diameter were measured in cranial and caudal lung regions, and bronchial wall thickness was calculated to derive BW/B and BW/A. Cats compatible with HARD showed significantly increased bronchial wall thickness and higher BW/B and BW/A ratios across all evaluated lung lobes, supporting diffuse bronchial remodeling. BW/A was the only index showing a significant area-by-group interaction, suggesting a possible regional distribution pattern of bronchial wall remodeling in affected cats. Measurement repeatability and reproducibility were high overall. CT-derived bronchial wall indices, particularly BW/A, may provide an objective complementary tool for characterizing airway involvement in cats with clinical and serological profiles compatible with HARD. Because antibody seropositivity indicates exposure rather than confirmed active infection, and because of the small control group, absence of respiratory disease comparators, and lack of histopathological validation, these findings should be considered preliminary and descriptive.",
-      "affiliations": [
-        "Internal Medicine, Faculty of Veterinary Medicine, Research Institute of Biomedical and Health Sciences (IUIBS), University of Las Palmas de Gran Canaria, 35016 Las Palmas de Gran Canaria, Spain.",
-        "IVC Evidensia Hospital Veterinari Molins, IVC Evidensia Hospital Veterinaria del Mar, 08005 Barcelona, Spain."
-      ],
-      "keywords": [
-        "Dirofilaria immitis",
-        "Heartworm-Associated Respiratory Disease",
-        "airway remodeling",
-        "bronchial wall remodeling",
-        "bronchial wall-to-pulmonary artery ratio",
-        "computed tomography",
-        "dirofilariosis",
-        "feline heartworm disease",
-        "thoracic imaging"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "imaging",
       "summary_ko": ""
@@ -7837,21 +7401,9 @@
       "date": "2026 May 23",
       "sortdate": "2026-05-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42177939/",
-      "abstract": "OBJECTIVES: To investigate the effect of electroacupuncture on postoperative analgesia in dogs undergoing Tibial Tuberosity Advancement surgery. We hypothesise that acupuncture will reduce pain scores and the need for rescue analgesia compared to the control group. MATERIAL AND METHODS: 31 client-owned dogs were enroled in this prospective, blinded, randomised, controlled clinical study conducted in a small animal private practice. Dogs scheduled for TTA surgery were allocated to an electroacupuncture group (n&#x202f;=&#x202f;15) or control group (n&#x202f;=&#x202f;16). The intervention group received perioperative electroacupuncture, while the control group did not. Pain was assessed by an experienced observer at baseline and at eight postoperative timepoints using the short-form Glasgow Composite Measure Pain Scale (CMPS-SF). Owners assessed their dogs at two postoperative timepoints. RESULTS: There was no significant difference in baseline pain scores between groups. Postoperatively, pain scores were significantly higher during the first two hours compared to baseline. Electroacupuncture had no significant effect on pain scores at any timepoint. Owners assigned significantly higher pain scores than the expert observer and scored the electroacupuncture group as more painful than the control group at ten hours postoperatively. A significant association was identified between pain and sedation scores. CLINICAL SIGNIFICANCE: Electroacupuncture did not improve postoperative analgesia or reduce pain scores following TTA surgery. The strong association between sedation and pain scores suggests that sedation may confound pain assessment using validated pain scales. Higher owner-assigned pain scores highlight the importance of training and experience in accurate pain evaluation.",
-      "affiliations": [
-        "Department for Clinical Diagnostics and Services, Anaesthesiology Section, Vetsuisse Faculty, University of Zurich, Winterthurerstrasse 260, Zurich 8057, Switzerland. Electronic address: muriel.lienert@uzh.ch.",
-        "Department for Clinical Diagnostics and Services, Anaesthesiology Section, Vetsuisse Faculty, University of Zurich, Winterthurerstrasse 260, Zurich 8057, Switzerland. Electronic address: lauramichele.stadler@uzh.ch.",
-        "Kipfer Kleintierchirurgie, Forchstrasse 153, Egg 8132, Switzerland. Electronic address: info@tierarztkipfer.ch.",
-        "Department for Clinical Diagnostics and Services, Anaesthesiology Section, Vetsuisse Faculty, University of Zurich, Winterthurerstrasse 260, Zurich 8057, Switzerland. Electronic address: rbettschart@vetclinics.uzh.ch.",
-        "Department for Clinical Diagnostics and Services, Anaesthesiology Section, Vetsuisse Faculty, University of Zurich, Winterthurerstrasse 260, Zurich 8057, Switzerland. Electronic address: vanessa.heitzmann@uzh.ch."
-      ],
-      "keywords": [
-        "Acupuncture",
-        "Canine",
-        "Cranial cruciate ligament rupture",
-        "Multimodal analgesia",
-        "Pain assessment"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "orthopedics",
       "summary_ko": ""
@@ -7925,27 +7477,10 @@
       "date": "2026 May 22",
       "sortdate": "2026-05-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42173147/",
-      "abstract": "OBJECTIVE: To provide video guidance on performing intra-articular repair of the round ligament with a synthetic implant to stabilize the coxofemoral joint following hip luxation in dogs. ANIMALS: Dogs of any size with hip luxation associated with rupture of the round ligament. METHODS: With the dog in lateral recumbency, a femoral tunnel is drilled from the base of the greater trochanter to the fovea capitis. A second femoral tunnel is drilled caudocranially, distal and perpendicular to the first one, midway between the medial and lateral cortices of the proximal femoral metaphysis. This tunnel is compacted with an interference screw intended for implant fixation. A third tunnel is drilled through the acetabulum at the footprint of the round ligament. An ultra-high-molecular-weight polyethylene (UHMWPE) implant preassembled with a cortical button is inserted through the acetabular tunnel, such that the button lies against the medial wall of the acetabulum. The implant is passed through the femoral tunnels, tensioned, and secured in the second femoral tunnel with the use of an interference screw inserted caudocranially. RESULTS: This technique provides immediate stabilization and restores physiological mobility of the hip. CLINICAL RELEVANCE: Hip luxation is a common traumatic lesion in small animals. The choice of surgical treatment depends on the type of hip luxation, which usually occurs in a craniodorsal direction and more rarely in a caudodorsal or caudoventral direction. Intra-articular repair replaces the torn round ligament with a biocompatible UHMWPE implant to restore the stability and mobility of the joint. This technique allows for treatment of all luxation types.",
-      "affiliations": [
-        "Surgical Unit, VetEchoChir, Villaz, France.",
-        "Research and Development Department, Novetech Surgery, Nice, France."
-      ],
-      "keywords": [
-        "UHMWPE implant",
-        "dog",
-        "hip luxation",
-        "intra-articular reconstruction",
-        "round ligament"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Hip Dislocation",
-        "Dog Diseases",
-        "Video Recording",
-        "Round Ligaments",
-        "Prostheses and Implants"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -7993,23 +7528,9 @@
       "date": "2026 May 21",
       "sortdate": "2026-05-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42193856/",
-      "abstract": "The purpose of this study was to compare the rotational stability of cannulated compression headless screws (CCHSs) with cortical positional and lag screws in a simulated cadaveric feline sacroiliac luxation (SIL) model. Thirty-six cadavers of domestic short-haired cats were assigned to three groups. A unilateral SIL model was stabilized using either a single 2.5 mm CCHS, a 2.4 mm cortical positional screw (PS) or lag screw (LS), each engaging 60% of the sacral width. The pelves were mounted in a mechanical testing machine and loaded through the acetabulum to simulate ground reaction forces. Constant displacement was applied at 0.5 mm/s until maximal failure occurred. Yield load, ultimate load, stiffness, and failure modes were compared among the three groups. At the yield load, a statistical trend was observed among the groups, and pairwise comparison showed a significant difference between CCHS and PS. However, no significant differences were identified among the groups for yield load, ultimate load, or stiffness. All specimens failed due to screw loosening, and failure modes differed between CCHSs and cortical screws. Overall, CCHSs and cortical screws placed in a positional or lag fashion showed comparable rotational stability under the single load-to-failure conditions used in this feline SIL model. These findings question the biomechanical advantage of compression screws regarding rotational strength in unilateral feline SIL.",
-      "affiliations": [
-        "Veterinary Practice Dr. Zauscher, 85235 Odelzhausen, Germany.",
-        "Department of Orthopedics and Trauma Surgery, Musculoskeletal University Center Munich (MUM), University Hospital, LMU Munich, 81377 Munich, Germany.",
-        "LMU Small Animal Clinic, Centre for Clinical Veterinary Medicine, Ludwig-Maximilians-Universit&#xe4;t, 80539 Munich, Germany.",
-        "Northern Rivers Veterinary Specialists, Bangalow, NSW 2479, Australia."
-      ],
-      "keywords": [
-        "biomechanical study",
-        "cat",
-        "feline",
-        "headless compression screw",
-        "lag screw",
-        "positional screw",
-        "rotational stability",
-        "sacroiliac luxation"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "orthopedics",
       "summary_ko": ""
@@ -8022,17 +7543,9 @@
       "date": "2026 May 21",
       "sortdate": "2026-05-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42193854/",
-      "abstract": "The use of near-infrared (NIR) fluorescence imaging has become increasingly widespread in the intraoperative management of human cancer patients, with diverse applications that enhance the visualization of tumors, metastatic lesions, draining lymph nodes, and critical anatomy. In recent years, the adoption of NIR imaging in small animal surgical oncology has grown, with reported applications including nonselective and selective tumor imaging as well as sentinel lymph node (SLN) mapping for staging and surgical guidance. Despite these advances, clinical use in veterinary patients remains in its early stages, and further work is needed to define indications, optimize protocols, and determine its impact on outcomes. This review summarizes the current applications of NIR imaging in companion animal oncologic surgery, including techniques for dye administration, imaging agents, and reported clinical uses across tumor types. Key limitations are discussed, including limited tissue penetration, lack of tumor specificity with commonly used agents such as indocyanine green, variability in protocols, and limited data in certain species. Emerging technologies, including targeted fluorescent agents and advanced imaging approaches, are also highlighted. Overall, NIR imaging represents a promising adjunct in small animal surgical oncology, though further study and standardization are needed to support broader clinical integration.",
-      "affiliations": [
-        "Department of Clinical Sciences, Colorado State University College of Veterinary Medicine and Biomedical Sciences, 300 W Drake Rd, Fort Collins, CO 80523, USA."
-      ],
-      "keywords": [
-        "fluorescence",
-        "fluorophore",
-        "indocyanine green",
-        "near-infrared imaging",
-        "sentinel lymph node"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "surgery",
       "summary_ko": ""
@@ -8093,21 +7606,11 @@
       "date": "2026 May 21",
       "sortdate": "2026-05-21",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42254894/",
-      "abstract": "INTRODUCTION: Preparations of Cannabis sativa have been used for medicinal purposes for many centuries Currently, it is known that the phytocannabinoids present in the Cannabis sativa plant can modulate the endocannabinoid system, producing a variety of effects. Among the most abundant phytocannabinoids are delta-9-tetrahydrocannabinol (19-THC) and cannabidiol (CBD). CBD lacks psychotropic properties and has been shown to inhibit cell proliferation and migration, while inducing apoptosis in various human tumor cells. Studies evaluating CBD in dogs are more recent than those in humans, and to date, fewer publications are available. However, CBD has been shown to be safe and well-tolerated in dogs, supporting its potential clinical use. Since approximately 2015, some studies have been conducted evaluating CBD in different types of canine cancer; however, no comprehensive review of these findings has been performed. METHODS: we conducted a systematic review Following the PRISMA 2020 guidelines.to compile the existing evidence on the anticancer effects of CBD in dogs. RESULTS: We found that the studies conducted so far are pre-clinical, mostly based on cellular models, and that available data are primarily in lymphoma, mammary cancer, glioma, prostate cancer, osteosarcoma, and urothelial carcinoma. These studies consistently show that CBD exerts antiproliferative and proapoptotic effects, in some cases by modulating intracellular signaling pathways, including ERK, JNK, and caspases. Additionally, some studies have evaluated the combination of CBD with other drugs, reporting both synergistic and antagonistic effects. Overall, these findings highlight the potential of CBD as an anticancer agent across different cancer types. DISCUSSION: Further studies are required to better elucidate the mechanisms underlying the effects of CBD and to standardize concentrations and formulations, enabling reliable, comparable results and the development of clinical studies evaluating the role of CBD in canine oncology.",
-      "affiliations": [
-        "Centralized Laboratory for Veterinary Research (LACIV), Faculty of Veterinary and Animal Sciences, Universidad de Chile, Santiago, Chile.",
-        "Department of Clinical Sciences, Faculty of Veterinary and Animal Sciences, Universidad de Chile, Santiago, Chile.",
-        "Center of New Drugs for Hypertension and Heart Failure (CENDHY), Divisi&#xf3;n de Enfermedades Cardiovasculares, Pontificia Universidad Cat&#xf3;lica de Chile, Universidad de Chile, Universidad Andr&#xe9;s Bello, Santiago, Chile."
-      ],
-      "keywords": [
-        "cancer",
-        "canine",
-        "cannabidiol",
-        "cannabinoid",
-        "dogs"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "neurooncology",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -8118,18 +7621,9 @@
       "date": "2026 May 20",
       "sortdate": "2026-05-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42163424/",
-      "abstract": "Rational, mechanism-based drug selection for canine diffuse large B-cell lymphoma (DLBCL) remains limited, despite extensive molecular work in human DLBCL. We asked whether human and canine DLBCL share a conserved transcriptional network that could anchor therapeutic hypotheses for dogs. Using public human and canine DLBCL transcriptomes, we derived a 409-gene cross-species module defined by concordant tumour-normal dysregulation and projected it onto pathway and protein-protein interaction (PPI) networks. The module was dominated by DNA replication, cell-cycle checkpoint and DNA damage-response programmes and contained a compact PPI core centred on TOP2A and PARP1. Querying the Connectivity Map/LINCS library with the human component of the module highlighted anthracycline-like topoisomerase II poisons (valrubicin, etoposide, amsacrine) and the PARP inhibitor rucaparib among the ~0.2% most negative connectivity scores, while directly targeting TOP2A and/or PARP1. A simple up-down module score strongly separated tumour from normal lymph nodes in both species and was associated with outcome: higher scores predicted longer progression-free survival in CHOP-treated dogs and better overall survival in an independent human cohort, with a similar but underpowered trend in TCGA-DLBC. Finally, extracellular-vesicle microRNA (EV-miRNA) profiling in human DLBCL showed that differentially expressed EV-miRNAs, including let-7 family members, miR-21-5p, miR-124-3p and miR-205-5p, converge on the same TOP2A/PARP1-centred core. These cross-species, multi-layer data support topoisomerase II poisons and PARP inhibition as coherent, network-anchored candidate therapies for canine DLBCL, with module scores and EV-miRNAs as candidate biomarkers.",
-      "affiliations": [
-        "Department of Basic Sciences, Faculty of Veterinary Medicine, Urmia University, Urmia, Iran."
-      ],
-      "keywords": [
-        "diffuse large B&#x2010;cell lymphoma",
-        "dogs",
-        "microRNAs",
-        "protein interaction mapping",
-        "systems biology",
-        "transcriptome"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -8142,37 +7636,10 @@
       "date": "2026 May 20",
       "sortdate": "2026-05-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42163344/",
-      "abstract": "Cranial cruciate ligament (CCL) rupture is one of the most common orthopedic disorders in dogs and is associated with pain, joint instability, lameness, and progressive osteoarthritis. Although surgical stabilization is widely used, conservative management remains relevant in selected cases, particularly in smaller dogs or when surgery is declined or contraindicated. Radio Electric Asymmetric Conveyer (REAC) technology is a non-invasive therapeutic platform designed to modulate endogenous bioelectrical activity, with a proposed role in neuromotor regulation and tissue repair. This study was designed as a translational, hypothesis-generating pilot investigation to assess whether a standardized REAC-based treatment protocol could produce a coherent and durable clinical signal in dogs with naturally occurring CCL rupture. Sixteen client-owned dogs with mono- or bilateral CCL rupture were enrolled and stratified by body weight into two groups: &#x2264;15&#xa0;kg and &gt;&#x2009;15&#xa0;kg. All dogs received a standardized protocol including Veterinary Neuro Postural Optimization (VNPO), Veterinary Neuro Psycho Physical Optimization (VNPPO), and Reparative Tissue Optimization (TO-RPR). Clinical outcomes were assessed by standardized orthopedic examination at baseline, within 15 days after treatment completion, and at 2- and 12-month follow-up. All dogs completed treatment and follow-up. In dogs weighing&#x2009;&#x2264;&#x2009;15&#xa0;kg, complete functional recovery was observed in all cases. In dogs weighing&#x2009;&gt;&#x2009;15&#xa0;kg, most showed either complete recovery or clinically meaningful improvement, while one dog was classified as a non-responder and referred for surgical evaluation. Clinical improvements observed in responder dogs remained stable at 12 months. These findings do not constitute definitive evidence of efficacy, but suggest the presence of a coherent and durable clinical signal supporting further investigation of REAC-based treatment as a conservative or adjunctive strategy in canine CCL disease. Future controlled studies incorporating objective biomechanical, imaging, and biological outcome measures are warranted.",
-      "affiliations": [
-        "Department of Veterinary Medicine, University of Sassari, Sassari, Italy. esp@uniss.it.",
-        "Comparative Surgery Center, University of Sassari, Sassari, Italy. esp@uniss.it.",
-        "Department of Veterinary Medicine, University of Sassari, Sassari, Italy.",
-        "School in Veterinary Sciences, University of Sassari, Sassari, Italy.",
-        "Department of Regenerative Medicine, Rinaldi Fontani Institute, Florence, Italy.",
-        "Research Department, Rinaldi Fontani Foundation, Florence, Italy.",
-        "Department of Regenerative Medicine, Rinaldi Fontani Institute, Florence, Italy. srinaldi@irf.it.",
-        "Research Department, Rinaldi Fontani Foundation, Florence, Italy. srinaldi@irf.it."
-      ],
-      "keywords": [
-        "Conservative treatment",
-        "Cranial cruciate ligament",
-        "Dog",
-        "Neuromodulation",
-        "REAC",
-        "Reparative medicine"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Pilot Projects",
-        "Female",
-        "Anterior Cruciate Ligament Injuries",
-        "Dog Diseases",
-        "Male",
-        "Rupture",
-        "Anterior Cruciate Ligament",
-        "Electric Stimulation Therapy"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -8263,20 +7730,11 @@
       "date": "2026 May 20",
       "sortdate": "2026-05-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42245973/",
-      "abstract": "INTRODUCTION: In dogs, intraocular pressure (IOP) responses to topical atropine administration vary, and the anatomical basis for this variability remains unclear. MATERIALS AND METHODS: Using ultrasound biomicroscopy (UBM), anterior segment morphology was assessed in 52 eyes from 27 clinically normal dogs before and 20 minutes after atropine administration (post-AT). RESULTS: The mean change in IOP was small, but responses varied across eyes. Approximately 29% showed increases considered clinically relevant. Eyes were categorized into a high group (&#x2265;4&#x202f;mmHg increase) and a stable group (&lt;4 mmHg change) according to post-AT IOP change. Ciliary cleft area (CCA) increased significantly in the stable group and was accompanied by posterior-outward displacement of the ciliary body. In the high group, CCA tended to decrease, with relative anterior displacement of the ciliary body, although these changes were not consistently significant across parameters. In contrast, traditional anterior chamber angle parameters did not differ between groups. DISCUSSION: Heterogeneous post-AT IOP responses appear to be associated with group-dependent differences in ciliary body configuration and ciliary cleft morphology. Variation in these structures may reflect underlying anatomical factors associated with IOP variability. UBM-based assessment may help interpretation of atropine-induced IOP changes.",
-      "affiliations": [
-        "Laboratory of Veterinary Surgery and Ophthalmology, College of Veterinary Medicine, Chungbuk National University, Cheongju, Republic of Korea."
-      ],
-      "keywords": [
-        "aqueous humor outflow",
-        "atropine-induced mydriasis",
-        "ciliary body motion",
-        "ciliary cleft morphology",
-        "intraocular pressure changes",
-        "ultrasound biomicroscopy"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "anatomy",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -8287,32 +7745,10 @@
       "date": "2026 May 19",
       "sortdate": "2026-05-19",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42162896/",
-      "abstract": "Mast cell tumors (MCTs) are common skin neoplasms in dogs. They are graded histologically, and dogs with high-grade MCT have poorer prognosis. Canine MCTs express mRNA for programmed cell death-1 ligand 2 (PD-L2), which regulates T cell activity and serves as a prognostic indicator for various human tumors. We hypothesized that PD-L2 contributes to immune evasion and affects the prognosis of canine MCTs. PD-L2 expression was evaluated by immunohistochemistry in 38 canine MCTs, including 15 Kiupel low-grade and 23 high-grade cases. PD-L2 was primarily detected on tumor cell surfaces, and most cells in low-grade MCTs (median percentage of PD-L2-positive tumor cells: 83.5%) expressed PD-L2. In contrast, PD-L2 expression was highly variable in high-grade MCTs (median: 25.5%), and cases with fewer PD-L2-positive tumor cells had poorer prognosis than those with more (median survival time: 148 vs. 468 days). This unexpected result led us to examine the novel hypothesis that PD-L2 on tumor cells negatively regulates behavior of tumor cells by receiving reverse signals. Consistent with this, RNA-sequencing detected altered expression of 70 genes, following adenovirus-mediated PD-L2 gene transfer in the canine MCT cell line BR and subsequent soluble PD-1 exposure. Moreover, PD-1-PD-L2 reverse signaling suppressed cell proliferation in PD-L2-expressing BR cells. Collectively, our findings demonstrate the prognostic significance of PD-L2 expression in dogs with high-grade MCTs and suggest that cell proliferation of PD-L2-positive tumor cells may be regulated by PD-L2 reverse signaling.",
-      "affiliations": [
-        "Faculty of Veterinary Medicine, Okayama University of Science, 1-3 Ikoino-oka, Imabari, Ehime 794-8555, Japan.",
-        "Faculty of Veterinary Medicine, Okayama University of Science, 1-3 Ikoino-oka, Imabari, Ehime 794-8555, Japan. Electronic address: kohei-murakami@ous.ac.jp."
-      ],
-      "keywords": [
-        "Canine",
-        "Cell proliferation",
-        "Mast cell tumor",
-        "PD-L2",
-        "Prognosis",
-        "Reverse signaling"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Dog Diseases",
-        "Cell Proliferation",
-        "Prognosis",
-        "Programmed Cell Death 1 Ligand 2 Protein",
-        "Signal Transduction",
-        "Female",
-        "Skin Neoplasms",
-        "Gene Expression Regulation, Neoplastic",
-        "Male"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -8406,26 +7842,11 @@
       "date": "2026 May 16",
       "sortdate": "2026-05-16",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42193821/",
-      "abstract": "Soft tissue sarcomas (STS) are locally invasive and aggressive tumors that occur spontaneously in humans, dogs, and cats. High-intensity focused ultrasound (HIFU) is a non-invasive ablation technology that has been explored in canine but not feline STS. The objective of this pilot study was to determine the in vivo safety and feasibility of HIFU ablation for feline STS and to investigate the impact of HIFU on the acute immunological response. Client-owned cats diagnosed with spontaneous STS were recruited. Computed tomography (CT) scans of the chest, abdomen, and tumor were performed prior to treatment for staging and treatment planning. A commercially available HIFU unit (Echopulse, Theraclion, Malakoff, France) was used to target portions of solid tumors before standard-of-care surgical resection. Ablation efficacy and local immunological response were characterized using histopathological and immunohistochemical assessments. Acute safety was monitored with physical examinations, owner reports, and CBC/serum biochemistry. Multiplex serum cytokine levels were used to evaluate the systemic immune response. A total of three cats diagnosed with STS were recruited and treated. No significant adverse events attributed to HIFU treatment were noted in this pilot study. In treated areas, hemorrhage as well as coagulative and lytic necrosis were observed microscopically and were more extensive than in untreated tissues. There was a statistically significant difference in the level of serum MCP-1 after HIFU treatment, but no significant changes in any other analytes. No differences in the infiltration of CD3-, CD79a-, or IBA1-positive cells were noted between treated and untreated samples. Overall, findings suggested that HIFU may offer a viable alternative to conventional therapies for feline STS, with pilot results showing effective tumor ablation in cats with STS without significant adverse events. Some preliminary evidence of immunomodulation following treatment was observed, but HIFU as an immunotherapeutic treatment option needs to be further investigated.",
-      "affiliations": [
-        "Department of Biomedical Engineering, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA.",
-        "Department of Clinical Sciences &amp; Advanced Medicine, University of Pennsylvania School of Veterinary Medicine, Philadelphia, PA 19104, USA.",
-        "Virginia Tech Animal Cancer Care and Research Center, Virginia-Maryland College of Veterinary Medicine, Roanoke, VA 24016, USA.",
-        "Department of Biomedical Sciences and Pathobiology, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061, USA.",
-        "Department of Small Animal Clinical Sciences, Virginia-Maryland College of Veterinary Medicine, Blacksburg, VA 24060, USA.",
-        "Graduate Program in Translational Biology, Medicine and Health, Virginia Polytechnic Institute and State University, Roanoke, VA 24016, USA.",
-        "Department of Veterinary Clinical Sciences, Purdue University College of Veterinary Medicine, West Lafayette, IN 47907, USA."
-      ],
-      "keywords": [
-        "feline",
-        "high-intensity focused ultrasound",
-        "immunotherapy",
-        "oncology",
-        "soft tissue sarcoma",
-        "thermal ablation"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "surgery",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -8598,18 +8019,9 @@
       "date": "2026 May 14",
       "sortdate": "2026-05-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42221953/",
-      "abstract": "[This corrects the article DOI: 10.3389/fvets.2025.1644200.].",
-      "affiliations": [
-        "College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, China.",
-        "Research Center for Organoids, College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, China."
-      ],
-      "keywords": [
-        "CDK1",
-        "Pseudolaric acid B",
-        "canine mammary tumor",
-        "cell apoptosis",
-        "cell cycle"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -8622,20 +8034,9 @@
       "date": "2026 May 14",
       "sortdate": "2026-05-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42221947/",
-      "abstract": "Acinic cell carcinoma (ACC) is a malignant epithelial neoplasm characterized by serous acinar differentiation and is most described in the salivary glands of humans and domestic animals. In animals, ACC is rare and its occurrence in the nasal cavity of cats is exceptionally uncommon. This case describes the clinical presentation, gross pathological findings, histological features and immunohistochemical profile of a nasal acinic cell carcinoma in a 14-year-old domestic shorthair cat. The animal showed chronic unilateral nasal discharge and epiphora. Bacteriological culture of nasal secretions yielded Pasteurella spp. and despite antimicrobial therapy the clinical condition worsened. Post-mortem examination revealed a whitish mass destroying the nasal turbinates extending to the frontal sinus. Histologically, the tumor exhibited solid, microcystic and follicular growth patterns, with moderate cellular atypia and cytoplasmic PAS-positive granules. Immunohistochemical analysis demonstrated diffuse positivity for pan-cytokeratin, with differential expressions of cytokeratin 8 and S-100 protein depending on the growth pattern, while &#x3b1;-smooth muscle actin was negative in neoplastic cells. These findings are consistent with biphasic acinic cell carcinoma showing mixed acinar and ductal differentiation. There are scant histological and immunohistochemistry complete descriptions of nasal acinic cell carcinoma in the feline species. This case states the importance of considering this rare entity in the differential diagnosis of chronic unilateral nasal disease, particularly, in older cats.",
-      "affiliations": [
-        "Departamento de Medicina, Cirug&#xed;a y Anatom&#xed;a Veterinaria, Facultad de Veterinaria, Hospital Veterinario-Universidad de Le&#xf3;n, Le&#xf3;n, Spain.",
-        "Departamento de Sanidad Animal, Facultad de Veterinaria, Universidad de Le&#xf3;n, Le&#xf3;n, Spain.",
-        "Instituto de Ganader&#xed;a de Monta&#xf1;a, CSIC-Universidad de Le&#xf3;n, Le&#xf3;n, Spain."
-      ],
-      "keywords": [
-        "acinic cell carcinoma",
-        "cat",
-        "clinical case",
-        "immunohistochemistry",
-        "nasal neoplasia",
-        "pathology"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -8805,25 +8206,11 @@
       "date": "2026 May 12",
       "sortdate": "2026-05-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42205798/",
-      "abstract": "INTRODUCTION: Canine hemangiosarcoma (HSA) is a highly aggressive malignancy with limited effective therapies. Boron neutron capture therapy (BNCT) has begun to be recognized as a potential treatment in human angiosarcoma, but its applicability to canine HSA has not been explored. This study aimed to evaluate L-type amino acid transporter 1 (LAT1)-mediated uptake of boronophenylalanine (BPA), a 10B-containing compound, and the in vitro therapeutic potential of BNCT in canine HSA cells. METHODS: Three canine HSA cell lines (JuB2, Ud6, Re21) were assessed for BPA uptake using fluorescence measurements, fluorescence imaging, and inductively coupled plasma-atomic emission spectrometry. LAT1 involvement was examined using the LAT1 inhibitor BCH. Clonogenic assays following X-ray or neutron irradiation, with or without BPA pretreatment, were performed to calculate survival fractions, dose-response curves, D10, relative biological effectiveness (RBE), and compound biological effectiveness (CBE). RESULTS: All cell lines demonstrated BPA uptake, which was significantly reduced by BCH, confirming LAT1-mediated transport. Time-course analysis revealed cell line-dependent differences in intracellular 10B accumulation. Neutron irradiation yielded greater cytotoxicity than X-rays, and BPA further enhanced this effect, consistent with the 10B(n, &#x3b1;)7Li reaction. CBE values were 2.60 (JuB2), 2.31 (Ud6), and 1.25 (Re21), aligning with differences in BPA uptake. CONCLUSION: These findings demonstrate functional LAT1-dependent BPA uptake and BNCT-induced cytotoxicity in canine HSA cells. The results provide foundational radiobiological evidence supporting the feasibility of BNCT in canine HSA and justify further in vivo investigations.",
-      "affiliations": [
-        "Department of Veterinary Medicine, Obihiro University of Agriculture and Veterinary Medicine, Obihiro-shi, Hokkaido, Japan.",
-        "KyotoAR Advanced Veterinary Medical Center, Kyoto, Japan.",
-        "Joint Department of Veterinary Medicine, Faculty of Applied Biological Sciences, Gifu University, Gifu-shi, Gifu, Japan.",
-        "Animal Medical Center, Faculty of Applied Biological Sciences, Gifu University, Gifu-shi, Gifu, Japan.",
-        "Department of Applied Energy, Graduate School of Engineering, Nagoya University, Nagoya-shi, Aichi, Japan.",
-        "Institute for Integrated Radiation and Nuclear Science, Kyoto University, Sennan-gun, Osaka, Japan."
-      ],
-      "keywords": [
-        "BNCT",
-        "BPA",
-        "HSA",
-        "L-type amino acid transporter 1",
-        "dog",
-        "reactor"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "imaging",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -8955,18 +8342,9 @@
       "date": "2026 May 11",
       "sortdate": "2026-05-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199943/",
-      "abstract": "CONTEXT: Central venous pressure (CVP) might be used to guide fluid therapy in critically ill patients, but its invasive nature and associated risks have prompted growing interest in non-invasive alternatives such as ultrasonographic vascular indices. OBJECTIVES: To evaluate the correlation between the caudal vena cava (CVC) to aorta (Ao) (CVC:Ao) ratio and central venous pressure (CVP) and explore the use of this correlation for discriminating CVP values. MATERIALS AND METHODS: Intermittent CVP measurements were obtained using a water-filled fluid column in dogs admitted for renal replacement therapy. Low (LCVP), normal (NCVP) and high CVP (HCVP) were defined as values of &lt;0, between 0 and 5, and &gt;5 cmH2O (centimeters of water pressure), respectively. The sonographic assessment of volaemia (SAV) protocol was used to obtain the CVC:Ao ratio in the end-expiratory phase. RESULTS: Fourteen dogs and 28 CVC:Ao ratio-CVP paired measurements were included. The CVP (in cmH2O) was estimated from the CVC:Ao ratio using the generated equation CVP&#x202f;=&#x202f;20.9*(CVC:Ao)-19.44 (R&#x202f;=&#x202f;0.69, p&#x202f;&lt;&#x202f;0.0001). The median CVC:Ao ratios differed significantly among groups at 0.91, 1.00, and 1.12 for LCVP, NCVP and HCVP, respectively (p&#x202f;=&#x202f;0.0014). Using a CVC:Ao ratio &lt;0.97, the sensitivity and specificity for detecting LCVP were 87.5 and 72.7%, respectively. Using a CVC:Ao ratio &gt;1.09, the sensitivity and specificity for detecting HCVP were 66.7 and 90.9%, respectively. CLINICAL SIGNIFICANCE: The CVC:Ao ratio may be used as a surrogate non-invasive marker for estimating CVP in spontaneously breathing dogs. A CVP&#x202f;&lt;&#x202f;0 cmH2O is likely if the CVC:Ao ratio is &lt;0.97, and a CVP&#x202f;&gt;&#x202f;5 cmH2O is likely if the ratio is &gt;1.09.",
-      "affiliations": [
-        "Emergency and Critical Care Unit, Centre Hospitalier V&#xe9;t&#xe9;rinaire Fregis, Paris, France.",
-        "Intensive Care Unit (SIAMU), VetAgro Sup, APCSe, Campus V&#xe9;t&#xe9;rinaire de Lyon, Universit&#xe9; de Lyon, Marcy l'Etoile, France."
-      ],
-      "keywords": [
-        "canine",
-        "central venous pressure",
-        "hemodynamic monitoring",
-        "ultrasound",
-        "volaemia"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "imaging",
       "summary_ko": ""
@@ -8979,24 +8357,11 @@
       "date": "2026 May 11",
       "sortdate": "2026-05-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42199939/",
-      "abstract": "Osteosarcoma (OSA) is a malignant neoplasm of mesenchymal origin characterized by osteoid or immature bone production and is rarely reported in reptiles. A 3-month-old Argentine black and white tegu presented with a subcutaneous mass on the left flank, approximately 2&#x202f;months after a dog bite. Physical and radiographic examination revealed no initial internal abnormalities, but follow-up examination revealed a rapidly enlarging soft tissue mass. Ultrasonography confirmed a well-encapsulated mass, while contrast-enhanced computed tomography demonstrated mineralization, rib osteolysis, and multiple bilateral nodules, indicating a malignant process. Histopathological examination of the excised mass demonstrated features consistent with giant cell-rich osteosarcoma, including irregular bony trabeculae, numerous multinucleated giant cells, and peripheral osteoid matrix. This case highlights the diagnostic challenges of OSA in reptiles, the value of integrating diagnostic imaging and histopathology, and the need for species-specific imaging protocols in ectothermic species, thereby expanding the literature on reptilian neoplasia.",
-      "affiliations": [
-        "Laboratory of Veterinary Laboratory Medicine, College of Veterinary Medicine, Chungbuk National University, Cheongju-si, Republic of Korea.",
-        "Section of Veterinary Medical Imaging, College of Veterinary Medicine, Chungbuk National University, Cheongju-si, Republic of Korea.",
-        "Laboratory of Wildlife and Conservation Medicine, College of Veterinary Medicine, Chungbuk National University, Cheongju-si, Republic of Korea.",
-        "Wildlife Center of Chungbuk, Cheongju-si, Republic of Korea."
-      ],
-      "keywords": [
-        "Argentine black and white tegu",
-        "computed tomography",
-        "cytology",
-        "diagnostic imaging",
-        "histopathology",
-        "osteosarcoma",
-        "reptile"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "imaging",
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -9025,19 +8390,9 @@
       "date": "2026 May 09",
       "sortdate": "2026-05-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42193743/",
-      "abstract": "A 13-year-old, spayed female Maltese dog presented with acute collapse and profound lethargy of approximately 1 h duration. On admission, the dog was in hypovolemic shock, with severe hypotension, marked pallor, tachycardia, and hemoperitoneum identified by focused abdominal ultrasonography. Ultrasonography also revealed a ruptured hemorrhagic mass in the right retroperitoneal space. Because the patient was hemodynamically unstable and ongoing life-threatening hemorrhage was suspected, preoperative computed tomography was considered unsafe, and emergency exploratory laparotomy was performed following transfusion-based resuscitative stabilization. Intraoperatively, the lesion was found to involve the right kidney and caudate hepatic lobe. En bloc resection, including right nephrectomy, partial hepatectomy, and excision of the retroperitoneal-associated mass, was completed while preserving the right adrenal gland and adjacent major vasculature. Histopathologic and immunohistochemical evaluation supported a diagnosis of solid-pattern hemangiosarcoma, although a single primary site of origin could not be definitively assigned. The dog recovered without major perioperative complications, was discharged in stable condition, and maintained good quality of life for approximately 1 year; however, late clinical decline suspicious for recurrence or progression was not objectively confirmed. This case highlights the practical utility of focused ultrasonography, rapid surgical decision-making, and carefully planned en bloc resection for emergency hemorrhage control in a dog when advanced imaging was considered unsafe.",
-      "affiliations": [
-        "KSH Surgical Animal Medical Center, Gwangju 61617, Republic of Korea.",
-        "Department of Veterinary Surgery, College of Veterinary Medicine, Chonnam National University, Gwangju 61186, Republic of Korea."
-      ],
-      "keywords": [
-        "emergency surgery",
-        "hemangiosarcoma",
-        "hemoperitoneum",
-        "nephrectomy",
-        "partial hepatectomy",
-        "retroperitoneal mass"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "surgery",
       "summary_ko": ""
@@ -9050,20 +8405,9 @@
       "date": "2026 May 09",
       "sortdate": "2026-05-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42193742/",
-      "abstract": "In dogs undergoing hemilaminectomy for acute intervertebral disc extrusion (IVDE), adjunctive nonpharmacologic therapies may help provide postoperative analgesia while reducing reliance on opioids and their associated adverse effects. This prospective, randomized, blinded, controlled trial evaluated the short-term analgesic effects of interferential current electrotherapy (IFC) in dogs following thoracolumbar hemilaminectomy for acute IVDE. Twenty dogs were randomly assigned to receive conventional analgesia alone (control, n = 10) or conventional analgesia plus IFC (n = 10). The IFC group received three IFC sessions administered within the first 24 h postoperatively. Outcome measures were collected at three predefined postoperative time points corresponding to IFC treatment sessions: T1 (2-4 h), T2 (8-18 h), and T3 (20-24 h postoperatively). Outcome measures included Modified Glasgow Composite Pain Scale-Short Form (CMPS-SF) scores, total postoperative opioid consumption, and peri-incisional mechanical sensory thresholds. Dogs treated with IFC demonstrated significantly lower CMPS-SF pain scores at the T2 time point compared with controls (p = 0.03); however, no differences were observed at T1 or T3 time points. Total opioid consumption and mechanical sensory thresholds did not differ significantly between groups at any time point. These findings suggest that IFC may provide transient postoperative analgesic benefit but does not appear to reduce opioid requirements or mechanical sensory thresholds within the first 24 h following hemilaminectomy. Further studies with larger sample sizes are warranted to better define the role of IFC in multimodal postoperative pain management and to explore optimal treatment protocols.",
-      "affiliations": [
-        "Department of Comparative, Diagnostic &amp; Population Medicine, University of Florida College of Veterinary Medicine, Gainesville, FL 32608, USA.",
-        "Small Animal Clinical Sciences, University of Florida College of Veterinary Medicine, Gainesville, FL 32608, USA.",
-        "Consultant, Statistical Consulting Unit, University of Florida Institute of Food and Agricultural Sciences, Gainesville, FL 32608, USA."
-      ],
-      "keywords": [
-        "canine rehabilitation",
-        "hemilaminectomy",
-        "interferential electrotherapy",
-        "intervertebral disc extrusion",
-        "multimodal analgesia",
-        "postoperative pain"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -9237,18 +8581,9 @@
       "date": "2026 May 07",
       "sortdate": "2026-05-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42182912/",
-      "abstract": "INTRODUCTION: Heartworm-infected dogs may have changes in platelet function which can manifest as either perioperative bleeding or thrombosis, reflecting either a prothrombotic state from platelet hyperreactivity or hypocoagulability secondary to consumptive coagulopathy. We aimed to evaluate surgical bleeding in heartworm-infected dogs undergoing ovariohysterectomy (OHE). METHODS: Heartworm-infected (HWI, n = 11) and uninfected (UI, n = 21) dogs undergoing elective OHE were included. Dogs were anesthetized using a standard protocol, and platelet and coagulation function was evaluated using buccal mucosal bleeding time (BMBT), platelet function analyzer-100 (PFA-100), and thromboelastography (TEG). Bleeding from the initial skin incision was quantified using pre-weighed sponges. Variables between HWI and UI dogs were compared using t-tests or Mann-Whitney Rank Sum Tests as appropriate for data distribution. RESULTS: Blood loss measured by surgical sponge weight did not differ between groups: median (25-75th percentile) was 7 g (6-10 g) in HWI dogs and 7 g (6.3-9.8 g) in UI dogs (P = 0.490). PFA-100 closure times were 79.6 &#xb1; 15 s in HWI dogs and 83.7 &#xb1; 22 s in UI dogs (P = 0.571). Similarly, no significant differences were identified between groups for CBC or TEG measurements or BMBT. DISCUSSION: HWI dogs did not experience increased incisional bleeding or quantifiable differences in platelet and coagulation function tests compared to UI dogs. HWI dogs undergoing ovariohysterectomy in this study did not display tendencies for perioperative hemorrhage or thrombosis.",
-      "affiliations": [
-        "Department of Small Animal Medicine &amp; Surgery, College of Veterinary Medicine, University of Georgia, Athens, Georgia.",
-        "Department of Pathology, College of Veterinary Medicine, University of Georgia, Athens, Georgia."
-      ],
-      "keywords": [
-        "canine",
-        "coagulation",
-        "dirofilaria immitis",
-        "platelet",
-        "thromboelastography"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "surgery",
       "summary_ko": ""
@@ -9261,20 +8596,11 @@
       "date": "2026 May 07",
       "sortdate": "2026-05-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42182907/",
-      "abstract": "Time-resolved magnetic resonance angiography provides dynamic information on contrast passage reflecting tumor vascularity and enhancement kinetics. Time-Resolved Imaging of Contrast KineticS (TRICKS) is established in veterinary medicine for vascular mapping; however, its specific utility for evaluating intratumoral enhancement heterogeneity and treatment response has not been described. This case series aimed to evaluate the feasibility of TRICKS for assessing temporal enhancement patterns and semi-quantitative temporal indices in small animal head and neck tumors undergoing radiation therapy. Three client-owned animals (two dogs with intracranial meningiomas and one cat with ceruminous gland adenocarcinoma) underwent MRI including TRICKS, as well as triple-phase computed tomography, for diagnostic evaluation, radiation therapy planning, or post-treatment follow-up. Across all cases, TRICKS provided temporally resolved enhancement information that was not appreciable on conventional contrast-enhanced T1-weighted MRI or triple-phase CT. TRICKS delineated delayed peripheral filling, inward-progressive enhancement, and intratumoral temporal heterogeneity, enabling clearer differentiation of rapidly enhancing regions from delayed or suspected non-enhancing components. Semi-quantitative parameters (enhancement integral, mean time to enhance, maximum slope of increase, and mean slope of decrease) demonstrated regional differences consistent with these enhancement patterns. In two cases, TRICKS identified post-radiation changes and delineated non-enhancing parenchymal defects chronologically prior to their clear appearance on other modalities. These exploratory findings suggests TRICKS can provide time-resolved enhancement surrogates in veterinary patient tumors, contributing to improved characterization of tumor compartmentalization and post-treatment evaluation. However, this serves as a preliminary technical feasibility report, and further studies with larger cohorts and histopathological validation are warranted to validate these observations.",
-      "affiliations": [
-        "Department of Veterinary Medical Imaging, College of Veterinary Medicine, Seoul National University, Seoul, Republic of Korea."
-      ],
-      "keywords": [
-        "canine",
-        "case report",
-        "feline",
-        "radiation therapy",
-        "time resolved MRA",
-        "tricks"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
-      "category": "neurooncology",
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -9285,28 +8611,9 @@
       "date": "2026 May 07",
       "sortdate": "2026-05-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42182906/",
-      "abstract": "Soft tissue Sarcomas (STSs) are malignant mesenchymal neoplasms that affect the body's connective tissues; they are common in dogs, especially in medium to large breeds and older animals. These tumors have poorly defined margins, making them invasive and prone to local recurrence. They metastasize at low rates and respond poorly to chemotherapy. STSs originate from the precursor of connective tissues, cartilage, and bones, and is characterized by spindle cells, specific histomorphological features, and immunohistochemical markers. Diagnosis and prognosis determination can be challenging due to the diversity of subtypes. International organizations, such as the Oncology Pathology Working Group, aim to standardize canine STS diagnosis and treatment. Therefore, it is necessary to standardize different procedures related to STSs for better comprehension of this tumor group in dogs. The Brazilian Association of Veterinary Oncology (ABROVET) organized a consensus event with Brazilian veterinary oncologists to discuss the main topics related to the STS approach. Thereafter, this document was organized as a literature review with consensus recommendations for clinical management, treatment, and future research.",
-      "affiliations": [
-        "Departamento de Cirurgia Veterin&#xe1;ria, Faculdade de Medicina Veterin&#xe1;ria e Zootecnia (FMVZ), Universidade de S&#xe3;o Paulo-USP, S&#xe3;o Paulo, Brazil.",
-        "Instituto de Oncologia Veterin&#xe1;ria de S&#xe3;o Paulo - IOVET, S&#xe3;o Paulo, Brazil.",
-        "Faculdade M&#xe9;todo de S&#xe3;o Paulo-FAMESP, S&#xe3;o Paulo, Brazil.",
-        "Universidade Metropolitana de Santos - UNIMES, S&#xe3;o Paulo, Brazil.",
-        "VCLab Pathology, S&#xe3;o Paulo, Brazil.",
-        "Safari Medicina Veterin&#xe1;ria Especializada, S&#xe3;o Paulo, Brazil.",
-        "Faculdade de Medicina Veterin&#xe1;ria e Zootecnia, Universidade de S&#xe3;o Paulo - USP, S&#xe3;o Paulo, Brazil.",
-        "Hospital Veterin&#xe1;rio Veros, S&#xe3;o Paulo, Brazil.",
-        "E+ Especialidades Veterin&#xe1;rias, S&#xe3;o Paulo, Brazil.",
-        "Departamento de Patologia, Reprodu&#xe7;&#xe3;o e Sa&#xfa;de &#xda;nica, Faculdade de Ci&#xea;ncias Agr&#xe1;rias e Veterin&#xe1;rias, Universidade Estadual Paulista - UNESP, Campus de Jaboticabal, S&#xe3;o Paulo, Brazil.",
-        "Hospital Veterin&#xe1;rio Botafogo, Rio de Janeiro, Brazil.",
-        "Laborat&#xf3;rio de Oncologia Comparada e Translacional, Universidade de S&#xe3;o Paulo - USP, S&#xe3;o Paulo, Brazil."
-      ],
-      "keywords": [
-        "fibrosarcoma",
-        "guidelines",
-        "perivascular wall tumor",
-        "sarcomas",
-        "soft tissue"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -9549,23 +8856,9 @@
       "date": "2026 May 05",
       "sortdate": "2026-05-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42164772/",
-      "abstract": "BACKGROUND: In human oncology, patients diagnosed with a primary malignant tumor are known to have an increased risk of developing subsequent malignancies. In veterinary medicine, however, registry-based studies investigating multiple malignant primary tumors (mMPTs) in dogs remain scarce. The increasing longevity of companion dogs, along with advances in diagnostics and therapies, underscores the importance of understanding the epidemiology and biological determinants of mMPTs. OBJECTIVES: This study aimed to assess the proportional occurrence and patterns of mMPTs in dogs diagnosed with malignant tumors, from four Regional Italian cancer registries integrated within the NILOV (Italian Network of Laboratories for Veterinary Oncology) between 2013 and 2024. METHODS: A total of 16,618 canine cancer records were analyzed. Tumors were classified according to the Vet-ICD-O-Canine-1 system. Proportional morbidity ratios (PMRs) were estimated using multilevel mixed-effects Poisson regression models (random effects: subject and registry), stratified by sex, age, breed, and time, both including and excluding mammary gland tumors. Associations between tumor histotypes were evaluated using &#x3c7; 2 tests and network co-occurrence analysis (netCoin R package). RESULTS: mMPTs were identified in 11.3% of oncologic dogs, with age and sex emerging as the associated factors. The risk increased progressively with age, peaking in dogs aged &#x2265;12&#x202f;years (PMR&#x202f;&#x2248;&#x202f;7.3, 95% CI: 3.7-14.6). Females showed a modestly higher probability than males (PMR&#x202f;&#x2248;&#x202f;1.3, 95% CI: 1.2-1.5). Breed had only a marginal effect, while the later registry period (2019-2024) showed a slight, likely artefactual decrease. Network analyses demonstrated that tumor co-occurrence is not random but organized in biologically meaningful clusters. CONCLUSION: This first large-scale, registry-based analysis of mMPTs in Italian dogs demonstrates that multiple malignancies are relatively common and influenced primarily by age and sex. The findings highlight the value of integrated cancer registries in veterinary oncology and support comparative studies aimed at uncovering shared mechanisms of oncogenesis across species.",
-      "affiliations": [
-        "BeAR- Biostatistics and Risk Analysis-Istituto Zooprofilattico Sperimentale del Piemonte, Liguria e Valle d'Aosta, Torino, Italy.",
-        "Istituto Zooprofilattico Sperimentale del Lazio e Toscana, M. Aleandri, Roma, Italy.",
-        "Department of Comparative Biomedicine and Food Science, University of Padova, Legnaro, Italy.",
-        "Department of Veterinary Sciences, University of Pisa, Pisa, Italy.",
-        "Istituto Zooprofilattico Sperimentale dell'Umbria e delle Marche, Togo Rosati, Perugia, Italy.",
-        "CEROVEC-National Reference Center for Veterinary Oncology-Istituto Zooprofilattico Sperimentale del Piemonte, Liguria e Valle d'Aosta, Genova, Italy.",
-        "Istituto Zooprofilattico Sperimentale delle Venezie, Legnaro, Italy."
-      ],
-      "keywords": [
-        "cancer",
-        "co-occurrence",
-        "dog",
-        "multiple tumors",
-        "risk"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "oncology",
       "summary_ko": ""
@@ -10024,30 +9317,11 @@
       "date": "2026 May 04",
       "sortdate": "2026-05-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42271636/",
-      "abstract": "BACKGROUND: Acute kidney injury (AKI) is associated with platelet dysfunction in several species, but has been minimally investigated in cats. The Platelet Function Analyzer-200 (PFA-200) and Multiplate&#xae; (MP) investigate platelet function using different mechanisms. HYPOTHESIS/OBJECTIVES: Cats with AKI will show evidence of platelet dysfunction on PFA-200 collagen/adenosine diphosphate (Col/ADP) and MP ADP, Col, and arachidonic acid (ASPI) assays. ANIMALS: Fifteen cats presented to a tertiary referral hospital with a diagnosis of AKI and 15 control cats. METHODS: Complete blood count, serum biochemistry panel, PFA-200 Col/ADP, and MP ADP, Col, and ASPI assays were analyzed for associations between platelet count and function and AKI status and cause of AKI. Association between severity of platelet dysfunction and severity of azotemia also was assessed. RESULTS: Cats with AKI had higher median PFA-200 Col/ADP closure time (CT) than control cats (109&#xa0;s vs 56&#xa0;s; P&#xa0;=&#xa0;.001) and lower median MP area under curve (AUC) in response to ADP (62 vs 108; P&#xa0;=&#xa0;.002), Col (60 vs 98; P&#xa0;=&#xa0;.007), and ASPI (22 vs 46; P&#xa0;=&#xa0;.001). No difference was found between cats with ureteral obstruction vs other causes of AKI in median MP ADP AUC (P&#xa0;=&#xa0;.78); MP ASPI AUC (P&#xa0;=&#xa0;.31), or MP Col AUC (P&#xa0;=&#xa0;.18), but obstructed cats had higher median PFA-200 CT (154&#xa0;s vs 68&#xa0;s; P&#xa0;=&#xa0;.02). Among cats with AKI, no association was found between serum urea, creatinine, or phosphorus concentrations, or urine specific gravity, and any platelet parameter. CONCLUSIONS AND CLINICAL IMPORTANCE: Cats with AKI have evidence of platelet dysfunction. Although the clinical relevance of this finding is unknown, it should be to considered when undertaking invasive procedures.",
-      "affiliations": [
-        "Department of Clinical Studies, Ontario Veterinary College, University of Guelph, Guelph, ON, Canada."
-      ],
-      "keywords": [
-        "aggregometry",
-        "azotemia",
-        "kidney injury",
-        "platelet aggregation"
-      ],
-      "mesh": [
-        "Animals",
-        "Cats",
-        "Cat Diseases",
-        "Acute Kidney Injury",
-        "Female",
-        "Male",
-        "Platelet Function Tests",
-        "Blood Platelets",
-        "Platelet Count",
-        "Azotemia",
-        "Case-Control Studies"
-      ],
-      "category": "imaging",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -10058,42 +9332,10 @@
       "date": "2026 May 04",
       "sortdate": "2026-05-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42247661/",
-      "abstract": "BACKGROUND: Immune checkpoint inhibitors (ICIs) have transformed oncology in human medicine, providing clinical benefit in a broad spectrum of cancers. Widely available ICIs for dogs are lacking. HYPOTHESIS/OBJECTIVES: Evaluate efficacy and safety of gilvetmab, a caninized anti-PD-1 monoclonal antibody. ANIMALS: Fifty-one client-owned dogs were evaluated, 25 with stages II-III melanoma and 26 with stages I-III mast cell tumor (MCT). Fifteen dogs with stages III-V lymphoma were also evaluated. METHODS: Multi-institutional, open-label study. Enrolled dogs were treated with gilvetmab IV at 6&#xa0;mg/kg q28d or 10&#xa0;mg/kg q14d; 8 dogs receiving the lower dosage underwent dose escalation with their owners' consent. Safety was evaluated by physical examinations, laboratory testing, and clinical observations made by veterinarians or the dogs' owners. Efficacy was assessed by objective response rate (ORR) and time to progression (TTP) using cRECIST v1.0 and lymphoma response criteria. RESULTS: For melanoma, the ORR was 20% (95% confidence interval [CI], 7%-41%) and median TTP was 56&#xa0;days. For MCT, the ORR was 46% (95% CI, 27%-67%) and median TTP was not reached. No objective responses were observed in dogs with lymphoma. Serious adverse events of anaphylaxis, hypotension, or tumor hemorrhage occurred in 3 dogs (3/51, 5.9%). Tumor enlargement before regression, consistent with possible pseudoprogression, was observed in 2 dogs with melanoma. CONCLUSIONS AND CLINICAL IMPORTANCE: Gilvetmab has a reasonable expectation of efficacy and an acceptable preliminary safety profile in dogs with MCT stages I-III and melanoma stages II and III.",
-      "affiliations": [
-        "Merck Animal Health, Rahway, NJ, United States.",
-        "Oradell Animal Hospital, Paramus, NJ, United States.",
-        "VCA Katonah Bedford Veterinary Center, Bedford Hills, NY, United States.",
-        "VCA Clinical Studies, Los Angeles, CA, United States.",
-        "Las Vegas Veterinary Specialty Center, Las Vegas, NV, United States.",
-        "BluePearl Pet Hospital Malvern, Malvern, PA, United States.",
-        "BluePearl Veterinary Specialty Hospital in Overland Park, Overland Park, KS, United States.",
-        "The Oncology Service at the LifeCentre, Leesburg, VA, United States.",
-        "Veterinary Specialty Hospital - Sorrento Valley, San Diego, CA, United States.",
-        "MedVet Norwalk, Norwalk, CT, United States.",
-        "Department of Medical Sciences, School of Veterinary Medicine, Madison, WI, United States.",
-        "Carbone Comprehensive Cancer Center, University of Wisconsin-Madison, Madison, WI, United States."
-      ],
-      "keywords": [
-        "PD-1",
-        "Programmed cell death 1 receptor",
-        "cancer",
-        "canine",
-        "immune checkpoint inhibitor",
-        "immunotherapy",
-        "monoclonal antibody"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Female",
-        "Male",
-        "Dog Diseases",
-        "Immune Checkpoint Inhibitors",
-        "Mastocytoma",
-        "Melanoma",
-        "Skin Neoplasms",
-        "Treatment Outcome"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -10141,30 +9383,10 @@
       "date": "2026 May 04",
       "sortdate": "2026-05-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42224493/",
-      "abstract": "BACKGROUND: Continuous monitoring of interstitial glucose concentration (CGM) is used in cats with diabetes mellitus (DM), but challenges remain with cat tolerance, affordability, global accessibility, and owner technophobia. Serum fructosamine (SF) concentration is an alternative, but its correlation to CGM has not been assessed. HYPOTHESIS/OBJECTIVES: Serum fructosamine concentration correlates with mean interstitial glucose in cats. ANIMALS: Twelve client-owned cats with DM. METHODS: This was a prospective cohort study. Cats with poorly controlled DM were treated with insulin with the goal of improving glycemic control, while monitored using CGM and SF concentration for a period of 6-12&#xa0;weeks. At each recheck of SF concentration, CGM was applied. Mean interstitial glucose concentration was calculated over 72&#xa0;h (IG72h) surrounding SF concentration measurement. Paired IG72h and SF concentration measurements were collected at the time of enrollment, and at 3- to 6-week and 9- to 12-week time points. Correlation was evaluated by Spearman's rank test and simple linear regression. Serum fructosamine concentration was categorized based on reference laboratory interpretive guidelines, then by physiologically relevant cut-points of IG72h and evaluated for overlap between groups. RESULTS: There was a strong correlation between SF concentration and IG72h (r&#xa0;=&#xa0;0.87; [95% CI, 0.73-0.94]; P&#xa0;&lt;&#xa0;.0001; R2&#xa0;=&#xa0;0.81). When SF concentration was categorized based on reference laboratory interpretive guidelines, there was significant overlap between groups. This effect was also seen when categorizing SF concentration by physiologically relevant cut-points of IG72h. CONCLUSIONS AND CLINICAL IMPORTANCE: Trends in SF concentration can serve as a viable monitoring tool to evaluate short-term changes in glycemia when CGM is not an option.",
-      "affiliations": [
-        "Department of Small Animal Clinical Sciences, University of Florida, Gainesville, FL 32608, United States."
-      ],
-      "keywords": [
-        "continuous glucose monitoring",
-        "glycemic monitoring",
-        "hypersomatotropism",
-        "insulin"
-      ],
-      "mesh": [
-        "Animals",
-        "Fructosamine",
-        "Cats",
-        "Cat Diseases",
-        "Female",
-        "Continuous Glucose Monitoring",
-        "Diabetes Mellitus",
-        "Male",
-        "Blood Glucose",
-        "Prospective Studies",
-        "Insulin",
-        "Hypoglycemic Agents"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "internal",
       "summary_ko": ""
     },
@@ -10252,31 +9474,10 @@
       "date": "2026 May 04",
       "sortdate": "2026-05-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42207576/",
-      "abstract": "BACKGROUND: In people with chronic kidney disease (CKD), inadequate renal ammonia excretion contributes to metabolic acidosis and is associated with worse outcomes. However, the prognostic relevance of ammonia excretion in dogs with CKD remains unclear. HYPOTHESIS/OBJECTIVES: A reduced urine ammonia-to-creatinine ratio (UACR) would be associated with shorter survival and faster disease progression in dogs with stable CKD. ANIMALS: Fifty client-owned dogs with International Renal Interest Society (IRIS) stages II-IV CKD receiving a therapeutic renal diet. METHODS: Prospective, observational longitudinal study. Dogs were followed for up to 12&#xa0;months or until death. Progressive CKD was defined as a&#xa0;&gt;&#xa0;25% increase in serum creatinine from baseline. Dogs were categorized based on UACR &lt;&#x2009;2.0 or&#xa0;&#x2265;&#xa0;2.0. Associations with survival and CKD progression were assessed using Cox proportional hazards and Kaplan-Meier analyses. RESULTS: Most dogs were IRIS stage II (41/50, 82%). Dogs with UACR &lt;&#x2009;2.0 at enrollment had a significantly greater risk of death (HR 3.045; 95% CI, 1.372-7.102) and shorter median survival (189 vs 445&#xa0;days, P&#xa0;=&#xa0;.008). Dogs with UACR &lt;&#x2009;2.0 also had a significantly shorter time to CKD progression (median 132 vs 445&#xa0;days; P&#xa0;=&#xa0;.0002). In addition, UPC ratio&#xa0;&lt;&#xa0;1.0 was associated with a lower risk of death (HR 0.351; 95% CI, 0.142-0.879). CONCLUSIONS AND CLINICAL IMPORTANCE: Lower UACR (&lt;2.0) was associated with higher case fatality and faster disease progression in dogs with azotemic CKD. Urine ammonia-to-creatinine ratio might be a useful biomarker for identifying dogs which could benefit from alkali therapy.",
-      "affiliations": [
-        "Department of Clinical Sciences, North Carolina State University College of Veterinary Medicine, Raleigh, NC, United States.",
-        "Department of Small Animal Clinical Science, University of Florida College of Veterinary Medicine, Gainesville, FL, United States."
-      ],
-      "keywords": [
-        "acid&#x2013;base",
-        "assay",
-        "canine",
-        "kidney",
-        "renal physiology"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Ammonia",
-        "Dog Diseases",
-        "Renal Insufficiency, Chronic",
-        "Female",
-        "Creatinine",
-        "Male",
-        "Prospective Studies",
-        "Longitudinal Studies",
-        "Disease Progression"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "internal",
       "summary_ko": ""
     },
@@ -10322,32 +9523,10 @@
       "date": "2026 May 04",
       "sortdate": "2026-05-04",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42177638/",
-      "abstract": "BACKGROUND: Trilostane is the treatment of choice for pituitary-dependent hypercortisolism (PDH) in dogs, but predictors of a poor response are unclear. HYPOTHESIS/OBJECTIVES: To identify variables associated with a poor response to trilostane in dogs with PDH. ANIMALS: Twenty-three dogs with PDH treated with trilostane. METHODS: Retrospective cohort study. Clinical, clinicopathological, endocrine, ultrasonographic, and treatment data were reviewed. Dogs were classified as good responders (GRs) or nonresponders (NRs) based on clinical outcomes after 4-8&#xa0;months of trilostane treatment. The primary outcome was treatment response. RESULTS: Fifteen dogs were GRs and 8 were NRs. At diagnosis, GRs had lower alanine aminotransferase (ALT) (median [IQR] 182 [70-251] vs 330 [224-578] U/L; P&#xa0;=&#xa0;.004), eACTH (14.4 [9.25-29.13] vs 49.2 [34.35-62.35] pg/mL; P&#xa0;=&#xa0;.007), and pre-ACTH cortisol (4.28 [3.07-6.52] vs 9.0 [6.57-19.40] &#x3bc;g/dL; P&#xa0;=&#xa0;.019) than NRs. Bilateral adrenomegaly was more frequent in NRs (8/8) than in GRs (9/15; P&#xa0;=&#xa0;.007). At T1, NRs required more rechecks (median [IQR] 7 [6-7] vs 3 [3-5]; P&#xa0;&lt;&#xa0;.001) and higher trilostane doses (3.25 [3-5.75] vs 1.22 [0.66-1.60] mg/kg q12h; P&#xa0;&lt;&#xa0;.001). After false discovery rate adjustment, ALT, eACTH, alopecia, and bilateral adrenomegaly remained significant (q&#xa0;=&#xa0;0.047 for each). All GRs achieved complete clinical resolution within 4&#xa0;months of treatment initiation. CONCLUSIONS AND CLINICAL IMPORTANCE: Higher baseline ALT, eACTH, and pre-ACTH cortisol, as well as bilateral adrenomegaly, were associated with a poor response to trilostane. A lack of improvement by 4-8&#xa0;months and the need for higher doses or more rechecks supports early therapeutic reassessment.",
-      "affiliations": [
-        "Department of Veterinary Medical Sciences, University of Bologna, Ozzano dell'Emilia, Bologna, Italy.",
-        "CIISA - Centre for Interdisciplinary Research in Animal Health, Faculty of Veterinary Medicine, University of Lisbon, Lisbon, Portugal.",
-        "Antech Imaging Services, Irvine, CA, United States.",
-        "Department of Medicine and Epidemiology School of Veterinary Medicine, University of California, Davis, CA, United States."
-      ],
-      "keywords": [
-        "complete resolution",
-        "cushing",
-        "efficacy",
-        "medical treatment"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Dog Diseases",
-        "Dihydrotestosterone",
-        "Retrospective Studies",
-        "Female",
-        "Male",
-        "Ultrasonography",
-        "Pituitary ACTH Hypersecretion",
-        "Treatment Outcome",
-        "Hydrocortisone"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -10802,6 +9981,21 @@
       "summary_ko": ""
     },
     {
+      "id": "42284442",
+      "title": "Metanephrine-secreting adrenocortical carcinoma in a dog with clinical and biochemical features suggestive of pheochromocytoma.",
+      "authors": "Kim D, Park SG, Moon J, O IS, Kim MS",
+      "journal": "J Vet Intern Med",
+      "date": "2026 May 04",
+      "sortdate": "2026-05-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42284442/",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42081966",
       "title": "Feline hippocampal necrosis and temporal lobe epilepsy: A review of current literature and definitions.",
       "authors": "Hall RV, Chardas A, Plonek M, Miller H, Binks S, Crawford A",
@@ -11095,28 +10289,10 @@
       "date": "2026 May 01",
       "sortdate": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42175601/",
-      "abstract": "A 10-year-old poodle with left maxillofacial osteosarcoma received volumetric modulated arc therapy delivering 32&#xa0;Gy in four fractions. Treatment planning was guided by computed tomography-magnetic resonance imaging (CT-MRI) fusion for precise target delineation near the globe. Serial CT and MRI up to 12 months after treatment showed transient enlargement of intratumoral cysts with fluid-fluid levels immediately after treatment, indicating pseudoprogression, followed by marked tumor regression. Progressive cortical remodeling and re-ossification restored normal bone contours. These findings present the value of multimodal imaging in radiotherapy planning and follow-up of head and neck tumors to distinguish pseudoprogression from tumor growth and identify postradiation bone regeneration.",
-      "affiliations": [
-        "Department of Veterinary Medical Imaging, College of Veterinary Medicine and Research Institute for Veterinary Science, Seoul National University, Seoul, South Korea.",
-        "Laboratory of Internal Medicine, College of Veterinary Medicine and Research Institute for Veterinary Science, Seoul National University, Seoul, South Korea."
-      ],
-      "keywords": [
-        "bone proliferation",
-        "bone tumor",
-        "canine",
-        "pseudoprogression",
-        "radiotherapy"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Osteosarcoma",
-        "Dog Diseases",
-        "Magnetic Resonance Imaging",
-        "Tomography, X-Ray Computed",
-        "Radiotherapy Planning, Computer-Assisted",
-        "Bone Neoplasms"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -11128,33 +10304,10 @@
       "date": "2026 May 01",
       "sortdate": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42170695/",
-      "abstract": "Intervertebral disc disease (IVDD) is a common neurological disorder in dogs and cats, leading to significant mobility issues and reduced quality of life. Traditional imaging modalities, including radiography, computed tomography (CT), and magnetic resonance imaging (MRI), are integral to IVDD diagnosis, but each has limitations in visualizing soft tissues and requires specialized interpretation. Recent advancements in deep learning (DL), particularly convolutional neural networks (CNNs), offer promising solutions by automating image analysis, enhancing diagnostic accuracy, and reducing human error. This study presents the development of a CNN-based model for detecting disc herniation in CT images of small animals. A total of 1651 annotated CT images were curated from 64,602 scans to create a balanced dataset of healthy and herniated disc cases. Data preprocessing included image resizing, normalization, and extensive augmentation to improve generalization. The segmentation of intervertebral discs was performed using a U-Net architecture, supplemented by synthetic mask generation with K-means clustering and contrast enhancement via Contrast Limited Adaptive Histogram Equalization (CLAHE). Classification employed a fine-tuned Visual Geometry Group 16 (VGG16) model with transfer learning. This approach incorporated optimized layers for binary classification, leveraging dropout and batch normalization to prevent overfitting. The model demonstrated high classification accuracy, providing rapid and objective analysis of CT scans for IVDD diagnosis. By integrating DL with veterinary imaging, our research advances diagnostic capabilities, aiming for earlier detection and better therapeutic planning for small animals with spinal disorders. Future work includes expanding datasets and refining the model for broader clinical applicability.",
-      "affiliations": [
-        "Faculty of Veterinary Medicine, University of Tehran, Tehran, Iran.",
-        "AI &amp; Digital Transformation, Al-Sulaymanyia Company, Baghdad, Iraq.",
-        "Mechatronics Engineering, Tor Vergata University, Rome, Italy.",
-        "Elman S.r.l, Pomezia, Italy.",
-        "Department of Surgery and Radiology, Faculty of Veterinary Medicine, University of Tehran, Tehran, Iran."
-      ],
-      "keywords": [
-        "CT imaging",
-        "convolutional neural network (CNN)",
-        "deep learning",
-        "disc herniation",
-        "intervertebral disc disease (IVDD)"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Convolutional Neural Networks",
-        "Intervertebral Disc Displacement",
-        "Tomography, X-Ray Computed",
-        "Deep Learning",
-        "Dog Diseases",
-        "Cats",
-        "Cat Diseases",
-        "Intervertebral Disc Degeneration"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -11166,31 +10319,10 @@
       "date": "2026 May 01",
       "sortdate": "2026-05-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42170689/",
-      "abstract": "Ultrasonography is frequently utilized in patients with urinary incontinence to screen for structural abnormalities such as ectopic ureters (EUs). Furosemide can be administered during an ultrasound for a better assessment of the ureters and their insertions. Furosemide decreases urine specific gravity (USG), and differences in specific gravity allow a better visibility of ureteral jets on ultrasound; however, it is unknown whether furosemide has utility in patients with hyposthenuria or isosthenuria. The aims of this study were to determine if furosemide administration improves the diagnosis of EUs using ultrasound and if there is a USG below which furosemide will not increase ureteral jet visibility. Thirty-one dogs with clinical suspicion for EUs, and seven dogs with polyuria and polydipsia were included. Urinary tract ultrasonography was performed, and a diagnosis of the presence or absence of EUs was made. Urine collected by urocystocentesis was used to measure USG, furosemide was administered, and the exam was repeated. Ultrasound results were compared to cystoscopy or other means of negative diagnosis to determine accuracy. The accuracy of the EU diagnosis following furosemide was not statistically significant. There was a significant increase in the confidence of diagnosis post-furosemide; there was no association between increased confidence and improved accuracy. Ureteral jets were visible following furosemide in dogs with USGs as low as 1.006. On the basis of these findings, furosemide can be helpful to improve confidence of EU diagnosis and can be administered to increase ureteral jet visibility in dogs with hyposthenuria or isosthenuria.",
-      "affiliations": [
-        "Antech Imaging Services, Irvine, California, USA.",
-        "Department of Molecular Biomedical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, North Carolina, USA.",
-        "Dragonfly Imaging, PLLC, Cary, North Carolina, USA.",
-        "Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, North Carolina, USA."
-      ],
-      "keywords": [
-        "Lasix",
-        "canine",
-        "congenital",
-        "ectopic ureters",
-        "ultrasound"
-      ],
-      "mesh": [
-        "Animals",
-        "Dogs",
-        "Ureter",
-        "Ultrasonography",
-        "Furosemide",
-        "Dog Diseases",
-        "Female",
-        "Male",
-        "Diuretics"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -11665,6 +10797,21 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42007610/",
       "abstract": "",
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42182897",
+      "title": "Incidence, risk factors, and prognosis of acute kidney injury in mechanically ventilated dogs and cats.",
+      "authors": "Hsu ZH, Lynch AM, Li RH, Hansen B, Ueda Y",
+      "journal": "Front Vet Sci",
+      "date": "2026 May 01",
+      "sortdate": "2026-05-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42182897/",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -12600,18 +11747,9 @@
       "date": "2026 Apr 24",
       "sortdate": "2026-04-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42164767/",
-      "abstract": "Chronic kidney disease (CKD) in dogs is a progressive condition with a poor prognosis and a lack of effective pharmacological interventions to extend survival. Beraprost, an oral prostacyclin analog approved for feline CKD, was off-label prescribed and evaluated for its effect on survival in dogs with naturally occurring IRIS stage 2 CKD. This prospective clinical study included a treatment group (n = 16) receiving oral beraprost (12.5 &#x3bc;g/kg twice daily), and a well-matched historical control group (n = 17) from the same institution. The primary outcome, overall survival, was analyzed using the Kaplan-Meier method and a multivariable Cox proportional hazards model. Baseline characteristics were largely comparable between the groups. Significantly longer survival was observed in the beraprost-treated group, with a median survival time of 1,101 days (a 5.6-fold increase), compared to 198 days in the control group (P = 0.001). Furthermore, beraprost therapy was associated with a significant delay in the time to secondary composite endpoints, including disease progression (to IRIS stage 3/4) or death (P = 0.001) and 10% body weight loss or death (P = 0.028), underscoring the robustness of the survival data. After adjusting for age and urine protein-to-creatinine ratio, beraprost treatment remained the sole independent predictor of improved survival (hazard ratio, 0.15; 95% confidence interval 0.03-0.79; P = 0.025). Although limited by its non-randomized design and small sample size, this study provides the first clinical evidence that oral beraprost is associated with a substantial benefit on overall survival in dogs with IRIS stage 2 CKD, supporting the need for large-scale randomized controlled trials.",
-      "affiliations": [
-        "Fujisawa Yui Animal Clinic, Fujisawa, Kanagawa, Japan.",
-        "Obihiro University of Agriculture and Veterinary Medicine, Obihiro, Hokkaido, Japan."
-      ],
-      "keywords": [
-        "beraprost",
-        "canine",
-        "chronic kidney disease",
-        "overall survival",
-        "prostacyclin analog"
-      ],
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
       "mesh": [],
       "category": "internal",
       "summary_ko": ""
