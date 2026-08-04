@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03 12:44 UTC",
-  "total": 1605,
+  "updated": "2026-08-04 08:04 UTC",
+  "total": 1606,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -14,6 +14,32 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42544949",
+      "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
+      "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 03",
+      "sortdate": "2026-08-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544949/",
+      "abstract": "OBJECTIVES: Immune-mediated polyneuropathy (IMPN) manifests with generalized lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN following treatment with human intravenous immunoglobulins (hIVIg). METHODS: Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2 g/kg hIVIg divided over 2-4 days (0.5 g/kg/day).Clinical information, diagnostic findings, treatment details and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (8-51 months; median 17 months).Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (4 cats) or chronic presentation (5 cats). RESULTS: Eight of nine cats exhibited clinical improvement following hIVIg administration, achieving ambulatory status (walking &gt;5 steps) within a median of 4 days (2-8 days). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. CONCLUSIONS AND RELEVANCE: Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
+      "affiliations": [
+        "Centre for Clinical Veterinary Medicine, Neurology Unit, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany.",
+        "Neurology Department, Small Animal Clinic Oberhaching, Oberhaching, Germany.",
+        "AniCura Tierklinik Haar GmbH, Neurology Department Haar, Germany.",
+        "Section of Clinical &amp; Comparative Neuropathology, Centre for Clinical Veterinary Medicine, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany."
+      ],
+      "keywords": [
+        "immunotherapy",
+        "lower motor neuron disease",
+        "non-ambulatory",
+        "tetraparesis",
+        "weakness"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42535405",
       "title": "Computed tomography versus magnetic resonance imaging for the perioperative management of acute thoracolumbar intervertebral disc extrusion in non-ambulatory chondrodystrophic dogs.",
