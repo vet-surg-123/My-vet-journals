@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-04 10:20 UTC",
-  "total": 1606,
+  "updated": "2026-08-05 08:05 UTC",
+  "total": 1613,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -14,6 +14,64 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42551864",
+      "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
+      "authors": "Harris O, Ferreira TH, Loeber S, Hughes S, Bartholomew KJ",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 04",
+      "sortdate": "2026-08-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42551864/",
+      "abstract": "OBJECTIVE: To investigate the cranial and circumferential spread of iohexol (240 mg/mL) diluted 1:3 with saline injected at the lumbosacral junction in canine cadavers using 0.1- and 0.2-mL/kg volumes administered with a cranial- or caudal-facing Tuohy bevel direction. METHODS: Lumbosacral epidurals were performed with a cranial- or caudal-facing needle bevel. The median vertebrae reached and the estimated percentage of the spinal cord surrounded with injectate were assessed via CT after administering two 0.1-mL/kg aliquots of injectate. Contrast medium was diluted to achieve physical properties closer to local anesthetics. RESULTS: 5 cadavers in each group were assessed in August of 2024. The median vertebrae reached with a 0.1-mL/kg volume using a cranial bevel and 100%, &#x2265; 50%, and &#x2265; 1% circumferential epidural coverage contrast medium were 1, 7, and 10 bodies compared to a caudal bevel direction of 1, 7, and 9 bodies. For 0.2-mL/kg total volume using a cranial bevel and having 100%, &#x2265; 50%, and &#x2265; 1% circumferential epidural coverage, there were 2, 9, and 14 bodies compared to a caudal bevel direction being 2, 11, and 15 bodies. CONCLUSIONS: The findings in this cadaveric study suggest that needle bevel direction does not affect the cranial epidural spread of injectate performed at the lumbosacral space. CLINICAL RELEVANCE: While no benefit to performing a lumbosacral epidural with a caudally facing bevel in limiting cranial spread was found, further studies in live patients are required to adjust clinical recommendations.",
+      "affiliations": [],
+      "keywords": [
+        "canine",
+        "cranial spread",
+        "epidural",
+        "lumbosacral",
+        "needle bevel orientation"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42551861",
+      "title": "Cadaveric Feasibility Study Describing Transarticular Drilling of the Canine Anconeal Process through a Cranial Arthroscopic Portal.",
+      "authors": "Schmeiser LJ, Murphy SM",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 04",
+      "sortdate": "2026-08-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42551861/",
+      "abstract": "OBJECTIVES: The aims of this study were to describe a cranial arthroscopic portal to the supratrochlear foramen and to assess the feasibility and accuracy of retrograde transarticular drilling of the anconeal process in canine cadaveric elbows. STUDY DESIGN: Cadaver elbows (n&#x2009;=&#x2009;8) were instrumented through a cranial portal in the distal humerus using a NanoScope. The scope was manoeuvred through the supratrochlear foramen to inspect the anconeal process. A 2.0-mm tunnel simulating the pilot hole for an ununited anconeal process repair was performed using a C guide, cannulated drill bits and NanoScope guidance. Experimental measures included arthroscopic anconeal process identification, surgical time, computed tomography and gross dissection to assess for critical structure damage and drill tunnel aperture location and trajectory. The first two elbows were used for technique development; the remaining six elbows have reported outcome measures. RESULTS: Mean surgery time was 16.6 (standard deviation 3.0) minutes. All six tunnels drilled had acceptable trajectories based on computed tomography and gross dissection. Major damage to critical structures was not observed in any specimen; however, tunnels were directly adjacent to transcubital vessels and a musculocutaneous nerve branch. CONCLUSION: This technique was feasible, provided visualization of the anconeal process, and allowed accurate drilling of the anconeal process in a cadaveric model. Clinical feasibility and safety require validation in a clinical study.",
+      "affiliations": [
+        "WestVet Animal Emergency and Specialty Center, Department of Surgery, Idaho, United States, Garden City."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "arthroscopy",
+      "summary_ko": ""
+    },
+    {
+      "id": "42549582",
+      "title": "Survival outcomes in dogs treated with vinorelbine-based adjuvant treatment following surgical resection of grade II and III pulmonary carcinoma.",
+      "authors": "Wong N, Brockley L, Rajan S, Yu J",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Aug 04",
+      "sortdate": "2026-08-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549582/",
+      "abstract": "OBJECTIVES: Pulmonary carcinoma in dogs is commonly managed with surgical resection; however, the role of adjuvant chemotherapy for grade II and III carcinomas remains unclear. This retrospective multicentre study investigated the outcomes in dogs treated with vinorelbine-based adjuvant treatment (as monotherapy or combined chemotherapy) following surgical resection, compared to surgical resection alone. MATERIALS AND METHODS: Fifty-six dogs with histologically confirmed grade II and III pulmonary carcinoma were evaluated in this study. Thirty-six dogs received vinorelbine-based adjuvant treatment post-surgery based on owner decision following consultation with a veterinary oncologist. Twenty dogs underwent surgical resection alone. The progression-free survival and overall survival were assessed using Cox proportional hazards analysis. RESULTS: The median progression-free survival was longer in dogs treated with vinorelbine-based adjuvant treatment (232&#x2009;days, 95% CI 137 to 385&#x2009;days) compared to dogs treated with surgical resection only (124&#x2009;days, 95% CI 36 to 220&#x2009;days) (HR 0.39, 95% CI 0.21 to 0.70, P&#x2009;=&#x2009;.003). The median overall survival was longer in dogs treated with vinorelbine-based adjuvant treatment (316&#x2009;days, 95% CI 180 to 457&#x2009;days) compared to dogs treated with surgical resection only (124&#x2009;days, 95% CI 43 to 256&#x2009;days) (HR 0.31, 95% CI 0.17 to 0.58, P&#x2009;&lt;&#x2009;.001). The use of vinorelbine-based adjuvant treatment and tumour grade were independent predictors of progression-free survival and survival (P&#x2009;&lt;&#x2009;.001). CLINICAL SIGNIFICANCE: These findings suggest that vinorelbine-based adjuvant treatment is associated with longer progression-free survival and overall survival in dogs with grade II and III pulmonary carcinoma following surgical resection in this cohort. However, the variability in treatment protocols used in this study limits our ability to draw definitive conclusions regarding treatment efficacy.",
+      "affiliations": [
+        "Animal Referral Hospital Canberra, Pialligo, Australian Capital Territory, Australia.",
+        "Advanced Vetcare, Kensington, Victoria, Australia.",
+        "Faculty of Science, Melbourne Veterinary School, The University of Melbourne, Parkville, Victoria, Australia.",
+        "Department of Veterinary Clinical Sciences, Jockey Club College of Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon Tong, Hong Kong, China."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
     {
       "id": "42544949",
       "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
@@ -38,6 +96,24 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548148",
+      "title": "An exploratory evaluation of the frequency of perioperative changes in electrolyte, acid-base, creatinine, glucose, and lactate variables in dogs and cats undergoing cranial surgery for tumor resection.",
+      "authors": "Weiss ZE, Murthy VD, Epstein SE, Hopper K, Hoehne SN",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 03",
+      "sortdate": "2026-08-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548148/",
+      "abstract": "OBJECTIVE: To explore the frequency and severity of abnormalities in perioperative point-of-care bloodwork in dogs and cats undergoing cranial surgery for tumor resection with particular emphasis on dyskalemia development. STUDY DESIGN: Retrospective observational study. ANIMALS: A total of 61 dogs and 14 cats undergoing cranial surgery for tumor resection between 2009 and 2023. METHODS: Medical records and point-of-care blood variables of dogs and cats undergoing surgical tumor resection were reviewed. Electrolyte, acid-base, creatinine, glucose, and lactate concentrations were recorded preoperatively, intraoperatively, and immediately postoperatively and compared to reference intervals. Medications and IV fluids administered were recorded. RESULTS: Intraoperative mannitol was administered to 24/61 (39%) dogs and 5/14 (36%) cats, and hypertonic saline to 1/61 dog. Two of 75 (3%) animals experienced mild intraoperative hyperkalemia (&lt;5.9&#x2009;mmol/L), none experienced moderate or severe hyperkalemia. Intraoperative hypokalemia was present in 6/75 (8%) animals. Mean (&#xb1;SD) preoperative potassium concentration ([K+]; mmol/L) was 3.75 (&#xb1;0.45), increasing to 3.91 (&#xb1;0.46) intraoperatively, and decreasing postoperatively to 3.74 (&#xb1;0.46). Intraoperative [K+] was significantly higher than postoperative (p&#x2009;&lt;&#x2009;.001). Intraoperative bicarbonate, sodium, and ionized calcium concentrations were lower than preoperative concentrations but returned to baseline postoperatively and largely remained within institutional reference intervals. CONCLUSION: Intraoperative alterations in [K+], bicarbonate, sodium, and ionized calcium concentrations occurred during cranial surgery in dogs and cats, but were generally mild and transient. Clinically relevant hyperkalemia was not observed in this cohort. CLINICAL SIGNIFICANCE: Clinically significant hyperkalemia may be uncommon in veterinary cranial surgery, but routine perioperative point-of-care bloodwork remains advised to monitor electrolyte and acid-base status.",
+      "affiliations": [
+        "Weill School of Veterinary Medicine, University of California, Davis, Davis, California, USA.",
+        "Department of Surgical and Radiological Sciences, Weill School of Veterinary Medicine, University of California, Davis, Davis, California, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -529,6 +605,81 @@
         "Accidents, Traffic"
       ],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42549302",
+      "title": "Case Report: Modified pulse-dose melphalan therapy for canine colorectal extramedullary plasmacytoma with suspected hepatic dissemination following surgical excision.",
+      "authors": "Chen Y",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 20",
+      "sortdate": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549302/",
+      "abstract": "A senior male neutered Maltese dog was diagnosed with a solitary rectal extramedullary plasmacytoma that was completely excised with clean margins. 5 months later, multifocal hepatic plasma cell tumors were identified without evidence of multiple myeloma. Systemic chemotherapy was initiated using a pulse-dose melphalan protocol combined with prednisone. Due to recurrent dose-limiting myelosuppression, the treatment protocol was progressively modified by shortening the duration of melphalan administration within a fixed treatment cycle. The modified protocol was associated with clinical improvement, progressive ultrasonographic regression of hepatic lesions, and prolonged disease control, with survival exceeding 19 months following diagnosis of hepatic involvement. Recent reports suggest that some extramedullary plasmacytomas may possess greater metastatic potential than previously recognized. Although limited to a single case, this report describes a practical individualized pulse-dose melphalan adjustment strategy that may serve as a clinical reference for management of biologically aggressive or disseminated extramedullary plasmacytomas in dogs.",
+      "affiliations": [
+        "Riverside Drive Animal Care Center, Thrive Pet Healthcare, Dublin, OH, United States."
+      ],
+      "keywords": [
+        "canine extramedullary plasmacytoma",
+        "colorectal plasmacytoma",
+        "hepatic plasma cell neoplasm",
+        "melphalan",
+        "pulse-dose chemotherapy"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42549220",
+      "title": "Electrochemotherapy for feline lingual squamous cell carcinoma: a case report of functional preservation as a palliative approach.",
+      "authors": "Akiyoshi M, Hisasue M",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 20",
+      "sortdate": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42549220/",
+      "abstract": "A 14-year-old spayed female Persian cat with lingual feline oral squamous cell carcinoma (FOSCC) was treated with bleomycin-based electrochemotherapy (ECT), resulting in sustained preservation of oral function and quality of life despite advanced disease. At presentation, the cat exhibited severe weight loss, oral pain, and reduced voluntary food intake. ECT was performed using intravenous bleomycin (20&#x202f;mg/m2) followed by electric pulse delivery via an eight-needle electrode array. Following treatment, marked tumor regression was observed, accompanied by substantial reduction in oral pain, restoration of voluntary feeding, and body weight gain from 1.7&#x202f;kg to 2.6&#x202f;kg during the treatment period. Voluntary eating and drinking were preserved throughout the clinical course until the terminal stage. Repeated examinations under general anesthesia revealed no gross abnormalities in the larynx or tonsils. The cat died due to renal failure unrelated to tumor progression. Postmortem histopathology revealed extensive SCC infiltration involving the tongue base, tonsils, and epiglottis despite the absence of clinical abnormalities during life. This case demonstrates that ECT can provide meaningful palliation, including preservation of oral function and quality of life, in cats with biologically advanced lingual FOSCC. In addition, the marked discrepancy between clinical findings and histopathologic tumor extent suggests the possibility of clinically inapparent regional spread, which may have important implications for staging and treatment planning. These findings also suggest that ECT may preserve superficial functional structures while allowing progression of submucosal tumor components.",
+      "affiliations": [
+        "Akiyoshi Animal Clinic, Yamato, Kanagawa, Japan.",
+        "Laboratory of Small Animal Internal Medicine, School of Veterinary Medicine, Azabu University, Sagamihara, Kanagawa, Japan."
+      ],
+      "keywords": [
+        "bleomycin",
+        "electrochemotherapy",
+        "feline",
+        "lingual squamous cell carcinoma",
+        "occult tumor spread",
+        "oral squamous cell carcinoma",
+        "quality of life",
+        "total glosso-mandibulectomy"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42548414",
+      "title": "Evaluation of intestinal leakage pressure following unsutured intestinal biopsies performed with an automatic needle-core biopsy device.",
+      "authors": "Deglume E, Aloisi R, Delsol G, Malkani R, Libermann S, Etchepareborde S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 20",
+      "sortdate": "2026-07-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548414/",
+      "abstract": "OBJECTIVE: To evaluate whether full-thickness intestinal biopsies performed with an automated needle-core device, without closure of the biopsy site, maintain adequate intestinal integrity in dogs and cats. MATERIALS AND METHODS: This experimental study consisted of ex vivo testing on small intestinal segments from fresh canine and feline cadavers, and in vivo testing in dogs and cats undergoing enterectomy for unrelated indications. Full-thickness biopsies were performed using a 16-gauge automated needle-core device, with biopsy sites left unsutured. Intraluminal pressure was progressively increased using methylene blue-stained saline, and the initial leakage pressure (ILP) was recorded at first visible evidence of leakage. Cadaveric and in vivo ILP were compared to each other and to the reported maximal physiological intraluminal pressure of 25&#x202f;mmHg. RESULTS: Thirty-nine cadaveric intestinal segments from seven animals were evaluated. The mean cadaveric ILP was 20.7&#x202f;mmHg (95% CI [5.9-35.5&#x202f;mmHg]), with leakage observed below 25&#x202f;mmHg in 33 of them. In vivo ILP was measured in 12 patients (8 dogs, 4 cats), yielding 23 measurements. The mean in vivo ILP was 85.66&#x202f;mmHg (95% CI [55.53, 115.78]), significantly exceeding the reference value of 25&#x202f;mmHg, and all measurements remained above 26&#x202f;mmHg. CONCLUSION: Cadaveric leakage pressures were markedly lower than in vivo measurements, suggesting that cadaveric models may be poorly suited for evaluating intestinal pressure. In contrast, unsutured needle-core biopsy sites in live dogs and cats tolerated pressures above reported maximal physiological levels, immediately after biopsy. These findings suggest that the immediate risk of leakage at small (1.3-mm) unsutured biopsy sites is low; however, because healing and longer-term integrity were not evaluated, the necessity of routine closure cannot be established from these data. Further studies are needed to evaluate long-term safety and applicability in diseased intestines.",
+      "affiliations": [
+        "IVC Evidencia, CHV des Cordeliers, Meaux, France.",
+        "Clinique V&#xe9;t&#xe9;rinaire AniCura VetRef, Beaucouz&#xe9;, France.",
+        "Department of Research, IVC Evidensia UK, Bristol, United Kingdom."
+      ],
+      "keywords": [
+        "biopsy",
+        "full-thickness biopsy",
+        "intestine (small)",
+        "leakage pressure",
+        "needle-core biopsy"
+      ],
+      "mesh": [],
+      "category": "anatomy",
       "summary_ko": ""
     },
     {
@@ -19877,15 +20028,15 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Cat Diseases",
-        "Caloric Restriction",
         "Female",
         "Male",
-        "Overweight",
         "Blood Glucose",
-        "Insulin",
+        "Caloric Restriction",
+        "Cat Diseases",
         "Diabetes Mellitus",
         "Diet, Diabetic",
+        "Insulin",
+        "Overweight",
         "Weight Loss"
       ],
       "category": "internal",
