@@ -41,10 +41,10 @@ INCREMENTAL_DAYS = int(os.environ.get("INCREMENTAL_DAYS", "0"))
 #    본검색(START_DATE~오늘)과 별개로, 아래 분야들을 BACKFILL_START_DATE~오늘 범위로 추가 검색하고
 #    '실제로 그 분야로 분류된 논문'만 추가한다. (다른 분야·기간엔 영향 없음)
 BACKFILL_START_DATE = os.environ.get("BACKFILL_START_DATE", "2020-01-01").replace("-", "/")
-#    백필할 분야 목록(쉼표구분). 인공관절·신경종양·관절경. 끄려면 env BACKFILL_CATS="" 로.
+#    백필할 분야 목록(쉼표구분). 인공관절·신경종양·관절경·심장·마취. 끄려면 env BACKFILL_CATS="" 로.
 BACKFILL_CATS = [c.strip() for c in
                  os.environ.get("BACKFILL_CATS",
-                                "jointreplacement,neurooncology,arthroscopy").split(",")
+                                "jointreplacement,neurooncology,arthroscopy,cardiac,anesthesia").split(",")
                  if c.strip()]
 # 🔧 최대 수집 개수 — 0이면 제한 없음(조건 맞는 것 전부, 수만 개 가능)
 MAX_RESULTS    = int(os.environ.get("MAX_RESULTS", "0"))
@@ -72,11 +72,9 @@ EXCLUDE_SPECIES = [
     "horse", "equine", "foal", "fish", "shrimp", "rabbit", "mouse", "mice", "murine", "rat",
 ]
 
-# 🔧 주제 제외: 이 단어가 제목/초록에 있으면 논문을 버림 (심장·치과 제외 요청 반영)
+# 🔧 주제 제외: 이 단어가 제목/초록에 있으면 논문을 버림 (치과 제외 요청 반영)
+#   ※ 심장(cardiology)은 예전엔 제외였으나, '심장' 분야 신설로 제외 목록에서 제거함.
 EXCLUDE_TOPIC_KEYWORDS = [
-    # 심장(cardiology) 제거
-    "cardiac", "cardiolog", "cardiomyopath", "mitral", "myxomatous",
-    "echocardiograph", "congestive heart", "valvular",
     # 치과(dentistry) 제거
     "dental", "periodontal", "endodontic", "dentistry", "tooth", "teeth", "malocclusion",
 ]
@@ -101,6 +99,8 @@ JOURNAL_WHITELIST = [
     "Front Vet Sci",               # Frontiers
     "Vet Rec",                     # Veterinary Record (BVA, MEDLINE 색인)
     "Case Rep Vet Med",            # Case Reports in Veterinary Medicine (증례 전문지, PMC 2016~)
+    "J Vet Cardiol",               # 심장 (Journal of Veterinary Cardiology)
+    "Vet Anaesth Analg",           # 마취 (Veterinary Anaesthesia and Analgesia)
 ]
 USE_WHITELIST = True
 
@@ -128,6 +128,33 @@ CATEGORY_KEYWORDS = {
     # 정형외과 (관절경·인공관절 외 정형)
     "orthopedics":  ["fracture", "orthopedic", "osteotomy", "luxation", "cruciate", "tplo",
                      "patellar", "arthro", "arthrodesis", "osteosynthesis"],
+    # 심장 (내과+외과 통합) — '외과·영상·내과'보다 먼저 검사해 심장 논문을 따로 분리.
+    #   ※ 'ventricular'(뇌실과 겹침)·'valve'(타 장기 판막) 단독은 오분류되므로 일부러 미포함.
+    "cardiac":      [# 내과·전반
+                     "cardiac", "cardiolog", "cardiovascular", "myocard", "pericard", "endocard",
+                     "cardiomyopath", "myxomatous", "mitral", "tricuspid", "valvular",
+                     "echocardiograph", "echocardiogram", "congestive heart", "heart failure", "chf",
+                     "arrhythmia", "atrial fibrillation", "tachycardia", "bradycardia",
+                     "patent ductus", "pda", "pulmonic stenosis", "subaortic", "aortic stenosis",
+                     "septal defect", "vsd", "asd", "pacemaker", "pulmonary hypertension",
+                     # 외과·중재시술
+                     "cardiac surgery", "cardiothoracic", "cardiovascular surgery",
+                     "open heart", "cardiopulmonary bypass",
+                     "mitral valve repair", "mitral valve replacement", "valve replacement",
+                     "valvuloplasty", "annuloplasty", "balloon valvuloplasty",
+                     "pericardiectomy", "pericardiocentesis",
+                     "pda ligation", "ductal occlusion", "ductal occluder", "amplatz", "acdo", "occluder",
+                     "pacemaker implantation", "cardiac catheterization",
+                     "transcatheter", "interventional cardiology"],
+    # 마취·진통 — '외과'보다 먼저 검사(수술 방법 논문에 밀리지 않게).
+    "anesthesia":   ["anesthesia", "anaesthesia", "anesthetic", "anaesthetic",
+                     "anesthesiolog", "anaesthesiolog", "sedation", "sedative",
+                     "analgesia", "analgesic", "antinociception", "nociception",
+                     "propofol", "alfaxalone", "isoflurane", "sevoflurane", "ketamine",
+                     "medetomidine", "midazolam", "fentanyl", "buprenorphine", "butorphanol",
+                     "methadone", "opioid", "epidural", "nerve block", "local anesthetic",
+                     "lidocaine", "bupivacaine", "premedication", "inhalant anesthetic",
+                     "neuromuscular block", "capnograph", "minimum alveolar concentration"],
     # 외과 (일반 수술)
     "surgery":      ["surgery", "surgical", "laparotomy", "laparoscopy", "excision",
                      "resection", "repair", "anastomosis", "celiotomy", "thoracotomy",
@@ -184,7 +211,8 @@ NEUROONCO_PHRASES = [
 CATEGORY_LABELS = {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과", "arthroscopy": "관절경", "jointreplacement": "인공관절",
-    "orthopedics": "정형외과", "surgery": "외과", "anatomy": "해부", "imaging": "영상",
+    "orthopedics": "정형외과", "cardiac": "심장", "anesthesia": "마취",
+    "surgery": "외과", "anatomy": "해부", "imaging": "영상",
     "internal": "내과", "oncology": "종양",
 }
 
