@@ -32,19 +32,18 @@ ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")     # (선택) 유�
 NCBI_API_KEY      = os.environ.get("NCBI_API_KEY", "")
 
 # 🔧 수집 시작일(고정). 이 날짜부터 오늘까지 모음. (예전의 '최근 N일' 방식 대체)
-#    형식 2026-01-01 또는 2026/01/01 모두 OK. env START_DATE 로 덮어쓸 수 있음.
-START_DATE = os.environ.get("START_DATE", "2026-01-01").replace("-", "/")
+#    형식 2020-01-01 또는 2020/01/01 모두 OK. env START_DATE 로 덮어쓸 수 있음.
+#    ※ '모든 분야 2020년부터' 요청 반영 → 기본 시작일을 2020-01-01로 변경.
+START_DATE = os.environ.get("START_DATE", "2020-01-01").replace("-", "/")
 # 🔧 증분 수집 창(일). 0이면 매번 START_DATE~오늘 전체를 조회(권장, 누락 없음).
 #    속도가 필요하면 예) 30 → 최근 30일만 조회하고 기존 데이터에 '추가'로 병합.
 INCREMENTAL_DAYS = int(os.environ.get("INCREMENTAL_DAYS", "0"))
 # 🔧 특정 분야만 더 오래전부터 수집(백필). 양이 적은 분야를 과거까지 채운다.
-#    본검색(START_DATE~오늘)과 별개로, 아래 분야들을 BACKFILL_START_DATE~오늘 범위로 추가 검색하고
-#    '실제로 그 분야로 분류된 논문'만 추가한다. (다른 분야·기간엔 영향 없음)
+#    ※ 이제 본검색 START_DATE 자체가 2020-01-01이라 '전 분야'가 2020년부터 잡힘 →
+#      분야별 백필은 중복이므로 기본 꺼둠(""). 필요하면 env BACKFILL_CATS="cardiac,..." 로 켤 수 있음.
 BACKFILL_START_DATE = os.environ.get("BACKFILL_START_DATE", "2020-01-01").replace("-", "/")
-#    백필할 분야 목록(쉼표구분). 인공관절·신경종양·관절경·심장·마취. 끄려면 env BACKFILL_CATS="" 로.
 BACKFILL_CATS = [c.strip() for c in
-                 os.environ.get("BACKFILL_CATS",
-                                "jointreplacement,neurooncology,arthroscopy,cardiac,anesthesia").split(",")
+                 os.environ.get("BACKFILL_CATS", "").split(",")
                  if c.strip()]
 # 🔧 최대 수집 개수 — 0이면 제한 없음(조건 맞는 것 전부, 수만 개 가능)
 MAX_RESULTS    = int(os.environ.get("MAX_RESULTS", "0"))
