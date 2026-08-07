@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06 10:18 UTC",
-  "total": 3815,
+  "updated": "2026-08-07 05:08 UTC",
+  "total": 3826,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,94 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42562008",
+      "title": "Canine Femoral Trochlear Dysplasia: A Retrospective Study Assessing the Dejour Signs.",
+      "authors": "Longo F, Neri R, Knell SC",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 06",
+      "sortdate": "2026-08-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42562008/",
+      "abstract": "OBJECTIVE: The aim of this study was to assess whether Dejour's lateral radiographic signs of femoral trochlear dysplasia are identifiable in healthy and patellar luxation (PL)-affected dogs; and whether computed tomography (CT) lateral reconstructions can substitute for radiography. STUDY DESIGN: Forty femoral trochleae were divided into controls without PL (n&#x2009;=&#x2009;15) and dogs with PL (n&#x2009;=&#x2009;25). Mediolateral stifle radiographs and CT-based lateral reconstructions were randomized and read by a blinded observer for Dejour signs (crossing, supratrochlear spur, double contour). Agreement between modalities was evaluated with Cohen's kappa and McNemar's test (p&#x2009;&lt;&#x2009;0.05). RESULTS: Dejour signs were absent from controls on both modalities except for one CT trochlea. In controls, method agreement for femoral trochlear dysplasia signs (one or more signs) was high (observed agreement 93%). In PL stifles, one or more Dejour signs were present in 68% on radiographs and 72% on CT. On radiographs: crossing 48%, supratrochlear spur 40%, double contour 28%; and on CT: 48%, 44%, 28%, respectively. Sign combinations occurred in 36%. Agreement between radiography and CT in PL stifles was substantial (observed agreement 95-100%; &#x3ba; 0.89-1.00). An ancillary finding - a single projection line consistent with a convex trochlea ('dome' sign) - was observed in 24% of PL trochleae both with radiography and CT, mostly grade-4 PL. CONCLUSION: Dejour femoral trochlear dysplasia signs are identifiable in dogs with PL and rare in normal dogs. Computed tomography lateral reconstructions reliably depict these features and may substitute for radiography. Recognition of Dejour sign and the proposed dome sign may aid preoperative planning and surgical decision-making in canine PL.",
+      "affiliations": [
+        "Universit&#xe4;t Z&#xfc;rich Vetsuisse-Fakult&#xe4;t, Department of Small Animal Surgery, Z&#xfc;rich, Switzerland."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42556420",
+      "title": "Ultrasonographic evaluation of the canine gracilis, semimembranosus, and semitendinosus muscles.",
+      "authors": "Huguet E, Repac J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 05",
+      "sortdate": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556420/",
+      "abstract": "OBJECTIVE: To describe a practical technique for ultrasonographic evaluation of the gracilis, semimembranosus, and semitendinosus muscles in dogs. ANIMALS: 2 clinically healthy client-owned German Shepherd Dogs were used for this tutorial. Owner consent and approval from the University of Florida College of Veterinary Medicine IACUC were obtained prior to participation. METHODS: Dogs were clipped, sedated, and placed into dorsal recumbency in a relaxed position with bilateral coxofemoral abduction. A stepwise ultrasonographic approach was demonstrated with a high-frequency linear transducer. The image was optimized by adjustment of depth, focal zone placement, gain, and time-gain compensation. Scanning was performed in both transverse and longitudinal planes to assess muscle origin, body, and insertion. Normal anatomic relationships of the gracilis, semimembranosus, and semitendinosus muscles were identified to facilitate consistent evaluation. RESULTS: Ultrasound allowed clear identification of the gracilis, semimembranosus, and semitendinosus muscles on the basis of location, shape, echogenicity, and fiber orientation. The gracilis was identified in a transverse plane as a superficial, flat adductor muscle, with the semimembranosus located deeper and the semitendinosus positioned more caudally with a rounded contour. Standardized scanning planes enabled consistent visualization of muscle architecture and tendon attachments. CLINICAL RELEVANCE: Ultrasonography is a valuable, accessible tool for evaluating the gracilis, semimembranosus, and semitendinosus muscles in dogs. Familiarity with normal anatomy and scanning techniques is essential for the diagnosis of conditions such as fibrotic myopathy, facilitating earlier intervention.",
+      "affiliations": [
+        "1Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Florida, Gainesville, FL.",
+        "2Idexx Laboratories Inc, Clackamas, OR.",
+        "3Department of Comparative, Diagnostic and Population Medicine, College of Veterinary Medicine, University of Florida, Gainesville, FL."
+      ],
+      "keywords": [
+        "canine",
+        "fibrotic myopathy",
+        "gracilis",
+        "hamstring",
+        "musculoskeletal ultrasound"
+      ],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "42556405",
+      "title": "An artificial intelligence-enabled digital stethoscope demonstrates moderate murmur detection in dogs but not cats and unreliable arrhythmia classification in both species.",
+      "authors": "Johnson JH, Stern JA, DeFrancesco TC, Pierce KV",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 05",
+      "sortdate": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556405/",
+      "abstract": "OBJECTIVE: To prospectively evaluate the diagnostic performance of an AI-enabled digital stethoscope in detecting cardiac murmurs and arrhythmias compared to fourth-year veterinary students and experienced clinicians. METHODS: Dogs and cats presenting to a university teaching hospital were prospectively enrolled from August 1, 2025, through December 31, 2025. Each animal underwent cardiac auscultation at 4 thoracic sites with the use of an AI-enabled digital stethoscope (Core 500; EKO Health Inc), 6-lead ECG, and echocardiogram, if clinically indicated. Auscultation was performed by a cardiology resident, board-certified cardiologist, and fourth-year veterinary student. RESULTS: The stethoscope demonstrated a sensitivity of 86.8%, specificity of 56.3%, and positive predictive value of 82.5% for murmur detection in dogs. There was no difference between the agreement of the AI stethoscope or students with a clinician (&#x3ba; = 0.447). In cats, sensitivity was markedly lower (9.1%), with only 2 of 22 murmurs detected (&#x3ba; = 0.081). The stethoscope demonstrated high sensitivity for atrial fibrillation (100%), but classified no dog as arrhythmia-free. Murmur grade was the only significant predictor of stethoscope murmur diagnosis, and high-grade murmurs (&#x2265; 3) had significantly greater odds of detection (OR, 15.11). CONCLUSIONS: The AI-enabled stethoscope demonstrated moderate murmur detection performance in dogs, comparable to fourth-year veterinary students, but performed poorly in cats. Arrhythmia classification was unreliable in both species. CLINICAL RELEVANCE: AI-enabled stethoscopes represent an emerging tool in veterinary medicine, but clinical validation is necessary before routine adoption. This study provides prospective performance data across small animals and examiner levels, identifying meaningful limitations regarding interpretation of this technology.",
+      "affiliations": [],
+      "keywords": [
+        "artificial intelligence",
+        "auscultation",
+        "cardiology",
+        "murmur",
+        "stethoscope"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42556400",
+      "title": "High-dose oral pentobarbital can produce anesthesia in aggressive dogs prior to euthanasia.",
+      "authors": "Cooney KA, Robertson SA, Kogan LR, Lor GZ",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Aug 05",
+      "sortdate": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42556400/",
+      "abstract": "OBJECTIVE: To determine whether PO administration of pentobarbital sodium solution at 3 times the labeled IV dose induces unconsciousness or euthanasia in dogs. METHODS: 12 dogs met the inclusion criteria. Criteria included dogs in a shelter setting scheduled for euthanasia between June 2024 and October 2025. Dogs exhibiting human and/or animal aggression and scheduled for euthanasia were selected for the study. There were no limiting factors for inclusion such as breed, sex, or age. RESULTS: Pentobarbital sodium solution was injected into size 00 gelatin capsules (1-mL capacity), placed in high-reward foods, and offered to the dogs; 9 consumed the food and 3 refused. Five of the 9 dogs that ate the food containing pentobarbital capsules (&#x2265; 255 mg/kg) achieved unconsciousness within a mean time of 25 minutes. Respiratory rates remained slow but consistent during the observation period (120 minutes). All 12 dogs required another euthanasia method to achieve death. CONCLUSIONS: Ingestion of pentobarbital sodium as a euthanasia agent in dogs is unreliable. Death was not achieved 120 minutes after ingestion, and another euthanasia method was necessary. CLINICAL RELEVANCE: Oral administration of &#x2265; 255 mg/kg of pentobarbital sodium appears to be an effective pre-euthanasia anesthetic for dogs. When handling is best avoided because of behavior, veterinary and animal shelter personnel may try offering pentobarbital sodium at high doses in capsules hidden in food to fasted dogs as an anesthetic agent before euthanasia.",
+      "affiliations": [
+        "1Companion Animal Euthanasia Training Academy, Lutz, FL.",
+        "2Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO.",
+        "3Lap of Love Veterinary Hospice and In-Home Euthanasia, Lutz, FL."
+      ],
+      "keywords": [
+        "aggression",
+        "anesthesia",
+        "euthanasia",
+        "oral",
+        "pentobarbital"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
     {
       "id": "42551864",
       "title": "Needle bevel orientation does not affect the cranial spread of injectate in a lumbosacral epidural in canine cadavers.",
@@ -325,23 +413,23 @@
     },
     {
       "id": "42532333",
-      "title": "Deep Learning for Canine Cardiac Radiography: A Comprehensive Review of Automated Vertebral Heart Score Estimation.",
+      "title": "Deep learning for canine cardiac radiography: A comprehensive review of automated vertebral heart score estimation.",
       "authors": "Buch H, Mayani P",
       "journal": "Vet J",
       "date": "2026 Jul 30",
       "sortdate": "2026-07-30",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42532333/",
-      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disorder in dogs and represents a large proportion of cases encountered in small animal veterinary practice. Thoracic radiography is routinely used to evaluate cardiac enlargement, with the vertebral heart score (VHS) serving as a widely accepted radiographic measurement. However, VHS assessment depends on manual landmark identification and measurement, which can result in variation between observers. This review summarizes recent advances in deep learning methods developed for automated VHS estimation, including convolutional neural networks, EfficientNet models, and hybrid architectures incorporating transformer-based components. A systematic search of three major scientific databases, followed by backward citation screening, identified 3,729 records. After eligibility assessment, 94 studies met the inclusion criteria, and 17 representative studies were selected for detailed evaluation. The reviewed studies were compared with respect to landmark localization, feature extraction strategies, predictive performance, and their ability to generalize across different datasets. Among the reported approaches, EfficientNet-B3 and EfficientNet-B7 demonstrated consistently strong performance for landmark regression and VHS prediction. The literature also suggests that transfer learning has contributed substantially to model performance, particularly where annotated veterinary imaging datasets are limited. Despite encouraging results, differences in dataset characteristics, annotation protocols, and the limited availability of multi-centre validation continue to restrict broader clinical implementation. Future work should focus on improving dataset diversity, model interpretability, and external validation to support the reliable integration of automated VHS estimation into veterinary practice.",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is the most common acquired cardiac disorder in dogs and represents a large proportion of cases encountered in small animal veterinary practice. Thoracic radiography is routinely used to evaluate cardiac enlargement, with the vertebral heart score (VHS) serving as a widely accepted radiographic measurement. However, VHS assessment depends on manual landmark identification and measurement, which can result in variation between observers. This review summarizes recent advances in deep learning methods developed for automated VHS estimation, including convolutional neural networks, EfficientNet models, and hybrid architectures incorporating transformer-based components. A systematic search of three major scientific databases, followed by backward citation screening, identified 3729 records. After eligibility assessment, 94 studies met the inclusion criteria, and 17 representative studies were selected for detailed evaluation. The reviewed studies were compared with respect to landmark localization, feature extraction strategies, predictive performance, and their ability to generalize across different datasets. Among the reported approaches, EfficientNet-B3 and EfficientNet-B7 demonstrated consistently strong performance for landmark regression and VHS prediction. The literature also suggests that transfer learning has contributed substantially to model performance, particularly where annotated veterinary imaging datasets are limited. Despite encouraging results, differences in dataset characteristics, annotation protocols, and the limited availability of multi-centre validation continue to restrict broader clinical implementation. Future work should focus on improving dataset diversity, model interpretability, and external validation to support the reliable integration of automated VHS estimation into veterinary practice.",
       "affiliations": [
-        "Department of Computer Science and Engineering, School of Technology, Pandit Deendayal Energy University, Gandhinagar, Gujarat, India, 382007. Electronic address: 25mds004@sot.pdpu.ac.in.",
-        "Department of Computer Science and Engineering, School of Technology, Pandit Deendayal Energy University, Gandhinagar, Gujarat, India, 382007. Electronic address: 25mds012@sot.pdpu.ac.in."
+        "Department of Computer Science and Engineering, School of Technology, Pandit Deendayal Energy University, Gandhinagar, Gujarat 382007, India. Electronic address: 25mds004@sot.pdpu.ac.in.",
+        "Department of Computer Science and Engineering, School of Technology, Pandit Deendayal Energy University, Gandhinagar, Gujarat 382007, India. Electronic address: 25mds012@sot.pdpu.ac.in."
       ],
       "keywords": [
-        "Canine Thoracic Radiography",
-        "Convolutional Neural Networks",
-        "Deep Learning",
+        "Canine thoracic radiography",
+        "Convolutional neural networks",
+        "Deep learning",
         "EfficientNet",
-        "Vertebral Heart Score"
+        "Vertebral heart score"
       ],
       "mesh": [],
       "category": "cardiac",
@@ -373,21 +461,22 @@
     },
     {
       "id": "42526683",
-      "title": "Anti-tumour Activity of Canine Activated T-Cells and Cytokine-Induced Killer Cells against Canine Malignant Melanoma In Vitro.",
+      "title": "Anti-tumour activity of canine activated T-cells and cytokine-induced killer cells against canine malignant melanoma in vitro.",
       "authors": "Conti LC, Capellero S, Piras L, Morello E, Iurascu S, Erriquez J, Marconato L, Aresu L, De Maria R",
       "journal": "Vet J",
       "date": "2026 Jul 29",
       "sortdate": "2026-07-29",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42526683/",
-      "abstract": "Adoptive cell transfer (ACT) immunotherapy represents a promising therapeutic approach for cancer treatment, utilising ex vivo-expanded immune effector cells such as T-lymphocytes, natural killer (NK) cells, and cytokine-induced killer (CIK) cells. CIK cells are characterised by dual T-cell and NK cell-like properties, exhibiting high proliferative capacity, cytolytic activity, and non-MHC-restricted tumour recognition. Canine malignant melanoma (CMM) is an aggressive neoplasm with significant translational relevance to human melanoma, yet the cytotoxic potential of CIK cells against CMM remains unexplored. This study aimed to expand and functionally characterise canine CIK and T-cells from healthy donors, comparing their cytotoxic activity against CMM cell lines in allogeneic and autologous settings. Peripheral blood mononuclear cells were isolated and expanded using standardised protocols with IFN-&#x3b3;, anti-CD3/CD28 activation, and IL-2 supplementation. Flow cytometry confirmed successful expansion with CIK cells showing 85% NKp46 expression and T-cells reaching 91.96% CD8 expression, with comparable expansion folds (7.94 vs. 7.88). Cytotoxicity assays against seven CMM cell lines demonstrated robust anti-tumour activity for both effector populations, with CIK cells achieving 61.5% mean killing and T-cells 59.8% in allogeneic assays at 10:1 effector-to-target ratios. Pearson's correlation analysis revealed strong negative correlations between effector cell numbers and target viability (r = -0.960 for CIK cells; r = -0.790 for T cells). Cytokine profiling showed distinct secretion patterns, with T-cells producing a broader cytokine repertoire. These findings establish the feasibility and comparable efficacy of both CIK cells and T-cells against CMM, supporting their therapeutic development for canine melanoma immunotherapy.",
+      "abstract": "Adoptive cell transfer (ACT) immunotherapy represents a promising therapeutic approach for cancer treatment, utilising ex vivo-expanded immune effector cells such as T-lymphocytes, natural killer (NK) cells, and cytokine-induced killer (CIK) cells. CIK cells are characterised by dual T-cell and NK cell-like properties, exhibiting high proliferative capacity, cytolytic activity, and non-MHC-restricted tumour recognition. Canine malignant melanoma (CMM) is an aggressive neoplasm with significant translational relevance to human melanoma, yet the cytotoxic potential of CIK cells against CMM remains unexplored. This study aimed to expand and functionally characterise canine CIK and T-cells from healthy donors, comparing their cytotoxic activity against CMM cell lines in allogeneic and autologous settings. Peripheral blood mononuclear cells were isolated and expanded using standardised protocols with IFN-&#x3b3;, anti-CD3/CD28 activation, and IL-2 supplementation. Flow cytometry confirmed successful expansion with CIK cells showing 85% NKp46 expression and T-cells reaching 91.96% CD8 expression, with comparable expansion folds (7.94 vs. 7.88). Cytotoxicity assays against seven CMM cell lines demonstrated robust anti-tumour activity for both effector populations, with CIK cells achieving 61.5% mean killing and T-cells 59.8% in allogeneic assays at 10:1 effector-to-target ratios. Pearson's correlation analysis revealed strong negative correlations between effector cell numbers and target viability (r&#x202f;=&#x202f;-0.960 for CIK cells; r&#x202f;=&#x202f;-0.790 for T cells). Cytokine profiling showed distinct secretion patterns, with T-cells producing a broader cytokine repertoire. These findings establish the feasibility and comparable efficacy of both CIK cells and T-cells against CMM, supporting their therapeutic development for canine melanoma immunotherapy.",
       "affiliations": [
-        "University of Turin Department of Veterinary Sciences, Grugliasco, Torino ITALY. Electronic address: luiza.conti@alumni.usp.br.",
-        "University of Turin.",
-        "Istituto di Candiolo.",
-        "University of Bologna."
+        "Department of Veterinary Sciences, University of Turin, Grugliasco, TO, Italy; Department of Clinical Sciences and Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA, USA. Electronic address: luiza.cesarconti@unito.it.",
+        "Department of Veterinary Sciences, University of Turin, Grugliasco, TO, Italy; Candiolo National Oncologic Institute, INOC-IRCCS, Candiolo, TO, Italy.",
+        "Department of Veterinary Sciences, University of Turin, Grugliasco, TO, Italy.",
+        "Candiolo National Oncologic Institute, INOC-IRCCS, Candiolo, TO, Italy.",
+        "Department of Veterinary Medical Sciences, University of Bologna, Ozzano dell'Emilia, BO, Italy."
       ],
       "keywords": [
-        "Adoptive Immunotherapy",
+        "Adoptive immunotherapy",
         "CIK cells",
         "CMM cell lines",
         "Dog",
@@ -661,6 +750,84 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42558890",
+      "title": "Correction: Connection between nutrition and oncology in dogs and cats: perspectives, evidence, and implications-a comprehensive review.",
+      "authors": "Amaral AR, Finardi GLF, Marchi PH, de Oliveira NMC, Príncipe LA, Teixeira N, Pappalardo MCF, Lima LOC, Cirillo JV, Balieiro JCC",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 22",
+      "sortdate": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42558890/",
+      "abstract": "[This corrects the article DOI: 10.3389/fvets.2024.1490290.].",
+      "affiliations": [
+        "Veterinary Nutrology Service, Veterinary Teaching Hospital of the School of Veterinary Medicine and Animal Science, University of S&#xe3;o Paulo, S&#xe3;o Paulo, Brazil.",
+        "Pet Nutrology Research Center, Department of Animal Nutrition and Production of the School of Veterinary Medicine and Animal Science, University of S&#xe3;o Paulo, Pirassununga, Brazil."
+      ],
+      "keywords": [
+        "appetite",
+        "cachexia",
+        "cancer",
+        "canine",
+        "feline",
+        "food",
+        "nutrology"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42558436",
+      "title": "Effect of fluorescence biomodulation as an adjunct to standard wound management in open wounds in dogs and cats: a prospective, randomised, within-wound controlled clinical trial.",
+      "authors": "Jiménez Lázaro M, Sopena Juncosa J, Martins EJC, Colombino E, Oliver Guimerá A, Peraile Paños V, Mangas Amezqueta L, Rubio Zaragoza M",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 22",
+      "sortdate": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42558436/",
+      "abstract": "BACKGROUND: Open wounds are a common clinical problem in small animal practice and are associated with delayed healing, infection, and increased treatment burden. Fluorescence biomodulation (FB), a form of photobiomodulation therapy (PBMT), has shown benefits in several dermatological conditions; however, its efficacy in veterinary open wounds remains unclear. OBJECTIVES: To evaluate the effect of FB as an adjunct to standardised wound management on healing progression in open wounds in dogs and cats using a prospective, randomised, within-wound controlled clinical trial. METHODS: Fifteen client-owned dogs and cats with open wounds of various aetiologies were enrolled. Each wound was divided into two portions: one treated weekly with FB and one untreated control, both receiving standardised wound care based on the TIME framework. Quantitative wound area reduction was assessed by serial planimetric measurements. Qualitative healing parameters were scored weekly by two blinded observers, and semiquantitative histological and immunohistochemical evaluation was performed in surgically treated cases. Paired statistical analyses were used. A time-integrated analysis based on the area under the curve (AUC) of normalised wound area was performed to assess healing kinetics. RESULTS: No statistically significant differences were observed between treated and control portions for percentage wound area reduction, qualitative healing scores, or semiquantitative histological and immunohistochemical outcomes. Quantitative planimetry showed a heterogeneous response, with seven wounds favouring the treated portion, six favouring the control portion, and two showing equivalent outcomes. Exploratory post hoc time-integrated analyses suggested a trend toward earlier wound area reduction in some cases, particularly when treatment was initiated early; however, these findings were not statistically significant. Complete wound closure during follow-up did not differ significantly between portions. Histological analysis showed only small numerical differences between portions, with no statistically significant differences in collagen deposition, angiogenesis, inflammatory response, fibroblast proliferation, or CD31 and Ki67 expression. CONCLUSION: Under the conditions tested, FB did not demonstrate a consistent measurable advantage over standardised wound management in open wounds in dogs and cats. Any potential clinical benefit appeared modest and possibly limited to selected wound presentations. Further prospectively stratified studies focused on healing speed and readiness for closure are warranted.",
+      "affiliations": [
+        "Department of Animal Medicine and Surgery, School of Veterinary Medicine, Universidad CEU Cardenal Herrera, Valencia, Spain.",
+        "Hospital Cl&#xed;nico Veterinario de la Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain.",
+        "BIOMED SURGERY Research Group (Bioregenerative Medicine and Applied Surgery), School Veterinary Medicine, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain.",
+        "Department of Animal Production and Health, Public Veterinary Health and Food Science and Technology, Universidad CEU Cardenal Herrera, Valencia, Spain.",
+        "Pathology Group, PASAPTA, Facultad de Veterinaria, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain."
+      ],
+      "keywords": [
+        "cats",
+        "dogs",
+        "fluorescence biomodulation",
+        "open wounds",
+        "photobiomodulation",
+        "wound healing"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42558402",
+      "title": "Taurine in canine physiology and metabolic regulation.",
+      "authors": "Wang P, Yang M, Yang Y, Xiu F, Liu C, Zhou S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 22",
+      "sortdate": "2026-07-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42558402/",
+      "abstract": "Taurine is a conditionally essential amino acid in dogs and plays a fundamental role in maintaining physiological homeostasis and metabolic health. This review systematically summarizes the biosynthesis, tissue distribution, and core physiological functions of taurine in dogs, and provides an in-depth analysis of its regulatory mechanisms across multiple organ systems, including the myocardium, retina, nervous system, reproductive system, and lipid metabolism. Particular emphasis is placed on the mechanistic links between taurine deficiency and dilated cardiomyopathy, a prevalent and clinically significant cardiac disorder in dogs. In addition, major determinants influencing taurine metabolic homeostasis are examined, with particular attention to genetic variability among breeds, differences related to body size, changes across physiological stages, and the modulatory effects of dietary composition. Accumulating evidence indicates substantial inter-individual variability in endogenous taurine synthesis capacity in dogs, which is generally insufficient to meet dynamic physiological demands under various conditions. Consequently, exogenous dietary supplementation has emerged as a critical strategy for maintaining taurine homeostasis and supporting canine health. By integrating current advances in taurine-related canine nutrition and physiology, this review provides a scientific framework for the development of precision nutritional strategies, the prevention and management of metabolic disorders, and the formulation of functional dog foods, while highlighting key knowledge gaps and future research directions in this field.",
+      "affiliations": [
+        "Police Dog Technology Department, Criminal Investigation Police University of China, Shenyang, China."
+      ],
+      "keywords": [
+        "canine",
+        "molecular mechanism",
+        "nutritional deficiency",
+        "physiological function",
+        "precision nutrition",
+        "taurine"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -1510,7 +1677,20 @@
         "Renal ischemia",
         "Surgical technique"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Enoplida Infections",
+        "Female",
+        "Dioctophymatoidea",
+        "Retrospective Studies",
+        "Kidney Diseases",
+        "Male",
+        "Nephrotomy",
+        "Kidney",
+        "Treatment Outcome"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -1572,6 +1752,53 @@
         "Department of Veterinary Medicine, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand."
       ],
       "keywords": [],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42562674",
+      "title": "Left atrial decompression in dogs with heart failure secondary to myxomatous mitral valve disease: a long-term outcome study.",
+      "authors": "Phipps KL, Allen JA, Barrett KA, Day CJ, Doan MN",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Jul 13",
+      "sortdate": "2026-07-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42562674/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Left-sided congestive heart failure (CHF) secondary to myxomatous mitral valve disease carries high morbidity and mortality in dogs. Left atrial decompression (LAD) has been employed in severely affected dogs refractory to medical therapy, but long-term outcomes have not been reported. The aim of this study was to evaluate survival time following LAD, the frequency of iatrogenic atrial septal defect closure, the frequency of right-sided CHF, and the frequency of cardiac-related hospitalizations. ANIMALS, MATERIALS AND METHODS: A total of 111 client-owned dogs with stage B2, C, or D mitral valve disease undergoing LAD. A retrospective cohort study of patients treated between October 2018 and September 2021 was conducted. The primary outcome was time to cardiac-related death or euthanasia. Secondary outcomes included time to right-sided CHF, iatrogenic atrial septal defect closure, and frequency of CHF-related hospitalization. RESULTS: Iatrogenic atrial septal defect closure occurred in 22 dogs (20.2%), most commonly when septal puncture was performed caudal to the fossa ovalis. Forty-seven dogs (42.3%) developed right-sided CHF after LAD, with onset ranging from 1 to 873 days. Twenty-five dogs (22.5%) were hospitalized for cardiac disease after the procedure. Median survival time was 379 days (range, 1-1282) after the LAD procedure. STUDY LIMITATIONS: Given the retrospective design and absence of a medically managed control group, prospective studies are warranted to further define the long-term benefits of LAD. CONCLUSIONS: Left atrial decompression provided satisfactory survival times in dogs with advanced mitral valve disease refractory to standard therapy. Left CHF recurrence requiring hospitalization was uncommon, but right-sided CHF developed frequently, albeit with variable onset. Atrial septal defect closure was rare and may be minimized by puncturing within the fossa ovalis.",
+      "affiliations": [
+        "VCA West Los Angeles Animal Hospital, 1900 S Sepulveda Blvd, Los Angeles, CA 90025, USA. Electronic address: Kevin.phipps@vca.com.",
+        "VCA West Los Angeles Animal Hospital, 1900 S Sepulveda Blvd, Los Angeles, CA 90025, USA."
+      ],
+      "keywords": [
+        "Atrial septostomy",
+        "Canine cardiology",
+        "Congestive heart failure",
+        "Interventional cardiology"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42561469",
+      "title": "Pulmonary valve sinus aneurysm associated with pulmonic stenosis and patent ductus arteriosus in a dog.",
+      "authors": "Vázquez DMP, Rodríguez JEV, Serrano PP",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Jul 13",
+      "sortdate": "2026-07-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42561469/",
+      "abstract": "A three-year-old neutered female Bernese mountain dog was referred for evaluation of multiple congenital cardiac abnormalities. Transthoracic echocardiography demonstrated features consistent with type A pulmonic stenosis, including a normal pulmonary valve annulus, an increased transvalvular pressure gradient, systolic doming of thickened and fused pulmonary valve leaflets, and concentric right ventricular hypertrophy. Additionally, a focal aneurysmal dilation arising from the intermediate pulmonary valve leaflet was identified. Furthermore, a concurrent left-to-right shunting patent ductus arteriosus was detected. Computed tomography confirmed thickening of the pulmonic valve, narrowing of the sinotubular junction, and thin-walled, contrast-enhancing saccular dilation originating of the intermediate pulmonary valve sinus. These findings supported the diagnosis of a pulmonary valve sinus aneurysm associated with severe type A pulmonic stenosis and patent ductus arteriosus.",
+      "affiliations": [
+        "Hospital Veterinario Puchol, calle Sauceda 8, 28050, Madrid, Spain. Electronic address: lola.porteiro@gmail.com.",
+        "Hospital Veterinario Puchol, calle Sauceda 8, 28050, Madrid, Spain.",
+        "DB Diagn&#xf3;stico por Imagen Veterinario, calle Tordesillas, 4, 28925, Alcorc&#xf3;n, Madrid, Spain."
+      ],
+      "keywords": [
+        "Canine",
+        "Computed tomography",
+        "Congenital",
+        "Echocardiography"
+      ],
       "mesh": [],
       "category": "cardiac",
       "summary_ko": ""
@@ -1639,7 +1866,20 @@
         "Locoregional anaesthesia",
         "Quadratus lumborum block"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Nerve Block",
+        "Female",
+        "Ropivacaine",
+        "Anesthetics, Local",
+        "Male",
+        "Abdomen",
+        "Ultrasonography, Interventional",
+        "Laparotomy",
+        "Fentanyl"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -1709,7 +1949,14 @@
         "Veterinary handling",
         "&#x3b1;2-adrenoreceptor agonists"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Anti-Anxiety Agents",
+        "Hypnotics and Sedatives",
+        "Administration, Oral",
+        "Anesthetics"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -1738,7 +1985,17 @@
         "Large language models",
         "Splenic disease"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Large Language Models",
+        "Cat Diseases",
+        "Dog Diseases",
+        "Splenic Diseases",
+        "Retrospective Studies",
+        "Veterinarians"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -2038,7 +2295,14 @@
         "Echocardiogram",
         "Thromboembolic disease"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Thromboembolism",
+        "Cardiomyopathies",
+        "Thrombophilia"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -2628,7 +2892,17 @@
         "MiRNAs",
         "Pro-angiogenic miRNAs"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Mammary Neoplasms, Animal",
+        "MicroRNAs",
+        "Female",
+        "Dog Diseases",
+        "Neovascularization, Pathologic",
+        "Signal Transduction",
+        "Gene Expression Regulation, Neoplastic"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -4640,6 +4914,93 @@
       "summary_ko": ""
     },
     {
+      "id": "42561146",
+      "title": "Clinical and imaging findings after antiviral treatment in cats with presumptive neurologic feline infectious peritonitis: 9 cases (2020-2024).",
+      "authors": "Santos Hernández C, Martínez García I, Gutiérrez-Quintana R, Santifort K, Suñol Iniesta A, Espino L, Kennedy A, Freitas I, Sánchez-Masián D",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42561146/",
+      "abstract": "BACKGROUND: Limited information is available regarding comparison between clinical outcomes and post-treatment imaging findings in cats with the neurologic form of feline infectious peritonitis (FIP). HYPOTHESIS/OBJECTIVE: Describe post-treatment imaging findings and clinical outcomes in cats with neurologic FIP treated with antiviral drugs. ANIMALS: Nine cats with a presumptive diagnosis of neurologic FIP undergoing advanced imaging before and after antiviral treatment (GS-441524, remdesivir, or both). METHODS: Medical records from 8 institutions were reviewed retrospectively (January 1, 2020 to December 31, 2024). Included cats had pre- and post-treatment magnetic resonance imaging (MRI) or computed tomography (CT) studies. Treatments consisted of GS-441524 (6/9), remdesivir (2/9), or both (1/9). All cats received corticosteroids. Follow-up imaging was performed at variable time points after completion of antiviral treatment. RESULTS: Central vestibular disease was the most common neuroanatomical localization (6/9). Obstructive hydrocephalus was present in all cases on initial and follow-up imaging. Cerebrospinal fluid analysis, available in 4 cats, included pleocytosis (neutrophilic in 3/4; lymphocytic in 1/4). Complete clinical recovery occurred in 5/9 cats. Four of 9 had residual neurologic deficits and 2/9 experienced recurrence of neurologic signs. None showed complete resolution of imaging abnormalities. Imaging changes did not consistently reflect clinical outcomes. In 4/9 cats, progression of obstructive hydrocephalus was observed, including cases with clinical improvement. CONCLUSIONS AND CLINICAL IMPORTANCE: Clinical improvement is not always consistent with radiologic resolution in cats with neurologic FIP treated with antivirals. Post-treatment MRI findings, particularly persistent or worsening obstructive hydrocephalus, should be interpreted alongside clinical status rather than as a sole indicator of therapeutic response.",
+      "affiliations": [
+        "Hospital Veterinario Universidad Cat&#xf3;lica de Valencia \"San Vicente M&#xe1;rtir\", Avenida de P&#xe9;rez Gald&#xf3;s, 51, 46018 Valencia, Spain.",
+        "Unavets Veterios Referral Veterinary Hospital, C. Arrastaria, 23, 28022 Madrid, Spain.",
+        "Small Animal Hospital, School of Biodiversity, One Health and Veterinary Medicine, University of Glasgow, Garscube Estate, 464 Bearsden Rd., Glasgow G61 1QH, United Kingdom.",
+        "IVC Evidensia Small Animal Hospital Arnhem, Meander 10, 6825 MB Arnhem, The Netherlands.",
+        "IVC Evidensia Small Animal Hospital Hart van Brabant, Eerste Zeine 112, 5144 AM Waalwijk, The Netherlands.",
+        "IVC Evidensia Hospital Veterinario del Mar, C. de la Marina, 69, 08005 Barcelona, Spain.",
+        "Hospital Cl&#xed;nico Veterinario Universidad Europea de Madrid, C. Tajo, s/n, 28670 Villaviciosa de Od&#xf3;n, Madrid, Spain.",
+        "Hospital Veterinario Rof Codina, Universidad de Santiago de Compostela, Estrada da Granxa, 51, 27002 Lugo, Spain.",
+        "Small Animal Specialist Hospital, 1/1 Richardson Place, North Ryde,Sydney, NSW 2113, Australia.",
+        "Stansted Veterinary Specialists, Unit 7 Stansted Courtyard, Bishop's Stortford CM22 6PU, United Kingdom."
+      ],
+      "keywords": [
+        "GS-441524",
+        "feline infectious peritonitis",
+        "magnetic resonance imaging",
+        "neurological disease",
+        "remdesivir"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Feline Infectious Peritonitis",
+        "Antiviral Agents",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Magnetic Resonance Imaging",
+        "Alanine",
+        "Adenosine Monophosphate",
+        "Tomography, X-Ray Computed",
+        "Treatment Outcome",
+        "Adenosine"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42561145",
+      "title": "Survival of dogs with glomerular disease in Europe: insights from the European Veterinary Renal Pathology Service.",
+      "authors": "Zini E, Rossi F, Benali SL, Nicolo A, Gelli D, Contiero B, Dondi F, Aresu L",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42561145/",
+      "abstract": "BACKGROUND: Although glomerular disorders contribute to chronic kidney disease in dogs, few studies have evaluated the usefulness of renal biopsy for predicting outcome. HYPOTHESIS/OBJECTIVES: Investigate morphologic diagnoses, clinicopathological findings, comorbidities, treatment, and their associations with survival in dogs after renal biopsy. ANIMALS: One hundred ten client-owned dogs with glomerular disease. METHODS: Retrospective cohort study of medical records from the European Veterinary Renal Pathology Service (2018-2023). Data were obtained before referral for renal biopsy and during follow-up. Survival analysis was performed using the Kaplan-Meier method, followed by log-rank tests. Relative risk was calculated using contingency tables. RESULTS: Dogs were classified into 3 groups: immune complex glomerulonephritis (ICGN) (61 dogs, 56%), non-ICGN (39 dogs, 35%), and juvenile nephropathy (JN) (10 dogs, 9%). Survival was longer in ICGN dogs than non-ICGN (mean&#xa0;&#xb1;&#xa0;SEM: 951&#xa0;&#xb1;&#xa0;78&#xa0;days vs. 613&#xa0;&#xb1;&#xa0;92&#xa0;days; P&#xa0;=&#xa0;.02), with no difference versus JN (1004&#xa0;&#xb1;&#xa0;169). No survival differences were observed among the morphological subtypes of ICGN. Dogs with amyloidosis had shorter survival than all other morphologic non-ICGN subtypes (384&#xa0;&#xb1;&#xa0;95 vs. 650&#xa0;&#xb1;&#xa0;56&#xa0;days, P&#xa0;=&#xa0;.02). Risk of a creatinine increase of &#x2265;50% during follow-up was greater in the JN group (RR&#xa0;=&#xa0;2.78; 95% CI, 1.60-4.84; P&#xa0;=&#xa0;.03). Reduction in proteinuria &#x2265;50% during follow-up did not differ between groups. Immunosuppressive treatment was more frequently administered to ICGN dogs (P&#xa0;&lt;&#xa0;.001). CONCLUSIONS AND CLINICAL IMPORTANCE: Immune complex glomerulonephritis dogs had better outcomes and slower disease progression than non-ICGN and JN. Proteinuria decreased by approximately 50% within each group over time; however, the retrospective design precludes conclusions regarding the effect of antiproteinuric treatment.",
+      "affiliations": [
+        "Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, 8057 Zurich, Switzerland.",
+        "Department of Animal Medicine, Production and Health, University of Padova, 35020 Legnaro, Italy.",
+        "AniCura Istituto Veterinario di Novara, 28060 Granozzo con Monticello, Italy.",
+        "Clinique v&#xe9;t&#xe9;rinaire AniCura Zebrasoma, 67100 Strasbourg, France.",
+        "MYLAV, Laboratorio La Vallonea, 20017 Passirana di Rho, Italy.",
+        "Department of Veterinary Medical Sciences, Alma Mater Studiorum-University of Bologna, 40064 Ozzano dell'Emilia, Italy.",
+        "Department of Veterinary Science, University of Turin, 10095 Grugliasco, Italy."
+      ],
+      "keywords": [
+        "chronic kidney disease",
+        "immunosuppressive treatment",
+        "outcome",
+        "proteinuria"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Female",
+        "Glomerulonephritis",
+        "Europe",
+        "Male",
+        "Biopsy",
+        "Kidney Diseases",
+        "Survival Analysis",
+        "Amyloidosis"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42381034",
       "title": "Molecular characterization and risk factors analyses of zoonotic gastrointestinal nematodes in pet and semi-pet dogs in Haryana, India.",
       "authors": "Rani S, Moudgil P, Gupta R, Agnihotri D, Kumar M, Moudgil AD",
@@ -4698,7 +5059,18 @@
         "Neurodegeneration",
         "Trace elements"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Brain",
+        "Retrospective Studies",
+        "Male",
+        "Minerals",
+        "Cognitive Dysfunction",
+        "Aging"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -4721,7 +5093,21 @@
         "Omega-3:Omega-6 ratio",
         "Postoperative recovery"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Fatty Acids, Omega-3",
+        "Cat Diseases",
+        "Diet",
+        "Dietary Supplements",
+        "Male",
+        "Fatty Acids, Omega-6",
+        "Female",
+        "Stomatitis",
+        "Animal Feed",
+        "Chronic Disease",
+        "Cytokines"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -4893,7 +5279,19 @@
         "Feline",
         "Ocular pain"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Male",
+        "Female",
+        "Ophthalmologic Surgical Procedures",
+        "Postoperative Pain",
+        "Pain Measurement",
+        "Cat Diseases",
+        "Analgesics, Opioid",
+        "Methadone",
+        "Prospective Studies"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -4945,7 +5343,21 @@
         "Tibial plateau leveling osteotomy",
         "Tibial tuberosity advancement"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Stifle",
+        "Osteotomy",
+        "Tibia",
+        "Dog Diseases",
+        "Osteoarthritis",
+        "Female",
+        "Anterior Cruciate Ligament",
+        "Male",
+        "Anterior Cruciate Ligament Injuries",
+        "Radiography",
+        "Rupture"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -4973,7 +5385,17 @@
         "Urinary",
         "Urothelial carcinoma"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "B7-H1 Antigen",
+        "Image Processing, Computer-Assisted",
+        "Immunohistochemistry",
+        "Carcinoma",
+        "Urinary Bladder Neoplasms",
+        "Carcinoma, Transitional Cell"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -5353,7 +5775,18 @@
         "Geometric morphometrics",
         "Syringomyelia"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Syringomyelia",
+        "Dog Diseases",
+        "Skull",
+        "Female",
+        "Tomography, X-Ray Computed",
+        "Imaging, Three-Dimensional",
+        "Male",
+        "Species Specificity"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -5379,7 +5812,20 @@
         "Cat",
         "Gastrointestinal disease"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Phylogeny",
+        "Parvoviridae Infections",
+        "Bocavirus",
+        "Italy",
+        "Prevalence",
+        "Genetic Variation",
+        "Polymerase Chain Reaction",
+        "Gastroenteritis",
+        "Gastrointestinal Diseases"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -5403,7 +5849,21 @@
       "keywords": [
         "Bleomycin. Electroporation. Survival. Toxicity"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Electrochemotherapy",
+        "Cat Diseases",
+        "Female",
+        "Bleomycin",
+        "Carcinoma, Squamous Cell",
+        "Male",
+        "Skin Neoplasms",
+        "Antibiotics, Antineoplastic",
+        "Prognosis",
+        "Treatment Outcome",
+        "Cutaneous Squamous Cell Carcinoma"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -6140,7 +6600,22 @@
         "Vascular ultrasonography",
         "Vasculitis"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Cat Diseases",
+        "Dog Diseases",
+        "Ultrasonography",
+        "Female",
+        "Leishmaniasis",
+        "Male",
+        "Cross-Sectional Studies",
+        "Reference Values",
+        "Retrospective Studies",
+        "Case-Control Studies",
+        "Prospective Studies"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -6542,7 +7017,25 @@
         "Hemodynamics",
         "Maropitant"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Quinuclidines",
+        "Dexmedetomidine",
+        "Female",
+        "Acepromazine",
+        "Male",
+        "Hemodynamics",
+        "Heart Rate",
+        "Blood Pressure",
+        "Anesthesia, General",
+        "Hypnotics and Sedatives",
+        "Antiemetics",
+        "Prospective Studies",
+        "Preanesthetic Medication",
+        "Premedication",
+        "Methadone"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -7086,7 +7579,19 @@
         "Tongue fat",
         "Upper airway obstruction"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Dog Diseases",
+        "Airway Obstruction",
+        "Dogs",
+        "Male",
+        "Obesity",
+        "Tomography, X-Ray Computed",
+        "Adipose Tissue",
+        "Tongue",
+        "Pharynx"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -7109,7 +7614,18 @@
         "Gait analysis",
         "Machine learning"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Lameness, Animal",
+        "Machine Learning",
+        "Dog Diseases",
+        "Gait Analysis",
+        "Female",
+        "Gait",
+        "Male",
+        "Classification Algorithms"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -7326,7 +7842,20 @@
         "Methadone",
         "Ovariohysterectomy"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Ovariectomy",
+        "Hysterectomy",
+        "Dogs",
+        "Female",
+        "Postoperative Pain",
+        "Quinuclidines",
+        "Analgesics",
+        "Methadone",
+        "Dexmedetomidine",
+        "Analgesics, Opioid",
+        "Analgesia"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -8049,7 +8578,22 @@
         "TAP block",
         "Transversus abdominis plane"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Ovariectomy",
+        "Dogs",
+        "Female",
+        "Nerve Block",
+        "Postoperative Pain",
+        "Laparoscopy",
+        "Ropivacaine",
+        "Abdominal Muscles",
+        "Analgesics, Opioid",
+        "Anesthetics, Local",
+        "Methadone",
+        "Ultrasonography, Interventional",
+        "Prospective Studies"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -8955,12 +9499,12 @@
       "date": "2026 May 27",
       "sortdate": "2026-05-27",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42208888/",
-      "abstract": "Renal resistive index (RRI) and pulsatility index (RPI) are valuable tools for the early diagnosis and monitoring of acute and chronic kidney injury, yet age-specific reference values in non-azotemic healthy dogs have not been clearly defined. This study aimed to establish these reference values by evaluating 85 healthy, client-owned dogs, which were divided into five age groups (juvenile, young adult, adult, senior, and geriatric), with 17 dogs per group. Each dog underwent blood tests and physical examinations without abnormalities. Using a standardized protocol, a single operator measured RRI and RPI, revealing a moderate significant correlation between age and both indices (RRI &#x3c1; =.41, p &lt;.001; RPI &#x3c1; =.40, p &lt;.001). In the total sample, the mean RRI and RPI values were 0.613 &#xb1; 0.062 (95% confidence interval (95% CI): 0.600 - 0.627) and 1.144 &#xb1; 0.236 (95% CI: 1.093 - 1.195), respectively. In geriatric dogs, these values increased to 0.663 &#xb1; 0.064 (95% CI: 0.630 - 0.695) for RRI and 1.305 &#xb1; 0.263 (95% CI: 1.170 - 1.440) for RPI. Notably, significant differences in RRI and RPI were found between all groups of dogs younger than 11 years and the geriatric dog group (p =.0004 and p =.0007, respectively). The proposed reference values were 0.71 for RRI and 1.51 for RPI in dogs younger than 11 years old, compared to 0.79 and 1.83, respectively, in geriatric dogs. These findings demonstrate that RRI and RPI vary with age, with younger dogs showing lower values than older dogs, emphasizing the importance of age-specific thresholds to improve the accuracy of renal assessment in dogs.",
+      "abstract": "Renal resistive index (RRI) and pulsatility index (RPI) are valuable tools for the early diagnosis and monitoring of acute and chronic kidney injury, yet age-specific reference values in non-azotemic healthy dogs have not been clearly defined. This study aimed to establish these reference values by evaluating 85 healthy, client-owned dogs, which were divided into five age groups (juvenile, young adult, adult, senior, and geriatric), with 17 dogs per group. Each dog underwent blood tests and physical examinations without abnormalities. Using a standardized protocol, a single operator measured RRI and RPI, revealing a moderate significant correlation between age and both indices (RRI &#x3c1; =.41, p&#x202f;&lt;&#x202f;.001; RPI &#x3c1; =.40, p&#x202f;&lt;&#x202f;.001). In the total sample, the mean RRI and RPI values were 0.613&#x202f;&#xb1;&#x202f;0.062 (95% confidence interval (95% CI): 0.600 - 0.627) and 1.144&#x202f;&#xb1;&#x202f;0.236 (95% CI: 1.093 - 1.195), respectively. In geriatric dogs, these values increased to 0.663&#x202f;&#xb1;&#x202f;0.064 (95% CI: 0.630 - 0.695) for RRI and 1.305&#x202f;&#xb1;&#x202f;0.263 (95% CI: 1.170 - 1.440) for RPI. Notably, significant differences in RRI and RPI were found between all groups of dogs younger than 11 years and the geriatric dog group (p&#x202f;=&#x202f;.0004 and p&#x202f;=&#x202f;.0007, respectively). The proposed reference values were 0.71 for RRI and 1.51 for RPI in dogs younger than 11 years old, compared to 0.79 and 1.83, respectively, in geriatric dogs. These findings demonstrate that RRI and RPI vary with age, with younger dogs showing lower values than older dogs, emphasizing the importance of age-specific thresholds to improve the accuracy of renal assessment in dogs.",
       "affiliations": [
-        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain; Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain. Electronic address: jorgor01@ucm.es.",
-        "Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain.",
-        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain; Diagnostic Imaging Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/N., Madrid 28040, Spain; AniCura Vetsia Veterinary Hospital, C Galileo 3, Madrid 28914, Spain.",
-        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain; Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., Madrid 28040, Spain."
+        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University., Avda Puerta Hierro s/n., Madrid 28040, Spain; Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., ., Madrid 28040, Spain. Electronic address: jorgor01@ucm.es.",
+        "Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., ., Madrid 28040, Spain.",
+        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University., Avda Puerta Hierro s/n., Madrid 28040, Spain; Diagnostic Imaging Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/N., Madrid 28040, Spain; AniCura Vetsia Veterinary Hospital, C Galileo 3, Madrid 28914, Spain.",
+        "Animal Medicine and Surgery department, Veterinary Medicine School, Complutense University., Avda Puerta Hierro s/n., Madrid 28040, Spain; Small Animal Emergency and ICU Service, Complutense Veterinary Clinical Teaching Hospital, Complutense University, Avda Puerta Hierro s/n., ., Madrid 28040, Spain."
       ],
       "keywords": [
         "Doppler ultrasound",
@@ -8968,7 +9512,17 @@
         "canine",
         "kidney"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Reference Values",
+        "Kidney",
+        "Female",
+        "Male",
+        "Aging",
+        "Age Factors",
+        "Pulsatile Flow"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -9395,7 +9949,18 @@
         "T-cell infiltrates",
         "Tumor immune microenvironment"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Tumor Microenvironment",
+        "Skin Neoplasms",
+        "Male",
+        "Immunophenotyping",
+        "Immunohistochemistry",
+        "Neoplasm Grading"
+      ],
       "category": "anatomy",
       "summary_ko": ""
     },
@@ -9614,7 +10179,22 @@
         "Multimodal analgesia",
         "Pain assessment"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Electroacupuncture",
+        "Postoperative Pain",
+        "Female",
+        "Male",
+        "Dog Diseases",
+        "Anterior Cruciate Ligament Injuries",
+        "Anterior Cruciate Ligament",
+        "Pain Measurement",
+        "Prospective Studies",
+        "Rupture",
+        "Tibia",
+        "Analgesia"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -22419,12 +22999,12 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Feline Infectious Peritonitis",
-        "Male",
-        "Female",
-        "Cat Diseases",
+        "Administration, Oral",
         "Coronavirus, Feline",
-        "Administration, Oral"
+        "Feline Infectious Peritonitis",
+        "Antiviral Agents",
+        "Lymphoma, Non-Hodgkin",
+        "Adenosine"
       ],
       "category": "oncology",
       "summary_ko": ""
