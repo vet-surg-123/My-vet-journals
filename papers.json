@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07 05:56 UTC",
-  "total": 3826,
+  "updated": "2026-08-08 00:02 UTC",
+  "total": 3830,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -31,6 +31,64 @@
       "keywords": [],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42563273",
+      "title": "Influence of intra-articular injectate volume on joint surface coverage and leakage following canine elbow arthroscopy: A cadaveric study.",
+      "authors": "Smith E, Stark S, Boyton S, Gordon-Evans W",
+      "journal": "Vet Surg",
+      "date": "2026 Aug 06",
+      "sortdate": "2026-08-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563273/",
+      "abstract": "OBJECTIVE: To determine whether reduced intra-articular (IA) injection volumes provide complete synovial surface coverage while minimizing leakage following canine elbow arthroscopy. STUDY DESIGN: Randomized cadaveric study. ANIMALS: Forty elbow joints from 20 canine cadavers weighing &gt;15&#x2009;kg. METHODS: Standard medial elbow arthroscopy was performed with portals placed under arthroscopic guidance. The egress portal was created along the caudal margin of the medial epicondylar ridge, directed toward the anconeal process. A third, craniomedial instrument portal was created approximately 1&#x2009;cm cranial to the camera portal. Following arthroscopy, India ink-volume-matched to whole, half, or quarter of a 0.5&#x2009;mg/kg ropivacaine dose (0.75% concentration)-was injected via the egress portal. Each joint underwent 10 passive flexion-extension cycles before dissection. A masked investigator (ES) qualitatively assessed synovial surface coverage (100%, 75%-99%, 50%-74%, 25%-49%, 0%-24%) and leakage severity (mild, moderate, severe). Portal placement attempts, cadaver age, and bodyweight were recorded. RESULTS: Mean cadaver age was 9.3&#x2009;years (range: 1-16&#x2009;years), and mean weight was 29.9&#x2009;kg (range: 17.9-43.6&#x2009;kg). Complete (100%) synovial surface coverage was observed in all 40 elbows, including those receiving quarter-dose injections. Leakage occurred in every dose group, with a similar distribution of mild, moderate, and severe categories. Portal placement was successful on the first attempt in 32 elbows (80%) and the second attempt in eight elbows (20%). CONCLUSION: Reduced IA injection volumes achieved complete synovial surface coverage but did not reduce leakage severity. CLINICAL SIGNIFICANCE: Reduced intra-articular injection volumes were sufficient to achieve complete synovial surface coverage in this model, suggesting potential flexibility in clinical dosing strategies. Nonetheless, extravasation occurred at all tested volumes, reinforcing that some leakage should be expected in practice.",
+      "affiliations": [
+        "University of Minnesota, Department of Veterinary Clinical Sciences, St. Paul, Minnesota, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "arthroscopy",
+      "summary_ko": ""
+    },
+    {
+      "id": "42563163",
+      "title": "Longitudinal echocardiographic systolic changes in dogs receiving doxorubicin-based chemotherapy.",
+      "authors": "Herrera GC, Mantovani MM, de Castro JR, Veras ADS, Silva MJB",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 06",
+      "sortdate": "2026-08-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563163/",
+      "abstract": "BACKGROUND: Doxorubicin is widely used in veterinary oncology but carries a risk of cumulative cardiotoxicity. Serial echocardiographic evaluation is commonly used to monitor dogs receiving potentially cardiotoxic chemotherapy; however, evidence remains limited regarding which indices best capture early longitudinal systolic changes. Conventional monitoring relies largely on fractional shortening and M-mode estimated ejection fraction, which are based on geometric assumptions and may have limited sensitivity for subtle systolic change. This study evaluated whether Simpson-derived left ventricular ejection fraction better captures longitudinal echocardiographic systolic changes than conventional indices in dogs receiving doxorubicin-based chemotherapy. Twenty-nine client-owned dogs were prospectively enrolled, including 23 females and 6 males, with a median age of 10.0 years (IQR, 7.0-11.0) and median body weight of 13.2&#xa0;kg (IQR, 7.0-21.6). Twelve dogs received doxorubicin as monotherapy and 17 received combination protocols. Echocardiography was performed before the first cycle (D0) and after three consecutive cycles (D1, D2, D3). RESULTS: Simpson-derived left ventricular ejection fraction (LVEF) showed a progressive numerical decline from 72.0&#x2009;&#xb1;&#x2009;7.3% at baseline to 66.5&#x2009;&#xb1;&#x2009;7.7% at D3; however, no individual time-point estimate reached statistical significance in the mixed-effects model (D1, p&#x2009;=&#x2009;0.183; D2, p&#x2009;=&#x2009;0.618; D3, p&#x2009;=&#x2009;0.206). M-mode estimated LVEF and fractional shortening did not show comparable directional patterns or significant longitudinal changes. A decline greater than 10% points in Simpson-derived LVEF was identified in 9 of 29 dogs (31.0%), all while absolute values remained within conventional reference limits. Six of these dogs were not identified by either conventional index. CONCLUSIONS: Serial, baseline-referenced Simpson-derived LVEF identified more longitudinal echocardiographic systolic changes than conventional indices in this cohort. These findings suggest that Simpson-derived LVEF may provide complementary information for tracking baseline-referenced systolic changes in dogs receiving doxorubicin. However, these changes should not be interpreted as definitive evidence of myocardial injury, and their clinical relevance requires confirmation in larger prospective studies.",
+      "affiliations": [
+        "Institute of Biomedical Science, Federal University of Uberl&#xe2;ndia (UFU), Uberl&#xe2;ndia, MG, Brazil. gustavocherrera@ufu.br.",
+        "Faculty of Veterinary Medicine, Federal University of Uberl&#xe2;ndia (UFU), Uberl&#xe2;ndia, MG, Brazil.",
+        ", Uberl&#xe2;ndia, Brazil.",
+        "Institute of Biomedical Science, Federal University of Uberl&#xe2;ndia (UFU), Uberl&#xe2;ndia, MG, Brazil."
+      ],
+      "keywords": [
+        "Cancer",
+        "Cardiotoxicity",
+        "Clinical safety",
+        "Dogs",
+        "Doxorubicin",
+        "Echocardiography",
+        "Ejection fraction"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Doxorubicin",
+        "Female",
+        "Male",
+        "Echocardiography",
+        "Antibiotics, Antineoplastic",
+        "Dog Diseases",
+        "Systole",
+        "Ventricular Function, Left",
+        "Stroke Volume",
+        "Prospective Studies"
+      ],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -621,6 +679,56 @@
         "Administration, Topical",
         "Nitrogen Compounds"
       ],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42565009",
+      "title": "Case Report: Endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
+      "authors": "Michalak SR, Palm CA, Woerde DJ, Culp WTN",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 23",
+      "sortdate": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42565009/",
+      "abstract": "A 7-year-old female spayed Labrador retriever was presented for a 3-year history of progressive hemorrhage from the vulva. The dog previously underwent cystourethroscopy and vaginoscopy 1&#x202f;year prior, and a small, raised hemorrhagic lesion was identified in the caudal vaginal wall. Following pinch biopsies of the lesion, bleeding ceased during the remainder of the procedure but recommenced within a week following discharge from the hospital. Histopathology of the vaginal biopsy revealed chronic neutrophilic and lymphoplasmacytic vaginitis. One year later, the dog was reevaluated for persistent and progressive bleeding from the vulva. At that time, dual phase abdominal computed tomography identified a focal, 0.5&#x202f;cm x 1.0&#x202f;cm region of asymmetric contrast enhancement within the vaginal wall. Cystourethroscopy and vaginoscopy identified a progressively enlarged bleeding polypoid mass lesion in the caudodorsal vaginal wall. Biopsy of the lesion followed by monopolar electrocautery ablation of the proliferative tissue was performed. Histopathology revealed hemorrhage lined by a layer of stratified squamous epithelium and neutrophilic exocytosis with no neoplastic cells identified. The underlying etiology of the lesion was not definitively determined. Vulvovaginal bleeding resolved following the procedure and remains resolved at the time of writing 7&#x202f;months later. This case report describes successful endoscopic-guided electrocautery ablation of a vaginal hemorrhagic lesion in a dog.",
+      "affiliations": [
+        "William R. Pritchard Veterinary Medical Teaching Hospital, University of California, Davis, Davis, CA, United States.",
+        "Department of Veterinary Medicine and Epidemiology, UC Davis Weill School of Veterinary Medicine, Davis, CA, United States.",
+        "Medipaws Veterinary Specialist Centre, Leichardt, NSW, Australia.",
+        "Department of Veterinary Surgical and Radiological Sciences, UC Davis Weill School of Veterinary Medicine, Davis, CA, United States."
+      ],
+      "keywords": [
+        "electrocautery ablation",
+        "endoscopic-guided",
+        "minimally invasive",
+        "vaginal lesion",
+        "vulvar hemorrhage"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42564043",
+      "title": "Microcomputed tomography examination of the cortical and trabecular structures of the cranial cervical spine in dogs and cats.",
+      "authors": "Klotz V, Waselau AC, Zablotski Y, Meyer-Lindenberg A",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 23",
+      "sortdate": "2026-07-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42564043/",
+      "abstract": "INTRODUCTION: The microarchitectural structure of the cervical spine in small animals, particularly the cranial cervical spine, has received little attention to date. This study aimed to analyze the trabecular and cortical microarchitecture of the first four cervical vertebrae and to identify potential differences between toy- and small-breed dogs and between toy-breed dogs and cats. METHODS: The first four cervical vertebrae from 20 euthanized dogs (10 toy-breed dogs and 10 small-breed dogs) and 20 euthanized cats were examined using micro-computed tomography. The following parameters were analyzed: bone volume fraction (BV/TV), bone surface-to-volume ratio (BS/BV), connectivity density (Conn. D), trabecular number (Tb. N), trabecular thickness (Tb. Th), trabecular separation (Tb. Sp), degree of anisotropy (DA), cortical bone density (mean density), and the dens-to-axis length ratio (DALR). RESULTS: Trabecular microarchitecture was largely comparable between toy-breed dogs and small-breed dogs; however, cortical bone density was significantly higher in toy-breed dogs than in small-breed dogs. Compared with toy-breed dogs and cats, cats more frequently exhibited a larger BS/BV, a higher DA, and a larger Tb. Sp. In contrast, toy-breed dogs exhibited higher BV/TV, a higher Conn. D, Tb. Th, Tb. N, and mean density. The DALR did not differ significantly among the groups. DISCUSSION: These findings suggest greater overall stability of the cervical spine in toy-breed dogs compared to cats. Furthermore, these microarchitectural differences may provide useful criteria for selecting appropriate surgical interventions for affected animals.",
+      "affiliations": [
+        "Clinic for Small Animal Surgery and Reproduction, LMU, Munich, Germany.",
+        "Clinic for Small Animal Medicine, LMU, Munich, Germany."
+      ],
+      "keywords": [
+        "atlantoaxial instability",
+        "bone parameter",
+        "cervical vertebrae",
+        "micro-computed tomography",
+        "trabecular bone"
+      ],
+      "mesh": [],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -18793,7 +18901,16 @@
         "Department of Clinical Science and Services, Queen Mother Hospital for Animals, The Royal Veterinary College, Hatfield, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Palatine Tonsil",
+        "Female",
+        "Retrospective Studies",
+        "Tomography, X-Ray Computed",
+        "Male",
+        "Reference Values"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -20908,7 +21025,16 @@
         "Hospital Veterinaria del Mar, IVC Evidensia, Barcelona, Spain."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Female",
+        "Chorea",
+        "Male",
+        "Retrospective Studies",
+        "Phenotype"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -21359,7 +21485,15 @@
         "University of Florida College of Veterinary Medicine, Gainesville, Florida, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Risk Assessment",
+        "Anesthesia",
+        "Mitral Valve Insufficiency",
+        "Echocardiography"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -21765,7 +21899,18 @@
         "Guerrero Kleintierchurgie, Zurich, Switzerland."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Osteotomy",
+        "Patellar Dislocation",
+        "Dog Diseases",
+        "Cadaver",
+        "Tibia",
+        "Anterior Cruciate Ligament",
+        "Female",
+        "Anterior Cruciate Ligament Injuries"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -22016,7 +22161,19 @@
         "Bristol Vet Specialists, Bristol, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Female",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Cystoscopy",
+        "Postoperative Complications",
+        "Treatment Outcome",
+        "Urinary Incontinence",
+        "Ureteral Diseases",
+        "Ureter"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
