@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08 23:50 UTC",
-  "total": 3834,
+  "updated": "2026-08-09 04:50 UTC",
+  "total": 3836,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -41,20 +41,20 @@
       "date": "2026 Aug 07",
       "sortdate": "2026-08-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42567435/",
-      "abstract": "In recent years, the role of the microbiota in early-life health has gained increasing attention; however, data on the initial phases of microbial colonization in dogs remain limited. This study investigated the development of oral and rectal microbiota in puppies delivered by cesarean section from birth to weaning, and the contribution of maternal microbial sources. Four French Bulldog dams and their litters (18 puppies) were enrolled under uniform management conditions. Oral and rectal swabs were collected from puppies at birth and at 15, 30, 45, and 60 days of age, together with maternal oral, teat-skin, and rectal samples, and analyzed by 16S rRNA gene sequencing. Longitudinal analyses revealed a marked, time-dependent increase in microbial richness and diversity in both oral and rectal niches, reflecting a clear ecological succession from pioneer facultative anaerobes to taxa associated with a mature microbiota. Alpha diversity significantly increased from birth to weaning in both oral and rectal samples (p &lt; 0.001), while beta diversity analyses showed progressive convergence toward maternal microbial profiles over time, particularly after the dietary transition from milk to solid food. Source tracking analysis identified maternal teat-skin microbiota as the primary contributor during early life, while maternal oral and rectal sources became increasingly dominant as puppies matured. These findings demonstrate that microbial colonization in dogs begins very early and undergoes dynamic, site-specific maturation throughout the neonatal period. From a One Health perspective, the observed mother-offspring microbial interactions highlight the translational value of canine models for studying early-life microbiota development.",
+      "abstract": "In recent years, the role of the microbiota in early-life health has gained increasing attention; however, data on the initial phases of microbial colonization in dogs remain limited. This study investigated the development of oral and rectal microbiota in puppies delivered by cesarean section from birth to weaning, and the contribution of maternal microbial sources. Four French Bulldog dams and their litters (18 puppies) were enrolled under uniform management conditions. Oral and rectal swabs were collected from puppies at birth and at 15, 30, 45, and 60 days of age, together with maternal oral, teat-skin, and rectal samples, and analyzed by 16S rRNA gene sequencing. Longitudinal analyses revealed a marked, time-dependent increase in microbial richness and diversity in both oral and rectal niches, reflecting a clear ecological succession from pioneer facultative anaerobes to taxa associated with a mature microbiota. Alpha diversity significantly increased from birth to weaning in both oral and rectal samples (p&#x202f;&lt;&#x202f;0.001), while beta diversity analyses showed progressive convergence toward maternal microbial profiles over time, particularly after the dietary transition from milk to solid food. Source tracking analysis identified maternal teat-skin microbiota as the primary contributor during early life, while maternal oral and rectal sources became increasingly dominant as puppies matured. These findings demonstrate that microbial colonization in dogs begins very early and undergoes dynamic, site-specific maturation throughout the neonatal period. From a One Health perspective, the observed mother-offspring microbial interactions highlight the translational value of canine models for studying early-life microbiota development.",
       "affiliations": [
-        "Department of Veterinary Medicine, University of Bari Aldo Moro, S.P. per Casamassima km. 3 70010 Valenzano (BA), Italy.",
-        "Microbial Ecology and Genomics Laboratory, Istituto Zooprofilattico Sperimentale delle Venezie, Viale dell'Universit&#xe0; 10, 35020 Legnaro, Italy.",
-        "Department of Veterinary Medicine, University of Bari Aldo Moro, S.P. per Casamassima km. 3 70010 Valenzano (BA), Italy. Electronic address: matteo.burgio@uniba.it.",
-        "Microbial Ecology and Genomics Laboratory, Istituto Zooprofilattico Sperimentale delle Venezie, Viale dell'Universit&#xe0; 10, 35020 Legnaro, Italy. Electronic address: closasso@izsvenezie.it."
+        "Department of Veterinary Medicine, University of Bari Aldo Moro, S.P. per Casamassima km. 3, Valenzano, BA 70010, Italy.",
+        "Microbial Ecology and Genomics Laboratory, Istituto Zooprofilattico Sperimentale delle Venezie, Viale dell'Universit&#xe0; 10, Legnaro 35020, Italy.",
+        "Department of Veterinary Medicine, University of Bari Aldo Moro, S.P. per Casamassima km. 3, Valenzano, BA 70010, Italy. Electronic address: matteo.burgio@uniba.it.",
+        "Microbial Ecology and Genomics Laboratory, Istituto Zooprofilattico Sperimentale delle Venezie, Viale dell'Universit&#xe0; 10, Legnaro 35020, Italy. Electronic address: closasso@izsvenezie.it."
       ],
       "keywords": [
-        "cesarean section",
-        "microbial colonization",
-        "neonatology",
-        "oral microbiota",
-        "puppy",
-        "rectal microbiota"
+        "Cesarean section",
+        "Microbial colonization",
+        "Neonatology",
+        "Oral microbiota",
+        "Puppy",
+        "Rectal microbiota"
       ],
       "mesh": [],
       "category": "internal",
@@ -733,6 +733,60 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42569263",
+      "title": "Multicentre aortic thromboembolism thrombolysis evaluation in a retrospective study of 183 cats: the MATTERS study.",
+      "authors": "Cambournac M, Damoiseau C, Guillaumin J, Goy-Thollot I, Pouzot-Nevoret C",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 24",
+      "sortdate": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42569263/",
+      "abstract": "INTRODUCTION: Although intravenous tissue plasminogen activator (TPA) is a mainstream treatment for humans with acute ischaemic stroke, it is uncommonly used in feline arterial thromboembolism (FATE). The purpose of this study was to retrospectively compare clinical reperfusion, functional recovery, complications, and survival in a large multicentre FATE population treated with or without systemic thrombolysis. METHODS: A retrospective evaluation of electronic medical records from two veterinary hospitals (2007-2020) was conducted. The inclusion criteria were a clinical diagnosis of FATE or ultrasound visualization of distal aortic thrombi. 'Reperfusion' was defined as a clinician-detected pulse if absent at admission, and 'functional recovery' as voluntary motor activity with self-ambulatory status. After exclusion of cats euthanized at admission, statistical analysis was used to compare TPA-treated and non-TPA-treated cats. RESULTS: A total of 183 cats were identified, with 115 available for treatment comparison after the exclusion of 8 with incomplete records and 68 euthanized within 6&#x202f;h of presentation (early euthanasia rate, 37%). The groups were homogeneous at the time of admission. The in-hospital clinical reperfusion rate was significantly higher in the TPA group than in the non-TPA group (54% vs. 20%, p&#x202f;&lt;&#x202f;0.001). Functional recovery was more frequent in the TPA group (36% vs. 14%; p&#x202f;=&#x202f;0.008). Acute kidney injury and hyperkalaemia rates did not differ between groups (10% vs. 3%; p&#x202f;=&#x202f;0.237; 14% vs. 8%; p&#x202f;=&#x202f;0.359, respectively). Survival to discharge was similar in both groups (34% vs. 35%, p&#x202f;&gt;&#x202f;0.999). Sudden death, defined as unexpected death or peracute cardiovascular collapse during hospitalization, occurred more frequently in the TPA group (46% of all TPA-treated cats and 70% of non-survivors) than in the non-TPA group (19 and 29%, respectively; p&#x202f;=&#x202f;0.002). CONCLUSION: Thrombolysis with TPA was associated with significantly higher in-hospital rates of clinical reperfusion and functional recovery, with no statistically significant increase in acute kidney injury (AKI) or hyperkalaemia. Survival to discharge did not differ significantly between groups; however, the higher rate of sudden death in treated cats warrants careful monitoring for reperfusion-related complications, including hyperkalaemia. Admission rectal temperature has emerged as a simple prognostic marker for reperfusion, functional recovery, and survival, with a consistent optimal threshold of 35.9&#x202f;&#xb0;C. Prospective controlled studies are required to confirm these findings.",
+      "affiliations": [
+        "Centre Hospitalier V&#xe9;t&#xe9;rinaire Fregis, Gentilly, France.",
+        "IVC Evidensia France, Courbevoie, France.",
+        "Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO, United States.",
+        "Intensive Care Unit (SIAMU), Universit&#xe9; de Lyon, VetAgro Sup, APCSe, Marcy l'Etoile, France."
+      ],
+      "keywords": [
+        "alteplase",
+        "clinical reperfusion",
+        "feline aortic thromboembolism",
+        "functional recovery",
+        "saddle thrombus",
+        "thrombolysis",
+        "tissue plasminogen activator"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42569194",
+      "title": "Case Report: Fascia lata transposition for chronic recurrent perineal hernia followed by laparoscopic colopexy for subsequent rectal prolapse in a dog.",
+      "authors": "Park J, Lee WJ, Kim DH",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 24",
+      "sortdate": "2026-07-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42569194/",
+      "abstract": "This case report describes a surgical management of chronic, recurrent, complicated perineal hernia following bilateral herniorrhaphy in a 6-kg castrated male mixed-breed dog, estimated to be over 10&#x202f;years old. The patient presented with recurrent right-sided perineal hernia and constipation associated with rectal sacculation. During the herniorrhaphy attempted, severe atrophy of pelvic musculature was identified; therefore, a fascia lata transposition was performed. Postoperatively, the dog developed a rectal prolapse, which was successfully addressed through laparoscopic colopexy. The dog recovered uneventfully, maintaining a good appetite and activity levels. There were no complications related to urination, defecation, gait, or wound healing following either procedure. At the 27-month follow-up, the dog remained in good condition without clinical signs. Fascia lata transposition is effective for complicated perineal hernias lacking of musculature for reconstruction. Laparoscopic colopexy is also a clinically practical option for rectal prolapse in small-breed dogs.",
+      "affiliations": [
+        "Ulsan S Animal Medical Center, Ulsan, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chungnam National University, Daejeon, Republic of Korea."
+      ],
+      "keywords": [
+        "colopexy",
+        "dog",
+        "fascia lata transposition",
+        "laparoscopy",
+        "perineal herniorrhaphy",
+        "rectal prolapse",
+        "recurrent perineal hernia"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
