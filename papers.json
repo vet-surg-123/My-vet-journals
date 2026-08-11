@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11 00:03 UTC",
-  "total": 3842,
+  "updated": "2026-08-11 04:53 UTC",
+  "total": 3846,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,82 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42575716",
+      "title": "Fluvastatin Plus Dipyridamole Suppresses Canine Hemangiosarcoma Growth in Patient-Derived Xenograft Models Through Lactate Dehydrogenase-Associated Cholesterol/Lipid Metabolism.",
+      "authors": "Suzuki T, Tanaka S, Kishimoto K, Goto T, Yamazaki J, Kimura T, Aoshima K",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 10",
+      "sortdate": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575716/",
+      "abstract": "Tumour cells commonly exhibit aerobic glycolysis and produce lactate despite oxygen availability. Lactate dehydrogenase (LDH) catalyses pyruvate-lactate interconversion and regulates intracellular lactate levels. Endothelial cells also depend on glycolysis for ATP production, which prompted us to investigate LDH in canine hemangiosarcoma (HSA), a malignant endothelial tumour. We inhibited LDH with (R)-GNE-140 or sodium oxamate in two canine HSA cell lines (HU-HSA-2 and HU-HSA-3) and generated HU-HSA-3 clones with knockout of LDHA or LDHB to evaluate the effects of LDH perturbation. (R)-GNE-140 and sodium oxamate suppressed proliferation and reduced global histone lactylation levels in both cell lines. mRNA-sequencing (mRNA-seq) of (R)-GNE-140-treated HU-HSA-2 cells identified cholesterol/lipid metabolism-related gene sets among the top negatively enriched pathways. Representative cholesterol/lipid metabolism genes such as SREBF2, SQLE and LDLR responded differently depending on cell lines and inhibitors. (R)-GNE-140 decreased these genes in HU-HSA-2 but not HU-HSA-3, whereas sodium oxamate decreased them in HU-HSA-3 with limited effects in HU-HSA-2. In HU-HSA-3, LDHA and LDHB knockout clones decreased SREBP2 expression and reduced the number of lipid droplets. Fluvastatin, a cholesterol metabolism inhibitor, inhibited HSA cell growth in&#xa0;vitro but did not significantly suppress tumour growth in two HSA patient-derived xenograft (PDX) models. In contrast, combined fluvastatin and dipyridamole treatment inhibited proliferation in&#xa0;vitro and tumour growth in PDX models. Collectively, these results suggest a context-dependent association between LDH and cholesterol/lipid metabolism in canine HSA cell lines and provide a rationale for further evaluation of combined cholesterol pathway inhibition.",
+      "affiliations": [
+        "Laboratory of Comparative Pathology, Department of Clinical Sciences, Faculty of Veterinary Medicine, Hokkaido University, Sapporo, Hokkaido, Japan.",
+        "Translational Research Unit, Veterinary Teaching Hospital, Faculty of Veterinary Medicine, Hokkaido University, Sapporo, Hokkaido, Japan.",
+        "Cancer Research Unit, One Health Research Center, Hokkaido University, Sapporo, Hokkaido, Japan."
+      ],
+      "keywords": [
+        "combination",
+        "drug therapy",
+        "gene expression profiling",
+        "histones",
+        "neoplasm transplantation",
+        "neoplasms",
+        "vascular tissue"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42575156",
+      "title": "Subcutaneous medetomidine at the governing vessel 20 acupuncture point provides faster early sedation than intramuscular administration without altering intraocular pressure in cats.",
+      "authors": "Gölgeli Bedir A, Yanmaz LE, Akçora Y, Özkalipçi Ç, Kartal T, Okur S",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 10",
+      "sortdate": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575156/",
+      "abstract": "OBJECTIVE: To compare sedation, intraocular pressure (IOP), mean pupil diameter, and recovery profiles after IM or SC administration at the governing vessel 20 (GV20) acupuncture point of medetomidine in cats. METHODS: This prospective, randomized, controlled clinical study was conducted at the Animal Hospital of Ataturk University in April and May of 2026. Cats undergoing elective castration received medetomidine (70 &#xb5;g/kg) either IM or SC at GV20. Sedation score, IOP, and mean pupil diameter were recorded before and 5, 10, 15, 20, and 30 minutes after injection. RESULTS: 16 cats completed the study, with 8 cats in each group. Governing vessel 20 produced higher sedation scores at 5 minutes (GV20, 10 [range, 8 to 11]; IM, 5 [range, 4 to 8]; r = 0.69; 95% CI, 0.23 to 0.97) and 10 minutes (GV20, 11 [range, 11 to 12]; IM, 8 [range, 8 to 11]; r = 0.66; 95% CI, 0.20 to 0.98), with comparable scores thereafter. Intraocular pressure did not differ significantly between groups or over time. The mean pupil diameter was larger in the GV20 group than in the IM group from 10 to 30 minutes, with the greatest difference 30 minutes after medetomidine administration (GV20, 9.35 &#xb1; 0.98 mm; IM, 6.94 &#xb1; 1.78 mm; mean difference, 2.41 mm). CONCLUSIONS: GV20 administration produced faster early sedation than IM medetomidine without clinically detectable IOP alteration or clinically relevant changes in mean pupil diameter, although early recovery should be monitored. CLINICAL RELEVANCE: GV20 administration may be useful when rapid early sedation is desired in healthy cats, but early recovery should be monitored.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, Department of Surgery, Ataturk University, Erzurum, Turkey.",
+        "Faculty of Veterinary Medicine, Department of Surgery, Burdur Mehmet Akif Ersoy University, Burdur, Turkey."
+      ],
+      "keywords": [
+        "GV20",
+        "cat",
+        "intraocular pressure",
+        "medetomidine",
+        "sedation"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42575151",
+      "title": "Tendotonometry allows noninvasive in vivo biomechanical evaluation of the patellar tendon in sedated dogs in a study assessing intrauser variability.",
+      "authors": "Caturay KC, Amato NS, Stewart SD, Khanna C, Wilson-Robles H, Schmidt DM, Roske MT, Schulz K",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 10",
+      "sortdate": "2026-08-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575151/",
+      "abstract": "OBJECTIVE: To describe the use and determine the feasibility and user reliability of a commercially available digital palpation device, a myotonometer, on the canine patellar tendon (PT). METHODS: In this prospective clinical feasibility study, client-owned dogs with no history of pelvic limb lameness were eligible for study enrollment from September through December of 2025 and included if their stifles were considered normal based upon physical examination and radiographic findings. Dogs were sedated, and a myotonometer was used to measure tone, stiffness, elasticity, relaxation, and creep of the PT. For each PT, a single user obtained 2 measurement series consisting of 5 individual measurements. RESULTS: 20 dogs were enrolled, and 400 total tendotonometric measurements were collected. No adverse events were observed. There were no statistically significant differences for any of the 5 biomechanical parameters between series within each side nor between left and right groups. There was good to excellent intraobserver repeatability between series and moderate to poor repeatability between sides. CONCLUSIONS: This clinical study demonstrated feasible myotonometer use as a novel method to obtain biomechanical data for the canine PT in a cohort of sedated dogs with normal stifles. CLINICAL RELEVANCE: This study introduces tendotonometry into the clinical setting as a novel modality for in vivo evaluation of orthopedic soft tissues using the PT as a test case. Beyond the canine PT, future tendotonometry studies may allow for the generation of noninvasive, rapid, and objective biomechanical data in tendon repair and healing, soft tissue reconstruction for orthopedic conditions, and treatment response in neuromuscular disorders.",
+      "affiliations": [
+        "Massachusetts Veterinary Referral Hospital, Ethos Veterinary Health, Woburn, MA.",
+        "Ethos Discovery, San Diego, CA.",
+        "Ethos Peak Veterinary Referral Center, Ethos Veterinary Health, Williston, VT."
+      ],
+      "keywords": [
+        "biomechanical",
+        "dog",
+        "patellar tendon",
+        "stiffness",
+        "tendotonometry"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42571816",
       "title": "Evaluating Sacubitril/Valsartan's Efficacy in Reducing Myocardial Hypertrophy and Fibrosis in Feline Models.",
@@ -5372,6 +5448,44 @@
         "Amyloidosis"
       ],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42575087",
+      "title": "Assessment of gastrointestinal health and the coagulation system in dogs with right-sided heart disease: an exploratory study.",
+      "authors": "Shropshire S, Jablonski S, Scansen BA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575087/",
+      "abstract": "BACKGROUND: Right-sided heart disease (RHD) affects gastrointestinal function and hemostasis. HYPOTHESIS/OBJECTIVES: Dogs with progressively severe RHD have impaired gastrointestinal function and altered hemostasis. ANIMALS: Eighteen client-owned dogs with RHD; group 1: 6 dogs without hepatic venous congestion, group 2: 6 dogs with hepatic venous congestion but no ascites, and group 3: 6 dogs with ascites. METHODS: Prospective, cross-sectional, exploratory study. Dogs underwent routine blood, urine, and fecal testing, measures of gastrointestinal health, coagulation testing, C-reactive protein (CRP), N-terminal pro-B-type natriuretic peptide (NT-proBNP), and comprehensive echocardiography. RESULTS: Right atrial area higher from groups 1 to 3 (1.34&#xa0;&#xb1;&#xa0;0.66, 2.48&#xa0;&#xb1;&#xa0;1.33, 3.1&#xa0;&#xb1;&#xa0;0.93&#xa0;cm2/kg0.71; P&#xa0;=&#xa0;.02). NT-proBNP (median; range) higher across group 1 (821; 493-3016&#xa0;pmol/L), group 2 (1694; 1125-8117&#xa0;pmol/L), and group 3 (5165; 3492-10&#x2009;000&#xa0;pmol/L) (P&#xa0;=&#xa0;.006). Measures of gastrointestinal dysfunction including serum methylmalonic acid (group 1&#xa0;=&#xa0;857.5&#xa0;&#xb1;&#xa0;322.6; group 2&#xa0;=&#xa0;1031.1&#xa0;&#xb1;&#xa0;222.5; and group 3&#xa0;=&#xa0;1460.5&#xa0;&#xb1;&#xa0;516.3&#xa0;nmol/L; P&#xa0;=&#xa0;.037) and intestinal fatty acid binding protein (group 1 median&#xa0;=&#xa0;9.3, range&#xa0;=&#xa0;5.6-11.5; group 2&#xa0;=&#xa0;10.1, 8.0-20.4; and group 3&#xa0;=&#xa0;13.8, 10.3-17.5&#xa0;ng/mL) were worse in more severely affected dogs (P&#xa0;=&#xa0;.032). Hyperfibrinolysis was observed with worsening RHD (none in group 1, 2 in group 2, and 3 in group 3). Activated partial thromboplastin time was higher with disease severity. No difference was detected among groups in cobalamin, folate, or CRP (all P&#xa0;&gt;&#xa0;.05). CONCLUSIONS AND CLINICAL IMPORTANCE: Clinicians should be aware of derangements within the gut-heart axis and coagulation system when managing dogs with RHD.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO, United States.",
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, Michigan State University, East Lansing, MI, United States."
+      ],
+      "keywords": [
+        "cardiac",
+        "cobalamin",
+        "hyperfibrinolysis",
+        "intestinal"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Heart Diseases",
+        "Cross-Sectional Studies",
+        "Male",
+        "Gastrointestinal Diseases",
+        "Prospective Studies",
+        "Natriuretic Peptide, Brain",
+        "C-Reactive Protein",
+        "Peptide Fragments",
+        "Echocardiography",
+        "Blood Coagulation"
+      ],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
