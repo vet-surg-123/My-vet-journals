@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12 05:51 UTC",
-  "total": 3855,
+  "updated": "2026-08-13 05:18 UTC",
+  "total": 3864,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,75 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42586801",
+      "title": "Expression of Topoisomerase II Alpha in Canine Colorectal Polyps, Adenomas and Adenocarcinomas.",
+      "authors": "Fiedorowicz J, Paździor-Czapula K, Kołodziejski PA, Otrocka-Domagała I",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 12",
+      "sortdate": "2026-08-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586801/",
+      "abstract": "With the development and increased accessibility of diagnostic methods in veterinary medicine, the possibilities for early detection of proliferative lesions in the canine large intestine have expanded over the past decade. Since in human medicine, topoisomerase II alpha (Topo II&#x3b1;) is considered a prognostic and predictive marker in various tumours, including colorectal carcinoma, we aimed to verify the role of this enzyme in proliferative epithelial lesions of the canine large intestine. In this study, we examined and compared the expression of Topo II&#x3b1; in normal rectal mucosa, hyperplastic polyps, adenomas, and adenocarcinomas of the large intestine in dogs. Each type of lesion included 20 cases, in which the expression of Topo II&#x3b1; was evaluated using immunohistochemistry. The median percentage of Topo II&#x3b1; positive cells was 29.4% (IQR 24.9-37.1) in polyps, 30.3% (IQR 24.6-34.1) in adenomas, 36% (IQR 26.2-42.0) in adenocarcinomas, and 7.8% (IQR 5.9-10.6) in normal intestinal mucosa. Statistical analysis using the Kruskal-Wallis test followed by Dunn's post hoc tests with Bonferroni correction revealed significantly higher Topo II&#x3b1; expression in hyperplastic polyps (p&#x2009;=&#x2009;0.013, r&#x2009;=&#x2009;0.62), adenomas (p&#x2009;=&#x2009;0.033, r&#x2009;=&#x2009;0.57) and adenocarcinomas (p&#x2009;=&#x2009;0.002, r&#x2009;=&#x2009;0.73) compared with normal rectal mucosa, with large effect sizes. Our results may serve as a preliminary basis for the potential use of anthracyclines in the treatment of canine colorectal adenocarcinomas, as well as in multiple adenomas or polyps when surgical options are limited. This study presents new insights of Topo II&#x3b1; expression in canine large intestine carcinogenesis and could provide a valuable foundation for further clinical research.",
+      "affiliations": [
+        "Department of Anatomic Pathology, Faculty of Veterinary Medicine, University of Warmia and Mazury in Olsztyn, Olsztyn, Poland.",
+        "Department of Animal Physiology and Biochemistry, Poznan University of Life Sciences, Poznan, Poland."
+      ],
+      "keywords": [
+        "adenocarcinoma",
+        "colorectal",
+        "dog",
+        "ihc",
+        "topo II&#x3b1;"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42586720",
+      "title": "Canine Oral Melanoma as a Translational Model for Human Mucosal Melanoma: Molecular Architecture, Immune Landscape, and Therapeutic Implications.",
+      "authors": "Kuo CC, Chiu CL, Chung CS, Lin LS, Chen YM",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 12",
+      "sortdate": "2026-08-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42586720/",
+      "abstract": "Human mucosal melanoma (hMM) is a rare but highly aggressive malignancy with poor clinical outcomes and limited responsiveness to current immunotherapeutic strategies. Unlike cutaneous melanoma, hMM is characterized by an ultraviolet-independent pathogenesis, low tumour mutational burden, and pronounced molecular and immunological heterogeneity, which collectively inhibit effective translational modelling and therapeutic development. Naturally occurring canine oral melanoma (cOM) shares key biological features with hMM, including spontaneous tumour development in immunocompetent hosts, low mutational burden, extensive structural genomic alterations, and a highly immunosuppressive tumour microenvironment. These shared characteristics support the positioning of cOM as a relevant comparative oncology model for investigating the mechanisms underlying tumour aggressiveness, immune evasion, and therapeutic resistance in mucosal melanoma. In this review, we synthesize evidence suggesting that hMM and cOM are driven less by single dominant oncogenic mutations than by a complex convergence of pathway-level dysregulation arising from pervasive copy-number alterations, structural variants, and epigenetic plasticity. We further highlight the influence of these molecular features on immune visibility and immune suppression, as well as their contributions to the limited efficacy of single-agent targeted therapies and immune checkpoint blockade. Insights from canine immunotherapy studies provide preliminary translational support for combination-based therapeutic strategies and biomarker development. By integrating molecular, epigenetic, and immunological perspectives across species, this review supports the use of cOM as a comparative and translational platform for advancing therapeutic innovation in mucosal melanoma.",
+      "affiliations": [
+        "Research Center of Animal Biologics, National Pingtung University of Science and Technology, Neipu Township, Pingtung County, Taiwan.",
+        "Department of Veterinary Medicine, College of Veterinary Medicine, National Pingtung University of Science and Technology, Neipu Township, Pingtung County, Taiwan."
+      ],
+      "keywords": [
+        "canine oral melanoma",
+        "comparative oncology",
+        "immunotherapy",
+        "mucosal melanoma"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42583882",
+      "title": "Clinical Outcome and Histopathologic Assessment of Canine Perivulvar Mast Cell Tumours.",
+      "authors": "Ahrens MR, Corner SM, Masyr A",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 12",
+      "sortdate": "2026-08-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42583882/",
+      "abstract": "Anatomic location is a known prognostic factor for canine mast cell tumours (MCTs). Previous publications have reported conflicting results about the clinical significance of MCT location in the inguinal and perineal regions and male genitalia. Hence, the goal of this study is to evaluate the grade, breed distribution and clinical outcome of canine perivulvar MCT. Surgical biopsy reports and associated medical records submitted between 2013 and 2024 to Michigan State University Veterinary Diagnostic Laboratory were retrospectively evaluated. Information regarding age, reproductive status, breed, tumour location, microscopic description, histopathologic grade, and survival was collected. Kaplan-Meier analysis was used to estimate median survival time (MST) with dogs lost to follow-up (LTF) or alive censored from analysis. Biopsy reports from 64 dogs with 68 perivulvar MCT were evaluated. The most common phylogenetic classification was Mastiff-Terrier (47%). The majority (97%) of evaluated MCT were cutaneous, with 85% categorised as Kiupel low grade, while the remaining 15% were high grade. Three of 19 tumours (16%) that had c-KIT PCR performed had mutations in either Exon 8 or Exon 11. KIT expression pattern was classified as Pattern 2 or 3 in 71% of evaluated tumours. Median Ki-67 proliferation index and Ki-67&#x2009;&#xd7;&#x2009;AgNOR scores were 7 and 13, respectively. MST for the entire population was 868&#x2009;days. Dogs LTF had a median follow-up time of 442&#x2009;days. Dogs with perivulvar MCT may achieve prolonged survival time with surgical excision, and prospective studies are warranted to determine the effect of adjuvant therapy on outcome.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, Michigan State University, East Lansing, Michigan, USA.",
+        "Veterinary Diagnostic Laboratory, College of Veterinary Medicine, Michigan State University, Lansing, Michigan, USA."
+      ],
+      "keywords": [
+        "dogs",
+        "mast cell tumour",
+        "perivulvar"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
     {
       "id": "42580781",
       "title": "A randomized controlled trial of intravenous magnesium sulfate shows no analgesic or anti-inflammatory benefit in dogs undergoing thoracolumbar disk herniation surgery.",
@@ -134,6 +203,31 @@
       "summary_ko": ""
     },
     {
+      "id": "42581420",
+      "title": "EXPRESS: Positional Impact on Ocular Lens and Thyroid Radiation Doses During Feline Cranial CT: A TLD Study of 70 Cases.",
+      "authors": "Parlak K, Gul OV, Ergin H, Zamırbekova NN",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 11",
+      "sortdate": "2026-08-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581420/",
+      "abstract": "OBJECTIVES: The increasing use of computed tomography (CT) in feline medicine necessitates the optimization of radiation protocols to adhere to ALARA principles. This prospective study aimed to evaluate the impact of patient positioning dorsoventral (DV) versus ventrodorsal (VD) on radiation doses absorbed by the ocular lenses and the thyroid gland during feline cranial CT. METHODS: Seventy cats were divided into two equal groups (DV, n = 35; VD, n = 35). Radiation doses were measured using thermoluminescent dosimeters (TLD-100) placed at the anatomical projections of the target organs. RESULTS: While no statistically significant difference was observed in ocular lens doses between the groups (p &gt; 0.05), VD positioning resulted in a 24.4% reduction in the mean radiation dose absorbed by the thyroid gland compared to the DV position (1.33 &#xb1; 0.17 mGy vs. 1.76 &#xb1; 0.35 mGy, respectively; p = 4.97 &#xd7; 10&#x207b;&#x2079;). This reduction is attributed to the \"natural shielding\" effect provided by the dorsal axial skeleton and epaxial muscles in the VD position. CONCLUSIONS AND RELEVANCE: VD positioning offers a significant dosimetric advantage for protecting the thyroid gland without requiring additional equipment or compromising diagnostic quality. Adopting the VD position as a routine standard in feline cranial CT is recommended to minimize radiation exposure to the thyroid gland.",
+      "affiliations": [
+        "Department of Surgery, Faculty of Veterinary Medicine, Selcuk University, Konya, Turkey.",
+        "Department of Radiation Oncology, Faculty of Medicine, Selcuk University, Konya, Turkey."
+      ],
+      "keywords": [
+        "cats",
+        "ionizing radiation.",
+        "optimization",
+        "radiation protection",
+        "thermoluminescent dosimetry",
+        "ventro-dorsal"
+      ],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
       "id": "42575716",
       "title": "Fluvastatin Plus Dipyridamole Suppresses Canine Hemangiosarcoma Growth in Patient-Derived Xenograft Models Through Lactate Dehydrogenase-Associated Cholesterol/Lipid Metabolism.",
       "authors": "Suzuki T, Tanaka S, Kishimoto K, Goto T, Yamazaki J, Kimura T, Aoshima K",
@@ -229,13 +323,13 @@
     },
     {
       "id": "42571816",
-      "title": "Evaluating Sacubitril/Valsartan's Efficacy in Reducing Myocardial Hypertrophy and Fibrosis in Feline Models.",
+      "title": "Evaluating Sacubitril/Valsartan's efficacy in reducing myocardial hypertrophy and fibrosis in feline models.",
       "authors": "Sun Z, Huang W, Chai X, Hu C, Zhu C",
       "journal": "Vet J",
       "date": "2026 Aug 09",
       "sortdate": "2026-08-09",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42571816/",
-      "abstract": "Hypertrophic cardiomyopathy is the most common form of feline heart disease, and current therapy is largely supportive with no widely available effective treatment to reverse myocardial hypertrophy or attenuate fibrosis. Sacubitril/valsartan (Sac/Val), an angiotensin receptor-neprilysin inhibitor, has antihypertrophic and antifibrotic effects, but its potential in feline hypertrophic cardiomyopathy remains unclear. The objective of this exploratory pilot study was to evaluate the effects of Sac/Val on myocardial hypertrophy and fibrosis in a feline pressure-overload model. Twelve healthy cats were equally randomized to sham surgery (SHAM group), abdominal aortic constriction (AAC group), and AAC plus Sac/Val treatment (AAC+Sac/Val group). Left ventricular (LV) hypertrophy was assessed by transthoracic echocardiography, with computed tomography performed at the study endpoint. Circulating N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin I (cTnI) were measured serially using feline-validated ELISA assays. Myocardial fibrosis was evaluated by histology and quantitative reverse-transcription PCR (qRT-PCR) targeting BNP, ACTA, TGF-&#x3b2;, and COL-I. Pressure-overload AAC induced hypertrophic remodeling, with increased circulating cardiac biomarkers and maximal LV wall thickness. At Day 60 (pre-treatment), NT-proBNP and cTnI were higher in AAC (and AAC+Sac/Val) cats than in SHAM cats (P &lt; 0.05). By Day 90, Sac/Val was associated with lower NT-proBNP and cTnI versus untreated AAC (e.g., NT-proBNP 0.241 &#xb1; 0.049 vs 0.921 &#xb1; 0.115ng/mL; cTnI 0.958 &#xb1; 0.519 vs 3.313 &#xb1; 0.510ng/mL; P &lt; 0.05). Sac/Val also reduced maximal LV wall thickness compared with AAC on echocardiography and endpoint CT (echo 3.45 &#xb1; 0.33 vs 5.88 &#xb1; 1.77mm; CT 3.54 &#xb1; 0.24 vs 5.68 &#xb1; 1.61mm; P &lt; 0.05). Histology showed reduced interstitial collagen deposition with Sac/Val (P &lt; 0.05), accompanied by downregulation of fibrosis-associated transcripts (P &lt; 0.05). In conclusion, sacubitril/valsartan administration was associated with reduced left ventricular hypertrophy and fibrosis in a feline pressure-overload model, suggesting additional benefits for feline hypertrophic cardiomyopathy.",
+      "abstract": "Hypertrophic cardiomyopathy is the most common form of feline heart disease, and current therapy is largely supportive with no widely available effective treatment to reverse myocardial hypertrophy or attenuate fibrosis. Sacubitril/valsartan (Sac/Val), an angiotensin receptor-neprilysin inhibitor, has antihypertrophic and antifibrotic effects, but its potential in feline hypertrophic cardiomyopathy remains unclear. The objective of this exploratory pilot study was to evaluate the effects of Sac/Val on myocardial hypertrophy and fibrosis in a feline pressure-overload model. Twelve healthy cats were equally randomized to sham surgery (SHAM group), abdominal aortic constriction (AAC group), and AAC plus Sac/Val treatment (AAC+Sac/Val group). Left ventricular (LV) hypertrophy was assessed by transthoracic echocardiography, with computed tomography performed at the study endpoint. Circulating N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin I (cTnI) were measured serially using feline-validated ELISA assays. Myocardial fibrosis was evaluated by histology and quantitative reverse-transcription PCR (qRT-PCR) targeting BNP, ACTA, TGF-&#x3b2;, and COL-I. Pressure-overload AAC induced hypertrophic remodeling, with increased circulating cardiac biomarkers and maximal LV wall thickness. At Day 60 (pre-treatment), NT-proBNP and cTnI were higher in AAC (and AAC+Sac/Val) cats than in SHAM cats (P&#x202f;&lt;&#x202f;0.05). By Day 90, Sac/Val was associated with lower NT-proBNP and cTnI versus untreated AAC (e.g., NT-proBNP 0.241&#x202f;&#xb1;&#x202f;0.049 vs 0.921&#x202f;&#xb1;&#x202f;0.115&#x202f;ng/mL; cTnI 0.958&#x202f;&#xb1;&#x202f;0.519 vs 3.313&#x202f;&#xb1;&#x202f;0.510&#x202f;ng/mL; P&#x202f;&lt;&#x202f;0.05). Sac/Val also reduced maximal LV wall thickness compared with AAC on echocardiography and endpoint CT (echo 3.45&#x202f;&#xb1;&#x202f;0.33 vs 5.88&#x202f;&#xb1;&#x202f;1.77&#x202f;mm; CT 3.54&#x202f;&#xb1;&#x202f;0.24 vs 5.68&#x202f;&#xb1;&#x202f;1.61&#x202f;mm; P&#x202f;&lt;&#x202f;0.05). Histology showed reduced interstitial collagen deposition with Sac/Val (P&#x202f;&lt;&#x202f;0.05), accompanied by downregulation of fibrosis-associated transcripts (P&#x202f;&lt;&#x202f;0.05). In conclusion, sacubitril/valsartan administration was associated with reduced left ventricular hypertrophy and fibrosis in a feline pressure-overload model, suggesting additional benefits for feline hypertrophic cardiomyopathy.",
       "affiliations": [
         "College of Veterinary Medicine, Huazhong Agricultural University, Wuhan 430070, China.",
         "College of Veterinary Medicine, Huazhong Agricultural University, Wuhan 430070, China; Huazhong Veterinary Teaching Hospital, Huazhong Agricultural University, Wuhan 430070, China.",
@@ -992,6 +1086,55 @@
         "neurology",
         "teleconsultation",
         "teleneurology"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42582000",
+      "title": "Infrared thermography in clinically healthy dogs shows body region and haircoat variability.",
+      "authors": "Hall N, Hall A, Atwood L, Petry J, Lewis MJ",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 28",
+      "sortdate": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42582000/",
+      "abstract": "Infrared thermography quantifies body surface temperature with growing applications in dogs, particularly among rehabilitation practitioners; however, incomplete understanding of normal temperature variation in healthy dogs limits interpretation. This study characterized body surface temperature distribution and evaluated factors influencing thermographic measurements in a heterogeneous group of healthy dogs. Client-owned, adult dogs were prospectively enrolled and underwent standardized thermographic imaging, with regions of interest defined for trunk, neck, and spine. Mean surface temperatures were assessed for symmetry, compared across regions and explored for relationships with individual dog characteristics. p&#x202f;&lt;&#x202f;0.05 was significant with adjustment for multiple comparisons. Thirty-three dogs were included with median age of 3.3 (1.0-10.9) years and median body weight of 18.6 (3.7-59.4) kgs. No significant left-right asymmetry was identified in paired regions. Mean (&#xb1; SD) surface temperature for the dorsal neck (23.9&#xb0; &#xb1; 1.6&#xb0;) was significantly cooler than the lumbar spine (25.4&#xb0; &#xb1; 1.9&#xb0;, p&#x202f;=&#x202f;0.009) and lateral trunk (25.2&#xb0; &#xb1; 2.0&#xb0;, p&#x202f;=&#x202f;0.03) regions. Short-haired dogs exhibited significantly higher values than medium/long-haired dogs for the lateral trunk (26.8&#xb0; &#xb1; 1.9&#xb0; vs. 24.2&#xb0; &#xb1; 1.4&#xb0;, p&#x202f;=&#x202f;0.001), dorsal neck (25.2&#xb0; &#xb1; 1.8&#xb0; vs. 23.2&#xb0; &#xb1; 0.9&#xb0;, p&#x202f;=&#x202f;0.01) and sacral (26.0&#xb0; &#xb1; 2.2&#x202f;&#xb0;C vs. 23.5&#xb0; &#xb1; 1.1&#x202f;&#xb0;C, p&#x202f;=&#x202f;0.006) regions. No other significant relationships were identified. Regional variation and coat length are important factors influencing thermography in healthy dogs, while bilateral symmetry is generally preserved. Establishing variability in healthy dogs is critical to clinical interpretation of thermography in abnormal dogs.",
+      "affiliations": [
+        "Department of Clinical Sciences, North Carolina State University College of Veterinary Medicine, Raleigh, NC, United States."
+      ],
+      "keywords": [
+        "body surface temperature",
+        "canine",
+        "imaging",
+        "non-invasive",
+        "symmetry",
+        "thermal"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42581991",
+      "title": "Atypical cat-scratch disease with acute high-grade fever and neuropsychiatric symptoms: a case report.",
+      "authors": "Song X, Liu X, Lou M, Xu J, Gong X, Yang Q, Chen G, Mei J",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 28",
+      "sortdate": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581991/",
+      "abstract": "OBJECTIVE: To report an atypical case of neurological cat-scratch disease (NCSD) presenting with acute-onset fever and prominent neuropsychiatric manifestations in an older adult. PATIENT: An 85-year-old East Asian man with a history of hypertension and coronary artery disease. RESULTS: Three months after a cat scratch, the patient developed abrupt high-grade fever, followed by nocturnal delirium with visual hallucinations and a witnessed seizure-like episode, and later complained of occipital headache. Physical examination revealed mild bilateral axillary and left supraclavicular lymphadenopathy without focal neurologic deficits. Cerebrospinal fluid cultures and stains were negative for bacteria and fungi. Serum metagenomic next-generation sequencing (mNGS) detected Bartonella henselae. After antibiotic therapy, the fever and headache resolved. CONCLUSION: Cat-scratch disease should be considered as a rare but important infectious etiology in patients presenting with febrile illness accompanied by delirium or other neuropsychiatric symptoms. Clinicians should carefully inquire about recent cat exposure or scratch history and consider early pathogen-directed empiric antibiotic therapy to minimize diagnostic delay and improve outcomes.",
+      "affiliations": [
+        "Department of Neurology, Wuhan No. 1 Hospital, Wuhan, China.",
+        "Hubei University of Chinese Medicine, Wuhan, China.",
+        "Key Laboratory of Hubei Province for Neurological Disorders, Wuhan, China."
+      ],
+      "keywords": [
+        "Bartonella henselae",
+        "case report",
+        "cat-scratch disease (CSD)",
+        "metagenomic next-generation sequencing (mNGS)",
+        "neurobartonellosis"
       ],
       "mesh": [],
       "category": "neurosurgery",
@@ -5219,13 +5362,11 @@
         "Animals",
         "Cats",
         "Cat Diseases",
-        "Mucormycosis",
-        "Ultrasonography",
-        "Lymphadenopathy",
         "Diagnosis, Differential",
-        "Male",
         "Immunocompetence",
-        "Female"
+        "Lymphadenopathy",
+        "Mucormycosis",
+        "Ultrasonography"
       ],
       "category": "imaging",
       "summary_ko": ""
@@ -5701,6 +5842,113 @@
         "Sciatic Nerve",
         "Soft Tissue Neoplasms",
         "Magnetic Resonance Imaging"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42585566",
+      "title": "Endoscopic reduction of true gastrogastric intussusception in a dog.",
+      "authors": "Ogawana T, Fukui S, Daimon Y, Kanemoto H",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585566/",
+      "abstract": "A 9-year-old neutered male Toy Poodle was diagnosed with true gastrogastric intussusception based on clinical signs, imaging studies, and endoscopic findings. The dog presented with vomiting, hematochezia, and decreased activity. Abdominal ultrasonography identified edematous thickening of the gastric wall and invagination of the gastric fundus into the gastric body. The diagnosis was confirmed by computed tomography (CT). Endoscopic examination clearly identified the intussuscepted portion of the gastric fundus, which was successfully reduced without surgery using insufflation. Histopathologic analysis of gastrointestinal biopsy samples identified chronic gastritis, enteritis, and colitis. After the procedure, the dog remained free of recurrence through day 216. This case emphasizes the value of early ultrasonographic diagnosis and successful endoscopic reduction in the management of true gastrogastric intussusception.",
+      "affiliations": [
+        "Life Mate Advanced Veterinary Referral Center Hachioji, 4-7-2 Minamiosawa, Hachioji, Tokyo 192-0364, Japan."
+      ],
+      "keywords": [
+        "dog",
+        "endoscopy",
+        "true gastrogastric intussusception",
+        "ultrasonography"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Intussusception",
+        "Dog Diseases",
+        "Stomach Diseases",
+        "Ultrasonography",
+        "Tomography, X-Ray Computed"
+      ],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42585565",
+      "title": "Evaluation of plasma kynurenine 3-monooxygenase and Ki-67 as screening biomarkers for neoplasia in dogs.",
+      "authors": "Sio KM, Ke CH, Lin CS",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585565/",
+      "abstract": "BACKGROUND: Early detection of tumors might prolong the survival of dogs. Kynurenine 3-monooxygenase (KMO) and Ki-67 are tumor biomarkers, but few studies have described the clinical value of KMO and Ki-67 in veterinary medicine. HYPOTHESIS/OBJECTIVES: This study aims to compare the activity of KMO and the concentration of Ki-67 between healthy dogs and dogs with neoplasms. ANIMALS: A total of 162 dogs with different types of tumors were included. Forty-six tumor-free individuals were included as the control group. METHODS: This is a case-control study. Dogs with neoplasms, confirmed through medical record review, were recruited. The primary outcomes were the plasma concentrations of KMO and Ki-67, along with their diagnostic efficacy. RESULTS: Expression levels of KMO were significantly higher in dogs with neoplasms (median, 2.02&#xa0;ng/mL; IQR, 1.03-3.65) than in tumor-free individuals (median, 0.69&#xa0;ng/mL; IQR, 0.23-1.18; P&#xa0;&lt;&#xa0;.0001). The values of Ki-67 were higher in dogs with neoplasms (median, 4.28&#xa0;ng/mL; IQR, 3.75-4.84) than in the control group (median, 3.80&#xa0;ng/mL; IQR, 3.31-4.43; P&#xa0;&lt;&#xa0;.05). No significant correlation was found between KMO and Ki-67 concentrations (R2&#xa0;=&#xa0;0.003, P&#xa0;=&#xa0;.48) in the tested samples and 50.6% (82/162) of dogs exhibited inconsistent results. The area under the ROC curve for KMO and Ki-67 were 0.837 and 0.644. CONCLUSIONS AND CLINICAL IMPORTANCE: This study presents that KMO is an effective biomarker and Ki-67 is an adjunctive marker. While lacking standalone diagnostic utility, Ki-67 reflects systemic tumor biology and complements biomarkers such as KMO.",
+      "affiliations": [
+        "Department of Veterinary Medicine, School of Veterinary Medicine, National Taiwan University, Taipei 10617, Taiwan."
+      ],
+      "keywords": [
+        "Ki-67",
+        "kynurenine 3-monooxygenase (KMO)",
+        "liquid biopsy",
+        "tumor biomarker"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Ki-67 Antigen",
+        "Dog Diseases",
+        "Biomarkers, Tumor",
+        "Case-Control Studies",
+        "Female",
+        "Kynurenine 3-Monooxygenase",
+        "Male",
+        "Neoplasms"
+      ],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42585564",
+      "title": "Presumed cervical subperiosteal vertebral hemorrhage in nine greyhounds.",
+      "authors": "Orgonikova I, Mallol C, Gutierrez-Quintana R, Aige-Gil V, Amengual Batle P, Alcoverro E, Faller KME, Elvira T, Brocal J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42585564/",
+      "abstract": "BACKGROUND: Spontaneous subperiosteal vertebral hemorrhages (SSVHs) are rarely documented in veterinary literature, with only a few cases reported in dogs. HYPOTHESIS/OBJECTIVES: Describe the clinical presentation, imaging findings, and outcome of presumptive cervical SSVHs in dogs and perform a prospective cadaveric study describing the morphology of lesions. ANIMALS: Nine greyhounds presented with acute onset of cervical myelopathy. METHODS: Multicenter descriptive study. The databases were searched for dogs that underwent magnetic resonance imaging (MRI), computed tomography (CT), or both of cervical vertebral column with SSVH as the main or differential diagnosis. RESULTS: Nine middle-aged greyhounds met the inclusion criteria. On MRI, all lesions were at third cervical vertebra or fourth cervical vertebra or both vertebral bodies. Most were bilateral, symmetrical, and ventrolaterally located, causing spinal cord compression. Lesions showed homogeneous T2W hyperintense and T1W isointense to hyperintense signal relative to gray matter; they were non-contrast-enhancing and exhibited a peripheral rim of susceptibility artifact on T2*W images. On CT images, extradural lesions were homogeneously hyperattenuating (60-80 Hounsfield Units). All dogs had an acute onset of clinical signs and were treated medically. Clinical improvement was observed in all cases, and all nonambulatory dogs became ambulatory within 9&#xa0;days. Clinical signs did not recur during the follow-up period (median, 254&#xa0;days; range, 5-1217&#xa0;days). CONCLUSIONS AND CLINICAL IMPORTANCE: Spontaneous subperiosteal vertebral hemorrhage should be included in the differential diagnosis of acute onset cervical myelopathy in greyhounds. Imaging characteristics can aid in differentiating subperiosteal hemorrhage from other extramedullary or extradural lesions. The prognosis is excellent despite the severity of neurologic impairment at presentation.",
+      "affiliations": [
+        "Wear Referrals Veterinary Hospital, Part of Linnaeus Veterinary Limited, Durham, United Kingdom.",
+        "North Downs Specialist Referrals, part of Linnaeus Veterinary Limited, which is part of Mars Veterinary Health, The Friesian Buildings 3 &amp; 4, Bletchingley RH1 4QP, United Kingdom.",
+        "Anderson Moores Veterinary Specialists, Part of Linnaeus Veterinary Limited, Hursley, United Kingdom.",
+        "Neurology Department, Veterinary Specialty Hospital of Hong Kong, 7G/F-1/F, 7 Liberty Avenue, Ho Man Tin, Kowloon, Hong Kong.",
+        "School of Biodiversity, One Health and Veterinary Medicine, College of Medical, Veterinary and Life Sciences, University of Glasgow, Bearsden Road, Glasgow, United Kingdom.",
+        "Facultad de Veterinaria, Universidad Aut&#xf3;noma de Barcelona, Barcelona, Spain.",
+        "Neurology Department, Hospital Veterinario Puchol, Madrid, Spain.",
+        "Neurology Department, Chester Gates Veterinary Specialists, Units E &amp; F, Telford Court, Gates Lane, Chestergates, Chester CH1 6LT, United Kingdom.",
+        "Neurology Department, AniCura Ars Veterin&#xe0;ria Hospital Veterinari, Barcelona, Spain.",
+        "Hospital for Small Animals, Royal (Dick) School of Veterinary Studies, University of Edinburgh, Easter Bush Campus, Edinburgh, United Kingdom."
+      ],
+      "keywords": [
+        "acute",
+        "compressive",
+        "myelopathy",
+        "sighthounds",
+        "tetraparesis"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Cervical Vertebrae",
+        "Magnetic Resonance Imaging",
+        "Tomography, X-Ray Computed",
+        "Male",
+        "Hemorrhage",
+        "Prospective Studies"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -9357,7 +9605,19 @@
         "Electrochemotherapy",
         "Veterinary oncology"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Electrochemotherapy",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Registries",
+        "Neoplasms",
+        "Treatment Outcome",
+        "Carcinoma, Squamous Cell"
+      ],
       "category": "anatomy",
       "summary_ko": ""
     },
