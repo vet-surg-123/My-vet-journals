@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14 05:51 UTC",
-  "total": 3879,
+  "updated": "2026-08-14 23:02 UTC",
+  "total": 3882,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,28 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42599030",
+      "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
+      "authors": "Dossi G, Mismetti M, Carnevale L, Borromeo V, Pocar P, Locatelli C",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 14",
+      "sortdate": "2026-08-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42599030/",
+      "abstract": "ObjectivesTo determine the prevalence of increased serum high-sensitivity cardiac troponin I (hs-cTnI) concentrations in cats with acute blunt trauma and assess associations with trauma severity, clinicopathological variables, echocardiographic findings, and short-term outcome.MethodsThirty-nine cats presenting within 48 hours of blunt trauma were prospectively enrolled. All cats underwent physical examination, Animal Trauma Triage scoring, thoracic radiography, electrocardiography, echocardiography, complete blood count, serum biochemistry, NTproBNP testing, and hs-cTnI measurement. Associations between hs-cTnI concentrations and clinical, laboratory, echocardiographic, and outcome variables were assessed. Receiver operating characteristic (ROC) analysis was performed as an exploratory assessment of prognostic performance.ResultsIncreased hs-cTnI concentrations were detected in 34/39 cats (87%; 95% CI 72-96%). A significant ordinal association was identified between trauma severity and hs-cTnI class (linear-by-linear association, p=0.036), although the overall Fisher-Freeman-Halton test was not significant (p=0.088). Hs-cTnI concentrations correlated positively with urea, creatinine, neutrophil count, ALT, NLR, blood glucose, IVSd, and LVPWd, and negatively with LVIDd. Increased left ventricular wall thickness was identified in 10/39 cats and was associated with higher hs-cTnI concentrations (p=0.033). No traumatic cardiac rupture, pericardial effusion, or pleural effusion were observed. Electrocardiographic abnormalities were detected in 6/39 cats and were not associated with hs-cTnI concentrations. Seven cats (18%) died during hospitalization. Increased urea concentration , white blood cell count, and neutrophil count were associated with non-survival. ROC analyses were considered exploratory because of the limited number of outcome events.Conclusions and relevanceIncreased hs-cTnI concentrations were common in cats with acute blunt trauma and were associated with leukocyte variables, renal function markers, and subtle echocardiographic abnormalities. These findings suggest that hs-cTnI may reflect a multifactorial biological response involving myocardial stress or injury, systemic disease severity, altered renal handling, and possible underlying subclinical cardiac disease. Further studies are needed to clarify the relative contribution and clinical significance of these mechanisms.",
+      "affiliations": [
+        "Department of Veterinary Medicine and Animal Sciences, University of Milan, Lodi, Italy."
+      ],
+      "keywords": [
+        "leukocyte",
+        "myocardial injury",
+        "trauma",
+        "troponin"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
     {
       "id": "42594946",
       "title": "Targeted quantitative polymerase chain reaction-based bacterial and fecal metabolite markers show early stability in healthy puppies after 8 weeks of age.",
@@ -1271,6 +1293,32 @@
       "summary_ko": ""
     },
     {
+      "id": "42597317",
+      "title": "CT-based optimization of hindlimb muscle measurement levels and development of a hindlimb muscle condition score in dogs.",
+      "authors": "Yun S, Hong S, Lee Y, Lee K, Choi S, Noh D",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 30",
+      "sortdate": "2026-07-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42597317/",
+      "abstract": "INTRODUCTION: Objective assessment of hindlimb skeletal muscles in dogs remains challenging in small animal practice. This study aimed to use computed tomography (CT) to characterize hindlimb muscle distribution, identify optimal measurement levels, and evaluate the clinical applicability of a palpation-based hindlimb muscle condition score (hMCS) system. METHODS: This prospective observational study included 39 dogs (76 hindlimbs) enrolled according to the predefined inclusion criteria. CT was used to measure the muscle cross-sectional area (CSA) and calculate the muscle ratio (muscle CSA/total CSA) at the three femoral levels. For the tibia, the location of the maximal gastrocnemius muscle CSA was identified, and measurements were performed at that level. Associations with clinical variables [weight, age, sex, body condition score (BCS), hMCS] were analyzed, and the interobserver reliability of the hMCS was evaluated. RESULTS: Muscle CSA and muscle ratio differed significantly among the femoral levels, with the highest values at the mid-femoral level. In the tibia, the maximal CSA of the gastrocnemius muscle was consistently located in the proximal region. Body weight was positively associated with muscle CSA across all levels, whereas age and BCS were negatively associated with the muscle ratio at most levels. The hMCS showed excellent interobserver reliability and significant associations with CT-derived muscle measurements. DISCUSSION: The mid-femoral level appears to be a representative site for evaluating femoral muscle mass in dogs, whereas the proximal tibial level provides a practical approach for assessing the crus musculature. Muscle CSA primarily reflects body size, whereas muscle ratio more sensitively reflects compositional changes. The hMCS may serve as a practical complementary tool for hindlimb muscle assessment in dogs.",
+      "affiliations": [
+        "Departments of Veterinary Medical Imaging, Veterinary Medical Teaching Hospital, Kangwon National University, Chuncheon, Republic of Korea.",
+        "Departments of Veterinary Medical Imaging, Veterinary Medical Teaching Hospital, Kyungpook National University, Daegu, Republic of Korea."
+      ],
+      "keywords": [
+        "body composition",
+        "computed tomography",
+        "cross-sectional area",
+        "dog",
+        "hindlimb",
+        "muscle condition score",
+        "skeletal muscle"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42526683",
       "title": "Anti-tumour activity of canine activated T-cells and cytokine-induced killer cells against canine malignant melanoma in vitro.",
       "authors": "Conti LC, Capellero S, Piras L, Morello E, Iurascu S, Erriquez J, Marconato L, Aresu L, De Maria R",
@@ -2309,6 +2357,30 @@
       ],
       "mesh": [],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42598263",
+      "title": "Investigating gray matter volumes in idiopathic epileptic Border Collies and Greater Swiss Mountain Dogs using voxel-based morphometry.",
+      "authors": "Glahn I, Richter H, Beckmann K",
+      "journal": "Front Vet Sci",
+      "date": "2026 Jul 17",
+      "sortdate": "2026-07-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598263/",
+      "abstract": "OBJECTIVE: To investigate regional gray matter volume differences in Border Collies and Greater Swiss Mountain Dogs with idiopathic epilepsy compared with healthy controls using voxel-based morphometry (VBM). METHODS: This retrospective single-center study analyzed 3D T1-weighted MRI datasets from 46 dogs, comparing dogs with idiopathic epilepsy with breed-matched healthy controls. Regional gray matter volume was assessed using an automated FSL-based voxel-based morphometry pipeline with semi-manual brain extraction and 1.5&#x202f;mm smoothing kernel. To account for inter-breed anatomical variation, separate study-specific templates were created for each breed. Volumetric comparisons of gray matter, white matter, total brain and gray matter ratios were performed for both breeds and analyzed using the Mann-Whitney U test. RESULTS: A total of 46 dogs were included, of those, 18 Border Collies and 13 Greater Swiss Mountain Dogs were diagnosed with idiopathic epilepsy, while 5 Border Collies and 10 Greater Swiss Mountain Dogs served as healthy controls. Volumetric comparisons highlighted pronounced size differences between breeds. Within each breed, no significant differences in gray and white matter volumes or ratios were found between healthy controls and epileptic dogs. A statistically significant difference in the gray matter ratio was detected when both breeds were pooled (58% vs. 57%, p&#x202f;=&#x202f;0.039). VBM did not reveal any significant differences in gray matter volume between groups. However, exploratory analysis in Border Collies suggested increased gray matter volume in limbic regions (amygdala, retrosplenial fissure) and temporal areas, whereas Greater Swiss Mountain Dogs showed increases in the cerebellum. Both breeds showed focal gray matter volume reductions in the right anterior ectolateral gyrus. CONCLUSION: VBM analysis did not identify statistically significant differences in gray matter volume between dogs with idiopathic epilepsy and healthy controls. However, exploratory analyses revealed breed-specific patterns of both focal gray matter decreases and regional increases. This mixed pattern supports the concept of canine idiopathic epilepsy as a distributed network disease.",
+      "affiliations": [
+        "Diagnostic Imaging Research Unit, Clinic for Diagnostic Imaging, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
+        "Section of Neurology, Department of Small Animals, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland."
+      ],
+      "keywords": [
+        "MRI",
+        "dogs",
+        "gray matter",
+        "idiopathic epilepsy",
+        "voxel-based morphometry"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -11288,7 +11360,18 @@
         "Stress",
         "Undesirable behavior"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Female",
+        "Male",
+        "Stress, Physiological",
+        "Blood Pressure",
+        "Prospective Studies",
+        "Cross-Over Studies",
+        "Heart Rate",
+        "Pheromones"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -17105,7 +17188,7 @@
       "date": "2026 Apr 28",
       "sortdate": "2026-04-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42045867/",
-      "abstract": "BACKGROUND: Pulmonary artery pseudoaneurysm (PAP) is a rare but well-documented vascular abnormality in humans and can be life-threatening. In companion animals, data on PAP are scarce. While the clinical course and imaging features of migrating intrathoracic grass awns in dogs are well documented, they have not previously been associated with PAP. Lung ultrasonography (LUS) is increasingly used in veterinary medicine, with multiple sonographic patterns reported for pulmonary disease, including disorders caused by migrating grass awns. This report describes an unprecedented ultrasonographic appearance of a peripheral PAP secondary to a migrating intrathoracic grass awn in a dog. CASE PRESENTATION: A 10-year-old spayed female Yorkshire Terrier was evaluated for a 3-day history of lethargy, inappetence, and coughing. Thoracic radiography revealed an interstitial-to-alveolar pattern in the right caudal lung lobe, and echocardiography identified myxomatous mitral valve disease. LUS demonstrated a pulsatile, hypoechoic lesion in the caudodorsal region of the right caudal lung lobe, in continuity with a pulmonary artery branch. The lesion had an oval to pear-shaped appearance, and color Doppler showed a &#x201c;yin&#x2013;yang&#x201d; pattern of swirling intraluminal flow. A subtle hyperechoic interface casting an acoustic shadow, suggestive of a foreign body, was visible adjacent to the deep wall of the lesion. Despite empirical treatment for pneumonia, the dog deteriorated and was euthanized. Postmortem LUS of the excised lung supported the presence of a vegetal foreign body within the lesion. Gross and histopathological examination established a diagnosis of peripheral PAP associated with necrotizing, suppurative pneumonia and an intrabronchial grass awn. CONCLUSIONS: This case suggests that PAP may represent a potential sequela of intrabronchial grass awn migration in dogs. On LUS, a hypoechoic, pulsatile intrapulmonary lesion with a &#x201c;yin&#x2013;yang&#x201d; Doppler flow pattern should prompt consideration of PAP. Although further studies are needed, careful assessment of similar ultrasonographic findings may facilitate the recognition of clinically relevant vascular lesions in dogs.",
+      "abstract": "BACKGROUND: Pulmonary artery pseudoaneurysm (PAP) is a rare but well-documented vascular abnormality in humans and can be life-threatening. In companion animals, data on PAP are scarce. While the clinical course and imaging features of migrating intrathoracic grass awns in dogs are well documented, they have not previously been associated with PAP. Lung ultrasonography (LUS) is increasingly used in veterinary medicine, with multiple sonographic patterns reported for pulmonary disease, including disorders caused by migrating grass awns. This report describes an unprecedented ultrasonographic appearance of a peripheral PAP secondary to a migrating intrathoracic grass awn in a dog. CASE PRESENTATION: A 10-year-old spayed female Yorkshire Terrier was evaluated for a 3-day history of lethargy, inappetence, and coughing. Thoracic radiography revealed an interstitial-to-alveolar pattern in the right caudal lung lobe, and echocardiography identified myxomatous mitral valve disease. LUS demonstrated a pulsatile, hypoechoic lesion in the caudodorsal region of the right caudal lung lobe, in continuity with a pulmonary artery branch. The lesion had an oval to pear-shaped appearance, and color Doppler showed a \"yin-yang\" pattern of swirling intraluminal flow. A subtle hyperechoic interface casting an acoustic shadow, suggestive of a foreign body, was visible adjacent to the deep wall of the lesion. Despite empirical treatment for pneumonia, the dog deteriorated and was euthanized. Postmortem LUS of the excised lung supported the presence of a vegetal foreign body within the lesion. Gross and histopathological examination established a diagnosis of peripheral PAP associated with necrotizing, suppurative pneumonia and an intrabronchial grass awn. CONCLUSIONS: This case suggests that PAP may represent a potential sequela of intrabronchial grass awn migration in dogs. On LUS, a hypoechoic, pulsatile intrapulmonary lesion with a \"yin-yang\" Doppler flow pattern should prompt consideration of PAP. Although further studies are needed, careful assessment of similar ultrasonographic findings may facilitate the recognition of clinically relevant vascular lesions in dogs.",
       "affiliations": [
         "Department of Internal Diseases and Diagnostics, Poznan University of Life Sciences, Szyd&#x142;owska 50, Pozna&#x144;, 60-637, Poland. michal.gruss@up.poznan.pl.",
         "University Centre for Veterinary Medicine, Szyd&#x142;owska 43, Pozna&#x144;, 60-656, Poland. michal.gruss@up.poznan.pl.",
@@ -17121,7 +17204,16 @@
         "Ultrasonography",
         "Vascular"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Female",
+        "Pulmonary Artery",
+        "Dog Diseases",
+        "Aneurysm, False",
+        "Ultrasonography",
+        "Poaceae"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -31665,7 +31757,17 @@
         "School of Veterinary Medicine and Science, University of Nottingham, Sutton Bonington, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Synbiotics",
+        "Dog Diseases",
+        "Diarrhea",
+        "Gastrointestinal Diseases",
+        "Female",
+        "Treatment Outcome",
+        "Male"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -32151,7 +32253,14 @@
         "treatment",
         "vertebral endplate infection"
       ],
-      "mesh": [],
+      "mesh": [
+        "Dogs",
+        "Animals",
+        "Dog Diseases",
+        "Spondylitis",
+        "Anti-Bacterial Agents",
+        "Treatment Outcome"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
