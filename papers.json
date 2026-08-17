@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17 03:31 UTC",
-  "total": 3891,
+  "updated": "2026-08-17 23:02 UTC",
+  "total": 3892,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,35 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42604724",
+      "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
+      "authors": "Nishibori S, Sakurai M, Kagawa Y, Nishigaki K, Nakagawa T, Inanaga S, Igase M, Mizuno T",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 16",
+      "sortdate": "2026-08-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42604724/",
+      "abstract": "DNA mismatch repair (MMR) deficiency is a clinically important biomarker in human oncology, yet its relevance in feline neoplasia remains poorly understood due to limited characterisation and the absence of validated reagents. In this study, we established a practical immunohistochemistry (IHC) approach for evaluating feline MMR proteins by confirming the cross-reactivity of anti-human MLH1, MSH2 and MSH6 antibodies using CRISPR/Cas9-engineered feline tumour cell lines lacking each target gene. Using these validated antibodies, we conducted a pilot screening to assess MMR protein expression in 83 feline tumours and observed variable reductions or losses of MLH1, MSH2 and MSH6 across several tumour types. Notably, MLH1 expression was lost in all melanoma cases (6/6, 100%) and in most osteosarcomas (14/15, 93%), indicating that MMR perturbations may be particularly relevant in these malignancies. These findings provide the first analytically validated framework for assessing MMR proteins in feline oncology and suggest that MMR dysregulation may be more widespread than previously recognised. Although the clinical sample size is limited, this initial pilot screening maps the preliminary landscape of feline MMR protein expression. Further large-scale validation studies incorporating microsatellite instability testing, methylation analysis and genomic profiling are warranted to clarify the biological significance of these alterations.",
+      "affiliations": [
+        "Laboratory of Molecular Diagnostics and Therapeutics, Joint Graduate School of Veterinary Medicine, Yamaguchi University, Yamaguchi, Yamaguchi, Japan.",
+        "Laboratory of Veterinary Pathology, Joint Faculty of Veterinary Medicine, Yamaguchi University, Yamaguchi, Yamaguchi, Japan.",
+        "Division of Translational Research for One Medicine, Research Institute for Cell Design Medical Science, Yamaguchi University, Yamaguchi, Yamaguchi, Japan.",
+        "North Lab., Sapporo, Hokkaido, Japan.",
+        "Laboratory of Molecular Immunology and Infectious Disease, Joint Faculty of Veterinary Medicine, Yamaguchi University, Yamaguchi, Yamaguchi, Japan.",
+        "Laboratory of Veterinary Surgery, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, Japan.",
+        "Japan Small Animal Cancer Center, Affiliated With the Japan Small Animal Medical Center Foundation, Tokorozawa, Saitama, Japan."
+      ],
+      "keywords": [
+        "cross&#x2010;reactive antibody",
+        "feline tumour",
+        "immune biomarkers",
+        "immunohistochemistry",
+        "mismatch repair"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
     {
       "id": "42603145",
       "title": "Variations on the rostral labial pivot flap for reconstruction of maxillary lip defects in four dogs.",
@@ -7148,25 +7177,40 @@
     },
     {
       "id": "42359893",
-      "title": "EXPRESS: Longitudinal evaluation of discordant symmetric dimethylarginine and creatinine as markers of glomerular filtration rate in radioiodine-treated hyperthyroid cats.",
-      "authors": "Hardy L, Hibbert A, Tasker S, Finch N",
+      "title": "Longitudinal evaluation of discordant symmetric dimethylarginine and creatinine as markers of glomerular filtration rate in radioiodine-treated hyperthyroid cats.",
+      "authors": "Hardy L, Hibbert A, Tasker S, Finch NC",
       "journal": "J Feline Med Surg",
       "date": "2026 Jun 26",
       "sortdate": "2026-06-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359893/",
-      "abstract": "OBJECTIVES: To determine the frequency and clinical significance of discordant serum symmetric dimethylarginine (SDMA) and creatinine concentrations relative to glomerular filtration rate (GFR) in mature and senior hyperthyroid cats treated with radioactive iodine (RAI). Further, to compare the sensitivity and specificity of two SDMA upper reference limits (&gt;14 and &#x2265;18 &#xb5;g/dL) and creatinine (&#x2265;175 &#xb5;mol/l) for detecting decreased GFR and evaluate the intra-individual variability of both biomarkers. METHODS: A prospective longitudinal study of 27 client-owned hyperthyroid cats receiving low-dose RAI therapy. At baseline, one, six, and 12 months post-RAI, cats were evaluated for thyroid status, GFR, SDMA, and creatinine concentrations. Discordance was defined as one renal biomarker exceeding its reference interval with the other within/below reference range, using laboratory and age-specific SDMA reference intervals. In euthyroid cats, sensitivity, specificity, and predictive values of SDMA/creatinine for decreased GFR and intra-individual variability were determined. RESULTS: Discordance between SDMA and creatinine ranged from 10%-75%, and was highest with the SDMA limit &gt;14 &#xb5;g/dL. SDMA-GFR discordance exceeded creatinine-GFR discordance at all time points and was highest at baseline, when all cats were hyperthyroid. In euthyroid cats at 12 months, SDMA &gt;14 &#xb5;g/dL was more sensitive (83%) but less specific (50%) for decreased GFR than SDMA &#x2265;18 &#xb5;g/dL (sensitivity 50%, specificity 71%) and creatinine (sensitivity 50%, specificity 85%). Intra-individual variability was similar for both biomarkers (~15%). CONCLUSIONS AND CLINICAL RELEVANCE: Discordant SDMA and creatinine concentrations are frequent in older hyperthyroid cats and are influenced by thyroid status and SDMA reference limits, complicating interpretation. The SDMA limit &#x2265;18 &#xb5;g/dL improves specificity for decreased GFR and is more appropriate for senior cats. SDMA concentrations of 15-18 &#xb5;g/dL are less likely to reflect true GFR reduction when creatinine is normal; therefore, non-renal influences such as hyperthyroidism should be considered and ongoing monitoring of renal parameters is recommended.",
+      "abstract": "ObjectivesThe aim of the present study was to determine the frequency and clinical significance of discordant serum symmetric dimethylarginine (SDMA) and creatinine concentrations relative to glomerular filtration rate (GFR) in mature and senior hyperthyroid cats treated with radioactive iodine (RAI). Secondary aims of the study were to compare the sensitivity and specificity of two SDMA upper reference intervals (RIs; &gt;14 and &#x2a7e;18&#x2009;&#xb5;g/dl) and creatinine (&#x2a7e;175&#x2009;&#xb5;mol/l) for detecting decreased GFR and to evaluate the intra-individual variability of both biomarkers.MethodsA prospective longitudinal study of 27 client-owned hyperthyroid cats receiving low-dose RAI therapy was conducted. At baseline, 1, 6 and 12 months after RAI, cats were evaluated for thyroid status, GFR, SDMA and creatinine concentrations. Discordance was defined as one renal biomarker exceeding its RI with the other within/below the RI, using laboratory and age-specific SDMA RIs. In euthyroid cats, sensitivity, specificity and predictive values of SDMA/creatinine for decreased GFR and intra-individual variability were determined.ResultsDiscordance between SDMA and creatinine was in the range of 10-75% and was highest with the SDMA limit &gt;14&#x2009;&#xb5;g/dl. SDMA-GFR discordance exceeded creatinine-GFR discordance at all time points and was highest at baseline, when all cats were hyperthyroid. In cats w&#xfeff;ith euthyroid status at 12 months, SDMA &gt;14&#x2009;&#xb5;g/dl was more sensitive (83%) but less specific (50%) for decreased GFR than SDMA &#x2265;18&#x2009;&#xb5;g/dl (sensitivity 50%, specificity 71%) and creatinine (sensitivity 50%, specificity 85%). Intra-individual variability was similar for both biomarkers (~15%).Conclusions and relevanceDiscordant SDMA and creatinine concentrations are frequent in older hyperthyroid cats and are influenced by thyroid status and SDMA RIs, complicating interpretation. The SDMA limit &#x2265;18&#x2009;&#xb5;g/dl improves specificity for decreased GFR and is more appropriate for senior cats. SDMA concentrations in the range of 15-18&#x2009;&#xb5;g/dl are less likely to reflect true GFR reduction when creatinine is normal; therefore, non-renal influences such as hyperthyroidism should be considered and ongoing monitoring of renal parameters is recommended. A long-term assessment of two different indirect blood indicators of kidney function in cats undergoing radioiodine treatment for hyperthyroidism, to determine any discrepancies between the two and how these relate to direct measurements of kidney functionThis study looked at how two common blood tests for kidney function, symmetric dimethylarginine (SDMA) and creatinine, behave in older cats treated with radioiodine for hyperthyroidism. Vets often use these tests to check how well the kidneys are functioning, but the two markers do not always agree. The researchers wanted to understand how often this happens and which test is more reliable when compared with a more direct measurement of kidney function. A total of 27 hyperthyroid cats were followed for 1 year. Before treatment with radioiodine and again at 1, 6 and 12 months afterwards, the cats had their thyroid levels, kidney glomerular filtration rate (GFR), SDMA and creatinine measured. The team looked for cases where one kidney marker (either SDMA or creatinine) was high but the other was normal or low, and they assessed how well each marker detected a true decrease in kidney filtration function by comparing them to GFR. The researchers found that SDMA and creatinine results did not agree in 10&#x2013;75% of cats, especially when using a lower SDMA cut-off (&gt;14&#x2009;&#xb5;g/dl). SDMA did not agree with the direct measure of kidney function, GFR, more frequently than creatinine, particularly when the cats were still hyperthyroid. At 12 months after treatment, in the cats with normal thyroid levels, the higher SDMA cut-off (&#x2a7e;18&#x2009;&#xb5;g/dl) was more accurate and produced fewer false-positive results. Overall, the study shows that discrepancies in SDMA and creatinine results are common in older hyperthyroid cats, and thyroid disease itself can affect SDMA. SDMA values of 15&#x2013;18&#x2009;&#xb5;g/dl may not truly indicate kidney disease if creatinine is normal. For senior cats, using the higher SDMA cut-off improves accuracy. When results do not match, vets should consider non-kidney factors, like thyroid status, and continue monitoring over time.",
       "affiliations": [
         "University of Bristol, Bristol, UK.",
-        "Bristol Veterinary Specialists, Bristol, UK.",
+        "Bristol Vet Specialists, Bristol, UK.",
         "The Feline Centre, Langford Vets, University of Bristol, Bristol, UK."
       ],
       "keywords": [
-        "Biomarkers",
-        "CKD",
         "Kidney",
-        "Renal"
+        "biomarkers",
+        "chronic kidney disease",
+        "renal"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Hyperthyroidism",
+        "Iodine Radioisotopes",
+        "Cat Diseases",
+        "Glomerular Filtration Rate",
+        "Creatinine",
+        "Arginine",
+        "Female",
+        "Biomarkers",
+        "Male",
+        "Longitudinal Studies",
+        "Sensitivity and Specificity",
+        "Prospective Studies"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
