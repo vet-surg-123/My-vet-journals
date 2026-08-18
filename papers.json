@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18 03:25 UTC",
-  "total": 3892,
+  "updated": "2026-08-18 23:04 UTC",
+  "total": 3894,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,27 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42608000",
+      "title": "Preclinical Cyclic Testing of Adjunctive Fixation of the Humeral Epicondyle in a Lateral Condylar Fracture Model: Ex Vivo Comparison of a Locking Plate versus a Light-curable Composite.",
+      "authors": "Quinn R, Höglund OV, Hutchinson DJ, Papini L, Tesfaye Ayane A, Opande L, Molenberg E, Schwarzenberg P, Torres Rodriguez C, Malkoch M",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 17",
+      "sortdate": "2026-08-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42608000/",
+      "abstract": "OBJECTIVE: To compare the mechanical performance under cyclic loading of a biocompatible light-curable composite formed from two traizine-trione resin monomers and hydroxyapatite construct (AdhFix) against a standard locking plate used as adjunctive epicondylar stabilization in a simulated lateral condylar humeral fracture model. STUDY DESIGN: Cadaveric biomechanical assessment. MATERIALS AND METHODS: Paired canine cadaver humeri were used to simulate lateral condylar humeral fractures. All constructs were stabilized with a transcondylar 4.5&#x2009;mm cortical screw placed in lag fashion. Adjunctive fixation was then applied in a within-cadaver comparison: One humerus received a light-curable composite construct incorporating 2.7&#x2009;mm cortical screws, while the contralateral humerus received a 2.7&#x2009;mm locking plate. Specimens were subjected to 95,000 cycles of axial compressive loading between 20 and 130&#x2009;N. Groups were compared for displacement and construct dynamic stiffness (p&#x2009;&lt;&#x2009;0.05). Terminal monotonic testing was then performed until failure. RESULTS: There was no mechanical failure in either group during cyclic testing. There were no statistically significant differences between groups in construct dynamic stiffness, displacement, or yield point in terminal monotonic testing. CONCLUSION: Cyclic testing support the use of AdhFix as adjunctive fixation in humeral condylar fractures.",
+      "affiliations": [
+        "Vita Referrals, United Kingdom of Great Britain and Northern Ireland.",
+        "Swedish University of Agricultural Sciences, Department of Clinical Sciences, Sweden.",
+        "KTH Royal Institute of Technology School of Engineering Sciences in Chemistry Biotechnology and Health, Department of Fibre and Polymer Technology, Sweden.",
+        "Biomedical Bonding AB, Sweden.",
+        "AO Research Institute Davos, Switzerland."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "42604724",
       "title": "Immunohistochemical Characterisation of Mismatch Repair Proteins in Feline Cancers: A Pilot Study Using Validated Cross-Reactive Antibodies.",
@@ -1158,6 +1179,29 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42609759",
+      "title": "Chronic intestinal pseudo-obstruction secondary to intestinal leiomyositis in a ragdoll cat.",
+      "authors": "Lau CWW, Hope A, Donnelly E",
+      "journal": "Front Vet Sci",
+      "date": "2026 Aug 03",
+      "sortdate": "2026-08-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609759/",
+      "abstract": "A 1-year-old neutered male neutered Ragdoll cat was presented with a 4-week history of hyporexia, intermittent diarrhoea and weight loss. Initial imaging revealed a varying degree of distension of the intestinal loops by echoic fluid/gas and some loops had hyperechoic content with marked echo shadowing. Exploratory laparotomy was recommended but declined. Subsequent clinical deterioration prompted further investigation with CT scan revealing severe dilation of the intestine which was deemed likely secondary to small intestinal foreign body obstruction, and less likely to be secondary to a condition resulting in functional ileus. Surgical exploration revealed severe intestinal distension extending from mid-jejunum to the caecum and the distended portion of the intestine was impacted with hard faecal matter towards the caecum. Surgical resection of the ileum and caecum was performed. Unfortunately, following surgery the patient continued to decline and was euthansied. On post-mortem examination, histhopathology confirmed myopathic instestinal leiomyositis. To our knowledge, this is the first reported case of myopathic intestinal leiomyositis in a cat. This report supports inclusion of pseudo-obstruction as a differential diagnosis in cats with non-obstructive intestinal disease, highlights the need for further investigation to better characterize intestinal pseudo-obstruction in veterinary medicine, and suggests that insights from human medicine may inform diagnostic and disease classification approaches in the interim.",
+      "affiliations": [
+        "Department of Emergency and Critical Care, VetsNow Referral Hospital Glasgow, Glasgow, United Kingdom."
+      ],
+      "keywords": [
+        "chronic intestinal pseudo-obstruction",
+        "functional obstruction",
+        "intestinal dilation",
+        "intestinal leiomyositis",
+        "leiomyositis"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -21995,15 +22039,16 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Ductus Arteriosus, Patent",
-        "Sutures",
+        "Cohort Studies",
         "Dog Diseases",
-        "Retrospective Studies",
-        "Female",
+        "Ductus Arteriosus, Patent",
+        "Echocardiography",
         "Polydioxanone",
+        "Polypropylenes",
+        "Retrospective Studies",
+        "Sutures",
         "Male",
-        "Treatment Outcome",
-        "Suture Techniques"
+        "Female"
       ],
       "category": "cardiac",
       "summary_ko": ""
