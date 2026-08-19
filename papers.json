@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 03:27 UTC",
-  "total": 3894,
+  "updated": "2026-08-19 23:36 UTC",
+  "total": 3898,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,91 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42613071",
+      "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
+      "authors": "Hanford R, Skorupski KA, Rebhun RB, Brady RV, Al-Nadaf S, Lejeune AT",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 18",
+      "sortdate": "2026-08-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613071/",
+      "abstract": "Cytarabine intravenous constant rate infusion (IV CRI) toxicity in cats with lymphoma has not been well documented. We aimed to assess toxicities following cytarabine IV CRI as a single-agent or within a multiagent protocol in cats with lymphoma. Medical records of cats with lymphoma treated with cytarabine IV CRI, with documented dose, route, duration and at least one follow-up visit between 1990 and 2024, were retrospectively reviewed. Adverse events (AEs) were retrospectively graded according to VCOG-CTCAE v2. Thirty-eight cats were included, and 70 doses were evaluated for AEs. Median cytarabine dose was 389.8&#x2009;mg/m2 (range 100.1-697.3&#x2009;mg/m2) over a median infusion duration of 6&#x2009;h (range 2-17&#x2009;h). A total of 103 AEs were documented across 70 administrations. Gastrointestinal AEs were the most common category: altered appetite (21/38 cats, 55.2%), vomiting (9/38, 23.7%; one grade 3, the rest grades 1-2), diarrhoea (2/38, 5.3%) and dysphagia (2/38, 5.3%). Anaemia was the most common hematologic AE (14/38 cats, 36.8%; five grade 1, two grade 2, five grade 3, two grade 4); six cats (15.8%) developed thrombocytopenia (four grade 1, two grade 2), and one cat (2.6%) developed grade 2 neutropenia. Lethargy was the most common constitutional AE (12/38 cats, 31.6%). IV CRI of cytarabine was generally tolerated, with predominantly low-grade AEs, although grade 3-4 anaemia was not uncommon. Response rate and clinical benefit remain unknown; investigation of alternative dosing regimens may help clarify its therapeutic potential.",
+      "affiliations": [
+        "William R. Pritchard Veterinary Medical Teaching Hospital, University of California, Davis, California, USA.",
+        "Department of Surgical and Radiological Sciences, School of Veterinary Medicine, University of California, Davis, California, USA."
+      ],
+      "keywords": [
+        "chemotherapy",
+        "constant rate infusion",
+        "cytosine arabinoside",
+        "feline"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42612706",
+      "title": "Computed Tomographic Measurement of Cementless Total Hip Replacement Implant Orientation.",
+      "authors": "Pink J, Bilmont A",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Aug 18",
+      "sortdate": "2026-08-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612706/",
+      "abstract": "OBJECTIVE: The aim of this study was to describe and assess a technique for the measurement of cementless (BioMedtrix Biologic Fixation [BFX]) total hip replacement implant orientation using computed tomography (CT). STUDY DESIGN: Postoperative CT studies of 15 dogs that had total hip replacement with a 24 mm BFX cup and BFX stem were reviewed retrospectively. Multiplanar reconstructed CT images were manipulated to generate standard positions of the pelvis and femur. Open face version, angle of lateral opening (ALO), inclination of the cup and stem anteversion were measured sequentially. Cases were anonymized, randomized and measured three times by two observers. RESULTS: Intraclass correlation coefficients for cup open face version, cup ALO, cup inclination and stem version were 1.0 and 1.0, 0.98 and 0.98, 0.99 and 0.99, and 1.0 and 0.97, for observers 1 and 2, respectively. The interclass correlation coefficients indicating interobserver variation for cup open face version, cup ALO, cup inclination and stem version were 1.0, 0.99, 0.99 and 0.99, respectively. CONCLUSION: The reported technique for measurement of BFX total hip replacement implant orientation is highly repeatable and allows objective measurement of implant orientation, including parameters which are not accessible radiographically.",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "jointreplacement",
+      "summary_ko": ""
+    },
+    {
+      "id": "42612701",
+      "title": "Fixation of proximal humeral Salter-Harris type 1 fractures in a 3-dimensionally printed skeletally immature canine bone model: a biomechanical assessment of fully threaded headless cannulated screws.",
+      "authors": "Hwang TW, Kang E, Kim JM, Kim HY",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 18",
+      "sortdate": "2026-08-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612701/",
+      "abstract": "OBJECTIVE: To compare the biomechanical stability of 4 fixation techniques for proximal humeral physeal fractures in skeletally immature canines using 3-D-printed models. METHODS: This experimental in vitro study was conducted from September 25, 2025, through April 22, 2026. To strictly control biological variability, identical 3-D-printed models of juvenile canine proximal humeral Salter-Harris type 1 fractures (CT-derived from a 6-month-old 26-kg Labrador Retriever) were evaluated across 4 groups: pin and tension band wire (group A), partially threaded cannulated screw (group B), fully threaded headless cannulated screw (FTHCS) alone (group C), and FTHCS with a 1.6-mm Kirschner (K)-wire (group D). Tensile loading was applied at 10 mm/min at 105&#xb0; to simulate supraspinatus traction. Outcomes included loads at 1- and 2-mm displacements, maximum failure load, and failure modes. RESULTS: Twenty-four models were tested (n = 6/group). Group D exhibited significantly higher resistance at 1-mm (663.95 N) and 2-mm (1,080.33 N) displacements than other groups. At 1-mm displacement, group D outperformed groups C, A, and B (mean differences [MD]: 206.2 N, 380.6 N, and 405.7 N, respectively; P &lt; .0083). Maximum failure load did not differ significantly. Group B failed via localized proximal crushing and subsidence, whereas FTHCS groups (C, D) preserved proximal integrity, failing distally. CONCLUSIONS: In this 3-D-printed model, FTHCS combined with a K-wire provided superior resistance to tensile displacement compared with other tested constructs. CLINICAL RELEVANCE: FTHCS augmented with a K-wire may offer a biomechanically robust alternative mitigating subhead bone collapse, providing sufficient standalone stability for early rehabilitation in immature canines.",
+      "affiliations": [],
+      "keywords": [
+        "3-D&#x2013;printed skeletally immature bone model",
+        "Kirschner wire",
+        "canine",
+        "fully threaded headless cannulated screw",
+        "proximal humeral fracture"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42612694",
+      "title": "Automated injection improves consistency of brain perfusion parameters in dynamic susceptibility contrast magnetic resonance imaging in dogs in a randomized trial.",
+      "authors": "Eichrodt AM, Leandro AW, Beckmann KM, Dennler M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Aug 18",
+      "sortdate": "2026-08-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42612694/",
+      "abstract": "OBJECTIVE: To compare perfusion characteristics in morphologically normal canine brains with dynamic susceptibility contrast (DSC) MRI following manual versus automated contrast medium injection. METHODS: Client-owned dogs undergoing routine 3-tesla brain MRI protocol including DSC were prospectively enrolled, randomly allocated to manual or automated contrast medium injection between November 2023 and February 2025. Gadoteric acid (0.1 mmol/kg) was injected at weight-dependent rates: 1 mL/s (1 to 5 kg), 2 mL/s (6 to 15 kg), and 3 mL/s (&gt; 15 kg). Perfusion parameters evaluated included time of contrast medium arrival (T0), time to peak contrast medium enhancement (TTP), mean transit time of contrast medium (MTT), relative cerebral blood flow (relCBF), and relative cerebral blood volume (relCBV) at 3 regions of interest: thalamus, piriform lobe, and semioval center. Mann-Whitney U tests with Holm-Bonferroni correction were used. Rank-biserial correlations were calculated as effect sizes. RESULTS: Dynamic susceptibility contrast studies of 29 dogs with morphologically normal brains were included (16 manual and 13 automated injections). Manual injection showed longer T0, TTP, and MTT in all regions of interest and higher relCBV in the semioval center compared to automated injection. The relCBF was higher in the thalamus and piriform lobe with automated injection. CONCLUSIONS: With manual injection, the perfusion curves appeared flatter and wider compared to automated injection, resulting in prolonged T0, TTP, MTT, and reduced relCBF. CLINICAL RELEVANCE: Automated injection achieves superior reproducibility of DSC curves. However, manual injection is also feasible, but wider DSC curves should be expected, and appropriate reference parameters should be considered when evaluating brain pathology.",
+      "affiliations": [
+        "Clinic for Diagnostic Imaging, Department of Diagnostics and Clinical Services, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
+        "Vetimage Diagnostik AG, Oberentfelden, Switzerland.",
+        "Clinic for Small Animals, Department of Diagnostic Imaging, University of Veterinary Medicine Hannover, Foundation, Hannover, Germany.",
+        "Department of Small Animals, Division of Neurology and Neurosurgery, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland."
+      ],
+      "keywords": [
+        "DSC",
+        "administration method",
+        "cerebral blood flow",
+        "gadolinium",
+        "perfusion-weighted imaging"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42608000",
       "title": "Preclinical Cyclic Testing of Adjunctive Fixation of the Humeral Epicondyle in a Lateral Condylar Fracture Model: Ex Vivo Comparison of a Locking Plate versus a Light-curable Composite.",
@@ -4830,17 +4915,15 @@
       ],
       "mesh": [
         "Animals",
-        "Curcumin",
         "Cats",
-        "Cat Diseases",
-        "Renal Insufficiency, Chronic",
-        "Male",
-        "Female",
-        "Oxidative Stress",
-        "Biomarkers",
         "Apoptosis",
+        "Arginine",
+        "Biomarkers",
+        "Cat Diseases",
+        "Curcumin",
+        "Oxidative Stress",
         "Prospective Studies",
-        "Arginine"
+        "Renal Insufficiency, Chronic"
       ],
       "category": "internal",
       "summary_ko": ""
@@ -11961,12 +12044,10 @@
       "mesh": [
         "Animals",
         "Cats",
+        "Cat Diseases",
         "Congenital Portosystemic Shunt",
         "Embolization, Therapeutic",
-        "Cat Diseases",
-        "Female",
         "Retrospective Studies",
-        "Male",
         "Treatment Outcome"
       ],
       "category": "imaging",
