@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 03:27 UTC",
-  "total": 3898,
+  "updated": "2026-08-20 23:44 UTC",
+  "total": 3901,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,68 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42622352",
+      "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+      "authors": "Knies M, Hofman N, Jackson-Onis J, Broens EM, Teske E",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Aug 20",
+      "sortdate": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622352/",
+      "abstract": "OBJECTIVES: To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs. METHODS: Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on AAFP/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test, and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t-tests. RESULTS: One hundred cats were included (effusions n = 62, FNAs n = 38). Overall agreement between assays was substantial (&#x3ba; = 0.73), with near-perfect concordance for effusions (&#x3ba; = 0.81) and lower agreement for FNAs (&#x3ba; = 0.61). Relative sensitivity was highest in effusions (98.1% point-of-care, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle). CONCLUSION AND RELEVANCE: The point-of-care FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry higher risk of false negatives likely due to low viral loads and heterogeneous distribution. Point-of-care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics.",
+      "affiliations": [
+        "AniCura Specialist Referral Centre Haaglanden, The Netherlands.",
+        "Department of Biomolecular Health Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.",
+        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands."
+      ],
+      "keywords": [
+        "FIP",
+        "RT-qPCR",
+        "assay",
+        "assay comparison",
+        "diagnostics",
+        "point-of-care testing",
+        "rapid molecular testing"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42618917",
+      "title": "Morphometric assessment of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade II medial patellar luxation.",
+      "authors": "Barthmann R, Theyse LF",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 19",
+      "sortdate": "2026-08-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618917/",
+      "abstract": "BACKGROUND: Medial patellar luxation is a common orthopedic condition in small breed dogs, though its etiology remains poorly understood. The aim of this study was to assess the morphometry of the femoral trochlea, patella and patellar ligament in small breed dogs with and without grade 2 medial patellar luxation. This retrospective study evaluated small breed dogs weighing&#x2009;&#x2264;&#x2009;15&#xa0;kg including 80 stifles with Grade 2 MPL and 80 controls. The femoral trochlear length to patellar length ratio (TL: PL), trochlear curvature to condylar curvature ratio (TC: CC) and patellar ligament length to patellar length ratio (PLL: PL) were assessed. In addition, these parameters were determined comparing dogs with and without a chondrodysplastic phenotype. T-tests and ANOVA were used for statistical analysis. RESULTS: The TL: PL ratio was increased in dogs with grade II MPL compared to controls with 1.7&#x2009;&#xb1;&#x2009;0.3 and 1.6&#x2009;&#xb1;&#x2009;0.2. (p&lt;.001), respectively. This indicates an increased length of the trochlea. No differences were found in the TC: CC and PLL: PL ratios between both groups. Within the grade II MPL group, there was an increased PLL: PL ratio (2.0&#x2009;&#xb1;&#x2009;0.2; 1.9&#x2009;&#xb1;&#x2009;0.2; p=.002) in dogs with chondrodysplastic phenotype in comparison with non-chondrodysplastic phenotype. A decreased femoral trochlear length, or a decreased curvature of the femoral trochlea does not seem to be related to grade II patella luxation in small breed dogs. In dogs with a chondrodysplastic phenotype the relatively longer patellar ligament could play a role in the development of grade II MPL. CONCLUSION: Trochlear length and curvature did not seem to be related to the development of grade II MPL. In dogs with a chondrodysplastic phenotype, grade II MPL could be related to a longer patellar ligament.",
+      "affiliations": [
+        "Department for Small Animals, University of Leipzig, Leipzig, Germany. rudi.barthmann@kleintierklinik.uni-leipzig.de.",
+        "Department for Small Animals, University of Leipzig, Leipzig, Germany."
+      ],
+      "keywords": [
+        "Chondrodysplasia",
+        "Medial patella luxation",
+        "Morphometric measurements",
+        "Stifle radiography"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Patellar Dislocation",
+        "Femur",
+        "Female",
+        "Patellar Ligament",
+        "Patella",
+        "Retrospective Studies",
+        "Dog Diseases",
+        "Male",
+        "Stifle"
+      ],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "42613071",
       "title": "Toxicity of Cytarabine Intravenous Constant Rate Infusion in Cats With Lymphoma.",
@@ -1067,6 +1129,32 @@
       ],
       "mesh": [],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42622030",
+      "title": "Effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, and oxidative stress in dogs with naturally occurring cardiac disease.",
+      "authors": "Kim DY, Park HM",
+      "journal": "Front Vet Sci",
+      "date": "2026 Aug 05",
+      "sortdate": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42622030/",
+      "abstract": "INTRODUCTION: Cardiac diseases such as myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM) are common in dogs and are associated with progressive cardiac dysfunction and increased oxidative stress. Despite the widespread use of nutraceuticals in veterinary medicine, clinical evidence supporting their efficacy remains limited. This study aimed to evaluate the effects of a resveratrol-containing nutraceutical on cardiac biomarkers, echocardiographic parameters, oxidative stress, and safety in dogs with naturally occurring cardiac disease. METHODS: This prospective, non-randomized, open-label study included 24 client-owned dogs allocated to a treatment group (n = 12) or a control group (n = 12). Dogs in the treatment group received a resveratrol-containing nutraceutical (with taurine, vitamin E, and coenzyme Q10) once daily for approximately one month, while control dogs received standard cardiac medications without nutraceutical supplementation. Cardiac biomarkers (NT-proBNP, cTnI), echocardiographic variables including global longitudinal strain (GLS), and oxidative stress markers (TAC, MDA) were evaluated. RESULTS: The percent change in NT-proBNP was significantly lower in the treatment group than in controls (-4.51 &#xb1; 46.21% vs. +44.61 &#xb1; 62.36%, P = 0.024), indicating attenuation of NT-proBNP elevation. TAC increased in the treatment group but decreased in controls (7.85 &#xb1; 7.07% vs. -8.00 &#xb1; 5.31%, P &lt; 0.0001). No significant between-group differences were observed for cTnI (P = 0.164), GLS (P = 0.214), or MDA (P = 0.590). A significant negative association was observed between changes in TAC and NT-proBNP (r = -0.471, P = 0.020). No clinically relevant adverse effects were observed. DISCUSSION: Findings from this exploratory pilot study suggest that a resveratrol-containing nutraceutical was associated with attenuation of NT-proBNP elevation and an increase in total antioxidant capacity in dogs with cardiac disease. These preliminary findings suggest a potential role for antioxidant-based nutraceuticals as adjunctive therapy, although further studies with larger populations and longer follow-up are needed.",
+      "affiliations": [
+        "Department of Veterinary Internal Medicine, College of Veterinary Medicine, Konkuk University, Seoul, Republic of Korea.",
+        "Choonghyun Animal Hospital, Seoul, Republic of Korea."
+      ],
+      "keywords": [
+        "MMVD",
+        "NT-ProBNP",
+        "antioxidant capacity",
+        "canine cardiac disease",
+        "nutraceutical",
+        "oxidative stress",
+        "resveratrol"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -38308,15 +38396,17 @@
         "Thrombus"
       ],
       "mesh": [
+        "Female",
         "Animals",
         "Dogs",
-        "Female",
+        "Tachypnea",
+        "Adrenal Cortex Hormones",
+        "Anti-Bacterial Agents",
         "Dog Diseases",
-        "Thrombosis",
-        "Aortic Diseases",
-        "Fatal Outcome",
         "Heart Failure",
-        "Tomography, X-Ray Computed"
+        "Tomography, X-Ray Computed",
+        "Aortic Diseases",
+        "Thrombosis"
       ],
       "category": "cardiac",
       "summary_ko": ""
