@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20 23:44 UTC",
-  "total": 3901,
+  "updated": "2026-08-21 03:35 UTC",
+  "total": 3904,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -41,6 +41,88 @@
       ],
       "mesh": [],
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624280",
+      "title": "Tail Wounds in Military Working Dogs: Clinical Characterization and a Randomized Sham-Controlled Trial of Photobiomodulation.",
+      "authors": "Fishelson Y, Hirschberg RE, Raizman R, Zori T, Olshinka N, Gavish L",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "sortdate": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624280/",
+      "abstract": "BACKGROUND: Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. OBJECTIVE: To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. METHODS: This prospective study included an observational cohort of 21 active MWDs (age 4.1&#xb1;2.2 years; 95% male; predominantly Belgian Malinois [57%]) with clinically evident tail wounds and a randomized, sham-controlled interventional subset of 16 dogs (PBM n=8, sham n=8) that excluded dogs that were not available for the intervention due to activity duties. Dogs received daily PBM or sham treatment for 2 weeks. Wounds were assessed at baseline and 2 weeks of treatment using surface measurements, thermal imaging, and a modified canine Bates-Jensen Wound Assessment Tool (BWAT). The primary outcome was change in wound area. RESULTS: Tail wounds were predominantly chronic (&#x2265;1 month)(76%) and recurrent (62%), with moderate-to-marked bleeding in 53% of cases. Thermal imaging demonstrated higher temperatures in the wound bed compared to surrounding tissue (&#x394;2.8&#xb1;0.7&#xb0;C, p&lt;0.001), indicating preserved perfusion. In the randomized cohort, wound area did not significantly change over time (PBM: 0.6&#xb1;0.4 to 0.7&#xb1;0.4cm&#xb2;; sham: 1.3&#xb1;1.0 to 1.1&#xb1;0.7cm&#xb2;). In contrast, the surrounding hairless area decreased significantly in both groups without significant between-group difference ( p=0.077). BWAT scores showed non-significant improvement in both groups. CONCLUSION: PBM, as applied in this protocol, did not improve healing of tail wounds in MWDs. These findings suggest that persistent trauma may limit wound healing despite preserved repair processes.",
+      "affiliations": [
+        "Israel Defense Forces Medical Corps, Israel.",
+        "Brockton Animal Hospital, MA, USA.",
+        "Department of Professional Practice, Scarborough Health Network, Adjunct Lecturer Lawrence S. Bloomberg Faculty of Nursing, University of Toronto, Toronto, Canada.",
+        "Institute for Research in Military Medicine (IRMM), Faculty of Medicine, The Hebrew University of Jerusalem and the Israel Defense Forces Medical Corps, Jerusalem, Israel.",
+        "Department of Orthopedic Surgery, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.",
+        "Institute for Research in Military Medicine (IRMM), Faculty of Medicine, The Hebrew University of Jerusalem and the Israel Defense Forces Medical Corps, Jerusalem, Israel; The Saul and Joyce Brandman Hub for Cardiovascular Research and the Department of Medical Neurobiology, Institute for Medical Research (IMRIC), Faculty of Medicine, The Hebrew University of Jerusalem, Israel. Electronic address: lilachg@ekmd.huji.ac.il."
+      ],
+      "keywords": [
+        "Military working dogs",
+        "Photobiomodulation",
+        "Tail wounds",
+        "chronic wounds",
+        "low-level laser therapy",
+        "thermal imaging"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624279",
+      "title": "Lesion distribution based on oral biopsy and histopathology in dogs: a retrospective study of 338 cases (2015-2025).",
+      "authors": "Kim CG, Jeong KJ, Kim J, Vapniarsky N, Kang SS, Kim SE, Jo HM",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "sortdate": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624279/",
+      "abstract": "The histopathologic spectrum of canine oral lesions can vary significantly by geographic region and breed demographics. This retrospective study aimed to characterize the distribution of 338 biopsy-confirmed canine oral masses in the Republic of Korea, where small-breed dogs predominate. Lesions were categorized into tumor-like, benign, and malignant groups. Clinicopathologic features and anatomical distributions were compared. Tumor-like (non-neoplastic) lesions accounted for 52.7% of all cases. Among the 160 confirmed neoplasms, benign tumors (73.7%) were more frequent than malignant tumors (26.3%). Peripheral odontogenic fibroma (POF) and canine acanthomatous ameloblastoma (CAA) were the predominant benign tumors. Notably, squamous cell carcinoma (SCC) was the most frequently identified malignant tumor (50.0%), followed by malignant melanoma (MM) (26.2%). This contrasts with several large-scale studies from other countries where MM typically predominates. Dogs with malignant tumors were significantly older (median 12.0 years) than those with benign tumors (median 9.0 years). Body weight, gender, and overall anatomical distribution showed no significant association with malignancy, although specific tumors exhibited distinct site preferences. The high proportion of non-neoplastic lesions among biopsy-confirmed cases emphasizes that clinically apparent oral masses require histopathologic confirmation. Furthermore, awareness of age-related risks and site-specific tumor distribution patterns can assist clinicians in prioritizing differential diagnoses during clinical evaluation.",
+      "affiliations": [
+        "Dentistry and Oral Surgery Service, Evichi Veterinary Dental Hospital, Seoul, Republic of Korea.",
+        "Onnury Animal Hospital, Jeollanam-do, Republic of Korea.",
+        "Hangyul Animal Hospital, Gwangju, Republic of Korea.",
+        "School of Veterinary Medicine, Department of Pathology, Microbiology, and Immunology, University of California, Davis, Davis, CA, United States.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine and BK21 Plus Project Team, Chonnam National University, Gwangju 61186, Republic of Korea; Biomaterial R&amp;BD Center, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine and BK21 Plus Project Team, Chonnam National University, Gwangju 61186, Republic of Korea; Biomaterial R&amp;BD Center, Chonnam National University, Gwangju 61186, Republic of Korea. Electronic address: holmes2003@naver.com."
+      ],
+      "keywords": [
+        "canine oral mass",
+        "histopathology",
+        "small-breed dog",
+        "tumor",
+        "tumor-like lesion"
+      ],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "42624277",
+      "title": "Underlying causes of thrombocytopenia in dogs from a Mediterranean mixed primary and referral hospital in Barcelona: a retrospective cross-sectional study of 266 cases.",
+      "authors": "Carrasco M, Clanxet J, Feo L, Puig J",
+      "journal": "Vet J",
+      "date": "2026 Aug 20",
+      "sortdate": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624277/",
+      "abstract": "Thrombocytopenia is common in dogs and has a wide range of underlying causes, including vector-borne infectious diseases, the relative frequency of which may vary geographically. This retrospective cross-sectional study aimed to characterise the causes and clinicopathological features of thrombocytopenia in a hospital-based cohort of dogs evaluated at a mixed primary and referral veterinary hospital in Barcelona, Spain, and to identify differences across diagnostic categories, particularly those associated with primary immune thrombocytopenia (pITP). Medical records of dogs diagnosed with thrombocytopenia between 2021 and 2023 were reviewed. Of 612 dogs identified, 266 met the inclusion criteria. Neoplasia was the most common diagnosis (31.6%), followed by infectious diseases (24.4%), inflammatory or immune-mediated disorders (16.2%), miscellaneous conditions (15.4%) and primary immune thrombocytopenia (12.4%). Vector-borne diseases accounted for 10.9% of cases, mainly leishmaniosis and babesiosis. Dogs with neoplasia were older than those in other groups. Clinical bleeding was recorded in 42.5% of dogs and was most frequent in primary immune thrombocytopenia (78.8%). Fever was more common in infectious diseases, particularly non-vector-borne diseases. Albumin concentration was higher in primary immune thrombocytopenia than in infectious disease groups, whereas globulin concentration was higher in vector-borne diseases. Dogs with primary immune thrombocytopenia had lower platelet counts than all other groups. In this hospital-based cohort, neoplasia was the most common diagnostic category among dogs with thrombocytopenia, whereas vector-borne diseases were of intermediate frequency compared with reports from other European hospital-based cohorts. Distinct clinicopathological patterns, particularly severe thrombocytopenia and cutaneous haemorrhage, may help clinicians differentiate pITP from other causes of thrombocytopenia.",
+      "affiliations": [
+        "Mars Veterinary Health, Barcelona, Barcelona SPAIN. Electronic address: montse.carrasco@anicura.es.",
+        "Mars Veterinary Health."
+      ],
+      "keywords": [
+        "Canine",
+        "Mediterranean",
+        "Spain",
+        "platelets",
+        "thrombocytopenia",
+        "vector-borne diseases"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -2164,13 +2246,13 @@
     },
     {
       "id": "42487432",
-      "title": "EXPRESS: Intraoperative opioid-sparing effect of a quadratus lumborum block using low-concentration bupivacaine and dexmedetomidine in cats undergoing ovariohysterectomy.",
+      "title": "Intraoperative opioid-sparing effect of a quadratus lumborum block using low-concentration bupivacaine and dexmedetomidine in cats undergoing ovariohysterectomy.",
       "authors": "Takusagawa F, Takusagawa Y, Kimura T",
       "journal": "J Feline Med Surg",
       "date": "2026 Jul 22",
       "sortdate": "2026-07-22",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42487432/",
-      "abstract": "OBJECTIVES: This study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy. METHODS: A total of 28 cats scheduled for ovariohysterectomy and classified as ASA I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1 &#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumbency using the allocated solution. If heart rate or mean arterial pressure increased by &#x2265;20% from baseline during surgery, fentanyl (2 &#xb5;g/kg IV) was administered as rescue analgesia. Postoperative pain was assessed 1, 2, 3, 6, and 12 h after extubation using the Short-Form UNESP-Botucatu Multidimensional Composite Pain Scale. Buprenorphine (0.02 mg/kg IM) was administered if the pain score was &#x2265;4/12. RESULTS: The cumulative intraoperative dose of fentanyl was significantly lower in the BD group (1 [0-6] &#xb5;g/kg) than in the BS group (2 [0-8] &#xb5;g/kg) (P = 0.030). No significant difference was observed between the groups in terms of the proportion of cats requiring intraoperative or postoperative rescue analgesia, postoperative pain scores at any time point, intraoperative physiological parameters, or time-related variables. CONCLUSIONS AND RELEVANCE: QLB performed in sternal recumbency using low-concentration bupivacaine with dexmedetomidine was associated with a modest reduction in intraoperative opioid requirements during ovariohysterectomy in cats. However, as this study design could not differentiate between the local and systemic effects of dexmedetomidine, further research is needed to clarify their relative contributions and determine the optimal adjunctive dose.",
+      "abstract": "ObjectivesThis study aimed to evaluate the intraoperative opioid-sparing effect of quadratus lumborum block (QLB) using low-concentration bupivacaine combined with dexmedetomidine in cats undergoing ovariohysterectomy.MethodsA total of 28 cats scheduled for ovariohysterectomy and classified as American Society of Anaesthesiologists status I were enrolled and randomly allocated to either a bupivacaine (0.125%) and saline (BS) or bupivacaine (0.125%) and dexmedetomidine (1&#x2009;&#xb5;g/kg) (BD) group. The cats underwent ultrasound-guided QLB in sternal recumbency using the allocated solution. If heart rate or mean arterial pressure increased by 20% or more from baseline during surgery, fentanyl (2&#x2009;&#xb5;g/kg IV) was administered as rescue analgesia. Postoperative pain was assessed 1, 2, 3, 6 and 12&#x2009;h after extubation using the Short-Form UNESP-Botucatu Multidimensional Composite Pain Scale. Buprenorphine (0.02&#x2009;mg/kg IM) was administered if the pain score was 4/12 or higher.ResultsThe cumulative intraoperative dose of fentanyl was significantly lower in the BD group (1&#x2009;&#xb5;g/kg [range 0-6]) than in the BS group (2&#x2009;&#xb5;g/kg [range 0-8]; P&#x2009;=&#x2009;0.030). No significant difference was observed between the groups in terms of the proportion of cats requiring intraoperative or postoperative rescue analgesia, postoperative pain scores at any time point, intraoperative physiological parameters or time-related variables.Conclusions and relevanceQLB performed in sternal recumbency using low-concentration bupivacaine with dexmedetomidine was associated with a modest reduction in intraoperative opioid requirements during ovariohysterectomy in cats. However, as this study design could not differentiate between the local and systemic effects of dexmedetomidine, further research is needed to clarify their relative contributions and determine the optimal adjunctive dose. A nerve block with a drug that has sedative and analgesic effects reduces pain relief needs during spay surgery in catsThis study looked at whether adding a sedative and analgesic drug called dexmedetomidine to a nerve block could reduce the need for pain relief drugs during spay surgery in cats.",
       "affiliations": [
         "Seibozaka Animal Hospital, Tokyo, Japan.",
         "Japan Veterinary Medical Research Institute, Tokyo, Japan.",
@@ -2182,9 +2264,22 @@
         "dexmedetomidine",
         "opioid-sparing effect",
         "ovariohysterectomy",
-        "regional anesthesia"
+        "regional anaesthesia"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Bupivacaine",
+        "Dexmedetomidine",
+        "Cats",
+        "Hysterectomy",
+        "Ovariectomy",
+        "Female",
+        "Postoperative Pain",
+        "Anesthetics, Local",
+        "Nerve Block",
+        "Analgesics, Opioid",
+        "Analgesics, Non-Narcotic"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -7431,30 +7526,41 @@
     },
     {
       "id": "42359891",
-      "title": "EXPRESS: SURGICAL REPAIR OF STEROIDAL AND NONSTEROIDAL ANTI-INFLAMMATORY DRUG-ASSOCIATED FULL THICKNESS GASTROINTESTINAL ULCERS IN 10 CATS.",
-      "authors": "Jimeno Sandoval JC, Ribeiro da Cunha C, Rossanese M, Pilot MA, Menghini T, Villedieu EJA, Quinn R",
+      "title": "Surgical repair of steroidal and non-steroidal anti-inflammatory drug-associated full-thickness gastrointestinal ulcers in 10 cats.",
+      "authors": "Jimeno Sandoval JC, Ribeiro da Cunha C, Rossanese M, Pilot MA, Menghini T, Villedieu EJA, Quinn RJ",
       "journal": "J Feline Med Surg",
       "date": "2026 Jun 26",
       "sortdate": "2026-06-26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359891/",
-      "abstract": "ObjectivesThis study aimed to describe the clinical presentation, surgical management, complications and outcomes of cats with gastrointestinal (GI) ulcer perforation associated with recent administration of non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids, or both.MethodsA retrospective review of medical records from five UK referral hospitals was conducted between 2009 and 2024. Cats were included if they underwent surgical correction of GI ulceration within 14 days of NSAID and/or corticosteroid administration.ResultsTen cats met the inclusion criteria. The proximal duodenum was the most common site of perforation (6/10), followed by the gastric body (2/10). Surgical techniques varied and included primary repair (5/10), Y-U pyloroplasty (2/10), enterectomy (2/10) and partial gastrectomy (1/10). All cats survived the immediate postoperative period; however, one cat did not survive to discharge (median hospitalisation time: 6 days; range: 3-15 days). Short-term complications were noted in three cats: 1 death (sepsis 9 days after surgery) and 3 mild complications, with two of these complications occurring in the same cat. Long-term complications were noted in 1 cat (severe ulcerative duodenopathy and euthanised 16 days after surgery). Long-term follow-up (median: 928 days; range: 9-1215 days) revealed that five (5/10) cats remained alive at study completion. Two deaths (2/10) were attributed to GI ulcer-related complications.Conclusions and relevanceGastrointestinal perforation secondary to recent NSAID or corticosteroid administration in cats carries a favourable prognosis following surgical correction. Despite the high-risk nature of GI perforation, the majority of cats survived to discharge.",
+      "abstract": "ObjectivesThis study aimed to describe the clinical presentation, surgical management, complications and outcomes of cats with gastrointestinal (GI) ulcer perforation associated with recent administration of non-steroidal anti-inflammatory drugs (NSAIDs), corticosteroids or both.MethodsA retrospective review of medical records from five UK referral hospitals was conducted between 2009 and 2024. Cats were included if they underwent surgical correction of GI ulceration within 14 days of NSAID and/or corticosteroid administration.ResultsA total of 10 cats met the inclusion criteria. The proximal duodenum was the most common site of perforation (n&#x2009;=&#x2009;6/10), followed by the gastric body (n&#x2009;=&#x2009;2/10). Surgical techniques varied and included primary repair (n&#x2009;=&#x2009;5/10), Y-U pyloroplasty (n&#x2009;=&#x2009;2/10), enterectomy (n&#x2009;=&#x2009;2/10) and partial gastrectomy (n&#x2009;=&#x2009;1/10). All cats survived the immediate postoperative period; however, one cat did not survive to discharge (median hospitalisation time 6 days [range 3-15]). Short-term complications were noted in three cats: one death (sepsis 9 days postoperatively) and three mild complications, with two of these complications occurring in the same cat. Long-term complications were noted in one cat (severe ulcerative duodenopathy and euthanased 16 days postoperatively). Long-term follow-up (median 928 days [range 9-1215]) revealed that 5/10 cats remained alive at study completion. Two deaths (n&#x2009;=&#x2009;2/10) were attributed to GI ulcer-related complications.Conclusions and relevanceGI perforation secondary to recent NSAID or corticosteroid administration in cats carries a favourable prognosis after surgical correction. Despite the high-risk nature of GI perforation, the majority of cats survived to discharge. Surgery to repair severe stomach and intestinal ulcers linked to anti-inflammatory pain medicines in 10 catsCats are often prescribed anti-inflammatory medications like non-steroidal anti-inflammatory drugs (NSAIDs) or steroids to treat pain and other health problems. In rare cases, these drugs can cause serious stomach or intestinal ulcers that may lead to life-threatening septic peritonitis. This study looked at cats that developed ulcers that caused a hole (perforation) in their stomach or intestines, requiring emergency surgery. We reviewed the medical records of 10 cats treated at UK specialist hospitals between 2009 and 2024. Each cat had received NSAIDs, steroids or both within 2 weeks before surgery. We looked at their clinical signs, treatments, types of surgery performed and how they recovered after surgery. All 10 cats had surgery to repair the ulcer. The most common signs before surgery included not eating, vomiting and low energy. The most common ulcer site was the first part of the small intestine (duodenum). All cats survived the surgery and most went home (usually after 6 days in the hospital). Some had mild complications like vomiting or appetite loss. Two cats died from problems related to ulcers, one shortly after surgery and one 2 weeks later. At the end of the study, five of the 10 cats were still alive and three had died of unrelated causes. Although ulcers caused by NSAIDs or steroids are rare, they can be very serious. If treated quickly with surgery, many cats can recover and live well afterwards. It is important for pet owners to use these medications exactly as prescribed and to monitor for warning signs like vomiting, not eating or low energy if their cat is on anti-inflammatory medication.",
       "affiliations": [
-        "Anderson Moores Veterinary Specialists, Winchester, United Kingdom.",
-        "Royal Veterinary College, Hatfield, United Kingdom.",
+        "Anderson Moores Veterinary Specialists, Winchester, UK.",
+        "Royal Veterinary College, Hatfield, UK.",
         "Langford Vets Small Animal Referral Hospital, University of Bristol, Bristol, UK.",
-        "Veterinary Medical and Surgical Group, Orange County, California, United States of America.",
-        "Willows Veterinary Centre and Referral Service, Willows Veterinary Centre and Referral Service, Shirley, UK.",
-        "Vita Referrals, Wetherby, United Kingdom."
+        "Veterinary Medical and Surgical Group, Orange County, CA, USA.",
+        "Willows Veterinary Centre and Referral Service, Shirley, UK.",
+        "Vita Referrals, Wetherby, UK."
       ],
       "keywords": [
         "Gastrointestinal",
-        "NSAIDs",
-        "cat",
+        "non-steroidal anti-inflammatory drugs",
         "perforation",
         "steroids",
         "ulceration"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Adrenal Cortex Hormones",
+        "Treatment Outcome",
+        "Stomach Ulcer",
+        "Peptic Ulcer Perforation"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
