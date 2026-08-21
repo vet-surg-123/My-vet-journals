@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21 03:35 UTC",
-  "total": 3904,
+  "updated": "2026-08-21 23:03 UTC",
+  "total": 3907,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -158,6 +158,31 @@
         "Stifle"
       ],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42625871",
+      "title": "Bilateral Ovarian Cystadenoma in a Dog: Morphological and Histopathological Features.",
+      "authors": "Nozari Z, Khodaverdian S, Mogheiseh A, Ahmadi N, Amanollahi S",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Aug 19",
+      "sortdate": "2026-08-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625871/",
+      "abstract": "Normal and abnormal cystic structures around the ovaries need to be evaluated based on the history, clinical signs, diagnostic imaging and paraclinical methods. An intact spitz nulliparous female, 9 years old, was referred with a normal estrous cycle and health history. During the ultrasound examination, bilateral cystic structures were observed around the ovaries just caudal to the kidneys. The left-side cystic masses were larger than the right-side and no abdominal free fluid observed. Based on the cystic structures and the age of the dog, an ovariohysterectomy was performed and histopathological samples were prepared for evaluation. Histopathological evaluation revealed multicystadenoma tumors originating from the subepithelial structures of the ovaries. No clinical signs of hormonal activity of cystic tumors were observed. They may affect transportation of oocytes from the ovary to the oviduct due to their physical structures in the ovulation space and infundibulum of the oviduct.",
+      "affiliations": [
+        "Department of Clinical Sciences, School of Veterinary Medicine, Shiraz University, Shiraz, Fars, Iran, shirazu.ac.ir.",
+        "Department of Pathobiology, School of Veterinary Medicine, Shiraz University, Shiraz, Fars, Iran, shirazu.ac.ir."
+      ],
+      "keywords": [
+        "estrus",
+        "fertility",
+        "histopathology",
+        "multiple cysts",
+        "ovaries",
+        "ultrasound"
+      ],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -1140,6 +1165,33 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42626410",
+      "title": "Association between echogenicity of ascites and its classification in dogs.",
+      "authors": "Biondo S, Jakovljevic S, Pascual M, Fernandez M, Fayers B, Valls Sanchez F",
+      "journal": "Front Vet Sci",
+      "date": "2026 Aug 06",
+      "sortdate": "2026-08-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626410/",
+      "abstract": "BACKGROUND: Ascites in dogs results from a range of systemic and localized disorders. Early distinction between transudative and exudative peritoneal effusions, and between septic and non-septic exudates, is crucial for guiding emergency interventions and treatment strategies. OBJECTIVE: To evaluate the relationship between echogenicity of ascites and results of fluid analysis, and to determine whether echogenicity can help differentiate transudates from exudates. METHODS: Retrospective study including 100 client-owned dogs with ultrasonographically confirmed peritoneal effusion and fluid analysis performed within 3 h of imaging. Effusions were classified according to total nucleated cell count (TNCC) and total protein concentration (TPC) as follows: transudates (&lt;1,500 cells/&#x3bc;L, &lt;2.5 g/dl), exudates (&#x2265;5,000 cells/&#x3bc;L, &#x2265;2.5 g/dl), or other (hemoperitoneum, biliary peritonitis, uroperitoneum). Static DICOM images and cine loops were acquired and independently assessed by a board-certified radiologist and a radiology resident. Consensus was reached for all cases. Effusions with uniform echo-free appearance were deemed anechogenic; those containing multiple or confluent hyperechoic foci were classified as echogenic. RESULTS: Sixty-six effusions were echogenic and 34 anechogenic. Of the 40 exudates, 80% were echogenic compared to 43% of the 41 transudates. All 17 septic exudates (100%) were echogenic compared to 65% of 23 non-septic exudates. TNCC (&#x2265;5,000 cells/&#x3bc;L) and TPC (&gt;4.5 g/dL) were strongly correlated with echogenic appearance. CONCLUSIONS: Echogenicity correlated significantly with exudative and septic effusions. Echogenicity may offer a rapid, non-invasive method to complement cytologic and biochemical analyses. Incorporating echogenicity assessment into abdominal ultrasonographic protocols may hasten critical clinical decision-making and improve outcomes in dogs with ascites.",
+      "affiliations": [
+        "Dick White Referrals, Part of Linnaeus Veterinary Ltd, Cambridgeshire, United Kingdom.",
+        "Veterinaria del Mar, Barcelona, Spain.",
+        "Southfields Veterinary Specialists, Essex, United Kingdom.",
+        "WeYouVets, Essex, United Kingdom."
+      ],
+      "keywords": [
+        "ascites",
+        "cytology",
+        "dog",
+        "exudate",
+        "peritoneal effusion",
+        "ultrasound"
+      ],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -6926,6 +6978,39 @@
         "Logistic Models",
         "Cohort Studies",
         "Prognosis"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42627936",
+      "title": "Rethinking clinical response criteria in trials of chronic enteropathy in dogs: what change is truly meaningful?",
+      "authors": "Méric T, Vérollet C, Darnis E, Rhimi M, Hernandez J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Jul 01",
+      "sortdate": "2026-07-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42627936/",
+      "abstract": "Rethinking response criteria of treatment of chronic enteropathy in dog is necessary, as clinical activity indices are widely used as primary endpoints despite substantial variability in how \"response,\" \"remission,\" and \"relapse\" are defined. Across recent studies, response thresholds range from modest relative reductions (eg, &#x2265;25%) to stringent targets (eg, &#x2265;75%), absolute score cut-offs, shifts between severity categories, or binary resolution of clinical signs. This methodological heterogeneity undermines comparability between trials and complicates evidence synthesis. An often-overlooked contributor to this issue is the intrinsic variability of the Canine Inflammatory Bowel Disease Activity Index and the Canine Chronic Enteropathy Clinical Activity Index, particularly their limited inter-observer reproducibility for total scores and several core items. When commonly used response thresholds overlap with expected measurement error, apparent clinical improvement might reflect scoring variability rather than true change in disease activity. We therefore propose a pragmatic framework for response classification anchored in the measurement properties of these instruments. For research endpoints, an absolute change of at least 4 points (&#x394;&#xa0;&#x2265;&#xa0;4) is suggested as a conservative minimal detectable change to reduce misclassification of responders and non-responders. In dogs with low baseline scores driven by 1 or 2 isolated abnormalities, an item-centered approach (&#x394; item &#x2265;2) might be more appropriate, particularly for variables such as stool consistency or defecation frequency. Finally, transparent reporting of scoring conditions, prioritization of evaluator consistency, and integration of complementary outcomes, including validated health-related quality-of-life measures and longitudinal symptom tracking, might help better capture clinically meaningful effects.",
+      "affiliations": [
+        "Oniris VetAgroBio Nantes, CHUV, 44300 Nantes, France.",
+        "Microbiota Interaction with Human and Animal (MIHA) Team, Micalis Institute, Institut National de Recherche Pour l'Agriculture, l'Alimentation et l'Environnement, AgroParisTech, Universit&#xe9; Paris-Saclay, 78350 Jouy-en-Josas, France.",
+        "CHV Cordeliers, 77700 Meaux, France."
+      ],
+      "keywords": [
+        "CCECAI",
+        "CIBDAI",
+        "clinical response criteria",
+        "measurement variability",
+        "minimal detectable change"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Chronic Disease",
+        "Intestinal Diseases",
+        "Inflammatory Bowel Diseases",
+        "Treatment Outcome"
       ],
       "category": "internal",
       "summary_ko": ""
@@ -13216,14 +13301,12 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Fracture Fixation, Internal",
         "Bone Plates",
-        "Ilium",
-        "Male",
-        "Female",
+        "Fracture Fixation, Internal",
         "Fractures, Bone",
-        "Treatment Outcome",
-        "Prospective Studies"
+        "Ilium",
+        "Prospective Studies",
+        "Treatment Outcome"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -15722,16 +15805,16 @@
       "mesh": [
         "Animals",
         "Dogs",
+        "Female",
+        "Male",
+        "Age Factors",
+        "Aging",
+        "Case-Control Studies",
         "Dog Diseases",
         "Meningoencephalitis",
-        "Retrospective Studies",
-        "Female",
-        "Case-Control Studies",
-        "Male",
         "Prognosis",
-        "Age Factors",
         "Recurrence",
-        "Aging"
+        "Retrospective Studies"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
