@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 03:13 UTC",
-  "total": 3907,
+  "updated": "2026-08-22 23:00 UTC",
+  "total": 3909,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,66 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42630097",
+      "title": "Clinical Behaviour and Outcome of Pelvic Osteosarcoma in Dogs: A Retrospective Multicentre Analysis of 74 Cases (2007-2025).",
+      "authors": "Fejös C, Czichon F, Griffin M, Grillo N, Fournier Q, Oblak ML, Eng-Toogood M, Kent M, Desmas-Bazelle I, Kleiter M",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Aug 22",
+      "sortdate": "2026-08-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42630097/",
+      "abstract": "Although osteosarcoma is the most common primary bone tumour in dogs, involvement of the pelvic bones is rare. The aim of the present study was to describe clinical presentation, identify possible prognostic factors, and evaluate outcomes in dogs diagnosed with pelvic osteosarcoma. Seventy-four dogs with cytologically or histologically diagnosed pelvic osteosarcoma were included in this multicentre retrospective study (2007-2025). The median progression-free survival (PFS) and overall survival (OS) were estimated using the Kaplan-Meier method, with comparisons performed using log-rank tests. Prognostic factors for PFS and OS were assessed using multivariable Cox proportional hazards regression analysis. Lameness (84%) was the most common presenting clinical sign, and the ilium (57%) was the most frequent intrapelvic tumour location. Thirty-one percent of dogs had metastases at diagnosis, primarily affecting the lungs. The median PFS was 75&#x2009;days, and the median OS was 79&#x2009;days. Dogs receiving any treatment had significantly longer PFS (116 vs. 7&#x2009;days, p&#x2009;&lt;&#x2009;0.001) and OS (145 vs. 8&#x2009;days, p&#x2009;&lt;&#x2009;0.001) than untreated dogs. No factors were significantly associated with PFS. In contrast, dogs with higher body weight and shorter time to diagnosis tended to have more favourable survival, whereas chemotherapy and local progression were associated with poorer outcomes. Despite the overall poor prognosis associated with pelvic osteosarcoma, treatment may extend survival. An individualized, often multimodal approach may provide clinical benefit in selected dogs.",
+      "affiliations": [
+        "Clinic for Radiation Oncology &amp; Medical Oncology, Small Animal Department, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
+        "Department of Clinical Sciences, Colorado State University College of Veterinary Medicine and Biomedical Sciences, Fort Collins, Colorado, USA.",
+        "Aura Veterinary, Guildford, UK.",
+        "Lumbry Park Veterinary Specialists, Alton, UK.",
+        "Ontario Veterinary College, University of Guelph, Guelph, Canada.",
+        "Department of Surgical and Radiological Sciences, School of Veterinary Medicine, University of California-Davis, Davis, USA.",
+        "Department of Clinical Science and Services, Royal Veterinary College, University of London, London, UK.",
+        "Clinical Department of Small Animals and Horses, University of Veterinary Medicine Vienna, Vienna, Austria.",
+        "Department of Veterinary Medical Sciences, University of Bologna, Bologna, Italy.",
+        "Small Animal Clinical Sciences, Small Animal Hospital, University of Glasgow, Glasgow, UK.",
+        "Department for Clinical Veterinary Science, Vetsuisse Faculty, University of Bern, Bern, Switzerland.",
+        "Centro Veterinario Torinese, Torino, Italy."
+      ],
+      "keywords": [
+        "canine",
+        "chemotherapy",
+        "pelvis",
+        "radiation therapy",
+        "surgery"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42628713",
+      "title": "Effects of caloric restriction and different diet types on weight loss, metabolic profile and behavior of overweight and obese dogs.",
+      "authors": "de Macêdo LM, Dos Santos GR, Ramos GC, Neto EP, Mangabeira EL, Vasconcelos ALC, Andrade GT, de Souza SM, Santos SA",
+      "journal": "Vet J",
+      "date": "2026 Aug 21",
+      "sortdate": "2026-08-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42628713/",
+      "abstract": "The nutritional composition of the diet and food choices can influence weight loss program outcomes, although caloric deficit remains the main strategy for reducing body fat. This study compared weight loss, hematological parameters, biochemical profile, and behavior of overweight and obese dogs (n=34) fed under caloric restriction using commercial dry food (n=9), homemade food (n=9), or mixed feeding (n=16). Each dog was monitored for approximately three months (104 days) with monthly consultations for clinical evaluation, caloric intake adjustments, blood collection, and morphometric measurements. Initial metabolizable energy was calculated based on resting energy requirement using the formula 70kcal &#xd7; (kg BW&#x2070;&#xb7;&#x2077;&#x2075;). All diet groups achieved similar body weight loss (4.5%) under caloric restriction, regardless of diet type. Although most biochemical and hematological parameters showed no differences between diets, serum triglycerides were lower in the homemade food group despite this formulation presenting higher fat content. Additionally, HDL concentrations increased over time regardless of diet type. These findings suggest that moderate caloric restriction can promote weight loss and influence lipid metabolism after 104 days. Behavioral assessments based on owner questionnaires revealed differences among dietary groups in physical disposition, social behavior, and food-seeking patterns. Dogs fed mixed diets showed higher frequencies of fatigue, difficulty running or climbing stairs, and reduced play at home. Most dogs were described as joyful and interested in walks, though the majority were considered only moderately active. Overall, despite differences in behavioral patterns across diets, the average weight loss was not sufficient to promote marked functional or behavioral improvements.",
+      "affiliations": [
+        "Escola de Medicina Veterin&#xe1;ria e Zootecnia, Universidade Federal da Bahia, Salvador, Bahia, Brazil.",
+        "Escola Superior Agr&#xe1;ria, Polit&#xe9;cnico de Santar&#xe9;m, Santar&#xe9;m, Portugal.",
+        "Escola de Medicina Veterin&#xe1;ria e Zootecnia, Universidade Federal da Bahia, Salvador, Bahia, Brazil. Electronic address: stefanie.alvarenga@ufba.br."
+      ],
+      "keywords": [
+        "adiposity",
+        "canine obesity",
+        "kibble",
+        "mixed feeding",
+        "natural feeding",
+        "weight management"
+      ],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
     {
       "id": "42622352",
       "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
@@ -9979,7 +10039,17 @@
         "malignant transformation",
         "soft tissue surgery"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cystadenoma",
+        "Cat Diseases",
+        "Female",
+        "Male",
+        "Treatment Outcome",
+        "Biliary Tract Neoplasms",
+        "Neoplasm Recurrence, Local"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -10013,7 +10083,14 @@
         "mucus",
         "urine"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Liquid Biopsy",
+        "Neoplasms",
+        "Biomarkers, Tumor"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -10907,7 +10984,21 @@
         "heterogeneity",
         "repolarization"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Female",
+        "Cardiomyopathy, Dilated",
+        "Dog Diseases",
+        "Electrocardiography",
+        "Echocardiography",
+        "Male",
+        "Cross-Sectional Studies",
+        "Heart Ventricles",
+        "Retrospective Studies",
+        "Heart Rate",
+        "Phenotype"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -12440,7 +12531,19 @@
         "large-breed dogs",
         "mechanical ventilation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Positive-Pressure Respiration",
+        "Laparoscopy",
+        "Hypercapnia",
+        "Female",
+        "Dog Diseases",
+        "Male",
+        "Oxygen",
+        "Pneumoperitoneum",
+        "Pneumoperitoneum, Artificial"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -12758,7 +12861,18 @@
         "glycopyrrolate",
         "surgical site infection"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Surgical Wound Infection",
+        "Case-Control Studies",
+        "Retrospective Studies",
+        "Female",
+        "Dog Diseases",
+        "Male",
+        "Risk Factors",
+        "Abdomen"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -12934,7 +13048,14 @@
         "fundraising",
         "interventional cardiology"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Pacemaker, Artificial",
+        "Fund Raising",
+        "Dog Diseases",
+        "Crowdsourcing"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -13144,7 +13265,18 @@
         "corneoconjunctival transposition",
         "dog"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Disease Progression",
+        "Corneal Diseases",
+        "Cornea",
+        "Humans",
+        "Corneal Dystrophies, Hereditary"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -14076,7 +14208,18 @@
         "hookworm",
         "multiple anthelmintic drug resistance"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Anthelmintics",
+        "Ancylostoma",
+        "Hookworm Infections",
+        "Drug Resistance, Multiple",
+        "Ancylostomiasis",
+        "United States",
+        "Drug Resistance"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -14479,7 +14622,17 @@
         "urethral",
         "urinary"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Male",
+        "Cat Diseases",
+        "Urethral Obstruction",
+        "Double-Blind Method",
+        "Lorazepam",
+        "Prospective Studies",
+        "Recurrence"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -16318,7 +16471,20 @@
         "diarrhea",
         "regurgitation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Intervertebral Disc Displacement",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Gastrointestinal Diseases",
+        "Decompression, Surgical",
+        "Risk Factors",
+        "Intervertebral Disc Degeneration",
+        "Postoperative Complications"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -17421,7 +17587,17 @@
         "small animal surgery",
         "soft tissue surgery"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Pyometra",
+        "Female",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Hysterectomy",
+        "Ovariectomy",
+        "Treatment Outcome"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -17466,7 +17642,18 @@
         "mass",
         "spleen"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Splenic Neoplasms",
+        "Female",
+        "Male",
+        "Splenic Diseases",
+        "Spleen",
+        "Lymphoma"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -18720,7 +18907,19 @@
         "oropharyngeal",
         "secondary bacterial infection"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Pneumonia, Aspiration",
+        "Dog Diseases",
+        "Bronchoalveolar Lavage Fluid",
+        "Oropharynx",
+        "Female",
+        "Male",
+        "Coinfection",
+        "Bacterial Infections",
+        "Prospective Studies"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -20398,7 +20597,19 @@
         "recurrence",
         "spinal cord"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Intervertebral Disc Displacement",
+        "Dog Diseases",
+        "Chondroitin ABC Lyase",
+        "Female",
+        "Recurrence",
+        "Retrospective Studies",
+        "Male",
+        "Lumbar Vertebrae",
+        "Thoracic Vertebrae"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -21296,7 +21507,13 @@
         "prepuce",
         "urethrostomy"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Male",
+        "Phimosis",
+        "Cat Diseases"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -21638,7 +21855,20 @@
         "parvovirus",
         "plasma"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Enzyme-Linked Immunosorbent Assay",
+        "Parvovirus, Canine",
+        "Antibodies, Viral",
+        "Parvoviridae Infections",
+        "Hemagglutination Inhibition Tests",
+        "Dog Diseases",
+        "Sensitivity and Specificity",
+        "Female",
+        "Viral Vaccines",
+        "Retrospective Studies"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
