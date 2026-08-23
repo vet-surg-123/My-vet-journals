@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 23:00 UTC",
-  "total": 3909,
+  "updated": "2026-08-23 03:35 UTC",
+  "total": 3910,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -105,13 +105,13 @@
     },
     {
       "id": "42624280",
-      "title": "Tail Wounds in Military Working Dogs: Clinical Characterization and a Randomized Sham-Controlled Trial of Photobiomodulation.",
+      "title": "Tail wounds in military working dogs: Clinical characterization and a randomized sham-controlled trial of photobiomodulation.",
       "authors": "Fishelson Y, Hirschberg RE, Raizman R, Zori T, Olshinka N, Gavish L",
       "journal": "Vet J",
       "date": "2026 Aug 20",
       "sortdate": "2026-08-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624280/",
-      "abstract": "BACKGROUND: Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. OBJECTIVE: To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. METHODS: This prospective study included an observational cohort of 21 active MWDs (age 4.1&#xb1;2.2 years; 95% male; predominantly Belgian Malinois [57%]) with clinically evident tail wounds and a randomized, sham-controlled interventional subset of 16 dogs (PBM n=8, sham n=8) that excluded dogs that were not available for the intervention due to activity duties. Dogs received daily PBM or sham treatment for 2 weeks. Wounds were assessed at baseline and 2 weeks of treatment using surface measurements, thermal imaging, and a modified canine Bates-Jensen Wound Assessment Tool (BWAT). The primary outcome was change in wound area. RESULTS: Tail wounds were predominantly chronic (&#x2265;1 month)(76%) and recurrent (62%), with moderate-to-marked bleeding in 53% of cases. Thermal imaging demonstrated higher temperatures in the wound bed compared to surrounding tissue (&#x394;2.8&#xb1;0.7&#xb0;C, p&lt;0.001), indicating preserved perfusion. In the randomized cohort, wound area did not significantly change over time (PBM: 0.6&#xb1;0.4 to 0.7&#xb1;0.4cm&#xb2;; sham: 1.3&#xb1;1.0 to 1.1&#xb1;0.7cm&#xb2;). In contrast, the surrounding hairless area decreased significantly in both groups without significant between-group difference ( p=0.077). BWAT scores showed non-significant improvement in both groups. CONCLUSION: PBM, as applied in this protocol, did not improve healing of tail wounds in MWDs. These findings suggest that persistent trauma may limit wound healing despite preserved repair processes.",
+      "abstract": "BACKGROUND: Tail wounds in military working dogs (MWDs) are a clinically significant and challenging condition characterized by recurrent trauma and delayed healing. Photobiomodulation (PBM) has been proposed as a non-invasive therapy to enhance wound repair. OBJECTIVE: To characterize the clinical presentation of tail wounds in MWDs and to evaluate the effect of PBM as an adjunctive treatment. METHODS: This prospective study included an observational cohort of 21 active MWDs (age 4.1&#x202f;&#xb1;&#x202f;2.2 years; 95% male; predominantly Belgian Malinois [57%]) with clinically evident tail wounds and a randomized, sham-controlled interventional subset of 16 dogs (PBM n&#x202f;=&#x202f;8, sham n&#x202f;=&#x202f;8) that excluded dogs that were not available for the intervention due to activity duties. Dogs received daily PBM or sham treatment for 2 weeks. Wounds were assessed at baseline and 2 weeks of treatment using surface measurements, thermal imaging, and a modified canine Bates-Jensen Wound Assessment Tool (BWAT). The primary outcome was change in wound area. RESULTS: Tail wounds were predominantly chronic (&#x2265;1 month) (76%) and recurrent (62%), with moderate-to-marked bleeding in 53% of cases. Thermal imaging demonstrated higher temperatures in the wound bed compared to surrounding tissue (&#x394;2.8&#x202f;&#xb1;&#x202f;0.7&#x202f;&#xb0;C, p&#x202f;&lt;&#x202f;0.001), indicating preserved perfusion. In the randomized cohort, wound area did not significantly change over time (PBM: 0.6&#x202f;&#xb1;&#x202f;0.4 to 0.7&#x202f;&#xb1;&#x202f;0.4&#x202f;cm&#xb2;; sham: 1.3&#x202f;&#xb1;&#x202f;1.0 to 1.1&#x202f;&#xb1;&#x202f;0.7&#x202f;cm&#xb2;). In contrast, the surrounding hairless area decreased significantly in both groups without significant between-group difference ( p&#x202f;=&#x202f;0.077). BWAT scores showed non-significant improvement in both groups. CONCLUSION: PBM, as applied in this protocol, did not improve healing of tail wounds in MWDs. These findings suggest that persistent trauma may limit wound healing despite preserved repair processes.",
       "affiliations": [
         "Israel Defense Forces Medical Corps, Israel.",
         "Brockton Animal Hospital, MA, USA.",
@@ -121,12 +121,12 @@
         "Institute for Research in Military Medicine (IRMM), Faculty of Medicine, The Hebrew University of Jerusalem and the Israel Defense Forces Medical Corps, Jerusalem, Israel; The Saul and Joyce Brandman Hub for Cardiovascular Research and the Department of Medical Neurobiology, Institute for Medical Research (IMRIC), Faculty of Medicine, The Hebrew University of Jerusalem, Israel. Electronic address: lilachg@ekmd.huji.ac.il."
       ],
       "keywords": [
+        "Chronic wounds",
+        "Low-level laser therapy",
         "Military working dogs",
         "Photobiomodulation",
         "Tail wounds",
-        "chronic wounds",
-        "low-level laser therapy",
-        "thermal imaging"
+        "Thermal imaging"
       ],
       "mesh": [],
       "category": "surgery",
@@ -1125,6 +1125,33 @@
       ],
       "mesh": [],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42630792",
+      "title": "A simplified feline phantom and Monte-Carlo simulation can be used to evaluate radiation exposure to veterinary staff during [(211)At]NaAt treatment.",
+      "authors": "Sakashita T, Onuma K, Sugasawa A, Sasaki I, Sasaki F, Daisaki H, Ishioka NS, Ito N, Kakizaki T",
+      "journal": "Front Vet Sci",
+      "date": "2026 Aug 07",
+      "sortdate": "2026-08-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42630792/",
+      "abstract": "INTRODUCTION: Targeted alpha therapy using 211At offers high therapeutic efficacy with relatively low occupational radiation exposure. However, in veterinary medicine, staff exposure-particularly during close animal handling-remains insufficiently evaluated. We quantitatively evaluated external occupational radiation exposure to veterinary staff during simulated clinical use of 211At-labeled radiopharmaceuticals, utilizing dose measurements and numerical simulations based on a feline phantom model. MATERIALS AND METHODS: A spherical [211At]NaAt source was placed in the neck of a CT-derived, 3D-printed feline phantom. Ambient dose equivalent rates were measured at two to five distances ranging from the phantom surface to 1 m using a NaI(Tl) scintillation survey meter, with measurement geometry reproducibly controlled by a dedicated 3D-printed phantom. Concurrently, Monte Carlo simulations using the Particle and Heavy Ion Transport Code System (PHITS) modeled 211At photon transport to calculate ambient dose equivalent rates. Simulation results were compared with experimental measurements to validate dosimetric evaluations. RESULTS: Measurements of the ambient dose equivalent rate, &#x1e22;*(10), using a spherical source and simplified 3D-printed feline phantom showed good agreement with PHITS Monte Carlo simulations at distances within 1 m, except at very low dose rates near the detection limit. Simplified analytical calculations (FORM) consistently overestimated dose rates, particularly at distances within 10 cm, by up to two orders of magnitude, whereas PHITS provided conservative yet realistic estimates. Gamma-ray spectroscopy demonstrated that photons emitted from 211At and its progeny were detectable only at close distances (~10 cm), suggesting that local shielding may be necessary when high activities are administered. In a simplified clinical scenario, the estimated occupational radiation exposure per [211At]NaAt treatment was low, with effective dose, skin equivalent dose, and eye lens equivalent dose values not exceeding 1.11 &#x3bc;Sv for any veterinary staff category. CONCLUSION: The combined use of a 3D-printed phantom and numerical simulations demonstrated that occupational doses associated with [211At]NaAt treatment were within acceptable levels, and well below the occupational dose limits recommended by the ICRP, supporting the radiological safety of the procedure. The framework is readily applicable to other organs or animal species, thereby supporting the safe and feasible expansion of veterinary nuclear medicine.",
+      "affiliations": [
+        "Department of Quantum-Applied Biosciences, National Institutes for Quantum Science and Technology, Takasaki, Gunma, Japan.",
+        "Department of Radiological Technology, Gunma Prefectural College of Health Sciences, Maebashi, Gunma, Japan.",
+        "School of Veterinary Medicine, Kitasato University, Towada, Aomori, Japan.",
+        "Research Center for Accelerator and Radioisotope Science, Tohoku University, Sendai, Miyagi, Japan."
+      ],
+      "keywords": [
+        "3D-printed phantom",
+        "Monte Carlo simulation",
+        "[211At]-labeled radiopharmaceuticals",
+        "feline thyroid disease",
+        "veterinary nuclear medicine",
+        "veterinary occupational exposure"
+      ],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
