@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23 03:35 UTC",
-  "total": 3910,
+  "updated": "2026-08-23 22:44 UTC",
+  "total": 3911,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -2132,6 +2132,31 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42632322",
+      "title": "Suspected amantadine-induced hypoglycaemia in a dog treated for chronic lumbosacral pain.",
+      "authors": "Shahira A, Medina-Serra R, Adam F, Zoff A",
+      "journal": "Vet Anaesth Analg",
+      "date": "2026 Jul 28",
+      "sortdate": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632322/",
+      "abstract": "Amantadine is an N-methyl-D-aspartate receptor antagonist commonly used as part of multimodal analgesia in dogs with chronic pain. Although adverse effects are not well documented in veterinary medicine, hypoglycaemia has been reported in humans following amantadine use. This case report highlights a 14.5-year-old female Labrador Retriever referred for investigation of episodic weakness associated with documented hypoglycaemia. The dog was being administered gabapentin, paracetamol, and amantadine for chronic lumbosacral pain. Initial diagnostic investigation, including haematology, biochemistry, and adrenocorticotropic hormone stimulation test, did not identify an underlying cause of hypoglycaemia. Continuous glucose monitoring confirmed recurrent hypoglycaemic episodes. Amantadine was discontinued during glucose monitoring, after which the hypoglycaemia gradually resolved. No further episodes of weakness or hypoglycaemia were reported during a 20-month follow-up period. Other causes of hypoglycaemia, including hypoadrenocorticism and toxin exposure, were considered unlikely based on diagnostic findings and clinical course, although insulinoma was not definitively excluded. A temporal association between amantadine administration and hypoglycaemia, together with resolution following drug discontinuation, suggests a potential causal relationship. This case represents the first report of suspected amantadine-associated hypoglycaemia in a dog and highlights the need to consider this drug as a possible cause of hypoglycaemia in dogs.",
+      "affiliations": [
+        "North Downs Specialist Referrals, part of Linnaeus Veterinary Limited, which is part of Mars Veterinary Health, Bletchingley, UK.",
+        "Anaesthesia and Pain Management, North Downs Specialist Referrals, part of Linnaeus Veterinary Limited, which is part of Mars Veterinary Health, Bletchingley, UK. Electronic address: rogermese@hotmail.com.",
+        "Internal Medicine, North Downs Specialist Referrals, part of Linnaeus Veterinary Limited, which is part of Mars Veterinary Health, Bletchingley, UK.",
+        "Anaesthesia and Pain Management, North Downs Specialist Referrals, part of Linnaeus Veterinary Limited, which is part of Mars Veterinary Health, Bletchingley, UK."
+      ],
+      "keywords": [
+        "amantadine",
+        "chronic pain",
+        "dog",
+        "hypoglycaemia"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
