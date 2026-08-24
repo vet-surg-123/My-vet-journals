@@ -32,13 +32,13 @@ jobs:
 
       - name: 논문 수집 실행
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-          START_DATE: "2026-01-01"
-          INCREMENTAL_DAYS: "0"
-          MAX_RESULTS: "0"
-          ABSTRACT_MAXLEN: "0"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # 요약용 (무료·권장). 없으면 아래 순서로 폴백
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 요약용 (유료·선택). 둘 다 없으면 요약 생략
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}             # (선택) 있으면 수집이 3배 빨라짐
+          START_DATE: "2020-01-01"   # 🔧 이 날짜부터 오늘까지 모음 (전 분야 2020년부터)
+          INCREMENTAL_DAYS: "0"      # 0 = 매일 START_DATE~오늘 전체 조회(누락 없음). 속도 필요시 30 등
+          MAX_RESULTS: "0"           # 0 = 제한 없음 (수만 개까지)
+          ABSTRACT_MAXLEN: "0"       # 0 = 초록 전체. 파일 커지면 800 등으로 제한
         run: python fetch_papers.py
 
       - name: papers.json 자동 커밋
@@ -46,8 +46,10 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add papers.json
+          # 변경 없으면 여기서 정상 종료 (커밋할 것 없음)
           git diff --staged --quiet && echo "변경 없음 — 커밋 생략" && exit 0
           git commit -m "논문 자동 업데이트: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # 원격에 새 커밋이 있으면 먼저 합친 뒤(rebase) 밀어넣기. 여러 번 재시도.
           for i in 1 2 3 4 5; do
             git pull --rebase --autostash origin main && git push && exit 0
             echo "push 재시도 $i…"; sleep 3
