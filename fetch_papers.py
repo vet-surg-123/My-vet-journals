@@ -218,6 +218,22 @@ CATEGORY_LABELS = {
 # 🔧 '단어 전체 일치'로만 인정할 짧은 토큰 (부분일치 오분류 방지). ct/mri는 자동(3글자↓).
 WHOLE_WORD_TOKENS = {"disc", "cns"}
 
+# 🔧 수동 분류 교정(override) — 자동 분류가 틀린 논문을 PMID로 콕 집어 바로잡음.
+#   ▶ 사용법: 피드백으로 오분류가 보고되면, 그 논문의 PMID를 아래에 한 줄 추가.
+#      (PMID = 사이트에서 논문의 'PubMed에서 보기' 링크 끝 숫자.
+#              예: https://pubmed.ncbi.nlm.nih.gov/35847646/  → "35847646")
+#   ▶ 값: 아래 분야키 중 하나로 강제 지정
+#         neurooncology/neurosurgery/arthroscopy/jointreplacement/orthopedics/
+#         cardiac/anesthesia/surgery/anatomy/imaging/internal/oncology
+#         또는 "exclude" → 목록에서 완전히 제외(버림).
+#   ▶ 동작: 여기 넣은 PMID는 주제제외(치과 등) 필터도 건너뛰고 강제로 지정 분야에 포함되며
+#           ("exclude"는 반대로 강제 제외), 자동 키워드 분류보다 항상 우선한다.
+#           (저널 화이트리스트 안에서 검색된 논문에만 적용됨)
+CATEGORY_OVERRIDES = {
+    # "PMID": "분야키",   ← 이런 형식으로 추가
+    "35847646": "orthopedics",  # 근력-CCL stifle 생역학 연구 (관절경 아님 → 정형외과)
+}
+
 MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
@@ -562,9 +578,12 @@ def _collect_one(query, only_cat, cache, collected, summ_state):
             det = details.get(pid, {})
             abstract = det.get("abstract", "")
             title = item.get("title", "").replace("<b>", "").replace("</b>", "").strip()
-            if is_excluded_topic(title, abstract):      # 심장·치과 등 제외
+            override = CATEGORY_OVERRIDES.get(str(pid))
+            if override == "exclude":                    # 수동 교정: 강제 제외
                 continue
-            category = categorize(title, abstract)
+            if override is None and is_excluded_topic(title, abstract):  # 치과 등 제외
+                continue
+            category = override if override else categorize(title, abstract)
             if only_cat and category != only_cat:       # 백필: 해당 분야만 담기
                 continue
             if DROP_OTHER and category == "other":       # 기타 버림
