@@ -36,6 +36,7 @@
   .ni.on{background:var(--accent-soft);color:var(--accent-2);font-weight:700}
   .ni .b{font-size:12px;color:var(--muted);font-weight:600}
   .ni.on .b{color:var(--accent)}
+  a.ni{text-decoration:none}
   .side-nav{margin-bottom:6px}
   .side-update{margin-top:auto;padding-top:16px;border-top:1px solid var(--line)}
   .side-update .updated{text-align:left;font-size:11.5px;color:var(--ink-2);display:flex;flex-direction:column;gap:1px}
@@ -198,6 +199,8 @@
     <div class="ni" data-view="journal" onclick="navClick('journal')">저널별</div>
     <div class="ni" data-view="schema" onclick="navClick('schema')">구성 · 알고리즘</div>
     <div class="ni" data-view="feedback" onclick="navClick('feedback')">피드백 · 의견</div>
+    <div class="nav-h">자료실</div>
+    <a class="ni" href="oncology.html" target="_blank" rel="noopener">종양학 통합 자료실 <span class="b">↗</span></a>
   </nav>
   <div class="side-update">
     <div class="updated" id="updated">불러오는 중…</div>
