@@ -426,10 +426,11 @@ def load_existing_papers():
     return existing
 
 
-def build_query_dated(date_from, extra_terms=None):
-    """소동물+화이트리스트+종제외 기본 쿼리. date_from~오늘 범위.
+def build_query_dated(date_from, extra_terms=None, date_to=None):
+    """소동물+화이트리스트+종제외 기본 쿼리. date_from~date_to(기본 오늘) 범위.
     extra_terms 를 주면 그 키워드(OR) 를 반드시 포함(AND)하도록 좁힌다."""
-    date_to = datetime.now().strftime("%Y/%m/%d")
+    if date_to is None:
+        date_to = datetime.now().strftime("%Y/%m/%d")
     sa = " OR ".join(f'"{t}"[tiab]' for t in SMALL_ANIMAL_TERMS)
     q = f"({sa})"
     if extra_terms:
@@ -627,9 +628,27 @@ def _collect_one(query, only_cat, cache, collected, summ_state):
         print(f"  진행: {min(start + n, count)}/{count}  (이 검색 담김 {added_here}편, 누적 {len(collected)}편)")
 
 
+def build_yearly_jobs():
+    """전체(START_DATE~오늘)를 '연도별'로 쪼갠 검색 작업 목록.
+    ※ NCBI는 한 검색당 약 10,000번째 이후 레코드를 돌려주지 못한다.
+      전체가 1만 건을 넘으면(현재 1.6만+) 최신순 한 방 검색으론 '가장 오래된' 수천 건이
+      잘려서 누락된다(예: 2020~2022 논문 대량 실종). 연도별(각 수천 건)로 나누면
+      모든 창이 한계 밑이라 오래된 논문까지 빠짐없이 수집된다."""
+    today = datetime.now()
+    if INCREMENTAL_DAYS > 0:                     # 증분 모드: 범위가 좁아 한 방으로 충분
+        return [(build_query(), None, f"증분 최근 {INCREMENTAL_DAYS}일")]
+    start_year = int(re.match(r"(\d{4})", START_DATE).group(1))
+    jobs = []
+    for y in range(start_year, today.year + 1):
+        date_from = START_DATE if y == start_year else f"{y}/01/01"
+        date_to = today.strftime("%Y/%m/%d") if y == today.year else f"{y}/12/31"
+        jobs.append((build_query_dated(date_from, date_to=date_to), None, f"{y}년"))
+    return jobs
+
+
 def get_papers():
-    # 검색 작업 목록: (쿼리, 이 분야만, 라벨)
-    jobs = [(build_query(), None, "본검색")]
+    # 검색 작업 목록: (쿼리, 이 분야만, 라벨) — 연도별로 쪼개 1만 건 한계를 회피
+    jobs = list(build_yearly_jobs())
     for cat in BACKFILL_CATS:
         if not category_search_terms(cat):
             print(f"  [백필 건너뜀] 알 수 없는 분야: {cat}")
