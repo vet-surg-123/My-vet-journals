@@ -186,9 +186,85 @@
     body.detail-open .content.detail-mode .detailcol{transform:none}
     .detail-close{display:inline-flex}
   }
+
+  /* ── 기간 필터(접이식) ── */
+  .pf-wrap{margin-top:12px;position:relative}
+  .pf-toggle{font-family:inherit;font-size:12.5px;font-weight:600;color:var(--ink-2);background:var(--panel);
+    border:1px solid var(--line);border-radius:999px;padding:7px 15px;cursor:pointer;transition:.13s}
+  .pf-toggle:hover{border-color:var(--accent)}
+  .pf-toggle.act{background:var(--accent-soft);border-color:var(--accent);color:var(--accent-2);font-weight:700}
+  .pf-toggle .pf-caret{color:var(--muted);margin-left:3px}
+  .pf-pop{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:8px;background:var(--panel);
+    border:1px solid var(--line);border-radius:12px;padding:11px 14px;box-shadow:var(--shadow-lg)}
+  .pf-lbl{font-size:12px;font-weight:700;color:var(--ink-2)}
+  .pf-chip{font-size:12px;font-weight:500;padding:6px 12px;border-radius:999px;border:1px solid var(--line);
+    background:var(--panel);color:var(--ink-2);cursor:pointer;transition:.12s}
+  .pf-chip:hover{border-color:var(--accent)}
+  .pf-chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .pf-div{width:1px;height:20px;background:var(--line);margin:0 3px}
+  .pf-yr{width:62px;font-family:inherit;font-size:12px;text-align:center;border:1px solid var(--line);
+    border-radius:8px;padding:6px;color:var(--ink);background:var(--panel);outline:none}
+  .pf-yr:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+  .pf-dash{color:var(--muted);font-weight:700}
+  .pf-clear{font-family:inherit;font-size:11.5px;color:var(--muted);background:none;border:none;cursor:pointer;text-decoration:underline;margin-left:2px}
+
+  /* ── 변경 이력(접이식) ── */
+  .cl-panel{padding:4px 0 40px;max-width:760px}
+  .cl-cap{font-size:13px;color:var(--ink-2);margin-bottom:16px;line-height:1.7}
+  .cl-item{background:var(--panel);border:1px solid var(--line);border-radius:14px;margin-bottom:10px;box-shadow:var(--shadow);overflow:hidden}
+  .cl-head{display:flex;align-items:center;gap:11px;padding:14px 18px;cursor:pointer;user-select:none}
+  .cl-head:hover{background:var(--line-2)}
+  .cl-ver{font-size:13.5px;font-weight:800;color:var(--accent-2);background:var(--accent-soft);padding:3px 11px;border-radius:8px}
+  .cl-date{font-size:12px;color:var(--muted);font-weight:600}
+  .cl-sum{font-size:12.5px;color:var(--ink-2);margin-left:auto;margin-right:6px}
+  .cl-caret{color:var(--muted);transition:transform .18s}
+  .cl-item.open .cl-caret{transform:rotate(180deg)}
+  .cl-body{display:none;padding:2px 20px 16px 20px}
+  .cl-item.open .cl-body{display:block}
+  .cl-body ul{margin:0;padding-left:18px}
+  .cl-body li{font-size:13.5px;color:var(--ink);line-height:1.75;margin:4px 0}
+
+  /* ── 업데이트 공지 팝업 ── */
+  .nt-overlay{position:fixed;inset:0;z-index:200;background:rgba(47,43,37,.42);
+    display:flex;align-items:center;justify-content:center;padding:20px;-webkit-backdrop-filter:blur(2px);backdrop-filter:blur(2px)}
+  .nt-card{background:var(--panel);border:1px solid var(--line);border-radius:20px;max-width:440px;width:100%;
+    padding:26px 26px 20px;box-shadow:var(--shadow-lg);animation:ntPop .2s ease}
+  @keyframes ntPop{from{opacity:0;transform:translateY(10px) scale(.98)}to{opacity:1;transform:none}}
+  .nt-badge{display:inline-block;font-size:11.5px;font-weight:700;color:#fff;background:var(--accent);padding:4px 12px;border-radius:999px}
+  .nt-h{font-size:20px;font-weight:800;color:var(--ink);margin:13px 0 4px;letter-spacing:-.3px}
+  .nt-sub{font-size:12.5px;color:var(--muted);margin-bottom:14px}
+  .nt-list{list-style:none;margin:0 0 20px;padding:0}
+  .nt-list li{position:relative;padding:11px 13px 11px 40px;background:var(--side);border:1px solid var(--line-2);
+    border-radius:12px;margin-bottom:8px;font-size:13.5px;color:var(--ink);line-height:1.6}
+  .nt-list li b{color:var(--accent-2)}
+  .nt-list li .ic{position:absolute;left:12px;top:11px;font-size:15px}
+  .nt-actions{display:flex;gap:9px;justify-content:flex-end}
+  .nt-btn{font-family:inherit;font-size:13px;font-weight:700;color:#fff;background:var(--accent);
+    border:none;border-radius:11px;padding:10px 18px;cursor:pointer}
+  .nt-btn:hover{background:var(--accent-2)}
+  .nt-btn.ghost{color:var(--ink-2);background:var(--panel);border:1px solid var(--line)}
+  .nt-btn.ghost:hover{background:var(--line-2)}
 </style>
 </head>
 <body>
+
+<!-- 업데이트 공지 팝업 -->
+<div class="nt-overlay" id="ntOverlay" style="display:none">
+  <div class="nt-card" role="dialog" aria-modal="true" aria-label="업데이트 안내">
+    <span class="nt-badge">업데이트 안내</span>
+    <div class="nt-h">새로 추가된 기능</div>
+    <div class="nt-sub">최근 업데이트 내용을 알려드려요.</div>
+    <ul class="nt-list">
+      <li><span class="ic">📚</span><b>수집 저널 확대</b> — J Vet Med Sci, J Am Anim Hosp Assoc 등 추가 (총 20개 저널)</li>
+      <li><span class="ic">🗓️</span><b>기간 필터</b> — 발행연도로 논문을 걸러볼 수 있어요 (검색창 아래 <b>기간</b> 버튼)</li>
+      <li><span class="ic">🧬</span><b>종양학 통합 자료실</b> — 왼쪽 <b>자료실</b>에서 열람 가능</li>
+    </ul>
+    <div class="nt-actions">
+      <button class="nt-btn ghost" onclick="ntHideToday()">오늘 하루 보지 않기</button>
+      <button class="nt-btn" onclick="ntClose()">닫기</button>
+    </div>
+  </div>
+</div>
 
 <aside class="side">
   <div class="logo"><span class="m">R</span> Vet Radar</div>
@@ -198,6 +274,7 @@
     <div class="ni" data-view="category" onclick="navClick('category')">분야별</div>
     <div class="ni" data-view="journal" onclick="navClick('journal')">저널별</div>
     <div class="ni" data-view="schema" onclick="navClick('schema')">구성 · 알고리즘</div>
+    <div class="ni" data-view="changelog" onclick="navClick('changelog')">변경 이력</div>
     <div class="ni" data-view="feedback" onclick="navClick('feedback')">피드백 · 의견</div>
     <div class="nav-h">자료실</div>
     <a class="ni" href="oncology.html" target="_blank" rel="noopener">종양학 통합 자료실 <span class="b">↗</span></a>
@@ -220,12 +297,30 @@
   </div>
 
   <input class="search" id="search" type="search" placeholder="제목·초록·요약 검색…" oninput="resetPage()">
+  <div class="pf-wrap" id="pfWrap">
+    <button class="pf-toggle" id="pfToggle" onclick="pfTogglePanel(event)">기간 · 전체 <span class="pf-caret">▾</span></button>
+    <div class="pf-pop hidden" id="pfPop">
+      <span class="pf-lbl">기간</span>
+      <span class="pf-chip on" data-preset="all" onclick="pfPreset('all',this)">전체</span>
+      <span class="pf-chip" data-preset="1" onclick="pfPreset('1',this)">최근 1년</span>
+      <span class="pf-chip" data-preset="3" onclick="pfPreset('3',this)">최근 3년</span>
+      <span class="pf-chip" data-preset="5" onclick="pfPreset('5',this)">최근 5년</span>
+      <span class="pf-div"></span>
+      <span class="pf-lbl">연도</span>
+      <input class="pf-yr" id="pfFrom" inputmode="numeric" maxlength="4" placeholder="2020" oninput="pfRangeInput()">
+      <span class="pf-dash">–</span>
+      <input class="pf-yr" id="pfTo" inputmode="numeric" maxlength="4" placeholder="2026" oninput="pfRangeInput()">
+      <button class="pf-clear" onclick="pfPreset('all')">초기화</button>
+    </div>
+  </div>
   <div class="jchips hidden" id="chips"></div>
 
   <div class="schema-panel hidden" id="schemaPanel">
     <p class="schema-cap">이 사이트가 논문을 <b>수집 → 필터 → 분류</b>하는 전체 알고리즘과 실제로 쓰이는 <b>모든 필터 키워드</b>입니다.</p>
     <img id="schemaImg" alt="전체 알고리즘 및 필터 키워드 구성도">
   </div>
+
+  <div class="cl-panel hidden" id="changelogPanel"></div>
 
   <div class="fb-panel hidden" id="feedbackPanel">
     <div class="fb-card">
@@ -297,15 +392,18 @@ function syncNav(){
 function navClick(view){ mode=view; closeDetail(); applyMode(); }
 
 function applyMode(){
-  const schema=mode==="schema", journal=mode==="journal", feedback=mode==="feedback";
-  const listy=!schema&&!feedback;            // 목록 화면 여부
+  const schema=mode==="schema", journal=mode==="journal", feedback=mode==="feedback", changelog=mode==="changelog";
+  const listy=!schema&&!feedback&&!changelog;   // 목록 화면 여부
   document.getElementById("schemaPanel").classList.toggle("hidden",!schema);
   document.getElementById("feedbackPanel").classList.toggle("hidden",!feedback);
+  document.getElementById("changelogPanel").classList.toggle("hidden",!changelog);
   document.getElementById("mainlist").classList.toggle("hidden",!listy);
   document.getElementById("search").classList.toggle("hidden",!listy);
   document.getElementById("chips").classList.toggle("hidden",!listy);
+  document.getElementById("pfWrap").classList.toggle("hidden",!listy);
   const t=document.getElementById("viewTitle"), s=document.getElementById("viewSub");
   if(schema){t.textContent="구성 · 알고리즘";s.textContent="수집·필터·분류 알고리즘과 전체 키워드";}
+  else if(changelog){t.textContent="변경 이력";s.textContent="업데이트·수정 내용을 버전별로 기록합니다";buildChangelog();}
   else if(feedback){t.textContent="피드백 · 의견";s.textContent="익명으로 남기는 개선 의견 (운영자에게만 전달)";}
   else if(journal){t.textContent="저널별";s.textContent="저널을 선택해 논문을 걸러 봅니다";buildJournalChips();}
   else{t.textContent="분야별";s.textContent="분야를 선택해 논문을 걸러 봅니다";buildCategoryChips();}
@@ -341,6 +439,7 @@ function render(){
   if(mode==="journal"){ if(curJournal!=="all") items=items.filter(p=>p.journal===curJournal); }
   else { if(curCat!=="all") items=items.filter(p=>p.category===curCat); }
   if(q) items=items.filter(p=>(p.title||"").toLowerCase().includes(q)||(p.abstract||"").toLowerCase().includes(q)||(p.summary_ko||"").toLowerCase().includes(q)||(p.authors||"").toLowerCase().includes(q));
+  items=pfFilter(items);          // 기간(발행연도) 필터
 
   const total=items.length;
   if(visibleCount>total) visibleCount=Math.max(PAGE_SIZE,Math.ceil(visibleCount/PAGE_SIZE)*PAGE_SIZE);
@@ -536,7 +635,97 @@ async function initVisits(){
   }catch(e){ /* 서비스 장애 → 숨김 유지 */ }
 }
 
+/* ---------- 기간 필터(발행연도) ---------- */
+let pfState={mode:'all'};
+function pfTogglePanel(ev){ if(ev)ev.stopPropagation(); document.getElementById('pfPop').classList.toggle('hidden'); }
+function pfSetChips(sel){ document.querySelectorAll('#pfPop .pf-chip').forEach(c=>c.classList.toggle('on', c.dataset.preset===sel)); }
+function pfPreset(p, el){
+  document.getElementById('pfFrom').value=''; document.getElementById('pfTo').value='';
+  if(p==='all'){ pfState={mode:'all'}; pfSetChips('all'); }
+  else { pfState={mode:'recent', years:parseInt(p)}; pfSetChips(p); }
+  pfUpdateToggle(); resetPage();
+}
+function pfRangeInput(){
+  const fEl=document.getElementById('pfFrom'), tEl=document.getElementById('pfTo');
+  const f=(fEl.value||'').replace(/\D/g,'').slice(0,4), t=(tEl.value||'').replace(/\D/g,'').slice(0,4);
+  fEl.value=f; tEl.value=t;
+  if(!f && !t){ pfState={mode:'all'}; pfSetChips('all'); }
+  else { pfState={mode:'range', from:f?parseInt(f):null, to:t?parseInt(t):null}; pfSetChips(null); }
+  pfUpdateToggle(); resetPage();
+}
+function pfLabel(){
+  if(pfState.mode==='recent') return '기간 · 최근 '+pfState.years+'년';
+  if(pfState.mode==='range'){ const a=pfState.from||'', b=pfState.to||'';
+    if(a&&b) return '기간 · '+a+'–'+b; if(a) return '기간 · '+a+'~'; if(b) return '기간 · ~'+b; }
+  return '기간 · 전체';
+}
+function pfUpdateToggle(){
+  const btn=document.getElementById('pfToggle');
+  btn.innerHTML=esc(pfLabel())+' <span class="pf-caret">▾</span>';
+  btn.classList.toggle('act', pfState.mode && pfState.mode!=='all');
+}
+function pfFilter(items){
+  if(!pfState.mode || pfState.mode==='all') return items;
+  if(pfState.mode==='recent'){
+    const d=new Date(); d.setFullYear(d.getFullYear()-pfState.years); const cut=d.toISOString().slice(0,10);
+    return items.filter(p=>((p.sortdate||p.date||'')>=cut));
+  }
+  return items.filter(p=>{ const y=parseInt((p.sortdate||p.date||'').slice(0,4)); if(!y) return false;
+    if(pfState.from && y<pfState.from) return false; if(pfState.to && y>pfState.to) return false; return true; });
+}
+document.addEventListener('click', function(e){
+  const pop=document.getElementById('pfPop'), w=document.getElementById('pfWrap');
+  if(pop && !pop.classList.contains('hidden') && w && !w.contains(e.target)) pop.classList.add('hidden');
+});
+
+/* ---------- 변경 이력(버전 기록) ----------
+   ★ 새 업데이트가 있으면 아래 배열 맨 위에 { v, date, items:[...] } 한 줄만 추가하면 됨. */
+const CHANGELOG=[
+  {v:"v1.3", date:"2026-09-02", items:[
+    "기간 필터(발행연도) 추가 — 최근 1·3·5년 프리셋 + 연도 범위 직접 입력",
+    "종양학 통합 자료실 추가 (왼쪽 '자료실')",
+    "수집 저널 3곳 확대: J Vet Med Sci · J Am Anim Hosp Assoc · Vet Rec Case Rep (총 20개)",
+    "업데이트 공지 팝업 추가",
+  ]},
+  {v:"v1.2", date:"2026-08", items:[
+    "심장 · 마취 분야 신설 + 전용 저널(J Vet Cardiol, Vet Anaesth Analg) 추가",
+    "전 분야 2020년부터 수집 — 연도별 분할 수집으로 과거 논문 누락 문제 해결",
+    "오분류 논문 수동 교정(PMID) 기능 추가",
+  ]},
+  {v:"v1.1", date:"2026-08", items:[
+    "신경종양 분류 정밀화, 관절경 · 인공관절 분리",
+    "치과 주제 제외, 저널 화이트리스트 정비",
+  ]},
+  {v:"v1.0", date:"2026", items:[
+    "PubMed 자동 수집 · 분야/저널 분류 · 매일 아침 자동 갱신 서비스 시작",
+  ]},
+];
+function buildChangelog(){
+  const el=document.getElementById('changelogPanel'); if(!el||el.dataset.built) return;
+  let h='<p class="cl-cap">사이트에 적용된 업데이트·수정 내용을 <b>버전별</b>로 기록합니다. (최신순)</p>';
+  CHANGELOG.forEach((c,i)=>{
+    h+=`<div class="cl-item${i===0?' open':''}"><div class="cl-head" onclick="this.parentNode.classList.toggle('open')">`
+      +`<span class="cl-ver">${esc(c.v)}</span><span class="cl-date">${esc(c.date)}</span>`
+      +`<span class="cl-sum">${c.items.length}건</span><span class="cl-caret">▾</span></div>`
+      +`<div class="cl-body"><ul>${c.items.map(x=>`<li>${esc(x)}</li>`).join('')}</ul></div></div>`;
+  });
+  el.innerHTML=h; el.dataset.built="1";
+}
+
+/* ---------- 업데이트 공지 팝업 ----------
+   ★ 새 공지를 낼 때 NOTICE_ID 값을 바꾸면, 이전에 '오늘 하루 보지 않기'를 눌렀던 사람에게도 다시 표시됨. */
+const NOTICE_ID="2026.09";
+function ntToday(){ return new Date().toISOString().slice(0,10); }
+function ntDismissedToday(){ try{ return localStorage.getItem('vr_notice')===NOTICE_ID+'@'+ntToday(); }catch(e){ return false; } }
+function ntClose(){ const o=document.getElementById('ntOverlay'); if(o) o.style.display='none'; }
+function ntHideToday(){ try{ localStorage.setItem('vr_notice', NOTICE_ID+'@'+ntToday()); }catch(e){} ntClose(); }
+function ntMaybeShow(){ if(!ntDismissedToday()){ const o=document.getElementById('ntOverlay'); if(o) o.style.display='flex'; } }
+(function(){ const o=document.getElementById('ntOverlay');
+  if(o) o.addEventListener('click', function(e){ if(e.target===this) ntClose(); }); })();
+document.addEventListener('keydown', function(e){ if(e.key==='Escape') ntClose(); });
+
 async function init(){
+  ntMaybeShow();   // 업데이트 공지 (데이터 로드와 무관하게 먼저)
   try{ await loadData(); }
   catch(e){
     document.getElementById("updated").textContent="업데이트 정보 없음";
