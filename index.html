@@ -244,6 +244,11 @@
   .nt-btn:hover{background:var(--accent-2)}
   .nt-btn.ghost{color:var(--ink-2);background:var(--panel);border:1px solid var(--line)}
   .nt-btn.ghost:hover{background:var(--line-2)}
+  .nt-more{font-size:12.5px;color:var(--ink-2);margin:-2px 0 10px;line-height:1.6}
+  .nt-more a{color:var(--accent-2);font-weight:700;cursor:pointer;text-decoration:underline}
+  .nt-thanks{font-size:12.5px;color:var(--ink-2);background:var(--accent-soft);border:1px solid #dbe4f0;
+    border-radius:11px;padding:11px 13px;line-height:1.7;margin-bottom:18px}
+  .nt-thanks b{color:var(--accent-2)}
 </style>
 </head>
 <body>
@@ -259,6 +264,8 @@
       <li><span class="ic">🗓️</span><b>기간 필터</b> — 발행연도로 논문을 걸러볼 수 있어요 (검색창 아래 <b>기간</b> 버튼)</li>
       <li><span class="ic">🧬</span><b>종양학 통합 자료실</b> — 왼쪽 <b>자료실</b>에서 열람 가능</li>
     </ul>
+    <div class="nt-more">더 자세한 변경 내용은 <a href="#" onclick="ntClose();navClick('changelog');return false;">‘변경 이력’ 페이지</a>에서 확인하실 수 있어요.</div>
+    <div class="nt-thanks">언제든 왼쪽 <b>‘피드백 · 의견’</b>으로 의견을 남겨주세요. 여러분의 의견 덕분에 이 사이트가 계속 좋아지고 있습니다. 감사합니다.</div>
     <div class="nt-actions">
       <button class="nt-btn ghost" onclick="ntHideToday()">오늘 하루 보지 않기</button>
       <button class="nt-btn" onclick="ntClose()">닫기</button>
@@ -682,22 +689,24 @@ document.addEventListener('click', function(e){
    ★ 새 업데이트가 있으면 아래 배열 맨 위에 { v, date, items:[...] } 한 줄만 추가하면 됨. */
 const CHANGELOG=[
   {v:"v1.3", date:"2026-09-02", items:[
-    "기간 필터(발행연도) 추가 — 최근 1·3·5년 프리셋 + 연도 범위 직접 입력",
-    "종양학 통합 자료실 추가 (왼쪽 '자료실')",
-    "수집 저널 3곳 확대: J Vet Med Sci · J Am Anim Hosp Assoc · Vet Rec Case Rep (총 20개)",
-    "업데이트 공지 팝업 추가",
+    "기간 필터(발행연도) 추가 — 검색창 아래 '기간' 버튼. 최근 1·3·5년 프리셋과 연도 범위 직접 입력(예: '2022–' = 2022년~현재, '2024–2026' = 해당 기간). 검색어·분야·저널과 함께 적용됩니다.",
+    "종양학 통합 자료실 추가 — 카탈로그 → 종양 DB → 그림 아틀라스로 구성된 별도 페이지. 왼쪽 '자료실'에서 열람.",
+    "수집 저널 3곳 확대(총 20개): J Vet Med Sci(일본수의학회지), J Am Anim Hosp Assoc(JAAHA), Vet Rec Case Rep(증례).",
+    "업데이트 공지 팝업 및 이 '변경 이력' 페이지 신설.",
   ]},
   {v:"v1.2", date:"2026-08", items:[
-    "심장 · 마취 분야 신설 + 전용 저널(J Vet Cardiol, Vet Anaesth Analg) 추가",
-    "전 분야 2020년부터 수집 — 연도별 분할 수집으로 과거 논문 누락 문제 해결",
-    "오분류 논문 수동 교정(PMID) 기능 추가",
+    "심장 분야 신설(내과+외과 통합) — MMVD·심근증·판막질환·부정맥·선천성 심질환·심초음파부터 판막수술·PDA 폐색·페이스메이커까지. 전용 저널 J Vet Cardiol(수의심장학회지) 추가.",
+    "마취 분야 신설 — 마취·진정·진통과 주요 약물(propofol·isoflurane·dexmedetomidine 등)·국소마취. 전용 저널 Vet Anaesth Analg(수의마취·진통) 추가.",
+    "수집 범위를 전 분야 2020년부터로 확대 — 연도별 분할 수집 방식으로 바꿔, 예전에 누락되던 2020~2022년 오래된 논문까지 빠짐없이 수집.",
+    "오분류 논문 수동 교정(PMID) 기능 — 잘못 분류된 논문을 콕 집어 올바른 분야로 바로잡음.",
   ]},
   {v:"v1.1", date:"2026-08", items:[
-    "신경종양 분류 정밀화, 관절경 · 인공관절 분리",
-    "치과 주제 제외, 저널 화이트리스트 정비",
+    "신경종양 분류 정밀화 — 신경계 종양이 확실한 표현만 잡도록 개선해 오분류를 대폭 줄임.",
+    "관절경·인공관절을 정형외과에서 분리해 별도 분야로 표시.",
+    "치과 주제 제외, 저널 화이트리스트(수집 대상 저널) 정비.",
   ]},
   {v:"v1.0", date:"2026", items:[
-    "PubMed 자동 수집 · 분야/저널 분류 · 매일 아침 자동 갱신 서비스 시작",
+    "서비스 시작 — PubMed에서 소동물 임상·외과 논문을 매일 아침 자동 수집 → 분야/저널 분류 → 웹 목록으로 표시.",
   ]},
 ];
 function buildChangelog(){
