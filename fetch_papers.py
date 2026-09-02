@@ -100,6 +100,10 @@ JOURNAL_WHITELIST = [
     "Case Rep Vet Med",            # Case Reports in Veterinary Medicine (증례 전문지, PMC 2016~)
     "J Vet Cardiol",               # 심장 (Journal of Veterinary Cardiology)
     "Vet Anaesth Analg",           # 마취 (Veterinary Anaesthesia and Analgesia)
+    "J Vet Med Sci",               # 일본수의학회지 (JVMS)
+    "J Am Anim Hosp Assoc",        # JAAHA (미국동물병원협회지)
+    "Vet Rec Case Rep",            # Veterinary Record Case Reports (PubMed 색인 極少 ~2편)
+    # ※ 'VCOT Open'은 요청됐으나 PubMed/NLM 미등재 → 이 수집기(PubMed 기반)로는 불가하여 제외
 ]
 USE_WHITELIST = True
 
