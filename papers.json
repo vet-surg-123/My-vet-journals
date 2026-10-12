@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12 01:32 UTC",
-  "total": 12048,
+  "updated": "2026-10-12 06:18 UTC",
+  "total": 12049,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,31 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42860147",
+      "title": "Clinical features, survival, and associated factors for canine mast cell tumors: the role of neutering.",
+      "authors": "da Silva EMG, Mantovani MM, Silva MJB",
+      "journal": "Vet J",
+      "date": "2026 Oct 11",
+      "sortdate": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860147/",
+      "abstract": "Canine mast cell tumors are among the most common skin neoplasms in dogs and exhibit highly variable biological behavior. Several factors have been associated with their development and prognosis, including breed, body size, and histological grade; however, the influence of neutering status, particularly age at neutering, on the odds of tumor diagnosis and survival remains unclear. This study aimed to evaluate clinical features, factors associated with diagnosis, and survival outcomes in dogs with mast cell tumors (MCTs), with emphasis on neutering status and age at neutering. A retrospective case-control and survival study was conducted using medical records of dogs treated at a university veterinary hospital from 2015 to 2024. Dogs diagnosed with MCT were included as cases and compared with tumor-free controls matched by age category. Epidemiological, clinical, and pathological variables were analyzed, and agreement between cytological and histological grading was assessed. Among 56,254 dogs evaluated during the study period, 313 were diagnosed with MCT. Neutering before 24 months of age was associated with increased odds of MCT diagnosis compared with intact dogs, whereas neutering after 24 months of age was not. Medium and large body size, overweight body condition score, and specific breeds, particularly American Pit Bull Terriers and Boxers, were also associated with tumor diagnosis. In survival analysis, histological grade and tumor size were associated with survival time, whereas neutering status was not.",
+      "affiliations": [
+        "Laboratory of Tumor Biomarkers and Osteoimmunology, Institute of Biomedical Sciences, Federal University of Uberl&#xe2;ndia. Electronic address: elismaressa@ufu.br.",
+        "Faculty of Veterinary Medicine and Animal Science, Federal University of Uberl&#xe2;ndia, Uberl&#xe2;ndia, Brazil.",
+        "Laboratory of Tumor Biomarkers and Osteoimmunology, Institute of Biomedical Sciences, Federal University of Uberl&#xe2;ndia."
+      ],
+      "keywords": [
+        "Associated factors",
+        "Canine",
+        "Mast cell tumors",
+        "Neutering",
+        "Survival"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
     {
       "id": "42854722",
       "title": "Oral trazodone alone or in combination with gabapentin reduces the expression of stress-related behaviors in a randomized controlled trial with shelter dogs.",
