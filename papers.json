@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12 06:18 UTC",
-  "total": 12049,
+  "updated": "2026-10-13 03:10 UTC",
+  "total": 12050,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -39,6 +39,23 @@
       ],
       "mesh": [],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42860568",
+      "title": "Long-term outcomes following modified Blalock-Taussig-Thomas shunt placement in 13 dogs with cyanotic congenital heart disease.",
+      "authors": "Rossanese M, Hannabuss J, Brockman D",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 11",
+      "sortdate": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860568/",
+      "abstract": "OBJECTIVES: To describe long-term outcome and owner-perceived quality of life in dogs with cyanotic congenital cardiac disease undergoing modified Blalock-Taussig-Thomas shunt procedure. MATERIALS AND METHODS: Medical records of dogs that underwent Blalock-Taussig-Thomas shunt between 2009 and 2025 at a small animal referral hospital were retrospectively reviewed. Complications, long-term outcomes and quality of life were assessed via clinical examination and/or contact with owners or referring veterinarians. RESULTS: Thirteen dogs were included. The predominant clinical signs were exercise intolerance, cyanosis and a heart murmur. Diagnosis included tetralogy of Fallot (n&#x2009;=&#x2009;8), double outlet right ventricle (n&#x2009;=&#x2009;3); tetralogy of Fallot-double outlet right ventricle spectrum (n&#x2009;=&#x2009;1) and tetralogy of Fallot with pulmonary atresia spectrum (n&#x2009;=&#x2009;1). All dogs survived surgery. Follow-up was available for 12 dogs, ranging from 58 to 2094&#x2009;days. Eight dogs died or were euthanased for cardiac-related reasons, three were alive at follow-up and one dog was alive 278&#x2009;days after surgery at last point of contact. All dogs showed a marked postoperative clinical improvement. Shunt obstruction or partial obstruction was documented in three of 12 dogs at 265, 587 and 693&#x2009;days. Postoperative balloon valvuloplasty was performed in three of the 12 dogs, one died during the procedure and two dogs showed clinical improvement and extended good quality survival. Owners' perception of the procedure outcome and quality of life was described as good, with only mild adjustments needed for exercise. CLINICAL SIGNIFICANCE: Blalock-Taussig-Thomas shunt is an effective palliative option for dogs with cyanotic congenital cardiac diseases associated with reduced pulmonary blood flow, providing sustained clinical improvement and quality of life. Recurrence of clinical signs could indicate shunt obstruction and warrants prompt assessment.",
+      "affiliations": [
+        "Department of Clinical Science and Services, The Royal Veterinary College, Hatfield, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -15147,7 +15164,20 @@
         "Small animal veterinarians",
         "Veterinary ethics"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Veterinarians",
+        "Austria",
+        "Craniosynostoses",
+        "Surveys and Questionnaires",
+        "Dog Diseases",
+        "Attitude of Health Personnel",
+        "Airway Obstruction",
+        "Male",
+        "Humans",
+        "Female"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
