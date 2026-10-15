@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15 00:44 UTC",
-  "total": 12067,
+  "updated": "2026-10-15 05:01 UTC",
+  "total": 12072,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -33,6 +33,76 @@
       "keywords": [],
       "mesh": [],
       "category": "jointreplacement",
+      "summary_ko": ""
+    },
+    {
+      "id": "42874848",
+      "title": "Osteogenic priming of canine perivascular mesenchymal stromal cells enhances extracellular vesicle yield and in vitro activity for bone regeneration.",
+      "authors": "Hertel FC, da Silva AS, Spachi NB, Martins LMA, Rocha CC, Nolasco SCVM, do Amaral Xavier L, de Oliveira Silva J, de Barros ALB, Guimarães JD",
+      "journal": "Vet J",
+      "date": "2026 Oct 14",
+      "sortdate": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874848/",
+      "abstract": "The therapeutic efficacy of mesenchymal stromal cells (MSCs) is intrinsically linked to their response to the host microenvironment by the interplay with resident cells. While MSC-derived extracellular vesicles (EVs) offer a promising cell-free alternative, optimizing their production and cargo for specific clinical applications remains a challenge. We investigated the impact of in vitro osteogenic priming on the yield, molecular profile, and functional activity of EVs derived from canine umbilical cord perivascular MSCs (cPMSCs). The EVs secreted by osteogenic primed and na&#xef;ve cPMSC were isolated by ultracentrifugation and characterized by nanoparticle tracking analysis, western blotting, and electronic transmission microscopy. In vitro functional assays of cellular uptake, proliferation, migration, and mineralization were performed. MicroRNAs known to participate in osteogenesis (cfa-miR-21, cfa-miR26a, cfa-miR-27a and cfa-miR-29a) were evaluated in EV samples of both groups through RT-qPCR. Notably, osteogenic priming led to a 1.5-fold increase in vesicle yield (5.6 &#xb1; 0.5 &#xd7;1010 particles/ml) compared to na&#xef;ve MSCs (3.7 &#xb1; 0.7 &#xd7;1010 particles/ml), without altering vesicle distribution nor TSG101 expression (similar expression for both groups). Functional assays revealed that while both EV populations were efficiently internalized, osteogenic priming significantly improved extracellular matrix mineralization (P=0.0003) and enhanced EV-mediated cell migration (P=0.005). Molecular analysis confirmed the enrichment of key osteogenic microRNAs, including cfa-miR-21, cfa-miR-26a, cfa-miR-27a, and cfa-miR-29a, in both groups. These findings demonstrate that osteogenic priming is a robust strategy to improve EV production efficiency and migratory potential, providing a molecularly characterized foundation for advanced cell-free orthopedic therapies in veterinary medicine.",
+      "affiliations": [
+        "Veterinary Department, Federal University of Vi&#xe7;osa, 36.570-900, Vi&#xe7;osa, MG, Brazil.",
+        "Clinical and Toxicological Analyses, Faculty of Pharmacy, Federal University of Minas Gerais, 31270-901, Belo Horizonte, MG, Brazil.",
+        "Veterinary Department, Federal University of Vi&#xe7;osa, 36.570-900, Vi&#xe7;osa, MG, Brazil. Electronic address: emily.carlo@ufv.br."
+      ],
+      "keywords": [
+        "cell therapy",
+        "exosomes",
+        "stem cells"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42874844",
+      "title": "Comparison of peribulbar anesthesia with neosaxitoxin or bupivacaine in dogs undergoing reconstructive keratoplasty.",
+      "authors": "Ribeiro MR, Ariga BK, Gomes DR, Alves DS, Andrade SMCF, Reed RA, Barletta M, Cassu RN",
+      "journal": "Vet J",
+      "date": "2026 Oct 14",
+      "sortdate": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874844/",
+      "abstract": "BACKGROUND: This study compared the analgesic efficacy of peribulbar anesthesia using neosaxitoxin versus bupivacaine in dogs undergoing reconstructive keratoplasty. METHODS: Of 28 dogs, four were excluded for not meeting the inclusion criteria. The anesthetic protocol included dexmedetomidine and methadone, propofol and isoflurane. Immediately after intubation, 24 dogs were randomly assigned (12 per group) to receive peribulbar block with either neosaxitoxin (3.5&#xb5;g; NeoSTX group) or 0.5% bupivacaine (0.2mL/kg, Bupi group). Intraoperatively, cardiopulmonary variables and end-tidal isoflurane concentration (FE'ISO) were recorded at predefined time points. Pain, corneal esthesiometry, blepharospasm, and sedation were assessed preoperatively and up to 24hours post-extubation. Methadone was administered as rescue analgesia. The duration of analgesia, defined as the interval between block administration and the first rescue analgesia, was also recorded. RESULTS: Cardiopulmonary parameters, blepharospasm, duration of analgesia and sedation scores did not differ between treatments. The area under the curve (AUC) of Fe&#xb4;ISO and esthesiometry were lower in the NeoSTX group compared to the Bupi group (P = 0.004; P = 0.009, respectively). Pain was lower in the Bupi group at 12hours post-extubation compared with the NeoSTX group (P = 0.012). Methadone was required in 4/12 dogs in each group, administered at 4-6hours post-extubation in the Bupi group and at 12-18hours in the NeoSTX group. CONCLUSION: In conclusion, at the dose and concentrations used in this study, peribulbar NeoSTX was associated with lower isoflurane and corneal esthesiometry AUCs, but did not provide additional postoperative analgesic benefit compared with bupivacaine.",
+      "affiliations": [
+        "Department of Veterinary Surgery and Anesthesiology, Faculty of Veterinary Medicine, University of Western S&#xe3;o Paulo (UNOESTE), Presidente Prudente, S&#xe3;o Paulo, Brazil; Institute of health and Animal Production (ISPA), Federal Rural University of the Amazon (UFRA), Bel&#xe9;m, Brazil.",
+        "Department of Veterinary Surgery and Anesthesiology, Faculty of Veterinary Medicine, University of Western S&#xe3;o Paulo (UNOESTE), Presidente Prudente, S&#xe3;o Paulo, Brazil.",
+        "Department of Large Animal Medicine, University of Georgia, College Station Rd, Athens, GA, USA.",
+        "Department of Veterinary Surgery and Animal Reproduction, School of Veterinary Medicine and Animals Science, S&#xe3;o Paulo State University (UNESP), Botucatu, S&#xe3;o Paulo, Brazil; Postgraduate Program in Anesthesiology, Sao Paulo State University (UNESP), Medical School, Botucatu, Brazil. Electronic address: renata.navarro@unesp.br."
+      ],
+      "keywords": [
+        "Analgesia",
+        "Canine",
+        "Corneal ulcer, Local anesthesia",
+        "Ophthalmology",
+        "Saxitoxin"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42874667",
+      "title": "Point-of-care troponin I assay has acceptable performance detecting clinically important canine myocardial injury but reduced precision at low concentrations.",
+      "authors": "Ditzler B, Saunders AB, Wesselowski S, Guadiano P, Dunham JW, Lidbury JA",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 14",
+      "sortdate": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874667/",
+      "abstract": "OBJECTIVE: To perform a partial validation of a point-of-care assay (Vcheck cardiac troponin I [VC-cTnI; cTnI]) for measurement of cTnI in canine serum and to perform a method comparison between the VC-cTnI and an established chemiluminescent assay (ADVIA Centaur XP High-Sensitivity Troponin I [AC-cTnI-HS]). METHODS: From September 4, 2024, through August 21, 2025, surplus canine serum was collected from a diagnostic laboratory, and within-day variability, dilutional parallelism, spiking recovery, and the effect of common interferents (hemolysis, icterus, and lipemia) were analyzed for the VC-cTnI assay. A method comparison of the VC-cTnI and AC-cTnI-HS assays was performed with 121 canine serum samples. RESULTS: The within-day coefficient of variation ranged from 8.1% to 43.8%, decreasing as cTnI concentrations increased. Dilutional parallelism and spiking recovery assessments had mean &#xb1; SD observed-to-expected ratios of 80.5 &#xb1; 33.2% (range, 21.1% to 122.2%) and 112.8 &#xb1; 35.6% (range, 46.0% to 173.9%), respectively. There was no interference from icterus, hemolysis, or lipemia. There was a positive correlation between the VC-cTnI and AC-cTnI-HS assays (Spearman &#x3c1;, 0.742), though 16 of 121 samples (13.2%) were below the VC-cTnI detectable limit. CONCLUSIONS: The VC-cTnI assay lacked precision for measurement of concentrations below 0.2 ng/mL, but within-day variability was acceptable for higher concentrations. CLINICAL RELEVANCE: The VC-cTnI assay is more precise when measuring higher cTnI concentrations and can detect myocardial injury in dogs. Results in the normal and equivocal range of the manufacturer's reference interval may be more challenging to interpret because of suboptimal precision in this range.",
+      "affiliations": [],
+      "keywords": [
+        "analytical validation",
+        "biomarker",
+        "canine",
+        "myocarditis",
+        "troponin"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -2060,6 +2130,31 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42874233",
+      "title": "Removal of a lodged endotracheal tube in an anaesthetised French Bulldog using manual laryngeal stabilisation and neuromuscular blockade, and subsequent complications.",
+      "authors": "Benham-Crosswell F, Armour M, Martinez CP, Lee K, Barfield D, Pelligand L",
+      "journal": "Vet Anaesth Analg",
+      "date": "2026 Sep 21",
+      "sortdate": "2026-09-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874233/",
+      "abstract": "A 5-year-old, female neutered French Bulldog presented under anaesthesia with an endotracheal tube (ETT) lodged in the larynx. Cuff inflation and deflation, application of lubricant, ETT rotation, and repeated traction did not allow ETT removal. The ETT was successfully removed under neuromuscular blockade with manual laryngeal stabilisation: the left thumb pressed against the epiglottis intraorally and the left index and middle fingers gripped the larynx externally to immobilise the larynx. The right-hand applied traction to the ETT, which could then be extracted. The dog's larynx obstructed on recovery from anaesthesia with suspected temporary laryngeal paralysis. The dog was managed with a tracheostomy tube for 3 days and made a good recovery. The dog presented in respiratory distress 4 weeks later with tracheal stenosis that was successfully treated with tracheal resection and anastomosis. This case report describes the use of neuromuscular blockade and manual laryngeal stabilisation to remove a lodged ETT and reflects on the subsequent complications.",
+      "affiliations": [
+        "Queen Mother Hospital for Animals, Royal Veterinary College, Brookmans Park, UK. Electronic address: fbcrosswell22@rvc.ac.uk.",
+        "Queen Mother Hospital for Animals, Royal Veterinary College, Brookmans Park, UK."
+      ],
+      "keywords": [
+        "anaesthesia",
+        "endotracheal tube (ETT)",
+        "extubation",
+        "neuromuscular blockade",
+        "postintubation tracheal stenosis (PITS)",
+        "tracheostomy tube"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -4092,6 +4187,30 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42874340",
+      "title": "Multimodal imaging of a coronary artery fistula in a Welsh Springer spaniel.",
+      "authors": "Jeong HW, Menciotti G",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 08",
+      "sortdate": "2026-09-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874340/",
+      "abstract": "A four-year-old intact male Welsh Springer spaniel was presented for a prebreeding evaluation. Thoracic auscultation revealed a grade 2/6 left basilar systolic murmur. Echocardiography demonstrated left atrial and left ventricular dilation with systolic dysfunction, including a left atrium-to-aortic root ratio of 2.24, normalized left ventricular internal dimension in diastole of 2.44, and fractional shortening of 19%. Color and spectral Doppler interrogation identified continuous flow with a peak velocity of approximately 1.5 m/s in the left pulmonary artery. Transesophageal echocardiography, selective angiography, and computed tomography angiography combined revealed a complex, anomalous coronary artery conformation. Branches of the left and right coronary arteries formed two major tortuous vascular plexuses: a cranial one that drained into the pulmonary artery via a multitude of small fistulous openings, and a caudal one that drained into a branch of the celiac artery. These findings confirmed a diagnosis of a complex coronary artery fistula. Because the supernumerary openings meant surgical ligation or interventional embolization could not guarantee complete closure, medical management with oral pimobendan was elected. Three years after the initial diagnosis, the dog developed atrial fibrillation and right-sided congestive heart failure. Despite the escalation of medical therapy, the dog died four months later. This case highlights the rare anatomical presentation and severe long-term hemodynamic consequences of a complex, untreated coronary artery fistula in a dog.",
+      "affiliations": [
+        "Department of Small Animal Clinical Science, Virginia-Maryland College of Veterinary Medicine, Blacksburg, VA, USA. Electronic address: jeonghw@vt.edu.",
+        "Department of Small Animal Clinical Science, Virginia-Maryland College of Veterinary Medicine, Blacksburg, VA, USA."
+      ],
+      "keywords": [
+        "Angiography",
+        "Arterial shunt",
+        "Computed tomography",
+        "Echocardiography",
+        "Transesophageal echocardiography"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
