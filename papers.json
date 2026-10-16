@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16 00:37 UTC",
-  "total": 12077,
+  "updated": "2026-10-16 04:51 UTC",
+  "total": 12080,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -42,6 +42,48 @@
       ],
       "mesh": [],
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42880347",
+      "title": "Medetomidine-vatinoxan is associated with a higher proportion of hypotension than dexmedetomidine in anesthetized dogs: a retrospective, matched-cohort study.",
+      "authors": "Rouse S, Muñoz K, Lerche P, Ballash G, Midon M, Aarnes TK, Pereira CHR",
+      "journal": "Am J Vet Res",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880347/",
+      "abstract": "OBJECTIVE: To compare clinical parameters and medical interventions during the first hour of inhalant anesthesia in dogs administered medetomidine-vatinoxan (Zenalpha [ZEN]) versus dexmedetomidine (DEX) as IM preanesthetic agents. METHODS: Medical records were searched to identify dogs premedicated with ZEN between August 2022 and January 2025. Dogs administered DEX between July 2021 and May 2026 were then identified and matched with &#x3b1;2-adrenergic receptor agonist dose equivalence prioritized. Generalized estimating equation models were constructed to assess associations between variables of interest and premedication type, while accounting for repeated measurements within paired matched sets. RESULTS: The ZEN group included 24 dogs (ZEN dose median, 10 &#x3bc;g/kg; range, 5 to 26 &#x3bc;g/kg), whereas the DEX group included 48 dogs (DEX dose median, 5 &#x3bc;g/kg; range, 3 to 10 &#x3bc;g/kg), with no differences between groups. Compared with DEX, premedication with ZEN was associated with an 18 beats/min higher heart rate, whereas mean arterial pressure was 19 mm Hg lower. Dogs receiving ZEN had 9.3-fold greater odds of receiving an IV fluid bolus and 6.8-fold greater odds of vasopressor administration. No differences were detectable between groups in IV interventions administered for a light plane of anesthesia. CONCLUSIONS: Findings indicated ZEN was associated with intraoperative hypotension in dogs during the first hour of volatile anesthesia, despite significantly higher heart rates. This effect translated into a significantly greater need for hemodynamic intervention. CLINICAL RELEVANCE: The effects of ZEN on arterial blood pressure warrant careful hemodynamic monitoring and preparedness to provide blood pressure support in dogs undergoing inhalant anesthesia.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, OH.",
+        "Department of Veterinary Preventive Medicine, College of Veterinary Medicine, The Ohio State University, Columbus, OH."
+      ],
+      "keywords": [
+        "Zenalpha",
+        "bradycardia",
+        "hypotension",
+        "vatinoxan",
+        "&#x3b1;2-adrenergic receptor agonist"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42878493",
+      "title": "Use of a cost-effective specimen retrieval bag for canine laparoscopic ovariectomy: a clinical prospective study (2021-2024).",
+      "authors": "Boullenger J, Gougeon E, Dunié-Mérigot A, Poncet C",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42878493/",
+      "abstract": "OBJECTIVES: To assess the feasibility and safety of a cost-effective non-medical plastic bag used as a specimen retrieval bag during laparoscopic ovariectomy. MATERIALS AND METHODS: Thirty-one client-owned dogs having laparoscopic ovariectomy with a non-medical specimen retrieval bag were prospectively enrolled. A disposable liner for baby feeding bottles was used as a specimen retrieval bag. Each bag cost $1.3. Incision enlargement, surgical and retrieval times, retrieval easiness score, size of specimens, surgeon's status (resident or diplomate) and complications were recorded. Owner-assessed comfort score of their dogs and owners' satisfaction score were collected at 2&#x2009;weeks postoperatively. RESULTS: The mean surgical time was 45.6&#x2009;&#xb1;&#x2009;13.4&#x2009;minutes, and the mean retrieval time was 6.2&#x2009;&#xb1;&#x2009;4.4&#x2009;minutes. The mean size of the specimens was 31.4&#x2009;&#xb1;&#x2009;19.2&#x2009;mm. The median retrieval easiness score was 8.0 (IQR&#x2009;=&#x2009;8.0 to 10.0) and was significantly lower for residents than diplomates (median difference&#x2009;=&#x2009;-1). Incision enlargement was required in three cases. Three minor intraoperative complications occurred. The median owner-assessed comfort score was 9.0 (IQR&#x2009;=&#x2009;7.5 to 10.0) and the median owners' satisfaction score was 10.0 (IQR&#x2009;=&#x2009;9.0 to 10.0). CLINICAL SIGNIFICANCE: Use of a sterilized non-medical plastic bag as specimen retrieval bag for canine laparoscopic ovariectomy was easy with limited minor complications, and excellent dogs' comfort and owners' satisfaction. It may be a suitable cost-effective alternative to commercial specimen retrieval bags for use in canine laparoscopic ovariectomy.",
+      "affiliations": [
+        "Centre Hospitalier V&#xe9;t&#xe9;rinaire Languedocia, Montpellier, France.",
+        "Centre Hospitalier V&#xe9;t&#xe9;rinaire Fr&#xe9;gis, Paris, France."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -292,17 +334,17 @@
     },
     {
       "id": "42860147",
-      "title": "Clinical features, survival, and associated factors for canine mast cell tumors: the role of neutering.",
+      "title": "Clinical features, survival, and associated factors for canine mast cell tumors: The role of neutering.",
       "authors": "da Silva EMG, Mantovani MM, Silva MJB",
       "journal": "Vet J",
       "date": "2026 Oct 11",
       "sortdate": "2026-10-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42860147/",
-      "abstract": "Canine mast cell tumors are among the most common skin neoplasms in dogs and exhibit highly variable biological behavior. Several factors have been associated with their development and prognosis, including breed, body size, and histological grade; however, the influence of neutering status, particularly age at neutering, on the odds of tumor diagnosis and survival remains unclear. This study aimed to evaluate clinical features, factors associated with diagnosis, and survival outcomes in dogs with mast cell tumors (MCTs), with emphasis on neutering status and age at neutering. A retrospective case-control and survival study was conducted using medical records of dogs treated at a university veterinary hospital from 2015 to 2024. Dogs diagnosed with MCT were included as cases and compared with tumor-free controls matched by age category. Epidemiological, clinical, and pathological variables were analyzed, and agreement between cytological and histological grading was assessed. Among 56,254 dogs evaluated during the study period, 313 were diagnosed with MCT. Neutering before 24 months of age was associated with increased odds of MCT diagnosis compared with intact dogs, whereas neutering after 24 months of age was not. Medium and large body size, overweight body condition score, and specific breeds, particularly American Pit Bull Terriers and Boxers, were also associated with tumor diagnosis. In survival analysis, histological grade and tumor size were associated with survival time, whereas neutering status was not.",
+      "abstract": "Canine mast cell tumors are among the most common skin neoplasms in dogs and exhibit highly variable biological behavior. Several factors have been associated with their development and prognosis, including breed, body size, and histological grade; however, the influence of neutering status, particularly age at neutering, on the odds of tumor diagnosis and survival remains unclear. This study aimed to evaluate clinical features, factors associated with diagnosis, and survival outcomes in dogs with mast cell tumors (MCTs), with emphasis on neutering status and age at neutering. A retrospective case-control and survival study was conducted using medical records of dogs treated at a university veterinary hospital from 2015 to 2024. Dogs diagnosed with MCT were included as cases and compared with tumor-free controls matched by age category. Epidemiological, clinical, and pathological variables were analyzed, and agreement between cytological and histopathological grading was assessed. Among 56,254 dogs evaluated during the study period, 313 were diagnosed with MCT. Neutering before 24 months of age was associated with increased odds of MCT diagnosis compared with intact dogs, whereas neutering after 24 months of age was not. Medium and large body size, overweight body condition score, and specific breeds, particularly American Pit Bull Terriers and Boxers, were also associated with tumor diagnosis. In survival analysis, histological grade and tumor size were associated with survival time, whereas neutering status was not.",
       "affiliations": [
-        "Laboratory of Tumor Biomarkers and Osteoimmunology, Institute of Biomedical Sciences, Federal University of Uberl&#xe2;ndia. Electronic address: elismaressa@ufu.br.",
-        "Faculty of Veterinary Medicine and Animal Science, Federal University of Uberl&#xe2;ndia, Uberl&#xe2;ndia, Brazil.",
-        "Laboratory of Tumor Biomarkers and Osteoimmunology, Institute of Biomedical Sciences, Federal University of Uberl&#xe2;ndia."
+        "Laboratory of Tumor Biomarkers and Osteoimmunology, Institute of Biomedical Sciences, Federal University of Uberl&#xe2;ndia, Uberl&#xe2;ndia, Minas Gerais, Brazil. Electronic address: elismaressa@ufu.br.",
+        "Faculty of Veterinary Medicine and Animal Science, Federal University of Uberl&#xe2;ndia, Uberl&#xe2;ndia, Minas Gerais, Brazil.",
+        "Laboratory of Tumor Biomarkers and Osteoimmunology, Institute of Biomedical Sciences, Federal University of Uberl&#xe2;ndia, Uberl&#xe2;ndia, Minas Gerais, Brazil."
       ],
       "keywords": [
         "Associated factors",
@@ -4497,6 +4539,29 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42879949",
+      "title": "Utility of longitudinal and radial myocardial velocities assessed by color tissue Doppler imaging in dogs with dilated cardiomyopathy.",
+      "authors": "Tidholm A, Häggström J",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 07",
+      "sortdate": "2026-09-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879949/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Dilated cardiomyopathy (DCM) is characterized by left ventricular (LV) dilatation and impaired myocardial systolic function. Tissue Doppler imaging (TDI) has been developed to assess myocardial wall velocities and might therefore be expected to be a useful tool in the diagnosis of DCM. The aim of the study was to ascertain whether TDI variables differ between DCM dogs and normal control dogs. ANIMALS, MATERIALS AND METHODS: Eighty-three client-owned dogs, 37 with DCM and 46 control dogs, were included in the study. A prospective observational study was conducted. RESULTS: There were no significant differences in systolic wave velocities in radial or longitudinal motion in either the lateral or the medial LV wall in dogs with DCM compared to control dogs. Medial longitudinal and radial myocardial velocities in early diastole were significantly increased in DCM dogs compared to control dogs. Left ventricular systolic time-to-peak interval was significantly prolonged in dogs with DCM compared to control dogs in both longitudinal lateral (P=0.0002) and medial (P=0.005), as well as radial (P=0.0006), myocardial wall motion. STUDY LIMITATIONS: Median body weight and heart rate were significantly higher in DCM dogs than in normal dogs. Reliable TDI data could not be obtained in all myocardial segments in all dogs. CONCLUSIONS: Our study shows that delay in the onset of the myocardial systolic wave, assessed as time-to-peak interval, is a consistent finding in dogs with DCM compared to normal dogs but decreased systolic wave velocity is not.",
+      "affiliations": [
+        "Anicura Albano Animal Hospital, Rinkebyv&#xe4;gen 21, Danderyd, Sweden; Department of Clinical Sciences Faculty of Veterinary Medicine, Swedish University of Agricultural Sciences, Uppsala, Sweden. Electronic address: anna.tidholm@gmail.com.",
+        "Department of Clinical Sciences Faculty of Veterinary Medicine, Swedish University of Agricultural Sciences, Uppsala, Sweden."
+      ],
+      "keywords": [
+        "Left ventricular dyssynchrony",
+        "Myocardial disease",
+        "Prolonged time-to-peak interval",
+        "Systolic dysfunction"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
