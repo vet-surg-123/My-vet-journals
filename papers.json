@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15 05:01 UTC",
-  "total": 12072,
+  "updated": "2026-10-16 00:37 UTC",
+  "total": 12077,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,34 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42876319",
+      "title": "A New Application of (64)CuCl(2) PET/CT: Imaging of Cats With Mammary Carcinoma.",
+      "authors": "Yang VA, Lunceford JM, Garrett C, Lattimer JC, Papageorgiou C, Smith CJ, Maitz CA, Bryan JN, Talbott JL, Lewis MR",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876319/",
+      "abstract": "Feline mammary carcinoma (FMC) is an aggressive and highly metastatic cancer that shares molecular and clinical characteristics with human triple-negative breast cancer (TNBC), making it a relevant comparative model for a disease lacking targeted therapies. This study investigated the feasibility and clinical utility of 64CuCl2 PET/CT imaging in cats with naturally occurring mammary carcinoma. Eight cats (seven tumour-bearing, one healthy control) were administered an intravenous dose of 64CuCl2 and underwent whole-body PET/CT imaging. Semi-quantitative analysis was performed using standardized uptake values (SUVs), and tumour-to-muscle ratios were calculated to assess lesion conspicuity. Serum ceruloplasmin concentrations were measured as a marker of systemic copper metabolism. All primary masses were 64Cu-avid and conspicuous, with consistently elevated tumour-to-muscle ratios across tumour-bearing cats, allowing clear differentiation between neoplastic and normal tissue. Imaging provided additional staging information by identifying locally invasive and metastatic disease that was not fully evident on physical examination. Physiologic tracer distribution was characterized by high uptake in the liver and gallbladder and low uptake in skeletal muscle, which served as a reliable reference tissue. Serum ceruloplasmin concentrations varied widely and did not correlate with tumour uptake. These findings suggest that 64CuCl2 PET/CT is a feasible functional imaging modality for FMC, potentially aiding in tumour detection. This was an exploratory study, and not all imaging results could be confirmed by cytology or histopathology. Nonetheless, our findings suggest that 64CuCl2 PET/CT should be investigated further as a method for probing copper utilization in FMC.",
+      "affiliations": [
+        "Department of Veterinary Medicine and Surgery, University of Missouri, Columbia, Missouri, USA.",
+        "Department of Medicine, University of Missouri, Columbia, Missouri, USA.",
+        "Research Service, Harry S. Truman Memorial Veterans' Hospital, Columbia, Missouri, USA.",
+        "Research Reactor Center, University of Missouri, Columbia, Missouri, USA.",
+        "Department of Radiology, University of Missouri, Columbia, Missouri, USA.",
+        "Ellis Fischel Cancer Center, University of Missouri, Columbia, Missouri, USA.",
+        "Molecular Imaging and Theranostics Center, University of Missouri, Columbia, Missouri, USA."
+      ],
+      "keywords": [
+        "ceruloplasmin",
+        "copper&#x2010;64",
+        "feline mammary carcinoma",
+        "positron emission tomography"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
     {
       "id": "42872590",
       "title": "A novel 3D-printed patient-specific limb-sparing radial endoprosthesis for treatment of primary osteosarcoma in a Great Dane.",
@@ -1103,6 +1131,107 @@
       ],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42877668",
+      "title": "Case Report: Ventriculoperitoneal shunt for management of syringomyelia and Chiari-like malformation in a Cavalier King Charles Spaniel.",
+      "authors": "Fernandez Cid A, Tabanez J, Black C, Rusbridge C",
+      "journal": "Front Vet Sci",
+      "date": "2026 Sep 30",
+      "sortdate": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877668/",
+      "abstract": "A 1-year-old male Cavalier King Charles Spaniel (CKCS) was presented with spinal hyperesthesia, reluctance to exercise, and phantom scratching. MRI revealed a Chiari-like malformation (CM) with brachycephaly, cerebellar herniation, ventriculomegaly, and syringomyelia extending from the odontoid peg to L5, with a maximum transverse syrinx width of 7.0 mm at C2-C3. Medical management (meloxicam and gabapentin) failed to resolve clinical signs. Due to significantly increased lateral ventricles and concern for syrinx progression, a ventriculoperitoneal shunt was placed. Aside from transient post-operative pneumocephalus, the procedure was successful. The dog showed significant clinical improvement, and follow-up MRI demonstrated syrinx reduction and resolution of lateral ventricles. At 6 months post-op, the syrinx measured 2.3 mm. Eight months after the surgery, the dog experienced a brief episode of a suspected movement disorder like but recovered fully. The patient remains pain-free and neurologically normal. This case describes the clinical and imaging outcomes of ventriculoperitoneal shunting (VPS) in a dog with Chiari-like malformation, syringomyelia, and ventriculomegaly.",
+      "affiliations": [
+        "Southern Counties Veterinary Specialists, Ringwood, United Kingdom.",
+        "Lumbry Park Veterinary Specialists, Alton, United Kingdom.",
+        "Fitzpatrick Referrals, Eashing, United Kingdom.",
+        "School of Veterinary Medicine, Guildford, United Kingdom."
+      ],
+      "keywords": [
+        "Cavalier King Charles Spaniel",
+        "Chiari-like malformation",
+        "syringomyelia",
+        "ventriculomegaly",
+        "ventriculoperitoneal (VP) shunt"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42877642",
+      "title": "Effects of pregabalin added to a multimodal anesthetic protocol in cats undergoing ovariohysterectomy.",
+      "authors": "Romano M, Hernández-Avalos I, Nanci C, Costa S, Lombardo A, Di Pietro S, Spadola F, Interlandi C",
+      "journal": "Front Vet Sci",
+      "date": "2026 Sep 30",
+      "sortdate": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877642/",
+      "abstract": "Advancement in anesthetic protocols is necessary to address the evolving challenges of perioperative cats' management in veterinary practice. In this study, 54 cats were enrolled and were randomly assigned to either Group P (Pregabalin, PGB) or Group C (Control). Group P received 5&#x202f;mg/kg of PGB orally 90&#x202f;min before hospital admission, while Group C received identical empty capsules. Sedation was assessed using a Feline Multiparametric Sedation Scale and a Simple Qualitative Scale. All cats were premedicated with methadone (0.2&#x202f;mg/kg IM) and alfaxalone (1&#x202f;mg/kg IM). Anesthesia was induced with propofol at 2&#x202f;mg/kg and maintained with isoflurane. Physiological parameters (HR, RR, SpO2, EtCO2, Blood Pressure, and Temperature) were monitored throughout surgery. In the immediate postoperative period, the Glasgow Feline Composite Measure Pain Scale short-form and the Feline Grimace Scale were used, measured at 0, 15, 30, and 60&#x202f;min after extubation. Statistical analysis included Two-way ANOVA for physiological data and Wilcoxon-Mann-Whitney tests for pain and sedation scores. Sedation scores increased in Group P by 2.46 (95% CI: 1.69 to 3.23; p&#x202f;&lt;&#x202f;0.001). Conversely, the scores of the scales used in the immediate postoperative period were significantly lower in the Group P at all evaluation times -2.15 (95% CI: -2.92 to -1.39; p&#x202f;&lt;&#x202f;0.001). No significant differences were observed in physiological parameters. In conclusion, prehospital administration of PGB provides effective sedation and improves postoperative comfort, making it a valuable adjunct to feline anesthesia protocols.",
+      "affiliations": [
+        "Veterinary Clinic \"City of Catania\", Vetpartners, Catania, Italy.",
+        "Clinical Pharmacology and Veterinary Anesthesia, Biological Sciences Department, Facultad de Estudios Superiores Cuautitl&#xe1;n, Universidad Nacional Aut&#xf3;noma de M&#xe9;xico (UNAM), Cuautitl&#xe1;n, Mexico.",
+        "Department of Veterinary Sciences, University of Messina, Messina, Italy."
+      ],
+      "keywords": [
+        "anxiety",
+        "cats",
+        "pregabalin",
+        "recovery",
+        "sedation",
+        "stress"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42877635",
+      "title": "Assessment of the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in dogs with asymptomatic elevation of liver parameters: a pilot study.",
+      "authors": "Nieradka R, Jank M, Otto S, Kurosad A",
+      "journal": "Front Vet Sci",
+      "date": "2026 Sep 30",
+      "sortdate": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877635/",
+      "abstract": "BACKGROUND: Liver diseases in dogs are often diagnosed at advanced stages due to the organ's high functional reserve. Early supportive therapy with hepatoprotective nutraceuticals may help slow disease progression in dogs with asymptomatic elevation of liver parameters. AIM: The aim of this pilot study was to evaluate the hepatoprotective effect of a multi-component preparation containing phospholipids, selected amino acids, betaine, and milk thistle extract in client-owned dogs with asymptomatic elevation of liver parameters. MATERIALS AND METHODS: Seventeen dogs were included in the open-label study. The animals received Hepatiale Forte Advanced (Vet Expert) for 8&#x202f;weeks at the manufacturer's recommended dose. Liver enzyme activities (ALT, AST, ALP, GGT), total bilirubin, serum bile acids, hematological parameters, and abdominal ultrasonography were assessed at baseline and after 8&#x202f;weeks. RESULTS: Supplementation resulted in statistically significant reductions in ALT (p&#x202f;=&#x202f;0.004), AST (p&#x202f;=&#x202f;0.004), ALP (p&#x202f;=&#x202f;0.001), total bilirubin (p&#x202f;=&#x202f;0.001) and serum bile acids (p&#x202f;=&#x202f;0.007). A trend toward a decrease was observed for GGT (p&#x202f;=&#x202f;0.052). Hematological parameters remained stable, and the preparation was well tolerated with no adverse effects reported. Ultrasonographic findings were mostly stable or improved (resolution of biliary sludge in some cases). CONCLUSION: Eight-week supplementation with the multi-component hepatoprotective preparation was associated with significant improvement in liver biochemical parameters in dogs with asymptomatic elevation of liver parameters. The results support further research in a randomized, placebo-controlled trial.",
+      "affiliations": [
+        "Department of Clinical Diagnostics, Faculty of Veterinary Medicine, University of Warmia and Mazury in Olsztyn, Olsztyn, Poland.",
+        "Department of Pre-clinical Sciences and Infectious Diseases, Faculty of Veterinary Medicine and Animal Sciences, Poznan University of Life Sciences, Pozna&#x144;, Poland.",
+        "Vet Planet LLC, &#x141;omianki, Poland."
+      ],
+      "keywords": [
+        "asymptomatic elevation of liver parameters",
+        "dogs",
+        "hepatoprotection",
+        "nutraceuticals",
+        "pilot study"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42876514",
+      "title": "Case Report: Epitheliotropic cutaneous presentation of multicentric diffuse large B-cell lymphoma in a dog.",
+      "authors": "Kim GH, Ko BG, Kim SH, Seo KW, Youn HY, Ryu MO",
+      "journal": "Front Vet Sci",
+      "date": "2026 Sep 30",
+      "sortdate": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876514/",
+      "abstract": "Diffuse large B-cell lymphoma (DLBCL) is the most common histological subtype of canine multicentric lymphoma, whereas epitheliotropism is classically associated with cutaneous T-cell lymphoma. A 9-year-old neutered male Chihuahua was diagnosed with stage IVb multicentric lymphoma and achieved complete remission with a UW-25 L-CHOP protocol. However, an upper lip mass, cytologically consistent with lymphoma, developed during remission. Electrochemotherapy was performed for local control and resulted in marked reduction of the lesion. The dog later developed recurrent peripheral lymphadenopathy and multiple progressive cutaneous masses despite various chemotherapy protocols and was euthanized at week 59 because of progressive clinical deterioration. Histopathology confirmed diffuse large cell lymphoma in the submandibular lymph node, whereas the cutaneous lesions showed neoplastic lymphoid infiltration with multifocal epidermal invasion, mimicking epitheliotropic T-cell lymphoma. Immunohistochemistry (IHC) confirmed diffuse CD20 expression in both sites, with CD3 labeling limited to scattered background lymphocytes. These findings supported the interpretation of secondary cutaneous involvement of DLBCL with a highly unusual epitheliotropic pattern and emphasize the importance of IHC for accurate immunophenotypic classification of cutaneous lymphoma lesions.",
+      "affiliations": [
+        "Laboratory of Veterinary Internal Medicine, Department of Veterinary Clinical Science, College of Veterinary Medicine, Seoul National University, Seoul, Republic of Korea."
+      ],
+      "keywords": [
+        "canine",
+        "case report",
+        "cutaneous involvement",
+        "diffuse large B-cell lymphoma",
+        "electrochemotherapy",
+        "epitheliotropism"
+      ],
+      "mesh": [],
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -7002,14 +7131,14 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Cat Diseases",
         "Female",
-        "Retrospective Studies",
-        "Magnetic Resonance Imaging",
         "Male",
+        "Cat Diseases",
         "Facial Nerve Diseases",
-        "Treatment Outcome",
-        "Facial Paralysis"
+        "Facial Paralysis",
+        "Magnetic Resonance Imaging",
+        "Retrospective Studies",
+        "Treatment Outcome"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
