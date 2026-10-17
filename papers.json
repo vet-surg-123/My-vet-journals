@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16 04:51 UTC",
-  "total": 12080,
+  "updated": "2026-10-17 00:43 UTC",
+  "total": 12092,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,24 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42885408",
+      "title": "Urinary liver-type fatty acid-binding protein in cats with lower urinary tract disease.",
+      "authors": "Culha N, Acar A, Ulutas B, Dinler Ay C",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 16",
+      "sortdate": "2026-10-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42885408/",
+      "abstract": "OBJECTIVES: The aim of this study was to evaluate urinary liver-type fatty acid-binding protein levels in both obstructive and non-obstructive feline lower urinary tract disease. In addition, urinary liver-type fatty acid-binding protein levels were investigated in cats experiencing short-term (&lt;36 hours) and long-term (&#x2265;36 hours) urethral obstruction. MATERIALS AND METHODS: The study included 32 cats, classified into two main groups: cats with feline lower urinary tract disease (n =&#x2009;24) and healthy controls (n =&#x2009;8). The feline lower urinary tract disease group was subdivided into obstructive (n =&#x2009;16) and non-obstructive (n =&#x2009;8) forms. The obstructive group was further divided based on urethral obstruction duration into short-term (n =&#x2009;8) and long-term (n =&#x2009;8) sub-subgroups. Serum creatinine, blood urea nitrogen and potassium were measured in blood samples. Urinary liver-type fatty acid-binding protein and urinary creatinine concentrations were measured in urine supernatant samples. Urinary liver-type fatty acid-binding protein concentrations were indexed to urinary creatinine and expressed as the urinary liver-type fatty acid-binding protein/creatinine ratio. RESULTS: The mean urinary liver-type fatty acid-binding protein/creatinine values of cats with obstructive feline lower urinary tract disease were statistically higher than those in cats with non-obstructive feline lower urinary tract disease and healthy controls. The difference between the mean urinary liver-type fatty acid-binding protein/creatinine values of cats with long-term and short-term obstruction was not statistically significant. In addition, moderately positive correlations were calculated between urinary liver-type fatty acid-binding protein/creatinine and serum creatinine (r = .646; P &lt; .001; 95% CI&#x2009;=&#x2009;0.264 to 0.863) and between urinary liver-type fatty acid-binding protein/creatinine and blood urea nitrogen (r = .549; P &lt; .01; 95% CI&#x2009;=&#x2009;0.081 to 0.791) in the study population. CLINICAL SIGNIFICANCE: This study is the first to report urinary liver-type fatty acid-binding protein/creatinine in cats with feline lower urinary tract disease. The findings suggest that urinary liver-type fatty acid-binding protein/creatinine may serve as a potential biomarker for identifying post-renal acute kidney injury in cats with obstructive feline lower urinary tract disease, particularly in long-term obstructive cases.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, Department of Internal Medicine, Ayd&#x131;n Adnan Menderes University, Ayd&#x131;n, Turkiye.",
+        "Faculty of Veterinary Medicine, Department of Internal Medicine, Afyon Kocatepe University, Afyonkarahisar, Turkiye."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "42876319",
       "title": "A New Application of (64)CuCl(2) PET/CT: Imaging of Cats With Mammary Carcinoma.",
@@ -82,6 +100,30 @@
         "Centre Hospitalier V&#xe9;t&#xe9;rinaire Fr&#xe9;gis, Paris, France."
       ],
       "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42881568",
+      "title": "Polarization Sensitive Optical Coherence Tomography for Surgical Margin Assessment for Canine Soft Tissue Sarcoma.",
+      "authors": "Patel N, Fontes G, Dornbusch J, Biggo M, Erickson A, Jurcak N, Mignucci JS, Shen YF, Weaver H, Jennings R",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42881568/",
+      "abstract": "Soft tissue sarcomas (STSs) and skeletal muscle both appear high scattering on spectral-domain optical coherence tomography (SD-OCT) imaging, which resulted in instances of misclassification by observers in prior soft tissue sarcoma margin assessment studies. Polarization-sensitive optical coherence tomography (PS-OCT) is an extension of OCT that provides additional information about tissue polarization contrast. In this prospective study we wanted to evaluate whether PS-OCT improves tissue differentiation and diagnostic accuracy compared to spectral-domain OCT (SD-OCT) alone. PS-OCT images from surgical margins of 10 resected STS were compared with histopathology to identify characteristic features of normal and neoplastic tissues. Then, six observers of varying OCT image interpretation experience assessed surgical margins from 30 resected STS using SD-OCT alone and SD-OCT combined with PS-OCT. PS-OCT images demonstrated distinct birefringence (optical patterns), corresponding to tissue organization: skeletal muscle exhibited alternating high and low birefringence bands, fascia showed variable birefringence and STS had uniformly low birefringence. Overall diagnostic accuracy was high for both modalities [correct classification rate: SD-OCT alone 93.7% (95% confidence interval (CI): 90.1, 96.0) vs. SD-OCT combined with PS-OCT 92.6% (95%&#x2009;=&#x2009;CI: 89.3, 95.4)]; adding PS-OCT did not significantly improve accuracy across all observers (p&#x2009;=&#x2009;0.82), though expert observers benefited significantly (p&#x2009;=&#x2009;0.0018). Interobserver and intraobserver agreement ranged from substantial to near perfect. These findings suggest PS-OCT can be interpreted reliably after brief training and may enhance accuracy for experienced users. Further research should explore structured training and real-time applications for comprehensive surgical margin evaluation.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, The Ohio State University, Columbus, Ohio, USA.",
+        "College of Veterinary Medicine, Comparative Medicine Program, University of Missouri, Columbia, Missouri, USA.",
+        "Department of Veterinary Biosciences, The Ohio State University, Columbus, Ohio, USA."
+      ],
+      "keywords": [
+        "dogs",
+        "histopathology",
+        "imaging",
+        "surgical oncology"
+      ],
       "mesh": [],
       "category": "surgery",
       "summary_ko": ""
@@ -512,6 +554,28 @@
       "summary_ko": ""
     },
     {
+      "id": "42883127",
+      "title": "Exploratory Retrospective Study on Rehabilitation in Dogs Affected by Acute Idiopathic Polyradiculoneuritis.",
+      "authors": "Bruno E, Salvador E, Balducci F, Antonucci M, Dalmonte T, Spinella G",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 08",
+      "sortdate": "2026-10-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883127/",
+      "abstract": "Acute Canine Idiopathic Polyradiculoneuritis (ACIP) is one of the most common acute-onset peripheral neuropathies in dogs. Since there is no specific therapy, rehabilitation represents the main supporting treatment for canine patients. This exploratory retrospective study analyzes the role and effectiveness of physiotherapy rehabilitation in the treatment of ACIP, evaluating the recovery times of spontaneous walking ability and potential correlation between the considered variables that could influence its progress. The study included 12 clinical cases affected by ACIP and submitted to a physiotherapy support plan for independent gait recovery. Patients were divided into two groups on the basis of the number of rehabilitation sessions required for spontaneous ambulation achievement: less than 40 (Group A) and more than 40 sessions (Group B). Statistical analysis showed no significant association between qualitative variables. Given the inherent methodological limitations and small cohort size, these preliminary findings should be interpreted with caution. However, the data tentatively suggest that intensive rehabilitation strategies might support a more rapid recovery of independent ambulation, even though the number of moderate and maintenance sessions did not differ significantly between the groups. Consequently, further studies with statistical power are required to confirm these trends.",
+      "affiliations": [
+        "AniCura Ospedale Veterinario 'I Portoni Rossi', Via Roma, 57/A, 40069 Zola Predosa, BO, Italy.",
+        "Department of Veterinary Medical Sciences, University of Bologna, 40064 Ozzano dell'Emilia, BO, Italy."
+      ],
+      "keywords": [
+        "acute idiopathic polyradiculoneuritis",
+        "dog",
+        "rehabilitation"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42843446",
       "title": "Vitamin D supplementation in dogs with chronic biliary tract diseases.",
       "authors": "Habermaass V, Cogozzo A, Bartoli F, Rocca DJ, Dini R, Puccinelli C, Marchetti V",
@@ -583,6 +647,31 @@
         "modified zarit burden interview",
         "quality of life",
         "zarit burden interview"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42883105",
+      "title": "Candida albicans Urinary Tract Infection with Suspected Fungal Hepatobiliary Disease in an Immunosuppressed Dog: A Case Report.",
+      "authors": "Norman A, Walton-Clark M",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 07",
+      "sortdate": "2026-10-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883105/",
+      "abstract": "Fungal urinary tract infections (UTIs) are uncommon in dogs and are typically associated with immunocompromised patients or those with other predisposing factors. Fungal hepatobiliary disease is rarely reported in the veterinary literature. This case report describes a dog on dual immunosuppressive therapy for suspected immune-mediated polyarthritis that developed a hepatopathy suspected to represent bacterial hepatobiliary disease and was subsequently treated with prolonged amoxicillin-clavulanate therapy. Following treatment, the dog developed marked hepatocellular enzyme elevations together with a Candida albicans UTI. Given the patient's progressive hepatocellular injury, clinical signs, history of immunosuppression and antibiotic therapy, concurrent fungal hepatobiliary involvement was suspected. Following initiation of oral fluconazole, the fungal UTI resolved, and there was marked improvement, with subsequent normalisation of ALT and ALP activities. Although the temporal association between antifungal treatment and clinical and biochemical improvement raised suspicion of concurrent fungal hepatobiliary involvement, simultaneous discontinuation of amoxicillin-clavulanate, substantial reduction in prednisolone dose, and continuation of hepatoprotective therapy precluded attribution of the improvement specifically to antifungal treatment. This case highlights the potential for opportunistic fungal disease in immunosuppressed dogs, particularly following prolonged antimicrobial exposure, and illustrates the diagnostic challenges associated with suspected hepatobiliary involvement.",
+      "affiliations": [
+        "Linnaeus Veterinary Limited, Winchester SO21 2LL, UK.",
+        "Linnaeus Veterinary Limited, Edison Business Park, Swindon SN3 3FR, UK."
+      ],
+      "keywords": [
+        "candiduria",
+        "cholangiohepatitis",
+        "fluconazole",
+        "hepatopathy",
+        "mycophenolate mofetil",
+        "opportunistic mycosis"
       ],
       "mesh": [],
       "category": "internal",
@@ -795,6 +884,31 @@
       "summary_ko": ""
     },
     {
+      "id": "42883089",
+      "title": "Extended Reality for Image-Guided Small Animal Surgery: Current Evidence, Clinical Applications, and Future Directions.",
+      "authors": "Caivano D, Valeri F, Corda A, Bufalari A",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 05",
+      "sortdate": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883089/",
+      "abstract": "Image-guided surgery has become an integral component of modern veterinary surgery using advanced imaging modalities, such as computed tomography, magnetic resonance imaging, ultrasonography, and fluoroscopy. Recently, extended reality (XR) technologies have emerged as promising tools to enhance image-guided surgical procedures by improving three-dimensional anatomical understanding, surgical navigation, and intraoperative decision-making. Although XR has gained considerable attention in human surgery, its application in veterinary surgery remains at an early stage. This narrative review aimed to provide a comprehensive overview of the current evidence regarding XR technologies in small animal surgery, with particular emphasis on their integration with preoperative and intraoperative imaging modalities. The available literature was reviewed to evaluate current clinical applications, technological developments and future perspectives. A literature search was performed in PubMed, Scopus, and Web of Science for studies published up to May 2026 using combinations of terms related to extended reality and small animal veterinary surgery. Original articles, case reports, pilot studies, technical reports, and reviews addressing clinical, experimental, or simulation-based applications were considered. Although several studies have explored the use of XR technologies for veterinary education, anatomical training, and diagnostic imaging instruction, relatively few investigations have assessed their direct application in clinical surgical practice. Potential applications have been described in orthopedic, oncologic, neurologic, cardiovascular, and minimally invasive procedures. Crucially, the currently available peer-reviewed evidence is restricted to canine patients, as no eligible feline studies were identified. Current evidence suggests that XR is an emerging technology with potential applications in canine surgical planning, image-guided procedures, and surgical training. Further prospective clinical studies are required to establish its clinical effectiveness, cost-effectiveness, and impact on surgical outcomes.",
+      "affiliations": [
+        "Department of Veterinary Medicine, University of Perugia, Via San Costanzo 4, 06126 Perugia, Italy.",
+        "Department of Veterinary Medicine, University of Sassari, Via Vienna 2, 07100 Sassari, Italy."
+      ],
+      "keywords": [
+        "augmented reality",
+        "canine",
+        "mixed reality",
+        "sectional imaging",
+        "veterinary surgery",
+        "virtual reality"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42830157",
       "title": "Complete blood count interpretation in dogs and cats and its analytical compatibility with Vis-NIR point-of-care hematology: A systematic literature review with narrative synthesis.",
       "authors": "Bisiaux T, da Costa JM, Martins RC, Barroso TG",
@@ -843,6 +957,33 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42883078",
+      "title": "Canine Hemangiosarcoma Cell Lines In Vitro Platform Captures Morphological, Functional, and Molecular Diversity.",
+      "authors": "di Caporiacco L, Merighi F, Giardino L, Marconato L, Baldassarro VA, Calzà L, Quadalti C",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 03",
+      "sortdate": "2026-10-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883078/",
+      "abstract": "Both canine hemangiosarcoma and human angiosarcoma are aggressive malignancies characterized by clinical and molecular heterogeneity. Current in vitro models rely on individual cell lines, failing to capture this biological complexity. We established a standardized 2D in vitro platform comprising a panel of three canine primary splenic hemangiosarcoma cell lines (EMN009, EMN011, EMN017) and one patient-matched brain metastasis (EMN010) evaluated in parallel. Using gold-standard assays-morphometrics, growth, migration and tube-formation assays-alongside disease-relevant transcriptomic and microRNA profiling, we characterized this multi-line system under harmonized conditions. Neoplastic lines shared a robust core angiogenic signature of 42 overexpressed genes linked to VEGF, AGE-RAGE, and S1P signaling, and a 47-gene cancer stem cell engine enriched in the Hippo/YAP1 pathway. Transcriptomic clustering divided the lines into slower-growing primary tumors (EMN009/EMN011) and highly angiogenic phenotypes (EMN017/EMN010). Isogenic comparison revealed that the metastatic EMN010 uniquely upregulates STAT signaling and peptidyl-tyrosine phosphorylation. MicroRNA profiling demonstrated a global downregulation of tumor-suppressors miR-126-5p and miR-452-5p, unleashing VEGFA-driven angiogenesis, while visceral hemangiosarcoma biomarker miR-214-3p was significantly upregulated. Conversely, miR-10b and miR-133-3p expression varied across lines, reflecting ongoing clonal evolution. This integrated platform successfully recapitulates hemangiosarcoma heterogeneity, providing a reliable, standardized framework for comparative oncology and targeted pathophysiological studies.",
+      "affiliations": [
+        "IRET Foundation ETS, Ozzano Emilia, 40064 Bologna, Italy.",
+        "Health Science and Technologies Interdepartmental Center for Industrial Research (HST-ICIR), University of Bologna, 40064 Bologna, Italy.",
+        "Department of Veterinary Medical Sciences, University of Bologna, 40064 Bologna, Italy.",
+        "Department of Pharmacy and Biotechnology, University of Bologna, 40126 Bologna, Italy."
+      ],
+      "keywords": [
+        "angiosarcoma",
+        "brain metastasis",
+        "canine hemangiosarcoma",
+        "in vitro platforms",
+        "miRNA",
+        "molecular diversity"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -1087,6 +1228,33 @@
       "summary_ko": ""
     },
     {
+      "id": "42883058",
+      "title": "Influence of Breed on Tracheal Diameter and Endotracheal Tube Size Selection in Dogs: A Retrospective Analysis.",
+      "authors": "Kim J, Lee I, Son WG, Lee I, Kim H",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 01",
+      "sortdate": "2026-10-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883058/",
+      "abstract": "Selecting the correct endotracheal tube (ETT) size is critical for safe anesthesia in dogs. Current ETT size recommendations are largely based on body weight (BW), although some breeds, particularly brachycephalic dogs, may receive smaller ETTs than predicted from BW alone. This two-part retrospective study was performed to evaluate the effect of breed on ETT selection. In Part 1, computed tomography (CT)-measured tracheal diameters (TD) were compared among five small dog breeds weighing 4-5 kg and having a body condition score of 5/9. In Part 2, an expanded clinical cohort of 512 dogs from eight breeds was used to compare clinically selected ETT sizes with BW-based predictions. Statistical models assessed whether breed influenced clinically used ETT sizes after accounting for body mass using the cube root of BW. CT measurements revealed that TD differed significantly among breeds within a similar body-weight range. In the Part 2 clinical cohort, clinically selected ETT size was significantly associated with breed, the cube root of BW, and their interaction. Shih Tzus, French Bulldogs, Pekingese, and Boston Terriers had clinically selected ETT sizes smaller than BW-based predicted sizes, with a median discrepancy of approximately 0.5 mm in Shih Tzus and approximately 1.0 mm in French Bulldogs, Pekingese, and Boston Terriers. These findings suggest that the magnitude of discrepancy from BW-based predictions varies among brachycephalic breeds, indicating that breed may warrant consideration when estimating ETT size.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Seoul National University, Seoul 08826, Republic of Korea.",
+        "Ian Animal Diagnostic Center, Seoul 06258, Republic of Korea.",
+        "Department of Veterinary Anesthesia and Pain Medicine, College of Veterinary Medicine, Konkuk University, Seoul 05029, Republic of Korea."
+      ],
+      "keywords": [
+        "South Korea",
+        "airway management",
+        "body weight",
+        "brachycephalic breed",
+        "computed tomography",
+        "intubation",
+        "trachea"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
       "id": "42813598",
       "title": "Veterinary point-of-care ultrasound probe orientation and location for detection of pleural effusion in canine cadavers: a pilot study.",
       "authors": "Di Franco C, Menard J, Romero A, Chalhoub S, Madden V, Boysen SR",
@@ -1274,6 +1442,31 @@
       ],
       "mesh": [],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42883053",
+      "title": "Reduced Plasma Cardiac Myosin-Binding Protein-C Concentrations in Cats with Hypertrophic Cardiomyopathy: Evidence from Chronic, Treated Disease.",
+      "authors": "Tanakwang N, Sakunasing N, Kumphune S, Mektrirat R, Na Lampang K, Boonyapakorn C, Pongkan W",
+      "journal": "Animals (Basel)",
+      "date": "2026 Sep 30",
+      "sortdate": "2026-09-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883053/",
+      "abstract": "Hypertrophic cardiomyopathy (HCM), the most common cardiac disease in cats, is associated with genetic variants, including MYBPC3, which encodes cardiac myosin-binding protein C (cMyBP-C), a key sarcomeric protein involved in myocardial contractility. Although circulating cMyBP-C has emerged as a biomarker of myocardial injury in humans, its clinical relevance in feline HCM remains unclear. This study characterized plasma cMyBP-C and N-terminal pro-B-type natriuretic peptide (NT-proBNP) concentrations across different stages of feline HCM, evaluated their diagnostic performance, and assessed their associations with echocardiographic parameters. A cross-sectional study included 65 cats: 25 healthy cats, 25 with subclinical HCM, and 15 with clinical HCM (chronic and treated). Plasma NT-proBNP was significantly higher in clinical HCM than in healthy cats (p = 0.0117), whereas plasma cMyBP-C was lower in clinical HCM than in subclinical HCM (p = 0.0462) and healthy cats (p = 0.001). At a cut-off of &lt;1.270 ng/mL, plasma cMyBP-C showed 76.19% sensitivity and 65.38% specificity for distinguishing HCM. NT-proBNP alone showed higher overall diagnostic accuracy (76.67%) than the combined use of cMyBP-C and NT-proBNP. Neither plasma NT-proBNP nor cMyBP-C correlated significantly with echocardiographic parameters. Reduced circulating cMyBP-C concentrations in cats with chronic, treated HCM suggest a biomarker pattern distinct from that reported in acute myocardial injury and warrant further investigation.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, Chiang Mai University, Chiang Mai 50100, Thailand.",
+        "Cardiopulmonary Clinic, Northern Regional Veterinary Healthcare and Learning Center, Faculty of Veterinary Medicine, Chiang Mai University, Chiang Mai 50100, Thailand.",
+        "Biomedical Engineering Institute (BMEI), Chiang Mai University, Chiang Mai 50100, Thailand.",
+        "Biomedical Engineering and Innovation Research Center, Chiang Mai University, Chiang Mai 50100, Thailand."
+      ],
+      "keywords": [
+        "N-terminal pro-B-type natriuretic peptide",
+        "cardiac myosin-binding protein C",
+        "feline hypertrophic cardiomyopathy",
+        "heart failure"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -1484,6 +1677,32 @@
       "summary_ko": ""
     },
     {
+      "id": "42883017",
+      "title": "Repair of a Large Congenital Peritoneopericardial Diaphragmatic Hernia with Canine Small Intestinal Submucosa Patch Reinforcement in a Dog: A Case Report.",
+      "authors": "Moon TS, Moon SY, Woo SH, Jeong EJ, Park CM, Lee AJ, Kim HY, Kim JM",
+      "journal": "Animals (Basel)",
+      "date": "2026 Sep 28",
+      "sortdate": "2026-09-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42883017/",
+      "abstract": "Peritoneopericardial diaphragmatic hernia (PPDH) is a congenital anomaly allowing communication between the peritoneal and pericardial cavities. Surgical repair of large diaphragmatic defects can be challenging due to insufficient tissue for primary closure. A 2-year-old intact female White Miniature Schnauzer weighing 6.23 kg presented with a 1-month history of panting and exercise intolerance. Thoracic radiography, ultrasonography, echocardiography, and CT confirmed PPDH with herniation of the left medial and quadrate liver lobes into the pericardial sac. Surgical repair via midline celiotomy revealed a large defect (4.5 &#xd7; 5 cm) involving approximately 70% of the central tendon. Primary closure was incomplete because only two simple interrupted sutures could be placed at the dorsal margin due to excessive tension, leaving a triangular residual defect larger than 3 &#xd7; 3 cm at the ventral aspect, which was closed with a two-layer canine small intestinal submucosa (cSIS) patch applied over the residual defect. Reherniation occurred 42 days postoperatively at the margin between the diaphragm and the cSIS patch. At the second surgery, grossly observed tissue presumed to be newly formed self-tissue at the cSIS site enabled direct suture repair. No recurrence was observed during a 5-month follow-up, and a telephone interview with the owner 3 years after the second surgery confirmed that the dog remained free of clinical signs. This case suggests that cSIS may serve as a feasible reinforcement biomaterial for large diaphragmatic defects where primary closure alone is insufficient, although conclusions drawn from a single case remain preliminary, and surveillance for marginal reherniation is warranted.",
+      "affiliations": [
+        "Department of Veterinary Medicine, College of Veterinary Medicine, Konkuk University, Seoul 05029, Republic of Korea."
+      ],
+      "keywords": [
+        "PPDH",
+        "SIS",
+        "biomaterial",
+        "canine",
+        "diaphragmatic defect",
+        "peritoneopericardial diaphragmatic hernia",
+        "small intestinal submucosa",
+        "surgical repair"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42802502",
       "title": "Cannabidiol in small animal practice: current evidence, clinical applications and practical recommendations for dogs and cats.",
       "authors": "Sano T",
@@ -1540,6 +1759,33 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42882985",
+      "title": "Behavioural and Noise-Level Differences Associated with Response-Independent Treat Delivery in Shelter Dogs.",
+      "authors": "Vokins P, Ellis JJ",
+      "journal": "Animals (Basel)",
+      "date": "2026 Sep 25",
+      "sortdate": "2026-09-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42882985/",
+      "abstract": "Animal shelters can be stressful environments for dogs. Undesirable in-kennel behaviours may reflect poor welfare and negatively affect adoption outcomes. Response-independent treat delivery has shown promise for improving in-kennel behaviour, but its effectiveness when delivered by multiple people is less understood. This study evaluated behavioural and noise-level differences associated with response-independent treat delivery in shelter dogs and responses to a subsequent Novel Person. Twenty-four dogs were observed during Baseline and Intervention phases. During Intervention, volunteers delivered treats when approaching kennels. Compared with Baseline, dogs in the Intervention phase were more likely to be at the front of the kennel, face forward, and stand, and were less likely to be at the back of the kennel, face backward, or exhibit prolonged barking. Behavioural changes across and within days occurred primarily during the Baseline. During the Novel Person comparison, several behaviours differed from Trial 4 during Baseline, while standing increased during Intervention. Because Baseline always preceded Intervention, phase was confounded with time, and the observed differences cannot be attributed unequivocally to treat delivery. The observed phase-associated differences in dogs' in-kennel presentation appeared context-dependent and should not be interpreted as a generalized improvement in behaviour or welfare.",
+      "affiliations": [
+        "Etobicoke Humane Society, 67 Six Point Road, Toronto, ON M8Z 2X3, Canada.",
+        "Faculty of Animal Science and Behavior, Unity Environmental University, 70 Farm View Drive, New Gloucester, ME 04260, USA.",
+        "Toronto Humane Society, 11 River Street, Toronto, ON M5A 4C2, Canada."
+      ],
+      "keywords": [
+        "adopter preference",
+        "animal welfare",
+        "anticipatory",
+        "barking",
+        "kennels",
+        "non-contingent",
+        "stress"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -1922,6 +2168,29 @@
       "summary_ko": ""
     },
     {
+      "id": "42882961",
+      "title": "Descriptive Values and Diagnostic Utility of a 13-Lead Electrocardiographic System in Healthy Cats and Cats with Cardiac or Non-Cardiac Disease.",
+      "authors": "Badric I, Schreiber N, Contiero B, Baron Toaldo M",
+      "journal": "Animals (Basel)",
+      "date": "2026 Sep 23",
+      "sortdate": "2026-09-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42882961/",
+      "abstract": "Surface electrocardiogram including peripheral limb and precordial leads has shown clinical utility in humans and dogs, but it is rarely employed in cats. This prospective single-center study aimed to evaluate a 13-lead electrocardiographic system including six peripheral limb and seven precordial leads in a group of healthy cats and cats with cardiac and non-cardiac diseases. To obtain 13 leads, after two minutes of simultaneous recording of the first 12 leads, one lead was moved in another position, and two additional minutes were recorded. The aim was to report descriptive values for several electrocardiographic variables from healthy cats and to test the exploratory diagnostic value to identify diseased status. A total of 125 cats with sinus rhythm were enrolled and grouped as healthy (H, n = 40), cardiac disease (CaD, n = 57) or non-cardiac disease without cardiac involvement (NCD, n = 28). Diagnostic work-up included echocardiography for every cat and different additional diagnostic tests based on the clinical need. Cats were mildly restrained in right lateral recumbency, and peripheral limb and precordial leads were positioned according to an adjusted Wilson system. In total 141 electrocardiographic variables were measured by one operator blinded to group allocation. Descriptive values were obtained from the H group. P wave amplitude was generally higher in peripheral limb leads compared to precordial leads. Thirty-five variables differed between H and CaD on pairwise comparison, while no variable differed between H and NCD. On multivariable logistic regression analysis, R wave amplitude in lead II, aVL, and V6, P wave amplitude in V8, and age were useful in identifying cardiac disease in this cohort. The same variables, without age but including R wave amplitude in V8, were also able to discriminate between H cats and cats with hypertrophic cardiomyopathy phenotype. In our population of cats with sinus rhythm, 13-lead electrocardiogram allowed differentiating H cats from those with CaD and with hypertrophic cardiomyopathy but not from cats with NCD. Descriptive values are provided for different variables.",
+      "affiliations": [
+        "Division of Cardiology, Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, 8057 Zurich, Switzerland.",
+        "Department of Animal Medicine, Production and Health, University of Padua, 35020 Legnaro, PD, Italy."
+      ],
+      "keywords": [
+        "arrhythmia",
+        "cardiomyopathy",
+        "feline",
+        "precordial leads"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42770669",
       "title": "Staged caval occlusion enabling en bloc right divisional hepatectomy in two dogs with hepatocellular carcinoma.",
       "authors": "Ishigaki K, Asano K",
@@ -2095,6 +2364,41 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42882942",
+      "title": "The Chornobyl Dogs: Why Scientific Evaluation Must Accompany Population Management.",
+      "authors": "Tuech JJ, Guillin O, Pinson J, Nicolas G, Mousseau TA, Betz JA",
+      "journal": "Animals (Basel)",
+      "date": "2026 Sep 22",
+      "sortdate": "2026-09-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42882942/",
+      "abstract": "Nearly four decades after the 1986 reactor explosion, several hundred semi-feral dogs persist within the Chornobyl Exclusion Zone. Genomic work has characterised their population structure and shown that radiation-induced mutation does not, on current evidence, drive the differentiation between groups; the cause of that differentiation remains unresolved, and their epigenome has never been examined. These dogs are a potentially valuable model for chronic, low-dose, multi-stressor exposure, not because they are \"radiation-adapted\", a contested claim, but because they are a human-adjacent, densely sampled, pedigreed mammal for which comparative canine-human tools already exist. Since 2017, a humane sterilisation programme, carried out at the request of and in cooperation with the Ukrainian authorities, has reached near-complete coverage of the established populations. That programme was justified: dogs are formally prohibited in the zone, they injure workers, free-roaming animals inside an operating nuclear facility raise security as well as veterinary concerns, and reproduction was outpacing what the environment could support. Our argument concerns timing rather than policy. The scientific value of this population was never evaluated while it was still breeding, and the archived material that does exist, roughly 400 dogs including parent-offspring trios and repeat-sampled individuals, was assembled for population genetics rather than for the regulatory questions now worth asking. That archive should be analysed for methylation and expression now, as this is the only access to the population as it was. The animals themselves have not gone: several hundred identified dogs are still alive there, so sampling at veterinary contact and the retention of tissue at natural death or clinically indicated euthanasia remain possible, provided they are planned and funded in advance rather than improvised. More generally, the scientific evaluation of a population should accompany the decision to manage it rather than follow it, because sterilisation is not reversible at the population scale and an archive cannot be assembled retrospectively. We set out what such an evaluation requires at the outset of a programme. Its most concrete element asks nothing of the animals: a sterilisation clinic is the only routine access to a free-roaming population under anaesthesia, and the reproductive tissue it removes-the one material capable of addressing germline questions-is discarded as surgical waste.",
+      "affiliations": [
+        "Department of Digestive Surgery, Rouen University Hospital, F-76000 Rouen, France.",
+        "Espace R&#xe9;gional de R&#xe9;flexion &#xc9;thique, CHU Rouen, F-76000 Rouen, France.",
+        "Univ Rouen Normandie, Normandie Univ, Inserm U1245 and Department of Genomic and Personalized Medicine in Cancer and Neurological Disorders, CHU Rouen, F-76000 Rouen, France.",
+        "Centre Hospitalier du Rouvray, Service Hospitalo-Universitaire de Psychiatrie, Centre d'Excellence Th&#xe9;rapeutique, F-76300 Sotteville-l&#xe8;s-Rouen, France.",
+        "Univ Rouen Normandie, Normandie Univ, Inserm U1245 and Department of Genetics and Reference Center for Developmental Disorders, CHU Rouen, F-76000 Rouen, France.",
+        "Department of Biological Sciences, University of South Carolina, Columbia, SC 29208, USA.",
+        "Clean Futures Fund, Godfrey, IL 62035, USA."
+      ],
+      "keywords": [
+        "Chornobyl",
+        "DNA methylation",
+        "One Health",
+        "animal welfare",
+        "biobanking",
+        "epigenetics",
+        "free-roaming dog population management",
+        "intergenerational vs transgenerational inheritance",
+        "low-dose ionizing radiation",
+        "research governance",
+        "semi-feral dogs"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
@@ -30342,7 +30646,21 @@
         "polyendocrine syndrome",
         "thyroiditis"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Autoantibodies",
+        "Female",
+        "Thyroglobulin",
+        "Retrospective Studies",
+        "Adrenal Insufficiency",
+        "Male",
+        "Thyroiditis, Autoimmune",
+        "Hypothyroidism",
+        "Hormone Replacement Therapy",
+        "Thyroxine"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -52632,7 +52950,18 @@
         "indications",
         "outcomes"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Dog Diseases",
+        "Female",
+        "Postoperative Complications",
+        "Male",
+        "United Kingdom",
+        "Orbit Evisceration",
+        "Treatment Outcome"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -55092,7 +55421,18 @@
         "pain",
         "sensory profile"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Diabetic Neuropathies",
+        "Female",
+        "Male",
+        "Prospective Studies",
+        "Pain",
+        "Pain Measurement",
+        "Pain Threshold"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
