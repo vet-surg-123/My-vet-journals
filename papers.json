@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18 00:13 UTC",
-  "total": 12095,
+  "updated": "2026-10-18 04:54 UTC",
+  "total": 12096,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -126,6 +126,32 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42891051",
+      "title": "Generalized Megaesophagus Concurrent With Toxocariasis in a Cat.",
+      "authors": "Azargoun R, Hashemi-Asl SM, Hobbenaghi R, Malekifard F, Shamsaei B, Nabizadeh Z",
+      "journal": "Case Rep Vet Med",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891051/",
+      "abstract": "Feline megaesophagus is a rare disorder characterized by esophageal hypomotility and dilation, resulting in regurgitation, weight loss, and occasionally death. This report describes the clinical and paraclinical findings of generalized megaesophagus with a possible contribution of toxocariasis in a kitten. A 2-month-old female cat was referred with chief complaints of lethargy, hyporexia, dyspnea, and vomiting/regurgitation. Physical examination of the kitten revealed bradycardia, bradypnea, hypothermia, dehydration, and lung crackles. The most notable laboratory results were leukopenia with severe toxic changes in neutrophils. Radiographic findings were compatible with the diagnosis of generalized megaesophagus. Despite supportive measures, the kitten died the next day. Necropsy revealed diffuse esophageal dilation and Toxocara spp. roundworms in the stomach and duodenum. Histopathology showed an ascarid larva in the esophagus, necrosis and metaplasia in the pylorus, and absence of villi and Brunner's glands in the duodenum. Based on the morphological identification of the adult gastrointestinal nematodes, the final diagnosis was generalized megaesophagus of unspecified classification concurrent with toxocariasis. However, the exact cause of death could not be established. Although respiratory abnormalities raised suspicion of a pulmonary complication, pneumonia was not confirmed. We hypothesized that toxocariasis may have contributed to esophageal dysfunction in this kitten through potential mechanisms such as vomiting, gastrointestinal obstruction, or neurological involvement; however, these mechanisms could not be directly demonstrated. Therefore, parasitic diseases, including toxocariasis, may be considered among potential differential diagnoses or contributing conditions in young cats presenting with megaesophagus, particularly when concurrent gastrointestinal parasitism or related complications are identified. Further studies are required to clarify the possible relationship between toxocariasis and esophageal dysfunction.",
+      "affiliations": [
+        "Department of Internal Medicine and Clinical Pathology Faculty of Veterinary Medicine Urmia University Urmia Iran urmia.ac.ir.",
+        "Department of Surgery and Diagnostic Imaging Faculty of Veterinary Medicine Urmia University Urmia Iran urmia.ac.ir.",
+        "Department of Pathobiology Faculty of Veterinary Medicine Urmia University Urmia Iran urmia.ac.ir."
+      ],
+      "keywords": [
+        "domestic shorthair cat",
+        "esophageal dysfunction",
+        "pneumonia",
+        "radiology",
+        "regurgitation",
+        "roundworm"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -11375,18 +11401,18 @@
     },
     {
       "id": "42544949",
-      "title": "EXPRESS: Evaluation of the clinical course of immune-mediated polyneuropathy in cats following treatment with human intravenous immunoglobulins.",
+      "title": "Evaluation of the clinical course of immune-mediated polyneuropathy in cats after treatment with human intravenous immunoglobulins.",
       "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
       "journal": "J Feline Med Surg",
       "date": "2026 Aug 03",
       "sortdate": "2026-08-03",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42544949/",
-      "abstract": "OBJECTIVES: Immune-mediated polyneuropathy (IMPN) manifests with generalized lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN following treatment with human intravenous immunoglobulins (hIVIg). METHODS: Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2 g/kg hIVIg divided over 2-4 days (0.5 g/kg/day).Clinical information, diagnostic findings, treatment details and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (8-51 months; median 17 months).Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (4 cats) or chronic presentation (5 cats). RESULTS: Eight of nine cats exhibited clinical improvement following hIVIg administration, achieving ambulatory status (walking &gt;5 steps) within a median of 4 days (2-8 days). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. CONCLUSIONS AND RELEVANCE: Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
+      "abstract": "OBJECTIVES: Immune-mediated polyneuropathy (IMPN) manifests with generalised lower motor neuron (LMN) weakness and a remittent or relapsing clinical course. Evidence-based treatment recommendations for severely or chronically affected cats are limited. The objective of this study was to evaluate the clinical course and outcome of cats with IMPN after treatment with human intravenous immunoglobulins (hIVIg). METHODS: Medical records from two veterinary referral hospitals were reviewed (2018-2025) for cats with IMPN treated with hIVIg. Cats were treated with 1-2&#x2009;g/kg hIVIg divided over 2-4 days (0.5&#x2009;g/kg/day). Clinical information, diagnostic findings, treatment details, and short- and long-term follow-up were evaluated retrospectively. Follow-up information was obtained from medical records and owner communication. Minimum follow-up duration was 8 months (range 8-51; median 17). Clinical course (partial and complete recovery, relapses) was compared between cats with acute/recent onset (four cats) or chronic presentation (five cats). RESULTS: Of nine cats, eight exhibited clinical improvement after hIVIg administration, achieving ambulatory status (walking &gt;5 steps) within a median of 4 days (range 2-8). One cat failed to respond to hIVIg but improved after subsequent prednisolone therapy. For the overall cohort, the median time to complete recovery was 20 days, while the median time to partial recovery was 14 days. Relapses occurred in four cats, but weakness was less severe, and all cats recovered again. The remaining five cats remained relapse-free. CONCLUSIONS AND RELEVANCE: Human IVIg was well tolerated in this small cohort, and rapid clinical improvement was observed in most treated cats. These findings suggest that hIVIg may be considered as a treatment option in selected cats with IMPN, including those with acute and chronic presentations. Larger prospective studies, including comparison with no treatment or corticosteroids, are warranted to further assess its efficacy.",
       "affiliations": [
         "Centre for Clinical Veterinary Medicine, Neurology Unit, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany.",
         "Neurology Department, Small Animal Clinic Oberhaching, Oberhaching, Germany.",
-        "AniCura Tierklinik Haar GmbH, Neurology Department Haar, Germany.",
-        "Section of Clinical &amp; Comparative Neuropathology, Centre for Clinical Veterinary Medicine, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany."
+        "AniCura Tierklinik Haar GmbH, Neurology Department, Haar, Germany.",
+        "Section of Clinical and Comparative Neuropathology, Centre for Clinical Veterinary Medicine, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany."
       ],
       "keywords": [
         "immunotherapy",
@@ -11395,7 +11421,18 @@
         "tetraparesis",
         "weakness"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Polyneuropathies",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Immunoglobulins, Intravenous",
+        "Treatment Outcome",
+        "Humans"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
