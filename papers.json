@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19 00:22 UTC",
-  "total": 12097,
+  "updated": "2026-10-19 05:02 UTC",
+  "total": 12099,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -17,6 +17,29 @@
   },
   "papers": [
     {
+      "id": "42893846",
+      "title": "Doxorubicin-induced Cardiotoxicity in Dogs: A Narrative Review.",
+      "authors": "Sunpongsri S, Roos T, Gerhing R, Zandvliet M, Santarelli G",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 18",
+      "sortdate": "2026-10-18",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893846/",
+      "abstract": "Doxorubicin, an anthracycline widely used in both human and veterinary oncology, is highly effective against a variety of malignancies in dogs, including lymphomas, sarcomas and carcinomas. Despite its efficacy, doxorubicin exposure can be associated with cardiotoxicity, which may present acutely or chronically, potentially leading to severe cardiac arrhythmia and congestive heart failure. Mechanisms underlying cardiotoxicity are multifactorial, including oxidative stress, mitochondrial dysfunction, DNA damage via topoisomerase II&#x3b2;, inflammation and dysregulated cell death pathways such as apoptosis, pyroptosis and ferroptosis. In dogs, known risk factors include higher cumulative dose, breed predisposition to idiopathic dilated cardiomyopathy, and higher body weight. Cardiac biomarkers, electrocardiography, echocardiography and other advanced imaging techniques have been employed to detect cardiac changes that can be seen also in the absence of clinical signs. However, current evidence is predominantly derived from experimental and retrospective research, highlighting the need for large prospective clinical studies to strengthen recommendations for monitoring and prevention. A deeper understanding of doxorubicin-induced cardiotoxicity in dogs is needed to identify factors influencing individual susceptibility, clarify the progression from subclinical damage to clinical cardiac dysfunction, and guide future research. Emerging approaches, including advanced echocardiography, microRNAs, proteomic biomarkers and pharmacokinetic modelling, may help improve early detection and guide more individualised dosing to minimise toxicity.",
+      "affiliations": [
+        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, the Netherlands.",
+        "Department Population Health Sciences, Faculty of Veterinary Medicine, Institute for Risk Assessment Sciences, One Health Pharmacology, Utrecht University, Utrecht, the Netherlands.",
+        "Kasetsart University Veterinary Teaching Hospital, Faculty of Veterinary Medicine, Kasetsart University, Bangkok, Thailand."
+      ],
+      "keywords": [
+        "cardiotoxicity",
+        "dog",
+        "doxorubicin"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42885408",
       "title": "Urinary liver-type fatty acid-binding protein in cats with lower urinary tract disease.",
       "authors": "Culha N, Acar A, Ulutas B, Dinler Ay C",
@@ -32,6 +55,30 @@
       "keywords": [],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42893872",
+      "title": "Peripheral pulmonary arterial stenosis due to lung tumor in a cat.",
+      "authors": "Morita T, Miyashita S, Miyamoto R, Fujiwara R",
+      "journal": "J Vet Med Sci",
+      "date": "2026 Oct 16",
+      "sortdate": "2026-10-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893872/",
+      "abstract": "A four-year-old castrated male American shorthair cat presented with lethargy, anorexia, and tachypnea. Echocardiography revealed a large mass compressing both branch pulmonary arteries. An increased peak systolic flow velocity in the left pulmonary artery (3.2 m/sec; estimated peak pressure gradient, 41 mmHg) was consistent with peripheral pulmonary arterial stenosis. Pulmonary hypertension was suspected based on echocardiographic findings. Computed tomography angiography demonstrated bilateral pulmonary artery stenosis by a pulmonary mass, and fine-needle biopsy cytology was consistent with lung carcinoma. Because of advanced disease with bilateral pulmonary artery involvement and suspected distant metastases, interventional treatment was not performed. This is the first report of acquired peripheral pulmonary arterial stenosis secondary to pulmonary carcinoma in a cat.",
+      "affiliations": [
+        "Laboratory of Veterinary Small Animal Internal Medicine, Cooperative Department of Veterinary Medicine, Faculty of Veterinary Medicine, Iwate University.",
+        "Veterinary Teaching Hospital, Cooperative Department of Veterinary Medicine, Faculty of Veterinary Medicine, Iwate University."
+      ],
+      "keywords": [
+        "acquired",
+        "feline",
+        "lung carcinoma",
+        "pulmonary hypertension",
+        "secondary"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
