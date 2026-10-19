@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18 04:54 UTC",
-  "total": 12096,
+  "updated": "2026-10-19 00:22 UTC",
+  "total": 12097,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -8475,6 +8475,47 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42892694",
+      "title": "Spontaneous tumors in dogs and cats in Algeria: a dual-source descriptive study of practitioner-reported patterns and histopathology-submitted cases.",
+      "authors": "Bouchoukh AS, Boukhechem S, Bougherara H, Chaabi AZ",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 24",
+      "sortdate": "2026-08-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892694/",
+      "abstract": "BACKGROUND: Algeria has no documented national companion-animal cancer registry, and limited information is available on tumors encountered in veterinary practice or reaching histopathological confirmation. This dual-source descriptive study combined two independently analyzed components: a histopathology-based descriptive case series of diagnostic tumor submissions from dogs and cats, and a cross-sectional questionnaire survey of veterinarians practicing in Algeria. The first component characterized tumors reaching histopathological confirmation, whereas the second examined practitioner-reported tumor patterns, perceived diagnostic-resource availability, and self-reported preparedness. RESULTS: The histopathology-based case series comprised 86 tumor submissions from 81 animals accrued between March 2022 and March 2025. Mammary tumors were the largest category (43/86; 50.0%), followed by cutaneous/subcutaneous tumors (20/86; 23.3%); 80 tumors (93.0%) were classified as malignant. Among 162 questionnaire responses collected between October 2024 and May 2025, 111 respondents selected \"dogs and cats\" as their main animal group. Mammary tumors were reported by 109 respondents (98.2%), cutaneous/subcutaneous tumors by 79 (71.2%), and canine transmissible venereal tumor (CTVT) by 54 (48.6%); multiple categories could be reported. The most frequent self-reported preparedness rating was \"Moderately prepared\" (52/111; 46.8%), while 99 of 110 respondents with valid data (90.0%) rated diagnostic resources as either \"Insufficient\" or \"Not at all satisfactory.\" Mammary and cutaneous/subcutaneous tumors ranked first and second in both sources, whereas the rankings of the remaining categories differed. Because the sources represented different populations, analytical units, denominators, and diagnostic pathways, the comparison was restricted to an exploratory descriptive assessment and was not interpreted as evidence of differences in population-level tumor occurrence. CONCLUSIONS: This study provides an initial structured account of companion-animal tumor documentation in Algeria. The partial agreement between the two sources, together with unfavorable diagnostic-availability ratings, suggests potential gaps between clinical recognition, histopathological confirmation, and systematic recording. Standardized submission and coding procedures, improved specimen-transport and formal pathology-referral pathways, broader geographic participation, and progressive development of companion-animal cancer registration are needed to strengthen the national evidence base.",
+      "affiliations": [
+        "Gestion de la Sant&#xe9; et Productions Animales Research Laboratory, Institut des Sciences V&#xe9;t&#xe9;rinaires El-Khroub, Universit&#xe9; de Constantine 1 Fr&#xe8;res Mentouri, Constantine, Algeria. ayasofia.bouchoukh@doc.umc.edu.dz.",
+        "Gestion de la Sant&#xe9; et Productions Animales Research Laboratory, Institut des Sciences V&#xe9;t&#xe9;rinaires El-Khroub, Universit&#xe9; de Constantine 1 Fr&#xe8;res Mentouri, Constantine, Algeria."
+      ],
+      "keywords": [
+        "Algeria",
+        "Canine tumors",
+        "Companion animals",
+        "Diagnostic availability",
+        "Feline tumors",
+        "Histopathology",
+        "Mammary tumors",
+        "Veterinary cancer surveillance",
+        "Veterinary oncology"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Cat Diseases",
+        "Algeria",
+        "Dog Diseases",
+        "Neoplasms",
+        "Female",
+        "Cross-Sectional Studies",
+        "Surveys and Questionnaires",
+        "Veterinarians",
+        "Male"
+      ],
+      "category": "oncology",
       "summary_ko": ""
     },
     {
