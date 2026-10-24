@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24 00:56 UTC",
-  "total": 12129,
+  "updated": "2026-10-24 04:55 UTC",
+  "total": 12136,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,57 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42918624",
+      "title": "Retrospective Application of the Current International Myeloma Working Group Disease Definitions in 20 Cats With Immunoglobulin Secreting Neoplasms.",
+      "authors": "Jeffries CM, Harris RA, Vickery K, Avery PR, Rao S, Moore AR",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Oct 23",
+      "sortdate": "2026-10-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918624/",
+      "abstract": "Studies describing feline myeloma related diseases (MRD) are limited and reported prognostic indicators are inconsistent. Cats more commonly exhibit visceral plasma cell tumours (PCTs) than marrow-predominant disease, suggesting that diagnostic approaches adapted from the International Myeloma Working Group (IMWG) criteria, incorporating extramedullary involvement and myeloma defining events (MDEs), may better capture clinically relevant disease. We sought to evaluate cats with serum protein electrophoresis (SPE) and immunofixation (IF) confirmed M-proteins using IMWG-adapted criteria, determine how often cases satisfy IMWG-adapted versus classic multiple myeloma (MM) definitions, compare outcomes, characterize clinical and laboratory findings and assess prognostic indicators. A retrospective cohort of 20 cats with SPE/IF-confirmed M-proteins and clinical data was included in the study applying IMWG-adapted and classic MM criteria using available clinical records, laboratory data and cytologic or histologic findings. Survival was evaluated using the log-rank test. 14/20 cats met IMWG-adapted MM criteria, whereas 7 cats met classic criteria. Median survival time did not differ between classic MM (226.5&#x2009;days) and IMWG-reclassified MM (141&#x2009;days; p&#x2009;=&#x2009;0.99). Visceral organ involvement was common; splenic PCTs occurred in 71.4% (10/14) and hepatic PCTs in 87.5% (7/8) of sampled organs. Lytic bone lesions were infrequent (3/14). IgG M-proteins predominated (71.4%). No clinicopathologic variable was significantly associated with survival. IMWG-adapted criteria reclassified MM without altering survival, supporting their diagnostic utility in feline MRD. The predominance of visceral PCTs and infrequent bone involvement highlights species-specific disease patterns and the diagnostic value of extramedullary sampling. Larger prospective studies should refine feline-specific biomarkers and validate MDEs.",
+      "affiliations": [
+        "Department of Microbiology, Immunology and Pathology, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, Colorado, USA.",
+        "Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, Colorado, USA."
+      ],
+      "keywords": [
+        "M&#x2010;protein",
+        "electrophoresis",
+        "feline",
+        "gammopathy",
+        "immunofixation",
+        "multiple myeloma"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42914003",
+      "title": "Cytoreduction combined with cryosurgery for the treatment of eyelid neoplasms in dogs: Clinical outcomes and histopathological characterization.",
+      "authors": "de Oliveira R, de Vargas Arigony Braga F, de Moraes LAM, Bohm BC, Valente CL, de Almeida ICA, Ghiggi E, Jorge S",
+      "journal": "Vet J",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914003/",
+      "abstract": "Eyelid neoplasms are among the most common periocular conditions in dogs and can lead to significant ocular morbidity if left untreated. Although surgical excision with blepharoplasty remains the standard of care, cytoreduction combined with cryosurgery has emerged as a less invasive alternative that preserves eyelid integrity. This prospective study evaluated 30 dogs with eyelid masses treated by cytoreductive excision followed by two freeze-thaw cycles delivered via a contact CO&#x2082; cryosurgical unit. Risk factors, tumor types, pre- and postoperative ophthalmic signs were assessed and graded according to severity. Preoperative and postoperative findings included ocular discharge, conjunctival hyperemia, and blepharospasm. Postoperative ophthalmic signs were transient, resolving within 72&#x202f;h. Depigmentation changes (leukoderma and leukotrichia) resolved spontaneously within 30 days. Histopathological analysis identified melanoma (30%), squamous cell carcinoma (16.7%), and sebaceous adenoma (16.7%) as the most prevalent tumor types. Tumor recurrence was observed in only one case (3.3%), involving a melanoma. These results suggest that cytoreduction combined with cryosurgery is a safe, time-efficient, and effective option for canine eyelid neoplasms, particularly for small or superficial tumors where preserving eyelid structure is a priority.",
+      "affiliations": [
+        "School of Veterinary Medicine, Federal University of Pelotas, Pelotas, RS, 96160-000, Brazil.",
+        "School of Veterinary Medicine, Santa Catarina State University, Lages, SC, 88520-000, Brazil.",
+        "School of Veterinary Medicine, Federal University of Pelotas, Pelotas, RS, 96160-000, Brazil. Electronic address: sergio.jorge@ufpel.edu.br."
+      ],
+      "keywords": [
+        "Blepharoplasty",
+        "Canine ophthalmology",
+        "Cryotherapy",
+        "Eyelid tumor",
+        "Freeze&#x2013;thaw cycle",
+        "Periocular neoplasm"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
     {
       "id": "42906618",
       "title": "Intra-articular 2.5% polyacrylamide hydrogel provides sustained clinical improvement over 1 year in canine elbow osteoarthritis.",
@@ -1183,6 +1234,56 @@
       "summary_ko": ""
     },
     {
+      "id": "42919707",
+      "title": "Echocardiographic assessment of mitral regurgitation severity in dogs.",
+      "authors": "Visser LC, Potter BM",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 06",
+      "sortdate": "2026-10-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919707/",
+      "abstract": "Mitral regurgitation (MR) is the most important cardiovascular problem affecting dogs. Transthoracic echocardiography is the most practical imaging modality to characterize the fundamental features of MR, including an assessment of MR severity. The diversity of MR severity in subclinical dogs and advancements in treatments directed at the cause of MR have (re)ignited interest in more comprehensive and quantitative methods of assessing MR severity. This review focuses on evaluating the severity of chronic MR in dogs. It discusses when a comprehensive assessment of MR severity is indicated. It highlights the strengths, limitations and challenges associated with the numerous structural, qualitative, semiquantitative and quantitative variables available to assess MR severity. The methods involved in determining the important quantitative variables of MR severity such as effective orifice area, regurgitant volume and regurgitant fraction are reviewed in detail. This paper advocates for an integrative approach, ideally from guidelines generated by an expert panel, where multiple echocardiographic variables from multiple categories are incorporated to assess MR severity and grade the MR as mild, moderate or severe. It summarizes the work on assessing MR severity in dogs to date and highlights shortcomings where there is much work to be done.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine &amp; Biomedical Sciences, Colorado State University, Campus Delivery 1678, Fort Collins, CO 80523, USA. Electronic address: Lance.Visser@colostate.edu.",
+        "Department of Clinical Sciences, College of Veterinary Medicine &amp; Biomedical Sciences, Colorado State University, Campus Delivery 1678, Fort Collins, CO 80523, USA."
+      ],
+      "keywords": [
+        "Degenerative",
+        "Insufficiency",
+        "Myxomatous",
+        "Regurgitant fraction",
+        "Regurgitant orifice",
+        "Regurgitant volume",
+        "Valve disease"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42914951",
+      "title": "The use of contrast-enhanced echocardiography in the evaluation of feline left ventricular wall thickness.",
+      "authors": "Javery E, Kadotani S, Toborowsky C, Prabhakar S, Sumerfield T, Selting K, Fries R",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 06",
+      "sortdate": "2026-10-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914951/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Accurate measurement of feline left ventricular wall thickness (LVWT) is challenging due to endocardial and myocardial irregularities, false tendons, and prominent papillary muscles. In human medicine, contrast-enhanced echocardiography (C-Echo) is used to improve left ventricular wall delineation and is more accurate, repeatable, and reliable than standard echocardiography (S-Echo). Our objective was to compare C-Echo and S-Echo measurements of feline LVWT and determine repeatability, reproducibility, and reliability of each modality. ANIMALS, MATERIALS AND METHODS: Fifty client-owned cats were prospectively enrolled in the study. Cats underwent S-Echo and C-Echo after intravenous injection of contrast agent. Methods were compared using Bland-Altman and Passing-Bablok regression. Interoperator and intra-operator reproducibility, repeatability, and reliability were quantified using intraclass correlation coefficients, repeatability coefficients, and coefficients of variation. RESULTS: Standard echocardiography and C-Echo differed significantly for all segments with a median difference of 0.56 mm (range: -1.4 to 4.9 mm; P&lt;0.0001). Regression showed proportional bias (slope: 1.21, confidence interval: 1.11-1.31) with minimal systematic bias (intercept: -0.26, confidence interval: -0.64 to 0.12). Intra-operator and interoperator reproducibility was excellent for both modalities (intraclass correlation coefficient: 0.90-0.94 for S-Echo; 0.86-0.99 for C-Echo), while repeatability coefficients were lower for C-Echo (0.28-0.61 mm) than for S-Echo (0.89-1.03 mm), and coefficients of variation were lower for C-Echo (intra-observer: 5.86%, inter-observer: 3.03%) than for S-Echo (7.43% and 7.64%). STUDY LIMITATIONS: Accuracy of S-Echo and C-Echo compared with a reference standard was not assessed. CONCLUSIONS: Contrast-enhanced echocardiography is feasible and provides excellent left ventricular wall visualization with lower LVWT measurements and superior repeatability, reproducibility, and reliability.",
+      "affiliations": [
+        "Department of Veterinary Clinical Medicine, University of Illinois, 1008 West Hazelwood Drive, Urbana, IL, 61802, USA.",
+        "Department of Veterinary Clinical Medicine, University of Illinois, 1008 West Hazelwood Drive, Urbana, IL, 61802, USA. Electronic address: rfries@illinois.edu."
+      ],
+      "keywords": [
+        "Cat",
+        "Reliability",
+        "Repeatability",
+        "Reproducibility",
+        "Wall Thickness"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42833390",
       "title": "MRI findings in cauda equina nerve roots and associated clinical signs in dogs with degenerative lumbosacral stenosis.",
       "authors": "Siauciunaite A, Alder D, Richter H, Steffen F",
@@ -1351,6 +1452,33 @@
         "opiranserin",
         "postoperative pain",
         "rescue analgesia"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42914769",
+      "title": "Effects of dexmedetomidine on the minimum alveolar concentration and its derivatives in sevoflurane-anesthetized cats.",
+      "authors": "Ide W, Murahata Y, Konishi Y, Tokunaga F, Yokono M, Endo Y",
+      "journal": "Vet Anaesth Analg",
+      "date": "2026 Oct 05",
+      "sortdate": "2026-10-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914769/",
+      "abstract": "OBJECTIVE: To evaluate the effects of dexmedetomidine on the sevoflurane minimum alveolar concentration (SEVMAC), minimum alveolar concentration (MAC) for blocking adrenergic responses (SEVMAC-BAR), and MAC for tracheal extubation (SEVMAC-Extubation). STUDY DESIGN: Prospective randomized, crossover experimental study. ANIMALS: Six healthy adult neutered cats [one female and five males; weighing 4.8 &#xb1; 1.1 kg (mean &#xb1; standard deviation)]. METHODS: Cats were anesthetized with sevoflurane in oxygen. After endotracheal intubation, anesthesia was maintained with sevoflurane and mechanical ventilation was performed. Each cat was given all six treatments in a random order, which were saline or dexmedetomidine infusions at maintenance doses of 0.15, 0.3, 0.6, 1.5, or 6.0 &#x3bc;g kg-1 hour-1, following respective loading doses of 1, 2, 4, 10, and 40 &#x3bc;g kg-1 over 20 minutes, designed to achieve an estimated plasma concentration of 0.5-20.0 ng mL-1. SEVMAC-BAR, SEVMAC and SEVMAC-Extubation were measured in this order. Plasma dexmedetomidine concentrations were determined using liquid chromatography-tandem mass spectrometry. A linear regression analysis was used to assess the plasma concentration-response relationships and estimate the half-maximal inhibitory concentration (IC50), defined as the plasma dexmedetomidine concentration producing a 50% reduction from the control value, separately for SEVMAC-BAR, SEVMAC, and SEVMAC-Extubation. RESULTS: The baseline SEVMAC-BAR, SEVMAC and SEVMAC-Extubation were 2.79 &#xb1; 0.86%, 2.65 &#xb1; 0.32%, and 1.60 &#xb1; 0.64%, respectively. These values significantly decreased in a plasma dexmedetomidine concentration-dependent manner. The IC50 values for SEVMAC-BAR, SEVMAC and SEVMAC-Extubation were 1.90 ng mL-1 [95% confidence interval (CI): 0.51-6.99 ng mL-1], 1.38 ng mL-1 (95% CI: 0.35-5.39 ng mL-1), and 2.24 ng mL-1 (95% CI: 0.67-7.50 ng mL-1), respectively. CONCLUSIONS: Dexmedetomidine reduced the MAC and MAC derivatives in a plasma dexmedetomidine concentration-dependent manner in sevoflurane-anesthetized cats. CLINICAL RELEVANCE: Dexmedetomidine could be effective in suppressing motor and sympathetic responses accompanied by noxious stimulation and maintaining endotracheal intubation in cats.",
+      "affiliations": [
+        "Joint Graduate School of Veterinary Sciences, Tottori University, Tottori, Japan.",
+        "Joint Department of Veterinary Medicine, Faculty of Agriculture, Tottori University, Tottori, Japan. Electronic address: ymurahata@tottori-u.ac.jp.",
+        "Joint Department of Veterinary Medicine, Faculty of Agriculture, Tottori University, Tottori, Japan.",
+        "Instrument Analysis Section, Technical Department, Tottori University, Tottori, Japan.",
+        "Tottori University Veterinary Medical Center, Tottori University, Tottori, Japan."
+      ],
+      "keywords": [
+        "MAC derivatives",
+        "cats",
+        "dexmedetomidine",
+        "minimum alveolar concentration (MAC)",
+        "sevoflurane"
       ],
       "mesh": [],
       "category": "anesthesia",
@@ -2291,6 +2419,34 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42914770",
+      "title": "Evaluation of opioid consumption using the quadratus lumborum block or intraperitoneal instillation with bupivacaine in dogs undergoing ovariohysterectomy in a teaching institution.",
+      "authors": "Quesada N, Mallea MJ, Miccio M, Martínez J, Bandelow S, Tarragona L, Otero PE",
+      "journal": "Vet Anaesth Analg",
+      "date": "2026 Sep 25",
+      "sortdate": "2026-09-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42914770/",
+      "abstract": "OBJECTIVE: To compare postoperative opioid consumption between ultrasound-guided quadratus lumborum block (QLB) with bupivacaine and intraperitoneal bupivacaine instillation. STUDY DESIGN: Prospective, randomized, single-blinded, cross-sectional, clinical study. ANIMALS: A total of 74 owned female dogs undergoing elective ovariohysterectomy. METHODS: Dogs were premedicated with dexmedetomidine (5&#x2009;&#x3bc;g kg-1) and methadone (0.3&#x2009;mg kg-1) intramuscularly. Anesthesia was induced with intravenous propofol and maintained with isoflurane in oxygen. Carprofen (4&#x2009;mg kg-1) was given subcutaneously after orotracheal intubation. Dogs underwent either a QLB with 0.3&#x2009;mL kg-1 (1.5&#x2009;mg kg-1) per side of 0.5% bupivacaine (group QLB) or intraoperative intraperitoneal instillation (group IP) of 0.5% bupivacaine (3&#x2009;mg kg-1) as part of a multimodal analgesic protocol. Ovariohysterectomies were performed by undergraduate students under instructor supervision. Postoperative pain was assessed at 1, 2, 3, 4, 6, and 8&#x2009;hours after extubation, using the short form of the Glasgow Composite Measure Pain Scale, and methadone (0.2&#x2009;mg kg-1) was given as rescue analgesia if the pain score was &#x2265; 6/24. Opioid consumption was quantified by the number of rescue boluses required, using Poisson regression models. RESULTS: Methadone boluses were given at least once to 9/37 dogs (24%) in group QLB and 15/37 dogs (41%) in group IP. Dogs in group QLB were given 0-2 (range) methadone boluses, whereas those in group IP were given 0-3 boluses, with a total of 11 and 21 boluses, respectively. Methadone consumption was significantly reduced in group QLB versus group IP with a rate ratio of 0.42 (95% confidence interval = 0.19-0.92, p = 0.023). CONCLUSIONS: As part of a multimodal analgesic protocol, the QLB reduced postoperative opioid consumption compared with intraperitoneal instillation of bupivacaine in dogs undergoing ovariohysterectomy performed by veterinary students. CLINICAL RELEVANCE: The QLB can be an alternative to the IP instillation of bupivacaine in dogs undergoing OVH, particularly in teaching settings where surgical procedures may be longer and more stimulating.",
+      "affiliations": [
+        "Small Animal Medicine and Surgery Department, School of Veterinary Medicine, St. George's University, Grenada. Electronic address: nquesada1@sgu.edu.",
+        "Small Animal Medicine and Surgery Department, School of Veterinary Medicine, St. George's University, Grenada.",
+        "Physio, Neuro and Behavioral Sciences, School of Medicine, St. George's University, Grenada.",
+        "Department of Anesthesiology and Pain Management, Facultad de Ciencias Veterinarias, Universidad de Buenos Aires, Buenos Aires, Argentina.",
+        "Department of Anesthesiology and Pain Management, Facultad de Ciencias Veterinarias, Universidad de Buenos Aires, Buenos Aires, Argentina; Universidad Andres Bello, Escuela de Medicina Veterinaria, Facultad Ciencias de la Vida, Santiago, Chile."
+      ],
+      "keywords": [
+        "abdominal block",
+        "canine",
+        "interfascial block",
+        "local anesthetics",
+        "ovariohysterectomy",
+        "regional anesthesia"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
@@ -5852,6 +6008,32 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42918707",
+      "title": "A histopathological and immunohistochemical perspective on selected aspects of valvular interstitial and valve endothelial remodelling in canine mitral valve dysplasia and myxomatous degeneration.",
+      "authors": "Janus-Ziółkowska I, Biegańska H, Bubak J, Noszczyk-Nowak A",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 03",
+      "sortdate": "2026-09-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42918707/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Endothelial-to-mesenchymal transformation (EndMT) is a complex process reported in canine myxomatous mitral valve disease (MMVD) but not previously evaluated in congenital mitral valve dysplasia (MD) in dogs. This study aimed to evaluate the EndMT in canine MD compared with MMVD. ANIMALS, MATERIALS AND METHODS: The present study was conducted on histopathological specimens obtained from 19 dogs divided into three groups: MMVD group (n = 7), MD group (n = 6) and control group (n = 6). The paraffin blocks were retrieved from the archives of the Unit of Veterinary Cardiac Pathology and underwent histological and immunohistochemical stainings. Haematoxylin-eosin and Movat's stains served to evaluate the histopathological changes within the valves. Immunohistochemical analysis involved antibodies against: vimentin, alpha-smooth muscle actin, fibronectin, platelet endothelial cell adhesion molecule-1 and transgelin. Scoring of the immunoreaction was performed, according to the intensity and extent of staining. RESULTS: Remodelling of both valvular interstitial and endothelial cells was noted with similar extent in both examined diseases, despite differences in animals' age, body weight, heart weight and cause of mitral valve changes. STUDY LIMITATIONS: Study limitations included: a relatively small number of animals in each group, a difference in the animals' age, heart weight and body weight between the groups, lack of detailed echocardiographic measurements and EndMT evaluated basing on a single time point. CONCLUSIONS: Despite different pathogeneses and disease courses, endothelial and interstitial changes occur in both MMVD and MD. Further studies are required to evaluate the exact relationship between changes occurring in both valvular interstitial and endothelial cells.",
+      "affiliations": [
+        "Department of Pathology, Wroc&#x142;aw University of Environmental and Life Sciences, CK Norwida Str 31, 50-375 Wroc&#x142;aw, Poland. Electronic address: izabela.janus-ziolkowska@upwr.edu.pl.",
+        "Faculty of Veterinary Medicine, Wroc&#x142;aw University of Environmental and Life Sciences, CK Norwida Str 31, 50-375 Wroc&#x142;aw, Poland.",
+        "Department of Pathology, Wroc&#x142;aw University of Environmental and Life Sciences, CK Norwida Str 31, 50-375 Wroc&#x142;aw, Poland.",
+        "Department of Internal Medicine and Clinic of Diseases of Horses, Dogs and Cats, Wroc&#x142;aw University of Environmental and Life Sciences, Grunwaldzki Sq 47, 50-366 Wroc&#x142;aw, Poland."
+      ],
+      "keywords": [
+        "Congenital defect",
+        "Endocardiosis",
+        "Mitral disease",
+        "Valvular endothelial cells",
+        "Valvular interstitial cells"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
