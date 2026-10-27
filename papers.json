@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 01:39 UTC",
+  "updated": "2026-10-27 05:24 UTC",
   "total": 12154,
   "categories": {
     "neurooncology": "신경종양",
@@ -261382,19 +261382,11 @@
       "date": "2022 Mar 01",
       "sortdate": "2022-03-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/34606594/",
-      "abstract": "A 9.5 yr old Yorkshire terrier presented with chronic intermittent vomiting and lethargy of 1.5 yr duration that progressed to generalized weakness. Insulin:glucose ratio was consistent with an insulinoma. Triple-phase computed tomography revealed a mid-body pancreatic nodule. The mid-body pancreatic nodule was enucleated; histopathology was consistent with an insulinoma. Two weeks after the operation, the dog presented for anorexia and diarrhea. Abdominal ultrasound revealed a thick-walled cystic lesion along the dorsal stomach wall. An intramural gastric pseudocyst was diagnosed via exploratory laparotomy and intraoperative gastroscopy. Comparison of amylase and lipase levels of the cystic fluid with that of concurrent blood serum samples confirmed the lesion was of pancreatic pseudocyst origin. The gastric pseudocyst was omentalized. Two weeks after the operation, the dog re-presented for anorexia, regurgitation, and diarrhea. An intramural duodenal pseudocyst was identified and treated with a duodenal resection and anastomosis. The dog has remained asymptomatic and recurrence free based on serial abdominal ultrasounds 22 mo following insulinoma removal. To our knowledge, this phenomenon of pancreatic pseudocysts forming in organs other than the pancreas has not been reported in dogs. This case report and comprehensive human literature review purpose is to raise awareness of this disease process in dogs.",
+      "abstract": "",
       "affiliations": [],
       "keywords": [],
-      "mesh": [
-        "Animals",
-        "Cysts",
-        "Dog Diseases",
-        "Dogs",
-        "Insulinoma",
-        "Pancreatic Neoplasms",
-        "Pancreatic Pseudocyst"
-      ],
-      "category": "surgery",
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
