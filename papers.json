@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27 05:24 UTC",
-  "total": 12154,
+  "updated": "2026-10-28 01:35 UTC",
+  "total": 12174,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,58 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42934855",
+      "title": "EXPRESS:Management of Distal Hindlimb Injuries in Cats Using an Exvet External Skeletal Fixation System: A Multicenter Retrospective Study.",
+      "authors": "Uygur S, Dogan A, Yardımcı C, Ulusan S, Beale BS, Immler M, Vidoni B, Schnabl-Feichter E",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 26",
+      "sortdate": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934855/",
+      "abstract": "OBJECTIVE: To evaluate the clinical use of an Exvet external skeletal fixation (ESF) system applied using minimally invasive techniques for the management of distal hindlimb injuries in cats. METHODS: Cats with distal hindlimb injuries treated using the Exvet Tarsal Fixator (ETF) at four institutions between September 2022 and January 2026 were included. Data collected included fracture type, surgical approach, postoperative complications and additional treatments, time to first limb use, time to fixator removal, radiographic findings, and clinical outcome. RESULTS: Of 73 cats evaluated, 35 cats with 36 distal hindlimb injuries met the inclusion criteria. Twenty-four cats (68.6%) were managed with a closed reduction, while 11 cats (31.4%) were managed with a limited open surgical fashion. Thirty-two of 35 cats (91.4%) started weight bearing immediately after surgery. Complications were recorded in 7 of 35 cases (20.0%), of which 5 cases (14.3%) were classified as minor and 2 cases (5.7%) as major complications. At a mean ESF removal time of 34 days (median: 28 days; range: 21-56 days), a full functional outcome was achieved in 25 of 35 cases (71.4%), while 10 cases (28.6%) showed an acceptable functional outcome. CONCLUSION AND RELEVANCE: The ETF is an anatomically designed ESF implant specifically developed for feline distal hindlimb injuries. The findings of this multicenter retrospective study support its safe and effective use for the management of feline distal hindlimb injuries.",
+      "affiliations": [
+        "Department of Surgery, Hasvet School of Veterinary Medicine, Khazar University, Baku, Azerbaijan.",
+        "Exvet Medical Ltd., Ankara University Technopolis, Ankara, T&#xfc;rkiye.",
+        "Ondokuz May&#x131;s University, Faculty of Veterinary Medicine, Department of Surgery, Samsun, T&#xfc;rkiye.",
+        "H-Town Veterinary Specialists, Houston, Texas, USA.",
+        "Small Animal Surgery, Department for Companion Animals and Horses, University of Veterinary Medicine, Vienna, Austria."
+      ],
+      "keywords": [
+        "External fixation",
+        "Fracture",
+        "Tarsal joint",
+        "luxation",
+        "minimally invasive osteosynthesis"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42934851",
+      "title": "EXPRESS: BENEFITS OF CONTRAST-ENHANCED COMPUTED TOMOGRAPHY OVER PLAIN COMPUTED TOMOGRAPHY FOR HEAD TRAUMA IN 41 CATS.",
+      "authors": "Mariaud V, Arinal P, Masson A, Mortier J",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Oct 26",
+      "sortdate": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934851/",
+      "abstract": "OBJECTIVES: The aim of this study is to evaluate whether contrast-enhanced computed tomography (CECT) provides clinically useful information beyond Plain computed tomography (PCT) in cats with head trauma, and whether this benefit is influenced by the radiologist's level of experience. METHODS: Forty-one cats that underwent head CT with both pre- and post-contrast sequences were included. Images were independently reviewed by three radiologists with different experience levels, assessing extracranial soft tissue injuries, bone fractures, and intracranial abnormalities. Intra- and interobserver agreements were analyzed using Cohen's kappa statistics. RESULTS: Substantial to almost perfect agreement was obtained for extracranial soft tissue injuries and bone fractures. The most commonly fractured sites were the temporomandibular joints, hard palate, mandibular bones, and pterygoid bones. For intracranial lesions such as hemorrhage and cerebral edema, intra- and interobserver agreements were low and variable, regardless of contrast use or reviewer experience. There was no significant difference found between PCT and CECT for any of the three categories. CONCLUSIONS AND RELEVANCE: These results suggest that contrast medium injection is not useful for assessment of bone fractures and extracranial soft tissue and that computed tomography of the head is poorly reliable for intracranial lesions in cats presented for trauma.",
+      "affiliations": [
+        "Service d'imagerie m&#xe9;dicale, Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, Maisons-Alfort, France.",
+        "Service de reanimation urgence soins-intensifs, Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, Maisons-Alfort, France.",
+        "Imaging diagnostic department, Southfileds Veterinary Specialits, Basildon, UK."
+      ],
+      "keywords": [
+        "Bone fracture",
+        "Computed tomography",
+        "Head trauma",
+        "Intracranial injury",
+        "Intravenous contrast administration"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "42928650",
       "title": "Comparative Effectiveness of COP and CHOP Chemotherapy Protocols in Feline Intermediate- to Large-Cell Lymphoma: A Systematic Review and Meta-Analysis.",
@@ -279,6 +331,56 @@
       "summary_ko": ""
     },
     {
+      "id": "42939247",
+      "title": "Age-Related Decrease in Interthalamic Adhesion Thickness in Cats Without Apparent Cognitive Dysfunction.",
+      "authors": "Kerbrat-Copy R, Thérier O, Fusellier M",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 21",
+      "sortdate": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939247/",
+      "abstract": "Feline cognitive dysfunction syndrome (FCDS) is an age-associated disorder for which objective imaging markers remain limited. This study evaluated the association between age and interthalamic adhesion thickness (IAT) in cats without apparent cognitive dysfunction and described IAT across feline life stages. MRI examinations from 112 client-owned cats aged 4 months to 18 years were retrospectively reviewed. Cats were classified as kittens (&lt;1 year), young (1 to &lt; 7 years), mature (7 to &lt;11 years) and senior (&#x2265;11 years). Cats with intracranial lesions or reported behavioral changes suggestive of cognitive dysfunction were excluded. Two blinded observers measured IAT on transverse T1W and T2W images. Analyses included linear regression adjusted for brain height, brain width, sex/neuter status, breed group, and scanner; exploratory quadratic age modeling; and comparisons among life stages. Interobserver agreement was high. Age was negatively associated with IAT on T1W (B = -0.071 mm/year) and T2W images (B = -0.067 mm/year; both p &lt; 0.001). This association persisted after multivariable adjustment (T1W: B = -0.074 mm/year; T2W: B = -0.067 mm/year; both p &lt; 0.001) and after excluding kittens or brachycephalic cats. Senior cats had lower IAT than all other life stages on both sequences. A quadratic term suggested a steeper decline at older ages on T1W images only; this finding remains exploratory. These findings support a group-level association between age and IAT, rather than individual-level diagnostic use. Its potential diagnostic value for FCDS requires prospective evaluation with standardized behavioral assessment and age-matched controls.",
+      "affiliations": [
+        "Department of Morphology, Imaging, Orthopedics, Rehabilitation, and Nutrition, Faculty of Veterinary Medicine, Ghent University, 9820 Merelbeke, Belgium.",
+        "Small Animal Diagnostic Imaging Department, Veterinary Hospital, Oniris College of Veterinary Medicine Food Science and Engineering, 44300 Nantes, France.",
+        "Regenerative Medicine and Skeleton, RMeS, UMR 1229, INSERM, Oniris, Faculty of Dentistry, Nantes Universit&#xe9;, 44036 Nantes, France."
+      ],
+      "keywords": [
+        "aging",
+        "cerebral atrophy",
+        "cognitive dysfunction syndrome",
+        "feline",
+        "interthalamic adhesion"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939246",
+      "title": "Effects of Salinity on Growth, Muscle Biochemical Components and Antioxidant Resistance of Planiliza haematocheilus.",
+      "authors": "Wang Y, Wang X, Liu Z, Yang J, Yan P, Ma A",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 21",
+      "sortdate": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939246/",
+      "abstract": "This study evaluated the effects of different water salinities (0, 10, 20 [control], 30, and 40; Practical Salinity Scale, dimensionless) over 56 days on growth performance, muscle biochemical composition, and antioxidant responses in serum and liver of Planiliza haematocheilus. After one-week pre-acclimation at 20, juveniles were directly transferred to the experimental salinities; thus, all groups except the 20 control experienced acute salinity transfer followed by 56-day exposure. Therefore, acute transfer stress and subsequent salinity exposure were confounded and could not be separated in this design. Survival was highest at 20 and lowest at 0. Weight gain rate and specific growth rate peaked at 30 and were lowest at 0. Under this direct-transfer protocol, the optimal salinity range for growth and survival was approximately 20-30 for these ~93 g juveniles. Hepatosomatic index differed significantly among salinity groups. Muscle moisture content was negatively correlated with salinity. Crude protein content was highest in the salinity-40 group, whereas crude fat was highest at 20 and lowest at 0; ash content did not differ significantly among treatments. Superoxide dismutase (SOD) activity in serum and liver showed no clear trend with salinity, but most groups differed significantly from the control. Liver SOD activity was highest at 10 and lowest at 30. Serum catalase (CAT) activity did not differ significantly among salinity groups, whereas liver CAT activity tended to decrease and then increase with rising salinity. Salinity had limited effect on serum malondialdehyde (MDA) content, except for a peak at 40, whereas liver MDA content decreased with increasing salinity and was significantly higher in the low-salinity groups. These results indicate that, under the direct-transfer protocol, P. haematocheilus juveniles (initial weight ~93 g) pre-acclimated to 20 and then directly transferred showed optimal growth and survival at 20-30, and that liver antioxidant parameters may serve as sensitive biomarkers of salinity stress. However, because acute transfer stress was confounded with subsequent 56-day salinity exposure, these findings are specific to this direct-transfer protocol and developmental stage and should not be extrapolated to gradual acclimation protocols or smaller juveniles.",
+      "affiliations": [
+        "State Key Laboratory of Mariculture Biobreeding and Sustainable Goods, Yellow Sea Fisheries Research Institute, Chinese Academy of Fishery Sciences, Qingdao 266071, China.",
+        "College of Fisheries and Life Science, Shanghai Ocean University, Shanghai 201306, China.",
+        "China-ASEAN Belt and Road Joint Laboratory on Mariculture Technology (Qingdao), Qingdao 266071, China."
+      ],
+      "keywords": [
+        "Planiliza haematocheilus",
+        "antioxidant",
+        "growth",
+        "mulle",
+        "salinity"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42896600",
       "title": "Target-controlled infusion of propofol induces rapid hypertriglyceridemia in healthy cats.",
       "authors": "Arboit F, Mangini LT, Gasparotto JC, Griebeler LB, Oliveira JO, Vieira LS, Ohashi GS, Cadiñanos VDS, Paraguassú AO, Oberbeck EV",
@@ -349,6 +451,30 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939203",
+      "title": "Bupivacaine Liposomal Injectable Suspension (Nocita(®)) via Transversus Abdominis Plane (TAP) Block for Management of Pain in Dogs with Acute Pancreatitis: A Pilot Study.",
+      "authors": "Angst M, Thibault CJ, Wang S, Cridge H",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 17",
+      "sortdate": "2026-10-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939203/",
+      "abstract": "Abdominal pain is one of the most salient features of acute pancreatitis (AP) in dogs. While traditional opioids provide excellent analgesia, they are also associated with significant adverse effects, including ileus. The transversus abdominis plane (TAP) block has been shown to manage pain associated with AP in humans. Ten client-owned dogs with naturally occurring AP were enrolled in a blinded placebo-controlled clinical trial, receiving either a TAP block with bupivacaine liposome injectable suspension (n = 5) or traditional opioid analgesia (n = 5). Rescue analgesia was administered when indicated based on pain score monitoring every 4 h. Each dog was also administered an imaging device to track gastrointestinal transit time (GITT). The total opioid dose during the 72 h study period was significantly lower in the TAP block group (0.18 &#xb1; 0.27 mg/kg) compared to the control (0.99 &#xb1; 0.50 mg/kg) group (p = 0.01). GITT was prolonged in both the TAP block group (2/3) and the control group (4/5) compared to published references for healthy dogs. Bupivacaine liposomal injectable suspension administered via TAP block may provide sufficient analgesia in dogs with AP while also minimizing their total opioid requirements. Delayed gastric transit was common in both groups, suggesting that factors beyond just opioid administration contribute to gastrointestinal dysmotility in dogs with AP.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, Michigan State University, East Lansing, MI 48824, USA.",
+        "Center for Statistical Training and Consulting, College of Veterinary Medicine, Michigan State University, East Lansing, MI 48824, USA."
+      ],
+      "keywords": [
+        "analgesia",
+        "local block",
+        "opioid sparing",
+        "pancreatitis",
+        "regional analgesia"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
@@ -433,6 +559,60 @@
         "Adrenalectomy"
       ],
       "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939188",
+      "title": "Comparative Pharmacokinetics of Subcutaneous Tolfenamic Acid Under Two Different Anesthetic Protocols in Cats Undergoing Ovariohysterectomy.",
+      "authors": "Akin F, Corum O, Marín P, Koc OY, Coskun D, Durna Corum D, Unver A, Ceyhan HR, Yuste MT, Badillo E",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 16",
+      "sortdate": "2026-10-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939188/",
+      "abstract": "The aim of this research was to determine the effect of different anesthesia protocols on the pharmacokinetics of tolfenamic acid in cats undergoing ovariohysterectomy. The research involved 12 cats that underwent ovariohysterectomy. The cats were randomly divided into two equal groups: one (n = 6) receiving xylazine-ketamine and the other (n = 6) receiving propofol-isoflurane anesthesia. Tolfenamic acid was administered subcutaneously at a dose of 4 mg/kg 30 min prior to ovariohysterectomy in both groups. The plasma samples were analyzed for tolfenamic acid using high-performance liquid chromatography (HPLC)-UV. The terminal elimination half-life (t1/2&#x3bb;z), area under the curve (AUC0-last), maximum plasma concentration (Cmax), and time to reach peak plasma concentration (Tmax) values after xylazine-ketamine anesthesia were determined to be 3.30 h, 42.17 h*&#xb5;g/mL, 6.34 &#xb5;g/mL, and 2 h, respectively. Tolfenamic acid in the propofol-isoflurane anesthetic group showed shorter t1/2&#x3bb;z and Tmax than the xylazine-ketamine group but a greater Cmax. However, AUC0-last was similar in both anesthesia groups. These results showed that the pharmacokinetics of tolfenamic acid may vary depending on the anesthesia protocol used in ovariohysterectomy. However, there is a need to evaluate the efficacy of tolfenamic acid in cats under both anesthesia regimens.",
+      "affiliations": [
+        "Department of Pharmacology and Toxicology, Faculty of Veterinary Medicine, University of Siirt, Siirt 56100, T&#xfc;rkiye.",
+        "Department of Pharmacology and Toxicology, Faculty of Veterinary Medicine, University of Hatay Mustafa Kemal, Hatay 31060, T&#xfc;rkiye.",
+        "Department of Pharmacology, Faculty of Veterinary Medicine, University of Murcia, 30100 Murcia, Spain.",
+        "Department of Obstetrics and Gyneacology, Faculty of Veterinary Medicine, University of Siirt, Siirt 56100, T&#xfc;rkiye.",
+        "Department of Veterinary Medicine, Health Services Vocational School, University of Osmaniye Korkut Ata, Osmaniye 80100, T&#xfc;rkiye.",
+        "Department of Pharmacology and Toxicology, Faculty of Veterinary Medicine, University of Selcuk, Konya 42031, T&#xfc;rkiye."
+      ],
+      "keywords": [
+        "cat",
+        "different anesthesia",
+        "ovariohysterectomy",
+        "pharmacokinetics",
+        "tolfenamic acid"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939183",
+      "title": "Association Between Body Condition Score and Early Radiographic Osteotomy Healing Following Tibial Plateau Leveling Osteotomy in Dogs: A Retrospective Study.",
+      "authors": "Ryu Y, Seo J, Song K, Bae CS",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 16",
+      "sortdate": "2026-10-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939183/",
+      "abstract": "Body condition may be associated with postoperative orthopedic outcomes, but its relationship with early radiographic osteotomy healing following tibial plateau leveling osteotomy (TPLO) remains unclear. This retrospective study evaluated the association between preoperative body condition score (BCS) and early radiographic outcomes after TPLO for canine cranial cruciate ligament disease. Seventy-six stifles from 68 dogs with eligible radiographs obtained 42-70 days postoperatively were included. Radiographic osteotomy healing was assessed using a TPLO-specific modified Radiographic Union Scale for Tibial fractures (mRUST), and tibial plateau angle (TPA) was measured preoperatively, immediately postoperatively, and at follow-up. Seventy-one stifles were evaluable for mRUST and 72 for follow-up TPA. Higher BCS was associated with lower mRUST after adjustment for age, body weight, and follow-up interval (&#x3b2; = -0.433 per BCS point; 95% CI, -0.565 to -0.301; p &lt; 0.001). Higher BCS was also associated with a modestly greater postoperative TPA change in the prespecified secondary analysis (&#x3b2; = +0.340&#xb0; per BCS point; 95% CI, 0.021-0.659; p = 0.037). Higher preoperative BCS was associated with lower early radiographic osteotomy healing scores and a greater increase in TPA during follow-up after TPLO.",
+      "affiliations": [
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chonnam National University, Gwangju 61186, Republic of Korea.",
+        "Time Animal Medical Center, 57 Dunsan-Ro, Seo-Gu, Daejeon 35233, Republic of Korea."
+      ],
+      "keywords": [
+        "body condition score",
+        "canine",
+        "cranial cruciate ligament disease",
+        "mRUST",
+        "radiographic osteotomy healing",
+        "tibial plateau angle",
+        "tibial plateau leveling osteotomy"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -556,6 +736,58 @@
       "summary_ko": ""
     },
     {
+      "id": "42939169",
+      "title": "Diagnostic Value of the Vertebral Right Heart Index (VRHi) for Identifying Pulmonary Hypertension in Dogs with Heartworm Disease.",
+      "authors": "Matos JI, Díaz-Rocio C, García-Rodríguez SN, Caro-Vadillo A, García-Guasch L, Mohr-Peraza E, Montoya-Alonso JA, Carreton E",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939169/",
+      "abstract": "Pulmonary hypertension (PH) is a common complication of canine heartworm disease caused by Dirofilaria immitis and is associated with right-sided cardiac remodelling. This study evaluated the diagnostic value of the Right Vertebral Heart Index (VRHi) for identifying dogs with a high echocardiographic probability of PH and its association with echocardiographic indices of right-sided cardiac remodelling. Fifty-four dogs from Gran Canaria were included: 20 healthy controls and 34 dogs naturally infected with D. immitis, classified according to the presence or absence of a high echocardiographic probability of PH. Thoracic radiographs were obtained without sedation, and the vertebral heart size (VHS) and VRHi were measured using DICOM software. Heartworm infection was confirmed using a commercial antigen detection test. Echocardiography was performed to assess parasite burden, determine the probability of PH, and evaluate right-sided cardiac remodelling. Dogs with a high echocardiographic probability of PH showed more frequent clinical signs and greater echocardiographic evidence of right-sided cardiac remodelling than dogs without PH. The VRHi values differed significantly among the three study groups and were highest in dogs with a high echocardiographic probability of PH. The VRHi was significantly correlated with echocardiographic indicators of right-sided remodelling. The right lateral projection showed the highest AUC among VRHi measurements (AUC = 0.835), although its AUC did not differ significantly from that of conventional VHS (AUC = 0.764; DeLong p = 0.519). These findings suggest that VRHi may provide a simple and objective complementary radiographic parameter in dogs with heartworm disease and suspected PH.",
+      "affiliations": [
+        "Internal Medicine, Faculty of Veterinary Medicine, Research Institute of Biomedical and Health Sciences (IUIBS), University of Las Palmas de Gran Canaria, 35016 Las Palmas de Gran Canaria, Spain.",
+        "Hospital Cl&#xed;nico Veterinario, Faculty of Veterinary Medicine, Universidad Complutense de Madrid (UCM), 28040 Madrid, Spain.",
+        "Hospital Veterinari Molins, IVC Evidensia, 08750 Barcelona, Spain.",
+        "Hospital Veterinaria del Mar, IVC Evidensia, 08005 Barcelona, Spain."
+      ],
+      "keywords": [
+        "Dirofilaria immitis",
+        "echocardiography",
+        "heartworm disease",
+        "pulmonary hypertension",
+        "right vertebral heart index",
+        "thoracic radiography",
+        "vertebral heart size",
+        "veterinary imaging"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939168",
+      "title": "Dynamics of Gut Microbial Community and Function in Growing Male Raccoon Dogs.",
+      "authors": "Yu S, Nan W, Xu C, Sun L, Yuan C, Li Z",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939168/",
+      "abstract": "Background: Raccoon dogs have short breeding cycles and strong adaptability, and their fur is economically valuable. Although the gut microbiota, a key regulator of animal health, has been extensively studied in livestock, its composition and function in raccoon dogs remain poorly understood. Methods: In this study, the gut microbiota structure and functional profiles of ten raccoon dogs were analyzed during their growth period, including 2 (M2), 3 (M3), 4 (M4), 6 (M6), and 8 (M8) months after birth. Results: Our findings revealed that the richness and diversity of the gut microbiota in growing raccoon dogs increased initially and then decreased with age. Significant intergroup separation was observed in principal coordinates analysis (PCoA) and non-metric multidimensional scaling (NMDS) analyses, while the unweighted pair-group method with arithmetic means (UPGMA) analysis indicated temporal fluctuations in microbial composition. At the phylum level, the dominant taxa were Firmicutes, Bacteroidota, Actinobacteriota, and Proteobacteria. At the genus level, the M2 group was enriched with Ligilactobacillus and Megasphaera; the M3 group with Blautia, Megamonas, Peptoclostridium, and Prevotella 9; the M4 group with Cetobacterium and Streptococcus; the M6 group with Lactobacillus and Prevotella 9; and the M8 group with Prevotella 9 and Turicibacter. Function prediction of gut microbiota identified metabolism (particularly carbohydrate, amino acid, energy, and nucleotide metabolism) and genetic information processing (including replication and repair) as the predominant functional categories. Conclusions: The present results offer an understanding of how the gut microbiota of growing raccoon dogs changes over time.",
+      "affiliations": [
+        "College of Animal Science and Technology, Jilin Agricultural University, Changchun 130118, China.",
+        "Key Laboratory of Animal Production, Product Quality and Security, Ministry of Education, Jilin Agricultural University, Changchun 130118, China."
+      ],
+      "keywords": [
+        "growth period",
+        "gut microbiota",
+        "metabolic function",
+        "raccoon dog"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42872590",
       "title": "A novel 3D-printed patient-specific limb-sparing radial endoprosthesis for treatment of primary osteosarcoma in a Great Dane.",
       "authors": "Tavola F, Kaczmarek J, Oxley B, Troedson K",
@@ -670,6 +902,83 @@
       "summary_ko": ""
     },
     {
+      "id": "42939165",
+      "title": "Primary Erythrophagocytic Low-Grade Splenic T-Cell Lymphoma in a Cat: Clinical Case and Literature Review.",
+      "authors": "Barbetta A, Cremonini V, Antognoni MT, Birettoni F, Porcellato I, Masserdotti C, Lazzari C, Miglio A",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 14",
+      "sortdate": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939165/",
+      "abstract": "Lymphoma is a common hematopoietic neoplasm in cats; yet hepatosplenic forms remain rare. This report describes a unique case of low-grade erythrophagocytic splenic T-cell lymphoma with suspected peripheral blood involvement in a six-year-old neutered male domestic shorthair cat. The patient presented with severe non-regenerative macrocytic normochromic anemia and moderate splenomegaly. Blood smears revealed mononucleated cells exhibiting erythrophagocytosis. Splenic cytology and flow cytometry were consistent with a reactive process, leading to a presumptive diagnosis of immune-mediated anemia. The condition proved refractory to immunosuppressive therapy with prednisolone and cyclosporine. After splenectomy, histopathology showed diffuse erythrophagocytosis and white pulp hyperplasia. Definitive diagnosis was achieved only by PARR analysis, which demonstrated a monoclonal T-cell receptor gene rearrangement within a polyclonal background. This confirmed a neoplastic T-cell population despite the mature morphology of the lymphocytes. Treatment with chlorambucil and prednisolone resulted in progressive resolution of the anemia. The cat remains alive 13 months after splenectomy. This case highlights the diagnostic challenges of low-grade lymphomas, in which reactive features can mask neoplasia, and underscores the critical role of PARR analysis in differentiating monoclonal T-cell proliferation from complex reactive processes in feline splenic disorders.",
+      "affiliations": [
+        "Department of Veterinary Medicine, University of Perugia, 06124 Perugia, Italy.",
+        "Idexx Laboratories Italia S.r.l., 20149 Milano, Italy."
+      ],
+      "keywords": [
+        "PARR",
+        "T-cell lymphoma",
+        "erythrophagocytosis",
+        "feline",
+        "lymphoma",
+        "spleen",
+        "xenocannibalism"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939158",
+      "title": "Comparative Veterinary Psychopharmacology in Dogs and Cats: Neurotransmitter Targets, Translational Boundaries, and Species-Specific Pharmacokinetics.",
+      "authors": "Kim I, Yun JH",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 14",
+      "sortdate": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939158/",
+      "abstract": "Behavioral disorders in companion animals are increasingly being managed with pharmacotherapy. However, prescription practices often rely on extrapolation from human psychiatry without considering species-specific phenotypes, diagnostic frameworks, or pharmacokinetic variability. A structured translational approach is required to align mechanistic plausibility with clinical evidence and interspecies constraints. This review consolidates the current information on the pharmacological modulation of neurotransmitter systems in canine and feline behavioral disorders using a comparative framework. Neurotransmitter circuits are mapped to relevant phenotypes. Controlled clinical evidence supports the use of selected serotonergic agents for specific chronic behavioral indications in dogs, whereas evidence in cats remains scarce and indication-specific. Controlled veterinary evidence is also available for selected agents used in acute or situational behavioral indications and for selegiline in canine cognitive dysfunction. Contrastingly, the broader neurotransmitter-phenotype relationships and emerging pharmacological targets discussed in this review are supported by mechanistic or translational evidence and should not be interpreted as established clinical indications. Cross-species translation is most defensible at the level of conserved receptors and transporters, whereas direct transfer of human diagnostic categories and subjective symptoms is limited in veterinary patients. Species- and drug-specific pharmacokinetic differences, along with limited feline data, necessitate careful dose initiation, titration, and monitoring to mitigate adverse effects and drug interactions. This review provides a structured framework for interpreting psychopharmacological evidence in dogs and cats by integrating pharmacological mechanisms, the design and scope of available clinical studies, translational boundaries, and species- and drug-specific pharmacokinetic considerations. Future research could benefit from standardized outcome measures, expanded feline trials, and pragmatic real-world designs.",
+      "affiliations": [
+        "Department of Biochemistry, College of Medicine, The Catholic University of Korea, Seoul 06591, Republic of Korea.",
+        "Department of Medical Sciences, Graduate School, The Catholic University of Korea, Seoul 06591, Republic of Korea.",
+        "College of Veterinary Medicine and Institute of Veterinary Science, Kangwon National University, Chuncheon 24341, Gangwon, Republic of Korea."
+      ],
+      "keywords": [
+        "cats",
+        "comparative medicine",
+        "dogs",
+        "neurotransmission",
+        "pharmacokinetics",
+        "psychopharmacology",
+        "translational medicine",
+        "veterinary behavioral medicine"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939154",
+      "title": "Juvenile Spontaneous Mediastinal Hemorrhage with Suspect Trauma.",
+      "authors": "Uhrinek AG, Peper KE, Stern AW, Vilaplana Grosso FR",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 14",
+      "sortdate": "2026-10-14",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939154/",
+      "abstract": "A 6-month-old intact female American Pitbull (Canis lupus familiaris) underwent forensic evaluation for suspected blunt force trauma. Postmortem computed tomography (PMCT) identified pleural hyperattenuating soft tissue attenuating material, consistent with clotted blood, pleural effusion, a large thymus, and moderate to severe cranial mediastinal expansion with mixed fluid and lower-attenuation, soft tissue attenuating material. Histology confirmed thymic hemorrhage, while autopsy identified hemothorax, pleural blood clots, and hemomediastinum, excluding trauma, most consistent with spontaneous idiopathic thymic hemorrhage. This case highlights the utility of identifying hyperattenuating clot formation on PMCT, like the sentinel clot sign, for localizing antemortem hemorrhage and improving antemortem-postmortem correlation in forensic investigations.",
+      "affiliations": [
+        "College of Veterinary Medicine, University of Florida, Gainesville, FL 32608, USA."
+      ],
+      "keywords": [
+        "canine",
+        "idiopathic hemorrhage",
+        "mediastinum",
+        "postmortem computed tomography",
+        "sentinel clot sign"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42864009",
       "title": "The effects of low-dose medetomidine and butorphanol premedication on anesthetic induction and recovery for intramuscular alfaxalone anesthesia in cats.",
       "authors": "Tanaka K, Shinozaki H, Tamura J, Oyama N, Sano T, Itoh A, Itami T, Yamashita K",
@@ -761,6 +1070,34 @@
       "summary_ko": ""
     },
     {
+      "id": "42939146",
+      "title": "Comparison of Selected Therapies Within the Step-Up Therapeutic Approach in Canine Chronic Inflammatory Enteropathy.",
+      "authors": "Kunay L, Fialkovičová M, Benková M, Tóthová C, Kořená N, Gomulcová S, Vargová M, Micháľová A, Lukáč B, Bielik B",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939146/",
+      "abstract": "Canine chronic inflammatory enteropathy (CIE) frequently requires a sequential therapeutic approach in which treatment is escalated according to clinical response. This prospective, open-label clinical study evaluates selected dietary, antimicrobial, microbiome-directed, and corticosteroid interventions used within a step-up treatment strategy in dogs with CIE under routine clinical conditions. Fifty-six dogs were enrolled. Clinical response was assessed using the Canine Chronic Enteropathy Clinical Activity Index (CCECAI), together with faecal calprotectin, serum folate, and serum cobalamin concentrations. In the dietary stage, both novel-protein and hydrolysed diets significantly reduced CCECAI and faecal calprotectin. Clinical remission, defined as a final CCECAI score &#x2264; 3, was achieved in 64% and 60% of dogs, respectively. Baseline-adjusted analyses likewise showed no significant between-group differences in CCECAI, faecal calprotectin, or cobalamin. In dogs receiving second-line treatment, both metronidazole and probiotics combined with fibre significantly reduced CCECAI and faecal calprotectin, while baseline-adjusted comparisons demonstrated no significant differences between treatments for the evaluated outcome. In dogs receiving corticosteroid-containing treatment, substantial numerical reductions in CCECAI and faecal calprotectin were observed in both the prednisone-containing and budesonide-containing regimens; however, the very small subgroup sizes and concomitant dietary, probiotic, and fibre interventions precluded definitive conclusions regarding the specific effects or comparative efficacy of the individual corticosteroids. These findings provide real-world clinical evidence supporting a structured step-up approach to canine CIE and provide a rationale for larger, adequately powered controlled studies to determine whether non-antibiotic microbiome-directed strategies and locally acting corticosteroid-containing therapy can reduce reliance on empirical antimicrobial treatment and systemic corticosteroids, thereby minimising the potential adverse consequences associated with these therapies.",
+      "affiliations": [
+        "Small Animals Clinic, University of Veterinary Medicine and Pharmacy in Ko&#x161;ice, Komensk&#xe9;ho 73, 041 81 Ko&#x161;ice, Slovakia.",
+        "Faculty of Mining, Ecology, Process Control and Geotechnologies, Technical University, Letn&#xe1; 1/9, 042 00 Ko&#x161;ice, Slovakia.",
+        "Clinic of Ruminants, University of Veterinary Medicine and Pharmacy in Ko&#x161;ice, Komensk&#xe9;ho 73, 041 81 Ko&#x161;ice, Slovakia."
+      ],
+      "keywords": [
+        "CCECAI",
+        "CIE",
+        "budesonide",
+        "chronic enteropathy",
+        "dog",
+        "faecal calprotectin",
+        "probiotics",
+        "therapy"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42863523",
       "title": "Usefulness of serum amyloid A to differentiate feline inflammatory lower respiratory tract diseases from cardiac or neoplastic disease: a retrospective study of 22 cats (2021-2024).",
       "authors": "Berro E, Fastrès A, Lamoureux A",
@@ -799,6 +1136,57 @@
       ],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939134",
+      "title": "Superior MAP-EtCO(2) Target Attainment with Rocuronium-Facilitated Controlled Ventilation in Geriatric Small Dogs: A Retrospective Cohort Study.",
+      "authors": "Kim SH, Baek EJ, Bae CS",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 12",
+      "sortdate": "2026-10-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939134/",
+      "abstract": "Comparative evidence for integrated ventilation-neuromuscular blockade-reversal strategies is limited in geriatric small dogs. This single-center retrospective cohort included 288 dogs aged &#x2265;12 years and weighing &#x2264;7 kg undergoing orthopedic surgery or thoracolumbar hemilaminectomy. Initially planned strategies were spontaneous ventilation without neuromuscular blockade (A), controlled ventilation without blockade (B), rocuronium-controlled ventilation-sugammadex (C), vecuronium-controlled ventilation-sugammadex (D), or vecuronium-controlled ventilation-neostigmine-atropine (E). The primary outcome was the percentage of the entire primary physiologic window with concurrent mean arterial pressure &#x2265; 60 mmHg and end-tidal carbon dioxide 35-55 mmHg. Adjusted means were A 58.9%, B 59.3%, C 86.6%, D 74.0%, and E 67.8%. Group C exceeded A, B, and D by 27.7 (95% confidence interval, 26.3-29.2), 27.3 (25.9-28.8), and 12.7 (11.2-14.1) percentage points; B and A differed by 0.4 points (-0.8-1.6). Ventilator asynchrony occurred in 3.4% of C versus 73.2% of B. Adjusted mean times to normalized train-of-four ratio &#x2265; 0.90 were 1.41, 2.31, and 7.43 min in Groups C-E, respectively. Observed early respiratory and hard 48 h event risks were 3.4% and 1.7% in C, 40.7% and 18.6% in A, and 44.6% and 17.9% in B. The rocuronium-facilitated strategy was associated with superior concurrent target attainment; nonrandomized strategy selection precludes causal safety conclusions.",
+      "affiliations": [
+        "KSH Surgical Animal Medical Center, Gwangju 61617, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chonnam National University, Gwangju 61186, Republic of Korea."
+      ],
+      "keywords": [
+        "controlled ventilation",
+        "end-tidal carbon dioxide",
+        "geriatric dogs",
+        "mean arterial pressure",
+        "quantitative neuromuscular monitoring",
+        "rocuronium",
+        "sugammadex"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42936481",
+      "title": "Fibrostenotic intestinal stenosis associated with chronic enteropathy in two cats: case report.",
+      "authors": "Choi J, Yang S, Lee Y, Sung Y, Chae Y, Yun T, Kang BT, Kim S, Lee S, Kim H",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 12",
+      "sortdate": "2026-10-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936481/",
+      "abstract": "Two cats presented with acute progressive vomiting. One cat (Case 1) received prednisolone for suspected chronic inflammatory enteropathy for 14&#x202f;months. The cat showed hypoalbuminemia, hypocobalaminemia, small intestinal thickening, and focal jejunal stricture with severe proximal dilation on ultrasonography. Exploratory laparotomy confirmed the stricture, and histopathology revealed submucosal fibroplasia with mild lymphoplasmacytic enteritis. The cat died on postoperative day 12. Another cat (Case 2) showed proximal small intestinal obstruction on ultrasonography. A wide-margin resection of the obstructed lesion was performed. Histopathology revealed mild intestinal wall fibrosis with mesenteric inflammation. Masson's trichrome staining showed submucosal collagen bundles. Immunohistochemistry and clonality analysis by PCR for antigen receptor rearrangement supported the diagnosis of low-grade intestinal T-cell lymphoma. The cat recovered uneventfully and remained restenosis-free during prednisolone treatment for 12&#x202f;months after surgery. Intestinal stenoses were identified during long-term medical management of chronic enteropathy. This suggests that the extent of the lesion and the surgical resection strategy could be relevant factors for management and prognosis.",
+      "affiliations": [
+        "Laboratory of Veterinary Internal Medicine, College of Veterinary Medicine, Chungbuk National University, Cheongju, Chungbuk, Republic of Korea.",
+        "Laboratory of Veterinary Pathology and Platelet Signaling, Chungbuk National University, Cheongju, Chungbuk, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chungbuk National University, Cheongju, Chungbuk, Republic of Korea."
+      ],
+      "keywords": [
+        "JAK-STAT signaling",
+        "feline",
+        "intestinal fibrosis",
+        "lymphoma",
+        "lymphoplasmacytic enteritis"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -841,6 +1229,86 @@
       "keywords": [],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939121",
+      "title": "Computed Tomography Findings in Three Cases of Suspected Lymphovenous Communications in Cats.",
+      "authors": "Librán-Ferreira L, Rodríguez-Armas I, Zamora-Perarnau C, Israeliantz N, Cervera-Castellanos V",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 11",
+      "sortdate": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939121/",
+      "abstract": "Pathological lymphovenous communications are poorly characterized in veterinary medicine, and their computed tomographic features and clinical significance remain unknown. This retrospective case series aimed to describe contrast-enhanced computed tomography findings of suspected spontaneous lymphovenous communications in three cats. All cats had dilated, tortuous vessels arising from portal venous tributaries and extending to the cisterna chyli, originating from the splenic vein in two cats and the cranial mesenteric vein in one. The cisterna chyli and thoracic duct were consistently dilated and contrast-enhancing, and reduced portal vein calibre cranial to the communications was present in all cats. Concurrent findings included pleural or peritoneal effusion and subcutaneous edema, with chylous pleural effusion confirmed in two cats. The recurrent anatomical distribution and associated portal and lymphatic abnormalities suggest that these communications may represent the enlargement and functional recruitment of pre-existing lymphovenous pathways in response to acquired portal and/or lymphatic hemodynamic disturbances, although a congenital origin cannot be excluded. Contrast-enhanced computed tomography may allow the recognition and anatomical characterization of suspected pathological lymphovenous communications in cats and should be considered when anomalous portal vessels are associated with concurrent cisterna chyli and thoracic duct abnormalities.",
+      "affiliations": [
+        "DIVET Teleradiology, 46003 Valencia, Spain.",
+        "Veterinary Referral Hospital UCV, 46018 Valencia, Spain.",
+        "Department of Small Animal Medicine and Surgery, Faculty of Veterinary Medicine and Experimental Sciences, Catholic University of Valencia San Vicente M&#xe1;rtir, 46001 Valencia, Spain.",
+        "Doctoral School, Catholic University of Valencia San Vicente M&#xe1;rtir, 46002 Valencia, Spain.",
+        "IDEXX Telemedicine Consultants, 70806 Kornwestheim, Germany."
+      ],
+      "keywords": [
+        "cat",
+        "chylothorax",
+        "cisterna chyli",
+        "computed tomography",
+        "lymphatic system",
+        "lymphovenous communication",
+        "portal vein",
+        "thoracic duct"
+      ],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939117",
+      "title": "Pregabalin Monotherapy for Chronic Pain Associated with Osteoarthritis in Working Dogs: A Retrospective Study of 21 Cases.",
+      "authors": "Lee J, Park G, Yoo J, Ahn DG, Lee I",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 11",
+      "sortdate": "2026-10-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939117/",
+      "abstract": "Degenerative joint disease, including osteoarthritis (OA), is frequently diagnosed in working dogs and is a major cause of retirement or euthanasia. Pregabalin is a gabapentinoid used mainly for neuropathic pain, but evidence for pregabalin monotherapy in canine OA-related chronic pain is limited. Of 702 cases screened, this retrospective study included 21 working dogs with radiographically confirmed OA and chronic pain of at least three months' duration that received pregabalin monotherapy (4 mg/kg PO q12h). Handler-completed Liverpool Osteoarthritis in Dogs (LOAD), Canine Brief Pain Inventory (CBPI) pain severity score (PSS), and pain interference score (PIS) at baseline and at 14 &#xb1; 3 days were compared using paired t-tests, with predefined responder criteria applied to individual dogs. LOAD, CBPI-PSS, and CBPI-PIS decreased by 2.33, 0.67, and 1.00 points, respectively (all p &lt; 0.001). However, only 5 of 21 dogs (23.8%) met the LOAD responder criterion and 3 of 21 (14.3%) met the CBPI criterion. No adverse effects were recorded. Although scores decreased significantly at the group level, clinically meaningful improvement was limited, and the uncontrolled design precludes causal inference. Controlled studies are needed to determine whether pregabalin has a role when non-steroidal anti-inflammatory drug use requires caution.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Seoul National University, Seoul 08826, Republic of Korea.",
+        "Department of Veterinary Medicine, Armed Forces Medical Research Institute, Daejeon 34059, Republic of Korea."
+      ],
+      "keywords": [
+        "CBPI",
+        "Canine Brief Pain Inventory",
+        "LOAD",
+        "Liverpool Osteoarthritis in Dogs",
+        "chronic pain",
+        "clinical metrology instrument",
+        "osteoarthritis",
+        "pregabalin",
+        "working dogs"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939113",
+      "title": "Pediococcus acidilactici Long21 Alleviates Intestinal Sensitivity and Improves Gut Health in German Shepherd Dogs by Regulating Intestinal Metabolic Profiles.",
+      "authors": "Zhang X, Ma Y, Liu H, Yang Y, Wu Z",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 10",
+      "sortdate": "2026-10-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939113/",
+      "abstract": "Background: Canine intestinal sensitivity is a multifactorial functional gastrointestinal disorder characterized by recurrent soft feces, impaired nutrient utilization, and low-grade intestinal inflammation, and it acts as a major trigger for chronic gastrointestinal discomfort in dogs. Conventional antibiotic therapy causes side effects and drug resistance. Probiotics modulate host physiology, immunity, and metabolism, serving as promising alternatives for improving canine intestinal health. This study aimed to compare the gut microbiota of healthy and sensitive German shepherd dogs, screen and identify candidate probiotics, and verify their efficacy in ameliorating canine intestinal dysfunction and hypersensitivity. Results: Fecal microbiota transplantation from healthy dogs effectively improved these fecal indicators and was associated with enhanced serum antioxidant and anti-inflammatory capacities in intestinal-sensitive dogs (p &lt; 0.05). Additionally, 16S rRNA sequencing revealed that healthy German Shepherd dogs had higher intestinal microbial &#x3b1;- and &#x3b2;-diversity, with Pediococcus acidilactici enriched in healthy dogs and Shigella increased in diarrheic dogs (p &lt; 0.05). P. acidilactici Long21 intervention, either alone or combined with its fermentation supernatant, significantly improved fecal traits; reduced pathogenic bacterial abundance; increased the apparent digestibility of dry matter, crude fibre, and ether extract; and was associated with normalized antioxidant function and inflammatory indicators in German Shepherd dogs with intestinal sensitivity (p &lt; 0.05). We identified 2085 differentially abundant metabolites enriched in amino-acid and energy metabolism using untargeted metabolomics, with glutamate, malate, and pyruvate as hub metabolites correlated with nutrient digestibility and fecal traits. Conclusions: Intestinal flora imbalance is associated with intestinal sensitivity-related diarrhea in dogs. P. acidilactici Long21 supplementation alleviated intestinal sensitivity-associated diarrhea and improved intestinal health, possibly through coordinated changes in gut microbiota, metabolic profiles, and nutrient utilization. These findings provide a theoretical basis and a candidate strain for microecological intervention, although causal mechanisms remain to be confirmed.",
+      "affiliations": [
+        "State Key Laboratory of Animal Nutrition and Feeding, College of Animal Science and Technology, China Agricultural University, Beijing 100193, China."
+      ],
+      "keywords": [
+        "Pediococcus acidilactici",
+        "dog",
+        "intestinal sensitivity",
+        "nutrient digestibility"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -1032,6 +1500,33 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42939094",
+      "title": "Gastrointestinal Diets with Different Fiber Compositions and Energy Densities for Management of Chronic Inflammatory Enteropathy in Dogs: A Prospective, Multicenter Study.",
+      "authors": "Rochon J, Vecchio M, Dito D, Oruz N, Charles H",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 09",
+      "sortdate": "2026-10-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42939094/",
+      "abstract": "Dogs with chronic gastrointestinal (GI) signs are commonly presented to veterinarians. This Italian study investigated the effectiveness of three dry, highly digestible veterinary GI diets fed for 60 days to control chronic inflammatory enteropathy (CIE). Adult dogs with a Canine Chronic Enteropathy Clinical Activity Index score &#x2265; 5, modified to exclude albumin concentration (mCCECAI), were assigned a GI high-fiber diet (n = 21) if GI signs were primarily large bowel, a GI moderate-calorie diet (n = 22) if signs were small or mixed small/large bowel and body condition score (BCS) was &gt; 5, or a GI diet (n = 18) if signs were small or mixed small/large bowel and BCS was &#x2264; 5. Least-squares mean mCCECAI scores and owner-reported GI signs improved significantly in all diet groups between baseline and Day 30 (73.5-79.8% and 72.1-81.7%, respectively, p &lt; 0.0001) and baseline and Day 60 (85.0-86.3% and 89.8-93.0%, respectively, p &#x2264; 0.0001). Body weight and BCS were stable, except for an 8.0% BCS increase in the GI diet group. There were no adverse events considered likely to be diet-related. A similar Australian study of the high-fiber GI diet had consistent results. These data suggest that each diet is equally effective for its indicated use, inducing rapid and sustained improvements in CIE signs.",
+      "affiliations": [
+        "Royal Canin Research &amp; Development Centre, 30470 Aimargues, France."
+      ],
+      "keywords": [
+        "chronic enteropathy",
+        "colitis",
+        "diarrhea",
+        "fiber",
+        "gastrointestinal diet",
+        "gastrointestinal signs",
+        "highly digestible diet",
+        "inflammatory bowel disease",
+        "vomiting"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -8680,6 +9175,38 @@
       "summary_ko": ""
     },
     {
+      "id": "42945298",
+      "title": "Intestinal angioleiomyoma in a dog.",
+      "authors": "Nivy R, Bruchim Y, Eley T",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 01",
+      "sortdate": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945298/",
+      "abstract": "Angioleiomyoma is a rare, smooth muscle tumor of vascular origin, which primarily affects the skin. A 9-year-old, castrated male dog presented for transient ataxia. Abnormalities were not detected on physical examination, but blood tests revealed a mild, severely microcytic anemia and transferrin saturation of 2.5% (reference interval, 27%-66%). An exhaustive diagnostic work-up ensued but failed to find the cause of the severe iron deficiency in laboratory, imaging, and endoscopic studies. Severely microcytic anemia had persisted for 6&#xa0;months, despite iron-dextran injections, and in the absence of clinical signs, until intussusception developed. The abnormal jejunal segment was removed and diagnosed as angioleiomyoma, based on characteristic histological features, positive immunolabeling with &#x3b1;-smooth muscle actin and CD31, and negative S100 and c-Kit/CD117 staining. Hitherto unreported in dogs, intestinal angioleiomyoma was associated with protracted, occult, asymptomatic intestinal blood loss, until intussusception developed. Prognosis appears favorable with full excision, based on clinical behavior in other organs, and the present case.",
+      "affiliations": [
+        "Koret School of Veterinary Medicine, The Hebrew University of Jerusalem, P.O. Box 12, Rehovot 761001, Israel.",
+        "Ben-Shemen Specialist Referral Center, Ben-Shemen Youth Village, Israel.",
+        "IDEXX Laboratories Ltd. (pathology services), Grange House, Sandbeck Way, Wetherby LS22 7DN, United Kingdom."
+      ],
+      "keywords": [
+        "anemia",
+        "blood loss",
+        "intussusception",
+        "iron deficiency",
+        "microcytosis"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Dog Diseases",
+        "Angiomyoma",
+        "Intussusception"
+      ],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42674007",
       "title": "Retrospective analysis of 68 domestic ferrets with urethral obstruction shows high rate of euthanasia at presentation despite good survival to discharge.",
       "authors": "O'Malley B, Sadar MJ, Alexander AB, Bercier M",
@@ -8851,23 +9378,36 @@
     },
     {
       "id": "42665888",
-      "title": "EXPRESS: Effect of oral gabapentin administered in-hospital on behavioral stress, compliance, and physiologic stress markers: a randomized, double-blind, placebo-controlled trial.",
+      "title": "Effect of oral gabapentin administered in-hospital on behavioral stress, compliance, and physiologic stress markers: A randomized, double-blind, placebo-controlled trial.",
       "authors": "Canosa C, Summers SC",
       "journal": "J Feline Med Surg",
       "date": "2026 Aug 28",
       "sortdate": "2026-08-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42665888/",
-      "abstract": "OBJECTIVES: The aim of the study was to determine whether post-admission oral gabapentin improves stress indices and handling tolerance in hospitalized cats. METHODS: In this double-blind, randomized, placebo-controlled, parallel-design trial, healthy client-owned cats were enrolled. After initial exam, cats received a 100-mg gabapentin or placebo capsule. At ninety minutes, a second examination, venipuncture, and brief dorsal positioning were performed. Five stress behaviors (struggling, vocalization, repelling, hypersalivation, mouth breathing), compliance, and enclosure activity score (1, sedate; 5, very active) were recorded; blood glucose, lactate, serum cortisol, and lymphocyte count were measured. Serum gabapentin concentrations were obtained 90-minutes post-capsule. RESULTS: Thirty cats (15 cats/group) were included in analysis. In the 15 cats that received gabapentin, median gabapentin dose was 21.7 mg/kg (range, 14.3-28.1 mg/kg), yielding a median serum concentration 16.4 mcg/mL (range, 1.3-24.5 mcg/mL). Most cats gabapentin-treated cats exhibited less stress behaviors (86%; 13/15) and better compliance for handling during examination (73%; 11/15) at 90-minutes post-capsule compared with 20% (3/15) and 26% (4/15), respectively, in placebo cats. Between group differences were not detected for behavioral or compliance scores during venipuncture or dorsal positioning. Enclosure activity scores in the gabapentin group decreased from median 3 at baseline to 2 from 90-360 minutes post dose (120, 240, and 300 minutes; P &lt;0.05, respectively), consistent with mild sedation. Blood lactate and cortisol concentrations were lower in gabapentin group than placebo group (P = 0.002 and P = 0.04, respectively). CONCLUSIONS AND RELEVANCE: A 100-mg oral dose of gabapentin provides modest improvement in stress behaviors during examination and favorably alters select physiologic stress markers within 90 minutes of administration, with sustained reductions in kennel activity. Findings support incorporating gabapentin within a multimodal, low stress approach for cats presenting without pre appointment medication, while maintaining contingency plans for additional sedation as needed.",
+      "abstract": "OBJECTIVES: The aim of the study was to determine whether post admission oral gabapentin improves stress indices and handling tolerance in hospitalized cats. METHODS: In this double-blind, randomized, placebo-controlled, parallel-design trial, healthy client-owned cats were enrolled. After the initial examination, cats received a 100&#x2009;mg gabapentin or placebo capsule. At 90&#x2009;min, a second examination, venipuncture, and brief dorsal positioning were performed. Five stress behaviors (struggling, vocalization, repelling, hypersalivation, mouth breathing), compliance, and enclosure activity score (1, sedate; 5, very active) were recorded; blood glucose, lactate, serum cortisol, and lymphocyte count were measured. Serum gabapentin concentrations were obtained 90&#x2009;min after the capsule. RESULTS: A total of 30 cats (15 cats/group) were included in analysis. In the 15 cats who received gabapentin, the median gabapentin dose was 21.7&#x2009;mg/kg (range 14.3-28.1), yielding a median serum concentration of 16.4&#x2009;&#xb5;g/ml (range 1.3-24.5). Most gabapentin-treated cats exhibited fewer stress behaviors (n&#x2009;=&#x2009;13/15, 87%) and better compliance for handling during examination (n&#x2009;=&#x2009;11/15, 73%) at 90&#x2009;min post-capsule compared with 3/15 (20%) and 4/15 (27%), respectively, in placebo cats. Between-group differences were not detected for behavioral or compliance scores during venipuncture or dorsal positioning. Enclosure activity scores in the gabapentin group decreased from median 3 at baseline to 2 from 90-360&#x2009;min post-dose (120, 240, and 300&#x2009;min; P &lt;0.05, respectively), consistent with mild sedation. Blood lactate and cortisol concentrations were lower in the gabapentin group than the placebo group (P&#x2009;=&#x2009;0.002 and P&#x2009;=&#x2009;0.04, respectively). CONCLUSIONS AND RELEVANCE: A 100&#x2009;mg oral dose of gabapentin provides modest improvement in stress behaviors during examination and favorably alters select physiologic stress markers within 90&#x2009;min of administration, with sustained reductions in kennel activity. Findings support incorporating gabapentin within a multimodal, low-stress approach for cats presenting without preappointment medication, while maintaining contingency plans for additional sedation as needed. Giving gabapentin in the hospital can modestly calm cats for examinations within 90&#x2009;minutesMany cats become stressed during veterinary visits, which can make examinations and simple procedures difficult. Because some visits are unplanned, cats may arrive without any anxiety-reducing medications on board. We studied whether giving a single oral dose of gabapentin (a commonly used calming medicine) after admission could help. In total, 30 healthy pet cats were enrolled. Each cat first had a brief examination. Then cats received either a 100&#x2009;mg gabapentin capsule or an inactive placebo pill by mouth. About 90&#x2009;min later, we repeated the examination and carried out routine handling (a blood draw and brief positioning on the back). We scored each cat&#x2019;s behavior and how easy the cat was to handle. We also noted how active the cat was while resting in the kennel for several hours. Blood tests included measures linked to stress (cortisol and lactate). Cats who received gabapentin showed modest improvements during the second examination: they struggled less and were easier to handle. Their blood tests also suggested lower stress (cortisol and lactate were lower) compared with cats who received the placebo pill. In their kennels, cats given gabapentin were less active for several hours, consistent with mild calming. However, we did not see clear differences between groups during the more uncomfortable steps (the blood draw and brief positioning). Giving gabapentin in the hospital can help with routine examination and gentle handling within about 90&#x2009;min, especially for moderately stressed cats. It is best used as part of a broader, low-stress approach (quiet space, gentle handling, towels/pheromones) and may not be enough on its own for more invasive procedures. Responses varied between cats, likely because absorption of a single capsule can differ.",
       "affiliations": [
         "Department of Clinical Sciences, Oregon State University, Gary R. Carlson, MD, College of Veterinary Medicine, Corvallis, OR, USA."
       ],
       "keywords": [
-        "Compliance",
-        "Gabapentin",
-        "Oral",
-        "Stress"
+        "compliance",
+        "gabapentin",
+        "oral",
+        "stress"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Gabapentin",
+        "Double-Blind Method",
+        "Cats",
+        "Female",
+        "Administration, Oral",
+        "Male",
+        "Stress, Physiological",
+        "Behavior, Animal",
+        "Stress, Psychological",
+        "Cat Diseases",
+        "gamma-Aminobutyric Acid"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -261382,11 +261922,19 @@
       "date": "2022 Mar 01",
       "sortdate": "2022-03-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/34606594/",
-      "abstract": "",
+      "abstract": "A 9.5 yr old Yorkshire terrier presented with chronic intermittent vomiting and lethargy of 1.5 yr duration that progressed to generalized weakness. Insulin:glucose ratio was consistent with an insulinoma. Triple-phase computed tomography revealed a mid-body pancreatic nodule. The mid-body pancreatic nodule was enucleated; histopathology was consistent with an insulinoma. Two weeks after the operation, the dog presented for anorexia and diarrhea. Abdominal ultrasound revealed a thick-walled cystic lesion along the dorsal stomach wall. An intramural gastric pseudocyst was diagnosed via exploratory laparotomy and intraoperative gastroscopy. Comparison of amylase and lipase levels of the cystic fluid with that of concurrent blood serum samples confirmed the lesion was of pancreatic pseudocyst origin. The gastric pseudocyst was omentalized. Two weeks after the operation, the dog re-presented for anorexia, regurgitation, and diarrhea. An intramural duodenal pseudocyst was identified and treated with a duodenal resection and anastomosis. The dog has remained asymptomatic and recurrence free based on serial abdominal ultrasounds 22 mo following insulinoma removal. To our knowledge, this phenomenon of pancreatic pseudocysts forming in organs other than the pancreas has not been reported in dogs. This case report and comprehensive human literature review purpose is to raise awareness of this disease process in dogs.",
       "affiliations": [],
       "keywords": [],
-      "mesh": [],
-      "category": "internal",
+      "mesh": [
+        "Animals",
+        "Cysts",
+        "Dog Diseases",
+        "Dogs",
+        "Insulinoma",
+        "Pancreatic Neoplasms",
+        "Pancreatic Pseudocyst"
+      ],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
