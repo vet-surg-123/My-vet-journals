@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28 06:03 UTC",
-  "total": 12174,
+  "updated": "2026-10-29 01:58 UTC",
+  "total": 12182,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,26 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42947482",
+      "title": "Factors associated with the development of gastrointestinal adverse events in dogs with multicentric lymphoma treated with CHOP- or CEOP-based protocols: a multi-institutional, retrospective study.",
+      "authors": "Treggiari E, Catania E, Valenti P, Boyd K, Finotello R",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 27",
+      "sortdate": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947482/",
+      "abstract": "OBJECTIVES: Canine multicentric lymphoma is treated with multidrug protocols that include an anthracycline, namely doxorubicin, epirubicin or mitoxantrone. Both epirubicin and doxorubicin are known to cause gastrointestinal adverse events; however, very few reports have focused on comparing adverse events of the two drugs. The aim of this study was to report the frequency and severity of gastrointestinal adverse events in dogs with lymphoma treated with a multi-agent protocol including either doxorubicin or epirubicin, and to identify clinical and treatment-related factors associated with the development of adverse events. MATERIALS AND METHODS: The medical databases of four institutions were retrospectively searched for dogs with a confirmed diagnosis of lymphoma that had received a multi-agent&#xa0;protocol including either doxorubicin or epirubicin. Dogs with detected gastrointestinal involvement, suspected gastrointestinal lymphoma or that did not undergo abdominal imaging at presentation were excluded. Variables included breed, sex, age, body weight, clinical stage, substage, immunophenotype, use of corticosteroids, chemotherapy dosing strategy and remission status following the first administration of anthracycline. RESULTS: A total of 178 dogs were included, 114 dogs (64%) received epirubicin and 64 (36%) received doxorubicin. Dogs treated with doxorubicin had a significantly higher incidence of gastrointestinal adverse events compared with those receiving epirubicin (56.3% vs. 34.2%, OR 2.47, 95% CI 1.33 to 4.67; P&#x2009;=&#x2009;.005). In multivariable analysis, doxorubicin was independently associated with an increased risk of gastrointestinal toxicity (OR 2.70, 95% CI 1.39 to 5.38; P&#x2009;=&#x2009;.004) as were increasing age and female sex. Stage V disease was associated with a reduced risk. CLINICAL SIGNIFICANCE: These findings suggests that treatment with doxorubicin, when administered as part of a multi-agent protocol in dogs with lymphoma, is associated with a significantly higher risk of developing gastrointestinal adverse events compared with epirubicin. Prospective studies are warranted to further investigate differences in gastrointestinal toxicity between epirubicin and doxorubicin, and to better define the toxicity profile of each drug.",
+      "affiliations": [
+        "Oncology Service, Istituto Specialistico Veterinario, Milan, Italy.",
+        "Oncology Service, Clinica Veterinaria Malpensa AniCura, Samarate, Italy.",
+        "Oncology Service, Ospedale Veterinario I Portoni Rossi AniCura, Zola Predosa, Italy.",
+        "Oncology Service, Department of Small Animal Clinical Science, Institute of Infection Veterinary and Ecological Sciences, University of Liverpool, Neston, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
     {
       "id": "42934855",
       "title": "EXPRESS:Management of Distal Hindlimb Injuries in Cats Using an Exvet External Skeletal Fixation System: A Multicenter Retrospective Study.",
@@ -1095,6 +1115,153 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42948621",
+      "title": "Prospective multicenter study of murmur localization and stage-associated murmur grading in dogs with echocardiographically diagnosed cardiac diseases: the LISTEN study.",
+      "authors": "Wess G, Häggström J, Stadler J, König L, Kraszewska K, Bittenecker D, Domenech O, Santamarina G, Van den Noortgate G, Bjerknaes MB",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948621/",
+      "abstract": "BACKGROUND: Cardiac auscultation remains fundamental in dogs with suspected cardiac disease, but large prospective datasets describing clinician-recorded murmur localization and intensity across echocardiographic diagnoses are limited. This study aimed to characterize point of maximal intensity (PMI) patterns in dogs with echocardiographically diagnosed cardiac abnormalities and to evaluate the association between murmur grade and disease stage in dogs with myxomatous mitral valve disease (MMVD) and dilated cardiomyopathy (DCM). METHODS: This prospective international multicenter observational study included 6,996 client-owned dogs examined by 50 cardiology-trained veterinarians. Dogs underwent standardized cardiac auscultation at four predefined thoracic locations and transthoracic echocardiography during the same clinical visit. PMI localization was described across cardiac diagnoses, and murmur grade was evaluated in relation to disease stage in MMVD and DCM. RESULTS: Dogs with MMVD and DCM predominantly had a left apical PMI, whereas congenital outflow tract diseases and patent ductus arteriosus were predominantly associated with a left basilar PMI. Tricuspid regurgitation and ventricular septal defect were more commonly associated with right apical and right basilar PMIs, respectively. In MMVD, murmur intensity increased with advancing disease stage (p &lt; 0.001), and dogs with a murmur greater than soft had higher odds of being in stage B2 or C/D than B1 (OR 35.9, 95% CI 27.6-46.6). In DCM, 25.8% of dogs had no audible murmur. Although murmur grade distribution differed across DCM stages (p = 0.03), intensity did not show a consistent stage-associated increase. CONCLUSION: Clinician-recorded four-point auscultation identified characteristic regional PMI patterns across several canine cardiac diseases. Murmur grade was strongly associated with disease stage in MMVD but provided limited stage-related information in DCM. Auscultation may support initial clinical assessment and prioritization of differential diagnoses, but echocardiography remains essential for definitive diagnosis and staging.",
+      "affiliations": [
+        "LMU Small Animal Clinic, Ludwig-Maximilians-University, Munich, Germany.",
+        "Swedish University of Agricultural Sciences, Uppsala, Sweden.",
+        "Vetcardia Veterinary Clinic, Warsaw, Poland.",
+        "Diagnostic Center for Small Animals, Vienna, Austria.",
+        "Anicura Istituto Veterinario Novara, Novara, Italy.",
+        "Institute for Research in Global Health and Sustainable Development (iTERRA), Campus Terra, Universidad de Santiago de Compostela, Lugo, Spain.",
+        "Dierenartsenpraktijk Akuut, Kortenberg, Belgium.",
+        "Tierklinik Elversberg, Spiesen-Elversberg, Germany.",
+        "Evidensia S&#xf6;dra Djursjukhuset Kungens Kurva, Stockholm, Sweden.",
+        "Norwegian University of Life Sciences, and Empet Nydalen, Oslo, Norway.",
+        "Mobile Konsultationspraxis f&#xfc;r Kleintierkardiologie, Kemnath, Germany.",
+        "Tierklinik Stommeln, Pulheim, Germany."
+      ],
+      "keywords": [
+        "canine cardiology",
+        "cardiac auscultation",
+        "disease staging",
+        "echocardiography",
+        "heart sounds"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42948389",
+      "title": "Case report: long-term clinical remission of food-responsive enteropathy in a dog fed a yellow mealworm-based diet.",
+      "authors": "Gałęcki R, Gałęcka I",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948389/",
+      "abstract": "Food-responsive enteropathy (FRE) is the most common form of canine chronic inflammatory enteropathy. Novel protein diets constitute first-line therapy, and many dogs have already been exposed to \"novel\" meat alternatives. Edible insects are a novel, highly digestible, and sustainable protein source. In the present study, a five-year-old male York-shire Terrier with chronic FRE and gallbladder sludge was transitioned to a diet with a 35% inclusion level of Tenebrio molitor larvae meal. Clinical indices improved from \"severe\" (CIBDAI = 9 and CCECAI = 11) to \"clinically insignificant\" (CIBDAI = 0 and CCECAI = 2) within 3 weeks and remained stable for 24 months. Body weight normalized (from 5.4 to 4.0 kg), coat quality improved, and the ultrasound examination revealed that gallbladder sludge was eliminated. A brief interruption of the insect-based diet coincided with the recurrence of sludge and gastrointestinal signs, both of which resolved after the reintroduction of T. molitor larvae meal. Hematological and serum biochemical parameters remained within the reference ranges. The mealworm-based diet led to long-term remission of FRE and elimination of gallbladder sludge without adverse effects. Insect protein is a viable hypoallergenic option for canine elimination diets and may convey additional gut and hepatobiliary benefits.",
+      "affiliations": [
+        "Department of Veterinary Prevention and Feed Hygiene, Faculty of Veterinary Medicine, University of Warmia and Mazury in Olsztyn, Olsztyn, Poland.",
+        "Department of Epizootiology, Faculty of Veterinary Medicine, University of Warmia and Mazury in Olsztyn, Olsztyn, Poland."
+      ],
+      "keywords": [
+        "FRE",
+        "Tenebrio molitor",
+        "chronic inflammatory enteropathies",
+        "edible insects",
+        "gall bladder",
+        "hypoallergenic",
+        "novel protein",
+        "sensitive diet"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "42948248",
+      "title": "Application of a convolutional neural network for automatic cytological diagnosis of 7 common canine tumors on whole slide images: a proof-of-concept.",
+      "authors": "Attini M, Newing E, Oikonomidis IL, Tsouloufi TK, Ressel L",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948248/",
+      "abstract": "BACKGROUND: Artificial intelligence may help improve speed and consistency of diagnostic veterinary cytology, but validated tools remain limited. OBJECTIVES: To develop and evaluate a convolutional neural network (CNN) for automatic classification of 7 common canine tumors on cytology whole-slide images (WSIs). METHODS: Ninety-one May-Gr&#xfc;nwald Giemsa-stained canine cytology cases were selected, representing carcinoma, histiocytoma, lymphoma, mast cell tumor, melanoma, plasma cell tumor, and soft tissue sarcoma, together with a background class. Slides were tiled into 22,577 image patches (512&#x202f;&#xd7;&#x202f;512 pixels) and manually labeled and split using a case-wise 3-fold design to avoid data leakage. An ImageNet-pretrained Inception-v3 CNN was fine-tuned for 8-class classification. Performance was assessed at tile level, Grad-CAM was used for qualitative interpretability analysis, and majority-vote prediction was further evaluated at ROI level using attention-guided inference and at WSI level using attention-free whole-slide inference. RESULTS: Mean test accuracy at tile level was 86.3%, with mean macro balanced accuracy of 92.0% and mean macro F1-score of 85.6%. Grad-CAM showed attention focused predominantly on cytologically relevant cellular regions. At ROI level, attention-guided inference achieved 100% Top1 accuracy (28/28 cases). At WSI level, attention-free whole-slide inference achieved 92.9% Top1 accuracy (26/28 cases), and the correct diagnosis was included within the top 3 predictions in all cases. CONCLUSION: Inception-v3 achieved high diagnostic performance on canine cytology WSIs. The results support the feasibility of both AI-assisted ROI-based decision support and fully automated whole-slide inference in veterinary cytology. These findings are proof-of-concept evidence from a curated, single-institution cohort of typical, well-differentiated cases and require validation on diagnostically challenging and external cases before clinical use.",
+      "affiliations": [
+        "Independent Practitioner, Leggiuno, Italy.",
+        "Department of Veterinary Anatomy, Physiology and Pathology, Institute of Infection, Veterinary and Ecological Sciences, Faculty of Health &amp; Life Sciences, University of Liverpool, Liverpool, United Kingdom."
+      ],
+      "keywords": [
+        "canine",
+        "convolutional neural network",
+        "cytology",
+        "oncology",
+        "whole slide image"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42948200",
+      "title": "Prognostic significance of EGFR-1 and VEGF-A expression in feline cutaneous squamous cell carcinoma.",
+      "authors": "Linhares LCM, Rangel MMM, de Oliveira KD, Fonseca-Alves CE, de Moura FBC, Bispo GA, Queiroga FL, de Nardi AB",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948200/",
+      "abstract": "INTRODUCTION: Cutaneous squamous cell carcinoma (cSCC) is a prevalent malignancy in cats, and advanced cases remain challenging to manage due to their high potential for local invasion and recurrence. Epidermal growth factor receptor 1 (EGFR-1) and vascular endothelial growth factor A (VEGF-A) have emerged as promis- ing prognostic biomarkers in epithelial tumors, given their roles in proliferation, invasion, and angiogenesis. This study aimed to evaluate EGFR-1 and VEGF-A immunoexpression in cats with cSCC treated with electrochemotherapy (ECT) and their associations with clinicopathological variables and survival outcomes. METHODS: Immunohistochemical expression of EGFR-1 and VEGF-A was evaluated in tumor samples from 33 cats with cSCC enrolled prospectively (n = 24) and retrospec- tively (n = 9). Associations between immunoexpression scores and clinicopatho- logical variables, overall survival time (OST), disease-free interval (DFI), and time to progression (TTP) were assessed using appropriate statistical tests. RESULTS: EGFR-1 positivity was detected in 78.8% (26/33) of cases and was significantly associated with shorter OST, perineural invasion, and intense inflammatory infiltrate. VEGF-A immunoexpression was detected in 71.9% (23/32) of cases and was significantly associated with previous history of cSCC, perineural invasion (PNI), and tumor invasion beyond the subcutaneous fat. DISCUSSION: These findings suggest that EGFR-1 and VEGF-A immunoexpression are associated with clinicopathological variables linked to aggressive tumor behavior in feline cSCC, supporting their potential role as prognostic biomarkers in this species and warranting further investigation in larger cohorts.",
+      "affiliations": [
+        "Department of Veterinary Clinic and Surgery, School of Agricultural and Veterinary Sciences, S&#xe3;o Paulo State University, Jaboticabal, S&#xe3;o Paulo, Brazil.",
+        "Vet Cancer Veterinary Oncology, Brooklin, S&#xe3;o Paulo, Brazil.",
+        "VCLab Pathology, Pinheiros, S&#xe3;o Paulo, Brazil.",
+        "Department of Veterinary Surgery and Animal Reproduction, S&#xe3;o Paulo State University-UNESP, Botucatu, S&#xe3;o Paulo, Brazil.",
+        "School of Veterinary Medicine, S&#xe3;o Paulo State University-UNESP, Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil.",
+        "Animal and Veterinary Science Research Center (CECAV), University of Tr&#xe1;s-os-Montes and Alto Douro, Vila Real, Portugal."
+      ],
+      "keywords": [
+        "EGFR-1",
+        "VEGF-A",
+        "cat",
+        "electrochemotherapy",
+        "immunohistochemistry",
+        "prognosis",
+        "skin cancer"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42948017",
+      "title": "Cadaveric study of the ultrasound-guided erector spinae plane block over the dorsolateral edge of the transverse process of the ninth thoracic vertebra in dogs: transverse vs. longitudinal approach.",
+      "authors": "Herrera-Linares ME, Sanchis-Mora S, Zamora-Perarnau C, Fernández-Salesa N, Rico-Pérez B, Herrera-Gutiérrez ME, Serra-Aguado CI, Fernández-Parra R",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42948017/",
+      "abstract": "INTRODUCTION: Studies of the ultrasound-guided thoracic erector spinae plane (ESP) blocks in dogs are limited. This study aimed to describe a transverse (TV) ultrasound-guided ESP approach at the dorsolateral edge of the transverse process (DLETP) of T9, compare its distribution with a longitudinal (LNG) approach, and analyze the thoracic transverse process anatomy. METHODS: Twenty-three canine cadavers were used in this double-blinded experimental study. An ESP injection using 0.6 mL/kg of dye/contrast was performed on each lateral of 21 cadavers with a TV or LNG approach at T9, followed by computed tomography and dissection. RESULTS: Five cadavers were excluded from dissection analysis. All TV injections were placed over the DLETP, whereas 18.75% of LNG injections were misplaced laterally. Both approaches produced craniocaudal spread within the ESP, with median (range) spreads of 8 (5-14) and 8.5 (4-13) vertebrae for the TV and LNG groups, respectively. Cranial spread exceeded caudal in the TV group, with 4.5 (2-6) vs. 3.5 (0-7) vertebrae (p = 0.027), and LNG, with 5 (3-7) vs. 3 (0-6) (p = 0.004). Staining of the medial branches of the dorsal rami (MBDR) of the spinal nerves showed median (range) values of 5 (4-8) and 5 (0-6) in TV and LNG. Cranial MBDR staining predominated in TV, with 4.5 (1-6) over caudal with 1 (0-3) (p = 0.003), and LNG, with 4 (0-6) vs. 0 (0-3) (p &lt; 0.001). Lateral branches (LBDR) staining showed 4 (1-9) and 4 (2-12) in TV and LNG. Cranial LBDR staining exceeded caudal in TV, with 3 (0-6) vs. 1 (0-3) (p = 0.019), and LNG, with 3 (1-8) vs. 1 (0-5) (p = 0.034). Ventral branches staining occurred in 10/16 TV injections (62.5%) and 11/16 (68.75%) LNG. Both approaches showed epidural and sympathetic trunk spread while one intravascular injection occurred in LNG. No significant differences were found between approaches. The DLETP was predominantly absent caudal to T10 and smaller than the transverse process (p &lt; 0.001). CONCLUSION: The TV and LNG approaches produced comparable nerve staining and ESP spread at T9 in dogs, with preferential cranial distribution. The TV approach reduced injectate misplacement. The DLETP was smaller than the transverse process and consistently identified cranial to T11.",
+      "affiliations": [
+        "Doctoral School, Catholic University of Valencia San Vicente M&#xe1;rtir, Valencia, Spain.",
+        "Anesthesia Service, Pride Veterinary Referrals, Scarsdalevets, Inspiring Vet Care, Derby, United Kingdom.",
+        "Department of Small Animal Medicine and Surgery, Faculty of Veterinary Medicine and Experimental Sciences, Catholic University of Valencia San Vicente M&#xe1;rtir, Valencia, Spain.",
+        "Anaesthesia Service, Anicura San Vicente Veterinary Hospital, Alicante, Spain.",
+        "Veterinary Referral Hospital UCV, Catholic University of Valencia San Vicente M&#xe1;rtir, Valencia, Spain.",
+        "Surgery Service, FHCV-UAB, Facultat de Veterin&#xe0;ria de la UAB, Universitat Aut&#xf2;noma de Barcelona, Barcelona, Spain.",
+        "Anesthesia Service, Southfields Veterinary Specialists, Basildon, United Kingdom.",
+        "Department of Intensive Care Medicine, Regional University Hospital of M&#xe1;laga, M&#xe1;laga, Spain.",
+        "Department of Medicine and Dermatology, Faculty of Medicine, University of M&#xe1;laga, M&#xe1;laga, Spain."
+      ],
+      "keywords": [
+        "analgesia",
+        "anatomy",
+        "canine",
+        "interfascial plane",
+        "regional anesthesia",
+        "thorax"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -9204,6 +9371,87 @@
         "Intussusception"
       ],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42949439",
+      "title": "Effects of a gluten-free hydrolyzed diet in dogs with paroxysmal dyskinesia: a prospective cohort study.",
+      "authors": "Okonji S, Del Baldo F, Garuti E, Vecchiato CG, Di Carlo A, Costantini G, Cauduro A, Di Paola A, Falzone C, Gallucci A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 01",
+      "sortdate": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949439/",
+      "abstract": "BACKGROUND: Paroxysmal dyskinesia (PD) is an episodic movement disorder in dogs. Gluten-sensitive etiology has been suggested, but prospective studies in different breeds are lacking. HYPOTHESIS/OBJECTIVES: Investigate whether a gluten-free hydrolyzed diet (GFHD) decreases PD episode frequency and gastrointestinal (GI) signs, and evaluate associations with serum anti-gliadin peptide immunoglobulin G (AGA IgG) and anti-transglutaminase-2 immunoglobulin A (TG-2 IgA) titers. ANIMALS: Twenty-three client-owned dogs with PD. METHODS: Prospective cohort study with 3 time points: baseline (T0), 90&#xa0;days (T1), and 180&#xa0;days (T2). Dogs were fed a GFHD. Episode frequency, GI signs and AGA IgG and TG-2 IgA titers were assessed at each time point. Response to GFHD was classified as excellent (episode disappearance), good (&#x2265;50% decrease), fairly good (&lt;50% decrease), or poor (no change or increase). RESULTS: Median number of episodes decreased from 6 (range, 2-60) at T0 to 2 (range, 0-10) at T2 (P&#xa0;=&#xa0;.0003). At T2, 17/23 dogs were responders (5 excellent, 12 good). Gastrointestinal signs were present in 15/23 dogs at T0 and in 6/23 dogs at T2, with significant decreases in vomiting and diarrhea (P&#xa0;=&#xa0;.01). No significant correlation was found between episode frequency and AGA IgG or TG-2 IgA titers at any time point (P&#xa0;&gt;&#xa0;.1). Antibody results did not significantly change between T0 and T2. CONCLUSIONS AND CLINICAL IMPORTANCE: The GFHD was associated with a significant decrease in PD frequency and GI signs in most dogs. The AGA IgG and TG-2 IgA titers were not predictive of dietary response, suggesting limited value as biomarkers.",
+      "affiliations": [
+        "Department of Veterinary Medical Sciences, University of Bologna, Bologna, Italy.",
+        "Veterinaria Corlazzoli, Rome, Italy.",
+        "Neurovet, Legnano, Milan, Italy.",
+        "Clinica Veterinaria Pedrani, Diagnostica Piccoli Animali Srl, Zugliano, Italy.",
+        "Veterinary Neurological Center `La Fenice,' Selargius, Italy.",
+        "Valdinievole Veterinary Clinic, Monsummano Terme, Italy.",
+        "Department of Veterinary Medical Sciences, University of Parma, Parma, Italy.",
+        "AniCura Clinica Veterinaria Arcella, Padova, Italy.",
+        "PalermoVet Veterinary Diagnostic Center, Palermo, Italy."
+      ],
+      "keywords": [
+        "antibodies",
+        "canine",
+        "dystonia",
+        "involuntary movement",
+        "movement disorder",
+        "seizure"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Prospective Studies",
+        "Immunoglobulin A",
+        "Male",
+        "Diet, Gluten-Free",
+        "Chorea",
+        "Immunoglobulin G",
+        "Gliadin",
+        "Transglutaminases",
+        "Protein Glutamine gamma Glutamyltransferase 2",
+        "GTP-Binding Proteins",
+        "Cohort Studies"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42949438",
+      "title": "Outcomes of a 42-day course of molnupiravir in cats with feline infectious peritonitis: a prospective descriptive study.",
+      "authors": "Hishinuma K, Inoue A, Fukushima K, Sato M",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 01",
+      "sortdate": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42949438/",
+      "abstract": "BACKGROUND: Antiviral therapy for cats with feline infectious peritonitis (FIP) has traditionally been administered for 84&#xa0;days, although the optimal duration of molnupiravir treatment remains unknown. HYPOTHESIS/OBJECTIVES: To evaluate the efficacy of a 42-day course of molnupiravir, orally (PO), for naturally occurring FIP in cats. ANIMALS: Nineteen client-owned cats with newly diagnosed FIP. METHODS: Prospective pilot study. Cats received molnupiravir, PO, q12h for 42&#xa0;days at a median dosage of 11.5&#xa0;mg/kg (IQR, 10.2-12.5&#xa0;mg/kg). Cats with ocular or neurological involvement were excluded. Clinical assessments were performed during treatment and for 6&#xa0;months after treatment cessation. RESULTS: Nineteen cats were enrolled. Two cats failed to complete treatment because of death or persistent clinical signs. Fourteen of 19 cats (74%; 95% CI, 49-91) achieved sustained remission on an intention-to-treat basis. Each non-completer failed on day 5 or 10, respectively, within a window common to 42- and 84-day protocols, and therefore do not inform the question of treatment duration; among the 17 cats reaching day 42, 14 (82%; 95% CI, 57-96) remained in remission for at least 6&#xa0;months. Three cats relapsed after treatment cessation; all responded to retreatment with molnupiravir at the same dosage extended to 84&#xa0;days. CONCLUSIONS AND CLINICAL IMPORTANCE: This prospective study suggests that a shortened course of molnupiravir is feasible in selected cats with non-ocular, non-neurological FIP. ABSTRACT (JAPANESE): : (FIP) &#x306b;&#x3059;&#x308b;&#x30a6;&#x30a4;&#x30eb;&#x30b9;&#x306f; 84 &#x3055;&#x308c;&#x3066;&#x304d;&#x305f;&#x304c;&#x3001;&#x30e2;&#x30eb;&#x30cc;&#x30d4;&#x30e9;&#x30d3;&#x30eb;&#x306e;&#x306a;&#x306f;&#x3089;&#x304b;&#x3067;&#x306f;&#x306a;&#x3044;&#x3002; : FIP &#x306e;&#x306b;&#x3059;&#x308b;&#x30e2;&#x30eb;&#x30cc;&#x30d4;&#x30e9;&#x30d3;&#x30eb; 42 &#x306e;&#x3092;&#x3059;&#x308b;&#x3053;&#x3068;&#x3002; : &#x305f;&#x306b; FIP &#x3068;&#x3055;&#x308c;&#x305f;19&#x3002; : &#x304d;&#x30d1;&#x30a4;&#x30ed;&#x30c3;&#x30c8;&#x3002;&#x30e2;&#x30eb;&#x30cc;&#x30d4;&#x30e9;&#x30d3;&#x30eb;&#x3092; 12 &#x3054;&#x3068;&#x306b; 42 &#x3057;&#x305f;&#x3002;&#x306e;&#x306f; 11.5 &#xa0;mg/kg (&#x3001; 10.2-12.5 &#xa0;mg/kg) &#x3067;&#x3042;&#x3063;&#x305f;&#x3002;&#x307e;&#x305f;&#x306f;&#x3092;&#x3059;&#x308b;&#x306f;&#x3057;&#x305f;&#x3002;&#x304a;&#x3088;&#x3073; 6 &#x304b;&#x3001;&#x3092;&#x3063;&#x305f;&#x3002; : 19 &#x3092;&#x3057;&#x305f;&#x3002; 2 &#x306f;&#x307e;&#x305f;&#x306f;&#x306e;&#x306b;&#x3088;&#x308a;&#x3092;&#x3067;&#x304d;&#x306a;&#x304b;&#x3063;&#x305f;&#x3002; Intention-to-treat &#x3067;&#x306f; 19 14 (74 %&#xff1b; 95% &#x3001; 49-91) &#x304c;&#x3092;&#x3057;&#x305f;&#x3002;&#x306e; 2 &#x306f;&#x305d;&#x308c;&#x305e;&#x308c;5&#x304a;&#x3088;&#x3073;10&#x306b;&#x3068;&#x306a;&#x308a;&#x3001;&#x3044;&#x305a;&#x308c;&#x3082; 42 &#x304a;&#x3088;&#x3073; 84 &#x306e;&#x30d7;&#x30ed;&#x30c8;&#x30b3;&#x30eb;&#x306b;&#x3059;&#x308b;&#x3067;&#x3042;&#x3063;&#x305f;&#x305f;&#x3081;&#x3001;&#x306e;&#x306b;&#x306f;&#x3057;&#x306a;&#x304b;&#x3063;&#x305f;&#x3002; 42 &#x307e;&#x3067;&#x3092;&#x3057;&#x305f; 17 &#x306e;&#x3046;&#x3061; 14 (82% &#xff1b; 95% &#x3001; 57-96) &#x306f;&#x306a;&#x304f;&#x3068;&#x3082; 6 &#x304b;&#x3092;&#x3057;&#x305f;&#x3002; 3 &#x306f;&#x306b;&#x3057;&#x305f;&#x304c;&#x3001;&#x304c;&#x306e;&#x30e2;&#x30eb;&#x30cc;&#x30d4;&#x30e9;&#x30d3;&#x30eb;&#x306b;&#x3088;&#x308b; 84 &#x306e;&#x306b;&#x3057;&#x305f;&#x3002; &#x304a;&#x3088;&#x3073;: &#x304d;&#x30d1;&#x30a4;&#x30ed;&#x30c3;&#x30c8;&#x306e;&#x304b;&#x3089;&#x3001;&#x304a;&#x3088;&#x3073;&#x3092;&#x308f;&#x306a;&#x3044; FIP &#x306e;&#x3067;&#x306f;&#x3001;&#x30e2;&#x30eb;&#x30cc;&#x30d4;&#x30e9;&#x30d3;&#x30eb;&#x306e;&#x304c;&#x3067;&#x3042;&#x308b;&#x304c;&#x3055;&#x308c;&#x305f;&#x3002;. Feline infectious peritonitis (FIP) is a serious disease in cats caused by feline coronavirus. Antiviral treatment is commonly given for 84&#xa0;days, but the best treatment duration for molnupiravir is unknown. In this prospective pilot study, 19 cats without eye or neurological involvement received molnupiravir by mouth for 42&#xa0;days. Seventeen cats completed the 42-day course. Fourteen of the 19 enrolled cats remained in remission for at least 6&#xa0;months after treatment. Three cats relapsed after completing treatment. All 3 responded when molnupiravir was restarted at the same dose and continued for approximately 84&#xa0;days. Two cats did not complete the initial treatment course because of death or persistent clinical signs early in treatment. These findings suggest that a 42-day course of molnupiravir can be feasible for selected cats with FIP, although this study was small and did not directly compare 42-day and 84-day treatment courses.",
+      "affiliations": [
+        "Veterinary Specialists Emergency Center, Saitama 333-0823, Japan."
+      ],
+      "keywords": [
+        "antiviral therapy",
+        "feline infectious peritonitis",
+        "molnupiravir",
+        "nucleoside analogue",
+        "treatment duration"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Feline Infectious Peritonitis",
+        "Female",
+        "Prospective Studies",
+        "Male",
+        "Antiviral Agents",
+        "Treatment Outcome",
+        "Pilot Projects"
+      ],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
