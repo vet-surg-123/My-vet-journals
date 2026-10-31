@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 01:48 UTC",
+  "updated": "2026-10-31 06:04 UTC",
   "total": 12197,
   "categories": {
     "neurooncology": "신경종양",
@@ -9736,16 +9736,16 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Dog Diseases",
-        "Adrenocorticotropic Hormone",
-        "Hydrocortisone",
         "Female",
-        "Adenoma",
-        "Retrospective Studies",
-        "Pituitary Neoplasms",
         "Male",
+        "Adenoma",
+        "Adrenocorticotropic Hormone",
+        "Diagnosis, Differential",
+        "Dog Diseases",
+        "Hydrocortisone",
         "Pituitary ACTH Hypersecretion",
-        "Diagnosis, Differential"
+        "Pituitary Neoplasms",
+        "Retrospective Studies"
       ],
       "category": "neurooncology",
       "summary_ko": ""
@@ -11274,7 +11274,19 @@
         "osmolality estimation",
         "urine osmolality"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Osmolar Concentration",
+        "Female",
+        "Male",
+        "Sodium",
+        "Urine",
+        "Prospective Studies",
+        "Fluid Therapy",
+        "Potassium",
+        "Urinalysis"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -11612,7 +11624,16 @@
         "fully threaded headless cannulated screw",
         "proximal humeral fracture"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Printing, Three-Dimensional",
+        "Biomechanical Phenomena",
+        "Bone Screws",
+        "Fracture Fixation, Internal",
+        "Bone Wires",
+        "Shoulder Fractures"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -12130,7 +12151,22 @@
         "puppies",
         "targeted qPCR"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Feces",
+        "Longitudinal Studies",
+        "Biomarkers",
+        "Male",
+        "Female",
+        "Prospective Studies",
+        "Bile Acids and Salts",
+        "Real-Time Polymerase Chain Reaction",
+        "Bacteria",
+        "Dysbiosis",
+        "Gastrointestinal Microbiome",
+        "Aging"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -12565,7 +12601,22 @@
         "hemilaminectomy",
         "pain"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Magnesium Sulfate",
+        "Intervertebral Disc Displacement",
+        "Female",
+        "Analgesics",
+        "Dog Diseases",
+        "Postoperative Pain",
+        "Male",
+        "Anti-Inflammatory Agents",
+        "Double-Blind Method",
+        "Laminectomy",
+        "Thoracic Vertebrae",
+        "Lumbar Vertebrae"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -12615,7 +12666,20 @@
         "mitochondria",
         "taurine"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Hepatic Encephalopathy",
+        "Dog Diseases",
+        "Male",
+        "Mitochondria",
+        "Congenital Portosystemic Shunt",
+        "Homeostasis",
+        "Metabolome",
+        "Female",
+        "Prospective Studies",
+        "Taurine"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -12837,7 +12901,19 @@
         "stiffness",
         "tendotonometry"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Patellar Ligament",
+        "Biomechanical Phenomena",
+        "Female",
+        "Male",
+        "Prospective Studies",
+        "Palpation",
+        "Reproducibility of Results",
+        "Feasibility Studies",
+        "Stifle"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -13495,7 +13571,17 @@
         "transcatheter arterial embolization",
         "tumor volume"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Carcinoma, Hepatocellular",
+        "Dog Diseases",
+        "Liver Neoplasms",
+        "Male",
+        "Female",
+        "Embolization, Therapeutic",
+        "Treatment Outcome"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -13681,7 +13767,16 @@
         "lumbosacral",
         "needle bevel orientation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cadaver",
+        "Injections, Epidural",
+        "Contrast Media",
+        "Lumbosacral Region",
+        "Iohexol",
+        "Epidural Space"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -13820,7 +13915,17 @@
         "parametric mapping",
         "reference interval"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Reference Values",
+        "Female",
+        "Magnetic Resonance Imaging",
+        "Male",
+        "Heart",
+        "Species Specificity"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -14079,7 +14184,18 @@
         "thyroid",
         "total iodine"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Thyroiditis, Autoimmune",
+        "Iodine",
+        "Hypothyroidism",
+        "Retrospective Studies",
+        "Female",
+        "Male",
+        "Autoantibodies"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
