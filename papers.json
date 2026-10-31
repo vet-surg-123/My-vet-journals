@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30 06:10 UTC",
-  "total": 12193,
+  "updated": "2026-10-31 01:48 UTC",
+  "total": 12197,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,24 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42960540",
+      "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
+      "authors": "Neittaanmäki H, Rajamäki M, Airas N, Tilamaa A, Viitanen S",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Oct 30",
+      "sortdate": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960540/",
+      "abstract": "OBJECTIVES: Chronic idiopathic rhinitis is a common canine nasal disease with unknown aetiology and poor response to treatment. Neurokinin-1 receptor activation has been associated with rhinitis in experimental animals. The aim of this pilot study was to compare the effects of oral neurokinin-1 receptor antagonist (maropitant) with placebo on clinical signs of chronic idiopathic rhinitis in dogs. MATERIALS AND METHODS: Prospective randomised placebo-controlled double-blinded pilot trial. Eighteen privately owned dogs diagnosed with chronic idiopathic rhinitis based on clinical presentation, CT, rhinoscopy and histopathological findings were randomised to receive either maropitant 2&#x2009;mg/kg (n&#x2009;=&#x2009;9) or placebo (n&#x2009;=&#x2009;9) orally, every other day for 4&#x2009;weeks. Disease severity was assessed using study-specific scoring systems for CT and histopathological findings and derived from a validated questionnaire for nasal and gastrointestinal clinical signs. Each score was compared between groups at baseline. Response to treatment was assessed weekly by comparing the nasal and gastrointestinal scores between groups. RESULTS: Severity scores were similar between groups at baseline. Nasal scores did not differ significantly between treatment and placebo groups at the end of the trial [week 4; difference in least square means: -0.59, 95% CI -2.9 to 1.7]. The treatment group's mean score was 5.7 (range 1 to 11) at week 0 and 4.9 (range 0 to 12) at week 4, with no statistically significant change (least square means: -0.9, 95% CI -2.6 to 0.74). CLINICAL SIGNIFICANCE: Alternate-day oral administration of maropitant 2&#x2009;mg/kg in dogs with chronic idiopathic rhinitis did not result in a clinically relevant reduction in clinical signs.",
+      "affiliations": [
+        "Department of Equine and Small Animal Medicine, Faculty of Veterinary Medicine, University of Helsinki, Helsinki, Finland.",
+        "Department of Veterinary Biosciences, Faculty of Veterinary Medicine, University of Helsinki, Helsinki, Finland."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
     {
       "id": "42951676",
       "title": "Primary cardiac histiocytic sarcoma in a dog.",
@@ -931,6 +949,31 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42959543",
+      "title": "Clinical outcome and implant accuracy in cervical fractures stabilization using 3D-printed patient-specific drill guides for placement of bicortical screws in 16 dogs.",
+      "authors": "Manzanedo-Delgado A, Oxley B, Behr S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 15",
+      "sortdate": "2026-10-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959543/",
+      "abstract": "OBJECTIVE: To describe the clinical outcome of dogs with cervical fractures undergoing spinal stabilization surgery using 3D-printed patient-specific drill guides, and to evaluate the accuracy of pedicle screw placement with this technique. STUDY DESIGN: Retrospective descriptive study. ANIMALS OR SAMPLE POPULATION: Sixteen dogs. METHODS: Medical records were searched between August 2015 and January 2025 for dogs with traumatic spinal fracture via CT scan causing signs of cervical myelopathy that underwent spinal stabilization surgery using 3D-printed patient-specific drill guides followed by a postoperative CT scan. Neurological status was graded retrospectively with the Modified Frankel Score (MFS) on presentation, preoperatory on the day of the surgery, postoperatively on the first day after surgery, at hospital discharge and at the follow-up examination performed 4&#x2013;6&#x202f;weeks after surgery, when available. A telephone questionnaire was obtained for the long-term outcome. RESULTS: Sixteen dogs met the inclusion criteria (3/16 grade 2 MFS, 5/16 grade 3 MFS, 7/16 grade 4 MFS and 1/16 grade 5 MFS). Two dogs showed mild minor transient intraoperative complications. Optimal pedicle screw placement was achieved in 85/90 (94.4%) of screws. Twenty-four hours after surgery, the neurological grade remained unchanged in 10/16 dogs, improved in 5/16, and transiently deteriorated in 1/16 dog, which recovered by discharge. Postoperative complications occurred in 10/16 dogs and resolved with medical management in 9/10 cases. Short term follow-up revealed a static stable (6/14) or improved (8/14) neurological grade since discharge. Among the 12 dogs with owner-reported long-term follow-up, all were reported by their owners to be ambulatory and to have improved neurologically. Long-term quality-of-life (5&#x202f;=&#x202f;excellent; 1&#x202f;=&#x202f;poor) was scored by the owners 5/5 in 11/12 (91.7%) dogs and 4/5 in 1/12 (8.3%) dogs. CONCLUSION: Dogs in this study overall had an improved neurological status and favorable long-term outcomes when follow-up information was available. However, postoperative adverse events, including complications, should be considered when interpreting overall clinical outcome.",
+      "affiliations": [
+        "Willows Veterinary Centre and Referral Service, Solihull, United Kingdom.",
+        "Vet 3D Billy's Space, Cumbria, United Kingdom."
+      ],
+      "keywords": [
+        "3D-printed patient-specific drill guides",
+        "canine",
+        "cervical vertebral fracture",
+        "dog",
+        "neck fractures",
+        "spinal stabilization"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -9754,6 +9797,49 @@
       "summary_ko": ""
     },
     {
+      "id": "42960979",
+      "title": "Novel liquid biopsy based on comprehensive small RNA profiling for screening of cancer in dogs utilizing machine learning.",
+      "authors": "Harako S, Yuki M, Noguchi S, Ohno T, Nozaki N, Nishida R, Hojo H, Horikawa R, Kawata D, Noda Y",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 01",
+      "sortdate": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960979/",
+      "abstract": "BACKGROUND: Recent investigations have demonstrated the relevance in cancer of a variety of small RNAs, beyond microRNAs (miRNAs). However, the comprehensive application of these RNAs to cancer detection in dogs remains unexplored. HYPOTHESIS/OBJECTIVES: We investigated whether combining miRNAs and other small RNAs using a custom database improves the accuracy of machine learning cancer screening in dogs compared with models using only miRNAs. ANIMALS: A total of 389 dogs were enrolled: 85 with cancer, 77 with nonmalignant diseases, and 227 healthy controls. METHODS: Small RNAs in blood samples were sequenced, and miRNAs (via miRBase) and other small RNAs (via a custom database) were profiled. Based on these profiles, 2 datasets were prepared: one with only miRNAs and another combining miRNAs with other small RNAs. For each dataset, 12 classification models were constructed using identical methods to enable paired comparisons of performance, with 5-fold cross-validation and area under the receiver operating characteristic curve (AUC) as the primary metrics. RESULTS: The model that integrated both miRNAs and other small RNAs yielded a significantly higher AUC compared with the miRNA-only model (median AUC: 0.926 [95% CI, 0.911-0.944] vs 0.881 [0.860-0.897]; Wilcoxon signed-rank test, P&#xa0;&lt;&#xa0;.001), indicating enhanced capability in discriminating malignant tumors in dogs. CONCLUSIONS AND CLINICAL IMPORTANCE: We investigated the comprehensive integration of diverse small RNA species, beyond miRNAs, using a machine learning approach for cancer screening in dogs. Although further prospective validation in independent cohorts is needed, our results indicate that this strategy improves the performance of cancer classification models in dogs.",
+      "affiliations": [
+        "Research and Development Division, ARKRAY, Inc., Kyoto, Japan.",
+        "Yuki Animal Hospital, Nagoya, Aichi, Japan.",
+        "Department of Oncology, Japan Animal Referral Medical Center Osaka, Osaka, Japan.",
+        "Department of Veterinary Clinical Pathobiology, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, Japan.",
+        "Joint Graduate School of Veterinary Medicine, Kagoshima University, Kagoshima, Japan.",
+        "Veterinary Teaching Hospital, Joint Faculty of Veterinary Medicine, Kagoshima University, Kagoshima, Japan.",
+        "Laboratory of Molecular Diagnostics and Therapeutics, Joint Faculty of Veterinary Medicine, Yamaguchi University, Yamaguchi, Japan.",
+        "Division of Translational Research for One Medicine, Research Institute for Cell Design Medical Science, Yamaguchi University, Yamaguchi, Japan.",
+        "Japan Small Animal Cancer Center, Affiliated with the Japan Small Animal Medical Center Foundation, Saitama, Japan."
+      ],
+      "keywords": [
+        "dog",
+        "machine learning",
+        "next-generation sequencing",
+        "noncoding RNA",
+        "oncology"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Machine Learning",
+        "Neoplasms",
+        "MicroRNAs",
+        "Female",
+        "Liquid Biopsy",
+        "Male",
+        "Early Detection of Cancer",
+        "Classification Algorithms"
+      ],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
       "id": "42674007",
       "title": "Retrospective analysis of 68 domestic ferrets with urethral obstruction shows high rate of euthanasia at presentation despite good survival to discharge.",
       "authors": "O'Malley B, Sadar MJ, Alexander AB, Bercier M",
@@ -11874,13 +11960,13 @@
     },
     {
       "id": "42599030",
-      "title": "EXPRESS: MYOCARDIAL INJURY IN CATS WITH ACUTE BLUNT TRAUMA: PREVALENCE AND PROGNOSTIC IMPLICATIONS.",
-      "authors": "Dossi G, Mismetti M, Carnevale L, Borromeo V, Pocar P, Locatelli C",
+      "title": "Myocardial injury in cats with acute blunt trauma: Prevalence and prognostic implications.",
+      "authors": "Dossi G, Carnevale L, Mismetti M, Borromeo V, Pocar P, Locatelli C",
       "journal": "J Feline Med Surg",
       "date": "2026 Aug 14",
       "sortdate": "2026-08-14",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42599030/",
-      "abstract": "ObjectivesTo determine the prevalence of increased serum high-sensitivity cardiac troponin I (hs-cTnI) concentrations in cats with acute blunt trauma and assess associations with trauma severity, clinicopathological variables, echocardiographic findings, and short-term outcome.MethodsThirty-nine cats presenting within 48 hours of blunt trauma were prospectively enrolled. All cats underwent physical examination, Animal Trauma Triage scoring, thoracic radiography, electrocardiography, echocardiography, complete blood count, serum biochemistry, NTproBNP testing, and hs-cTnI measurement. Associations between hs-cTnI concentrations and clinical, laboratory, echocardiographic, and outcome variables were assessed. Receiver operating characteristic (ROC) analysis was performed as an exploratory assessment of prognostic performance.ResultsIncreased hs-cTnI concentrations were detected in 34/39 cats (87%; 95% CI 72-96%). A significant ordinal association was identified between trauma severity and hs-cTnI class (linear-by-linear association, p=0.036), although the overall Fisher-Freeman-Halton test was not significant (p=0.088). Hs-cTnI concentrations correlated positively with urea, creatinine, neutrophil count, ALT, NLR, blood glucose, IVSd, and LVPWd, and negatively with LVIDd. Increased left ventricular wall thickness was identified in 10/39 cats and was associated with higher hs-cTnI concentrations (p=0.033). No traumatic cardiac rupture, pericardial effusion, or pleural effusion were observed. Electrocardiographic abnormalities were detected in 6/39 cats and were not associated with hs-cTnI concentrations. Seven cats (18%) died during hospitalization. Increased urea concentration , white blood cell count, and neutrophil count were associated with non-survival. ROC analyses were considered exploratory because of the limited number of outcome events.Conclusions and relevanceIncreased hs-cTnI concentrations were common in cats with acute blunt trauma and were associated with leukocyte variables, renal function markers, and subtle echocardiographic abnormalities. These findings suggest that hs-cTnI may reflect a multifactorial biological response involving myocardial stress or injury, systemic disease severity, altered renal handling, and possible underlying subclinical cardiac disease. Further studies are needed to clarify the relative contribution and clinical significance of these mechanisms.",
+      "abstract": "OBJECTIVES: The aim of the present study was to determine the prevalence of increased serum high-sensitivity cardiac troponin I (hs-cTnI) concentrations in cats with acute blunt trauma and assess associations with trauma severity, clinicopathological variables, echocardiographic findings, and short-term outcome. METHODS: A total of 39 cats presenting within 48&#x2009;h of blunt trauma were prospectively enrolled. All cats underwent physical examination, Animal Trauma Triage scoring, thoracic radiography, electrocardiography, echocardiography, complete blood count, serum biochemistry, N-terminal pro B-type natriuretic peptide testing, and hs-cTnI measurement. Associations between hs-cTnI concentrations and clinical, laboratory, echocardiographic, and outcome variables were assessed. Receiver operating characteristic (ROC) analysis was performed as an exploratory assessment of prognostic performance. RESULTS: Increased hs-cTnI concentrations were detected in 34/39 (87%) cats (95% confidence interval 72-96). A significant ordinal association was identified between trauma severity and hs-cTnI class (linear-by-linear association, P&#x2009;=&#x2009;0.036), although the overall Fisher-Freeman-Halton test was not significant (P&#x2009;=&#x2009;0.088). Hs-cTnI concentrations correlated positively with urea, creatinine, neutrophil count, alanine aminotransferase, neutrophil:lymphocyte ratio, blood glucose, end-diastolic interventricular septal, and posterior wall thicknesses, and negatively with end-diastolic left ventricular internal diameter. Increased left ventricular wall thickness was identified in 10/39 cats and was associated with higher hs-cTnI concentrations (P&#x2009;=&#x2009;0.033). No traumatic cardiac rupture, pericardial effusion, or pleural effusion were observed. Electrocardiographic abnormalities were detected in 6/39 cats and were not associated with hs-cTnI concentrations. Seven cats (18%) died during hospitalization. Increased urea concentration, white blood cell count, and neutrophil count were associated with non-survival. ROC analyses were considered exploratory because of the limited number of outcome events. CONCLUSIONS AND RELEVANCE: Increased hs-cTnI concentrations were common in cats with acute blunt trauma and were associated with leukocyte variables, renal function markers, and subtle echocardiographic abnormalities. These findings suggest that hs-cTnI may reflect a multifactorial biological response involving myocardial stress or injury, systemic disease severity, altered renal handling, and possible underlying subclinical cardiac disease. Further studies are needed to clarify the relative contribution and clinical significance of these mechanisms. What happens to the heart after blunt trauma in cats?Cats who experience blunt trauma may develop damage affecting multiple organs, including the heart. Detecting heart involvement can be challenging because clinical signs are often non-specific and may be masked by other traumatic injuries. Cardiac troponin I is a protein released into the bloodstream when heart muscle cells are damaged. High-sensitivity cardiac troponin I (hs-cTnI) tests can detect even small increases in this biomarker and may help identify cardiac involvement in injured cats. This study investigated hs-cTnI concentrations in 39 cats examined within 48&#x2009;h of blunt trauma. Each cat underwent blood testing, electrocardiography, thoracic radiography, and echocardiography. The aim was to determine how commonly hs-cTnI concentrations were increased and whether these increases were associated with injury severity, laboratory findings, heart imaging results, or short-term survival. Increased hs-cTnI concentrations were found in most cats (87%). Higher hs-cTnI concentrations were associated with more severe trauma and with several blood test abnormalities, including leukocyte-related variables and markers of kidney dysfunction. Cats with increased thickness of the left ventricular wall also had higher hs-cTnI concentrations. Severe traumatic cardiac lesions (cardiac rupture or fluid accumulation around the heart) were not detected. Electrocardiographic abnormalities were uncommon and not associated with hs-cTnI concentrations. These findings suggest that increased hs-cTnI concentrations in traumatized cats may be influenced by multiple factors, including myocardial injury, the severity of systemic illness, altered renal handling of the biomarker, and possible pre-existing heart disease. Because baseline cardiac status before trauma was unknown, the relative contribution of these factors could not be determined. Further studies are needed to clarify the causes and clinical significance of increased hs-cTnI concentrations in cats after trauma.",
       "affiliations": [
         "Department of Veterinary Medicine and Animal Sciences, University of Milan, Lodi, Italy."
       ],
@@ -11890,7 +11976,21 @@
         "trauma",
         "troponin"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Female",
+        "Male",
+        "Wounds, Nonpenetrating",
+        "Troponin I",
+        "Prognosis",
+        "Cat Diseases",
+        "Prevalence",
+        "Heart Injuries",
+        "Echocardiography",
+        "Biomarkers",
+        "Prospective Studies"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -22345,7 +22445,19 @@
         "Leukopenia",
         "Necrotising cholecystitis"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Mucocele",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Female",
+        "Cholecystectomy",
+        "Gallbladder Diseases",
+        "Male",
+        "Treatment Outcome",
+        "Prognosis"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -26692,7 +26804,21 @@
         "Ethos Veterinary Health, San Diego, California, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Stifle",
+        "Female",
+        "Treatment Outcome",
+        "Injections, Intra-Articular",
+        "Osteoarthritis",
+        "Anterior Cruciate Ligament Injuries",
+        "Male",
+        "Biocompatible Materials",
+        "Pain",
+        "Pain Measurement"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -56577,6 +56703,23 @@
         "Medical Oncology"
       ],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42960600",
+      "title": "Does injectable methyl prednisolone acetate therapy increase the risk of diabetes mellitus in cats?",
+      "authors": "Lee B, Morrow L",
+      "journal": "Vet Rec",
+      "date": "2026 Jan 01",
+      "sortdate": "2026-01-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960600/",
+      "abstract": "",
+      "affiliations": [
+        "School of Veterinary Medicine and Science, University of Nottingham, Sutton, Bonington, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
