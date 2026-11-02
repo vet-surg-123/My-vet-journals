@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 01:43 UTC",
+  "updated": "2026-11-02 06:35 UTC",
   "total": 12210,
   "categories": {
     "neurooncology": "신경종양",
@@ -416,20 +416,20 @@
       "date": "2026 Oct 28",
       "sortdate": "2026-10-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951008/",
-      "abstract": "ACTH-dependent hyperadrenocorticism (ADHAC) can be subclassified based on the pituitary height-to-brain area ratio (P/B), a P/B &#x2265; 0.31 defining an enlarged pituitary gland. We aimed to identify dogs with ADHAC and an enlarged pituitary gland using plasma ACTH and serum T4, TSH and IGF-1 concentrations. Twenty-three dogs with ADHAC were retrospectively included (12 with P/B &lt; 0.31, 11 with P/B &#x2265; 0.31). ACTH concentration was significantly higher and T4/TSH ratio significantly lower in dogs with P/B &#x2265; 0.31 (both P &lt; 0.01), whereas IGF-1 was not discriminant. An ACTH cut-off of 44.3pg/mL showed a sensitivity of 72.7% and a specificity of 100%, and a T4/TSH cut-off of 107.2 a sensitivity of 100% and a specificity of 75% (AUC 0.87 for both). A prediction score combining these cut-offs was calculated for each dog; a score of 0 was associated with a negative predictive value of 100% (95% CI 66-100%) for pituitary enlargement. In a validation cohort of 9 dogs with pituitary enlargement, 8 had a score &#x2265; 1 and 1 a score of 0. Plasma ACTH concentration and T4/TSH ratio may help identify dogs with ADHAC at low risk of pituitary enlargement, although validation in larger cohorts is required.",
+      "abstract": "ACTH-dependent hyperadrenocorticism (ADHAC) can be subclassified based on the pituitary height-to-brain area ratio (P/B), a P/B &#x2265;&#x202f;0.31 defining an enlarged pituitary gland. We aimed to identify dogs with ADHAC and an enlarged pituitary gland using plasma ACTH and serum T4, TSH and IGF-1 concentrations. Twenty-three dogs with ADHAC were retrospectively included (12 with P/B &lt; 0.31, 11 with P/B &#x2265; 0.31). ACTH concentration was significantly higher and T4/TSH ratio significantly lower in dogs with P/B &#x2265;&#x202f;0.31 (both P&#x202f;&lt;&#x202f;0.01), whereas IGF-1 was not discriminant. An ACTH cut-off of 44.3&#x202f;pg/mL showed a sensitivity of 72.7% and a specificity of 100%, and a T4/TSH cut-off of 107.2 a sensitivity of 100% and a specificity of 75% (AUC 0.87 for both). A prediction score combining these cut-offs was calculated for each dog; a score of 0 was associated with a negative predictive value of 100% (95% CI 66-100%) for pituitary enlargement. In a validation cohort of 9 dogs with pituitary enlargement, 8 had a score &#x2265;&#x202f;1 and 1 a score of 0. Plasma ACTH concentration and T4/TSH ratio may help identify dogs with ADHAC at low risk of pituitary enlargement, although validation in larger cohorts is required.",
       "affiliations": [
-        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, CHUVA, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, F-94704, Maisons-Alfort, France; CHV Anicura Advetia, 9 Av. Louis Breguet, 78140 V&#xe9;lizy-Villacoublay, France.",
-        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, INSERM, IMRB, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, F-94704, Maisons-Alfort, France.",
-        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, CHUVA, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, F-94704, Maisons-Alfort, France.",
-        "Micen Vet Centre, 58 Rue Auguste Perret, 94000 Cr&#xe9;teil, France.",
-        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, CHUVA, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, F-94704, Maisons-Alfort, France; Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, INSERM, IMRB, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, F-94704, Maisons-Alfort, France. Electronic address: ghita.benchekroun@vet-alfort.fr."
+        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, CHUVA, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, Maisons-Alfort 94704, France; CHV Anicura Advetia, 9 Av. Louis Breguet, V&#xe9;lizy-Villacoublay 78140, France.",
+        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, INSERM, IMRB, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, Maisons-Alfort 94704, France.",
+        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, CHUVA, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, Maisons-Alfort 94704, France.",
+        "Micen Vet Centre, 58 Rue Auguste Perret, Cr&#xe9;teil 94000, France.",
+        "Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, CHUVA, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, Maisons-Alfort 94704, France; Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, INSERM, IMRB, 7 Avenue du G&#xe9;n&#xe9;ral de Gaulle, Maisons-Alfort 94704, France. Electronic address: ghita.benchekroun@vet-alfort.fr."
       ],
       "keywords": [
         "ACTH",
         "Cushing",
+        "Pituitary enlargement",
         "T4",
-        "TSH",
-        "pituitary enlargement"
+        "TSH"
       ],
       "mesh": [],
       "category": "neurosurgery",
