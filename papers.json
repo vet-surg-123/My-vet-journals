@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03 03:37 UTC",
-  "total": 12215,
+  "updated": "2026-11-03 07:07 UTC",
+  "total": 12218,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -55,6 +55,23 @@
         "Cytokines"
       ],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42971172",
+      "title": "Therapeutic approaches to the companion animal pneumothorax: A review for veterinary practice.",
+      "authors": "Nishigaki AM, DeRoche MW, Strickland R, Rossanese M, Previdelli RL",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42971172/",
+      "abstract": "This narrative literature review critically evaluates current evidence on the management of pneumothorax in dogs and cats, reviewing surgical and nonsurgical treatment strategies according to underlying etiology to support evidence-based clinical decision-making. Published studies involving dogs and cats with pneumothorax were reviewed, with emphasis on the pathophysiology, diagnosis, and management of the condition and outcomes associated with surgical and nonsurgical treatments across different etiologies. Current evidence indicates that both medical and surgical management can achieve favorable outcomes, with low reported recurrence rates when appropriately selected. Nonsurgical approaches may provide effective, minimally invasive treatment in selected cases, whereas surgical intervention enables direct thoracic exploration, identification and correction of underlying pulmonary lesions, and definitive treatment of refractory or severe pneumothorax. Treatment selection should be guided by disease etiology, severity, patient stability, available resources, and clinician expertise. Both surgical and nonsurgical treatments can be effective when tailored to the underlying cause and clinical presentation, highlighting the importance of individualized treatment planning to optimize outcomes. This review synthesizes current evidence to guide clinical decision-making in the management of pneumothorax in dogs and cats and highlights the need for high-quality studies evaluating long-term outcomes to strengthen the evidence base.",
+      "affiliations": [
+        "Royal Veterinary College, University of London, London, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -2116,6 +2133,63 @@
       ],
       "mesh": [],
       "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42970993",
+      "title": "Multicenter, retrospective study of balloon valvuloplasty-associated pulmonary artery dissection in dogs with pulmonary valve stenosis.",
+      "authors": "Wesselowski S, Saunders AB, Scansen BA, Potter BM, Abbott-Johnson K, Morgan K, Stauthammer C, Pierce KV, Winter RL, Scollan KF",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 12",
+      "sortdate": "2026-10-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970993/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Pulmonary artery dissection (PAD) is a rare complication in dogs with pulmonary valve stenosis (PS) that undergo balloon valvuloplasty (BVP). This study aimed to describe demographic, interventional, and survival data in a cohort of dogs with PS that experienced PAD during BVP. ANIMALS, MATERIALS AND METHODS: Fifty-three dogs were included in this retrospective, multicenter study, with medical records and available stored images reviewed. RESULTS: Dogs that developed PAD during BVP had a median body weight of 12.5 kg (range: 1.1-50.7 kg), median age of 0.8 years (range: 0.2-8.1 years), and 30/53 (56.6%) were male. Pit Bull terriers, Pit Bull terrier mixes, and 'Bully breeds' represented 23 of 53 dogs in the study (43.4%). The median angiographic balloon diameter to pulmonary valve annulus ratio of the largest balloon utilized during BVP was 1.4 (range: 1.0-1.58). High-pressure balloons (&gt;6 atm) were utilized in 27 dogs (50.9%). Post-BVP transthoracic echocardiographic imaging clearly demonstrated the PAD in 62.2% of dogs, while 90.3% and 84.0% of available post-BVP angiography and transesophageal echocardiographic studies did, respectively. Forty-eight dogs (90.6%) survived to discharge. Median time from BVP to last follow-up or death (if applicable) was 2.0 years (range: 0.2-10.5 years), with all 27 dogs for whom &#x2265;1 year of follow-up data were available confirmed alive at that time. STUDY LIMITATIONS: Retrospective study design. CONCLUSIONS: Dogs experiencing PAD during BVP have a high likelihood of survival in the immediate and long-term periods. Immediate post-BVP imaging with angiography or transesophageal echocardiography appears more sensitive than transthoracic echocardiography for diagnosis of PAD.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Texas A&amp;M University, College Station, TX, USA. Electronic address: swesselowski@cvm.tamu.edu.",
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Texas A&amp;M University, College Station, TX, USA.",
+        "Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, 300 West Drake Road, Fort Collins, CO, USA.",
+        "University of Minnesota, Veterinary Medical Center, 1365 Gortner Ave, St Paul, MN, USA.",
+        "North Carolina State University, Veterinary Teaching Hospital, 1052 William Moore Drive, Raleigh, NC, USA.",
+        "Auburn University, Veterinary Teaching Hospital, 1220 Wire Rd, Auburn, AL, USA.",
+        "Oregon State University, Lois Bates Acheson Veterinary Teaching Hospital, Magruder Hall, 700 SW 30th St., Corvallis, OR, USA.",
+        "Clinica Veterinaria Gran Sasso, Via Donatello 26, 20131, Milano, Italy.",
+        "Michigan State University, Veterinary Teaching Hospital, 736 Wilson Road, East Lansing, MI, USA.",
+        "Goldfeder Cardiologia Veterin&#xe1;ria, Honduras Street, 765 - Jardim Paulista, Sao Paulo, Brazil.",
+        "Department of Veterinary Clinical Medicine, University of Illinois at Urbana-Champaign, 1008 Hazelwood Drive, Urbana, IL, USA.",
+        "University of Wisconsin School of Veterinary Medicine, 515 Easterday Lane, Madison, WI, USA."
+      ],
+      "keywords": [
+        "Damage",
+        "Interventional",
+        "Intimal tear",
+        "Pulmonic"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42970992",
+      "title": "Sotalol and flecainide dual therapy in a dog with paroxysmal atrial fibrillation.",
+      "authors": "Mishra SU, Seo J",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 12",
+      "sortdate": "2026-10-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970992/",
+      "abstract": "A four-year-old Doberman pinscher was diagnosed with atrial fibrillation (AF) and equivocal dilated cardiomyopathy phenotype. Electrical cardioversion (ECV) was performed following two weeks of amiodarone treatment; however, the dog developed recurrent AF within one week post ECV. Following two additional months of amiodarone therapy, the dog represented with sinus rhythm and new hepatopathy. In-hospital electrocardiographic monitoring identified paroxysmal AF during sleep. Amiodarone therapy was transitioned to sotalol therapy, which prevented further paroxysmal AF episodes. However, episodes of atypical AFL were frequently observed during sleep at follow-ups over five months. Flecainide was added to the sotalol therapy, and no further occurrence of AF or AFL was observed at follow-ups over 10 months. This report highlights that dogs may present with paroxysmal AF post ECV. When the paroxysmal AF is likely vagally mediated, sotalol and flecainide dual therapy may be effective in preventing further occurrence of AF and AFL.",
+      "affiliations": [
+        "Animal Referral Centre (ARC Central), 8 Hereford Street, Freemans Bay, Auckland, 1011, New Zealand.",
+        "School of Veterinary Medicine, Murdoch University, Perth, Australia. Electronic address: joon.seo@murdoch.edu.au."
+      ],
+      "keywords": [
+        "Atrial flutter",
+        "Electrical cardioversion",
+        "Sleep",
+        "Vagal",
+        "Vagus"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
