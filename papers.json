@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02 06:35 UTC",
-  "total": 12210,
+  "updated": "2026-11-03 03:37 UTC",
+  "total": 12215,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,47 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42969556",
+      "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
+      "authors": "Lenz JA, Upton L, Ma J, Talone MM, Peng B, Jiang L, Ghanian A, Didehvar D, Yang E, Fraietta JA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969556/",
+      "abstract": "BACKGROUND: Chimeric antigen receptor (CAR) T-cell therapy has improved outcomes for many human patients with B-cell lymphoma and provides a rational template for analogous canine patients. To date, the expansion, persistence, and activity of CAR T cells in dogs have been limited. Lymphodepletion supports CAR T-cell engraftment and antitumor activity. In human medical oncology, bendamustine has emerged as a well-tolerated lymphodepleting agent. However, prospective use of bendamustine for dogs with lymphoma has not been characterized. HYPOTHESIS/OBJECTIVES: To determine the lymphodepleting activity and tolerability of bendamustine in dogs with relapsed lymphoma. Secondary objectives included monitoring serum cytokines and short-term changes in peripheral tumor burden. ANIMALS: Eleven client-owned dogs with relapsed lymphoma. METHODS: Luminescent assays were used to assess the direct cytotoxic activity of bendamustine against canine lymphoid cell lines. A prospective rapid dose-escalation pilot trial was undertaken in 11 dogs with relapsed lymphoma to evaluate tolerability while tracking peripheral lymphocyte counts, serum cytokine concentrations, and lymph node measurements. RESULTS: Bendamustine induced concentration-dependent cytotoxicity in all cell lines tested. Two-dose bendamustine regimens up to 90&#xa0;mg/m2 were generally well tolerated, with no dose-limiting toxicities observed, and resulted in peripheral lymphodepletion (pretreatment median, 880 cells/&#x3bc;L; posttreatment median, 310 cells/&#x3bc;L), an exploratory decrease in circulating interleukin-6 (pretreatment median, 5.32&#xa0;pg/mL; posttreatment median, 1.33&#xa0;pg/mL), and a short-term decrease in peripheral nodal burden in 8 of 11 dogs. CONCLUSIONS AND CLINICAL IMPORTANCE: Bendamustine was generally well tolerated and induced lymphodepletion in our cohort. These findings support further evaluation of bendamustine as a preconditioning agent before autologous canine CAR T-cell infusion.",
+      "affiliations": [
+        "Department of Clinical Sciences and Advanced Medicine, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Department of Biomedical Sciences, School of Veterinary Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Department of Microbiology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Center for Cellular Immunotherapies, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States.",
+        "Department of Pathology and Laboratory Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA, United States."
+      ],
+      "keywords": [
+        "bendamustine",
+        "canine lymphoma",
+        "lymphodepletion",
+        "preconditioning"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Bendamustine Hydrochloride",
+        "Dog Diseases",
+        "Lymphoma",
+        "Female",
+        "Antineoplastic Agents, Alkylating",
+        "Male",
+        "Lymphocyte Depletion",
+        "Neoplasm Recurrence, Local",
+        "Cell Line, Tumor",
+        "Prospective Studies",
+        "Pilot Projects",
+        "Cytokines"
+      ],
+      "category": "oncology",
+      "summary_ko": ""
+    },
     {
       "id": "42929748",
       "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
@@ -326,6 +367,54 @@
       "summary_ko": ""
     },
     {
+      "id": "42968222",
+      "title": "EXPRESS: Hyperammonemia in cats with acute (on chronic) kidney disease: associations with urea cycle amino acids, azotemia and acid-base status.",
+      "authors": "McFadden K, Labato MA, Linder DE, Webster CR",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968222/",
+      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analyzed for ammonia, pH, anion gap, electrolytes, lactate, blood urea nitrogen (BUN), creatinine and phosphorus. Plasma was frozen at -80oC and shipped for amino acid analysis.ResultsFive of 20 cats had an AKI and 15/20 had AoCKD. Median age and weight were 12 years (range 3-14) and 4.5 kg (range 3-5.6), respectively. Seven cats were hyperammonemic (median 252 &#xb5;mol/l, range 113-886) and 13 were not (median 23 &#xb5;mol/l, range 11-49). Creatinine, BUN and phosphorus were significantly higher in hyperammonemic cats. BUN and phosphorus correlated with ammonia. Fifteen of 20 cats (75%) were acidotic but there was no difference in lactate or blood and urine pH between the cats with and without hyperammonemia. The anion gap was higher (29.6, range 27-40 vs 25.1, range 11-34) and serum bicarbonate lower (9 mEq/L, range 4.8-13.5 vs 11.9, range 8-24.2) in hyperammonemic cats. Median plasma citrulline (47 nMol/mL, range 31-128 vs 22, range 12-37) and ornithine (20 nMol/mL, range 12-33 vs 10, range 7-35) but not arginine concentrations were significantly higher in hyperammonemic cats (p&lt;0.05). Plasma citrulline concentrations were positively correlated with serum creatinine (r = 0.621, p = 0.003).Conclusions and relevanceHyperammonemic cats with AKI/AoCKD do not have deficiencies in urea cycle amino acid concentrations but do have more severe azotemia with accompanying high anion gap metabolic acidosis. Increases in citrulline may reflect decreased kidney function.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, Cummings School of Veterinary Medicine at Tufts University, North Grafton, USA."
+      ],
+      "keywords": [
+        "Kidney",
+        "Renal",
+        "acid-base",
+        "ammonia",
+        "arginine",
+        "citrulline",
+        "ornithine"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42968221",
+      "title": "EXPRESS: Elbow luxation treatment in cats using external fixation.",
+      "authors": "Yener K, Hurma MS, Karadağ MS, Dikmen Ilginoğlu K, Hünerli H, Bayir ÖY, Yavuz Ü, Hayat A",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968221/",
+      "abstract": "ObjectivesTo describe outcomes and complications of open reduction, collateral ligament repair and temporary epoxy resin Type Ia transarticular external skeletal fixation (TaESF) in cats with traumatic lateral elbow luxation after failed closed treatment.MethodsTen cats were referred 3-4 days after injury. Closed reduction failed in four cats and reluxation occurred in six after reduction and Robert Jones bandaging. All underwent open reduction, apposition of identifiable collateral ligament ends and four-pin epoxy resin Type Ia TaESF. Clinical and orthogonal radiographic examinations were performed weekly until frame removal at 3 weeks and at 6 weeks. Lameness was graded 0-3, and Campbell's test was performed after frame removal and at 6 weeks. At 6 months, three cats underwent orthopaedic examination and seven were assessed by structured owner telephone interview. Complications were classified according to Cook et al.ResultsReduction was maintained in all cats through 6 weeks. Grade 0/1 lameness was recorded in seven/three cats at 3 weeks and eight/two cats at 6 weeks (Cases 3 and 9). Functional outcome was full in eight cats (80%) and acceptable in two (20%). A contralateral proximal ulnar fracture contributed to residual lameness in Case 3. Case 1 required unplanned intervention for proximal humeral pin migration and seroma. The pin was repositioned under sedation without replacement or additional epoxy resin. Radiolucency and periosteal reaction surrounded the distal ulnar pin. The seroma resolved without recurrence, and the frame was removed as scheduled. No comparable pin-site radiographic abnormalities were identified in the other cats. At 6 months, all cats had normal owner-reported walking, running and jumping without observable lameness.Conclusions and relevanceIn this small retrospective series, open reduction and collateral ligament repair protected by epoxy resin Type Ia TaESF maintained reduction and yielded satisfactory short-term outcomes after failed closed treatment. One cat required unplanned intervention for a pin-related complication. Comparative studies with objective long-term clinical and radiographic follow-up are warranted.",
+      "affiliations": [
+        "Harran University, Faculty of Veterinary Medicine, Department of Surgery, &#x15e;anl&#x131;urfa, Turkey."
+      ],
+      "keywords": [
+        "Cat",
+        "elbow luxation",
+        "epoxy-resin",
+        "external fixation",
+        "transarticular"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
       "id": "42960540",
       "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
       "authors": "Neittaanmäki H, Rajamäki M, Airas N, Tilamaa A, Viitanen S",
@@ -382,6 +471,33 @@
       "keywords": [],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42968332",
+      "title": "A case of ovarian remnant syndrome in a cat with measured anti-Müllerian hormone levels.",
+      "authors": "Kageyama S, Ikusawa A, Mizutani S, Goto A, Tsuji K, Ohnishi A, Asanuma T",
+      "journal": "J Vet Med Sci",
+      "date": "2026 Oct 30",
+      "sortdate": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968332/",
+      "abstract": "Ovarian remnant syndrome (ORS) is a condition in which functional ovaries remain in the abdominal cavity after spaying, resulting in postoperative signs of estrus. A 10-month-old Ragdoll cat exhibited signs of estrus 2 months after spraying. Subsequent imaging revealed structures suggestive of the right ovary in the abdominal cavity, which were surgically removed. The cat's preoperative anti-M&#xfc;llerian hormone (AMH) level was high, but the postoperative level was low. AMH levels before and after feline ORS treatment have not yet been studied. In this case, high preoperative AMH levels indicated the presence of residual ovaries, while AMH levels below the detection limit 10 days after surgery indicated the absence of functional ovarian tissue. These results highlight that AMH measurements are valuable for diagnosing and evaluating treatment outcomes in patients with feline ORS.",
+      "affiliations": [
+        "Graduate School of Veterinary Science, Okayama University of Science.",
+        "Department of Veterinary Medicine, Faculty of Veterinary Medicine, Okayama University of Science.",
+        "Department of Small Animal Surgery, Field of Clinical Veterinary Medicine, Faculty of Veterinary Medicine, Okayama University of Science.",
+        "Department of Clinical Theriogenology, Field of Clinical Veterinary Medicine, Faculty of Veterinary Medicine, Okayama University of Science.",
+        "Okayama University of Science Veterinary Medical Teaching Hospital."
+      ],
+      "keywords": [
+        "anti-M&#xfc;llerian hormone",
+        "cat",
+        "female",
+        "ovarian remnant syndrome",
+        "spay"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -14463,6 +14579,48 @@
         "Hereditary Central Nervous System Demyelinating Diseases"
       ],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42968180",
+      "title": "Intraoperative indocyanine green fluorescence in canine meningioma: macroscopic visualization, immediate MRI correlation, and clinical outcomes : a case series.",
+      "authors": "Kim Y, Choi M, Kim Y, Kim HY",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 03",
+      "sortdate": "2026-08-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968180/",
+      "abstract": "BACKGROUND: Meningioma is the most common primary intracranial neoplasm in dogs, frequently presenting with seizures and focal neurological deficits. While indocyanine green (ICG) near-infrared (NIR) fluorescence is increasingly used in human neurosurgery, systematic data regarding the macroscopic fluorescence emitted by accumulated ICG in canine meningiomas remain scarce. This case series aimed to evaluate the fluorescent signals emitted from the tumors, correlate intraoperative findings using immediate post-operative contrast-enhanced magnetic resonance imaging (MRI), and report the clinical outcomes and post-operative management following fluorescence-guided surgery (FGS). CASE PRESENTATION: Six client-owned dogs (median age: 13 years) with histologically confirmed meningiomas were evaluated. ICG was administered intravenously (2.5-5.0&#xa0;mg/kg, median dose: 4.5&#xa0;mg/kg) 6 to 24&#xa0;h prior to surgery. FGS was performed using an ultrasonic aspirator and a dedicated fluorescence imaging system. Distinct margin fluorescence was observed in all 6 cases (100%), allowing for real-time differentiation between tumor tissue and grossly normal brain parenchyma during resection. Immediate post-operative T1-weighted contrast-enhanced MRI demonstrated 100% concordance with intraoperative wound bed fluorescence assessments when thin reactive rims (&#x2264;&#x2009;1-2&#xa0;mm) were appropriately excluded. No adverse reactions were associated with ICG. The median follow-up was 14 months (range: 6.6 to 31.0 months), with favorable neurological control. CONCLUSIONS: Utilizing a second-window approach with dynamic working distance control, ICG effectively demarcated macroscopic canine meningiomas in this small cohort. Immediate post-operative MRI correlated well with surgeon's intraoperative assessments. Ultimately, FGS may serve as a viable surgical option to help minimize damage to grossly normal brain tissue and potentially improve surgical outcomes in canine meningioma.",
+      "affiliations": [
+        "Department of Veterinary Surgery, Bon Animal Medical Center, Suwon, 16305, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Konkuk University, Seoul, 05029, Republic of Korea.",
+        "Department of Veterinary Radiology, Bon Animal Medical Center, Suwon, 16305, Republic of Korea.",
+        "Department of Veterinary Surgery, Bon Animal Medical Center, Suwon, 16305, Republic of Korea. ykim.surgery@gmail.com.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Konkuk University, Seoul, 05029, Republic of Korea. hykim@konkuk.ac.kr."
+      ],
+      "keywords": [
+        "Canine",
+        "Fluorescence-guided surgery",
+        "ICG",
+        "Indocyanine green",
+        "Meningioma",
+        "Near-infrared fluorescence"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Indocyanine Green",
+        "Meningioma",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Magnetic Resonance Imaging",
+        "Meningeal Neoplasms",
+        "Fluorescence",
+        "Treatment Outcome",
+        "Surgery, Computer-Assisted",
+        "Fluorescent Dyes"
+      ],
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
