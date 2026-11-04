@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 02:36 UTC",
-  "total": 12221,
+  "updated": "2026-11-04 06:49 UTC",
+  "total": 12222,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -3267,7 +3267,20 @@
         "minimum alveolar concentration (MAC)",
         "sevoflurane"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dexmedetomidine",
+        "Sevoflurane",
+        "Cats",
+        "Female",
+        "Anesthetics, Inhalation",
+        "Male",
+        "Pulmonary Alveoli",
+        "Cross-Over Studies",
+        "Hypnotics and Sedatives",
+        "Anesthesia, Inhalation",
+        "Dose-Response Relationship, Drug"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -3891,7 +3904,18 @@
         "respiratory diagnostic techniques",
         "ultrasonography"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Ultrasonography",
+        "Prospective Studies",
+        "Female",
+        "Lung",
+        "Male",
+        "Pulmonary Atelectasis",
+        "Anesthesia",
+        "Dog Diseases"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -3957,7 +3981,21 @@
         "informed consent",
         "veterinary anaesthesia"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Humans",
+        "Cross-Sectional Studies",
+        "Cats",
+        "Female",
+        "Dogs",
+        "Anxiety",
+        "Surveys and Questionnaires",
+        "Male",
+        "Anesthesia, General",
+        "Health Knowledge, Attitudes, Practice",
+        "Adult",
+        "Ownership"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -4295,7 +4333,22 @@
         "ovariohysterectomy",
         "regional anesthesia"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Bupivacaine",
+        "Hysterectomy",
+        "Dogs",
+        "Ovariectomy",
+        "Female",
+        "Postoperative Pain",
+        "Analgesics, Opioid",
+        "Anesthetics, Local",
+        "Nerve Block",
+        "Injections, Intraperitoneal",
+        "Cross-Sectional Studies",
+        "Single-Blind Method",
+        "Prospective Studies"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -5139,7 +5192,17 @@
         "postintubation tracheal stenosis (PITS)",
         "tracheostomy tube"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Dogs",
+        "Intubation, Intratracheal",
+        "Neuromuscular Blockade",
+        "Dog Diseases",
+        "Foreign Bodies",
+        "Larynx",
+        "Tracheal Stenosis"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -5777,6 +5840,28 @@
       "keywords": [],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42977613",
+      "title": "Mitral annular disjunction associated with myxomatous mitral valve disease, infundibular pulmonic stenosis and ventricular septal defect in a dog: a case report.",
+      "authors": "Tavares LCJ, Santos BA, Goldfeder GT",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Sep 17",
+      "sortdate": "2026-09-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977613/",
+      "abstract": "Mitral annular disjunction is an abnormality of the mitral valve characterized by a displacement of the mitral annulus in which the annulus is functionally decoupled from the left ventricle and moves toward the atrium during systole. In human medicine, it is commonly associated with an increased risk of mitral valve prolapse, cardiac arrhythmias, and sudden cardiac death but rarely described in veterinary medicine. This article describes a case report of a six-year-old male Shih tzu dog with signs of frequent syncope episodes diagnosed by echocardiography with mitral annular disjunction associated with myxomatous mitral valve disease, infundibular pulmonic stenosis, and perimembranous ventricular septal defect with bidirectional shunting. Due to the patient's congenital heart defects, clinical signs, and laboratory results, the hemodynamic profile was determined to be functionally analogous to the Tetralogy of Fallot. Conservative drug therapy with &#x3b2;-blocker propranolol was chosen rather than a surgical approach. Short-term follow-up showed initial improvement of clinical signs, followed by progressive worsening. The total survival time was 19 months from the initial diagnosis and the conservative palliative therapy. To the authors' knowledge, this is the first report of mitral annular disjunction associated with congenital abnormalities in dogs.",
+      "affiliations": [
+        "UFAPE Veterinary Hospital, Rua Honduras, 765 - Jardim Paulista, 01428-000, S&#xe3;o Paulo, Brazil. Electronic address: laracjtavares@gmail.com.",
+        "UFAPE Veterinary Hospital, Rua Honduras, 765 - Jardim Paulista, 01428-000, S&#xe3;o Paulo, Brazil."
+      ],
+      "keywords": [
+        "Annulus displacement",
+        "Congenital heart defects",
+        "Tetralogy of fallot"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -7696,7 +7781,19 @@
         "isoflurane",
         "norepinephrine"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Male",
+        "Isoflurane",
+        "Norepinephrine",
+        "Infusions, Intravenous",
+        "Heart Rate",
+        "Anesthetics, Inhalation",
+        "Blood Pressure",
+        "Dose-Response Relationship, Drug",
+        "Anesthesia, Inhalation"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -7856,7 +7953,17 @@
         "pharmacokinetics",
         "poloxamer 407"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Bupivacaine",
+        "Dogs",
+        "Analgesia, Epidural",
+        "Male",
+        "Anesthetics, Local",
+        "Hydrogels",
+        "Cross-Over Studies",
+        "Injections, Epidural"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -10609,7 +10716,19 @@
         "thoracic surgery",
         "vertebral column"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cadaver",
+        "Tomography, X-Ray Computed",
+        "Ultrasonography, Interventional",
+        "Thoracic Vertebrae",
+        "Dissection",
+        "Nerve Block",
+        "Paraspinal Muscles",
+        "Contrast Media",
+        "Iohexol"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -12035,7 +12154,17 @@
         "spinal surgery",
         "tranexamic acid"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Tranexamic Acid",
+        "Blood Loss, Surgical",
+        "Antifibrinolytic Agents",
+        "Female",
+        "Male",
+        "Prospective Studies",
+        "Laminectomy"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -12241,7 +12370,22 @@
         "nausea",
         "pain assessment"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Analgesics, Opioid",
+        "Pain Measurement",
+        "Cross-Over Studies",
+        "Female",
+        "Nausea",
+        "Male",
+        "Pain",
+        "Methadone",
+        "Prospective Studies",
+        "Behavior, Animal",
+        "Xylazine",
+        "Cat Diseases"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -13813,7 +13957,15 @@
         "veterinary informatics",
         "workflow integration"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Anesthesia",
+        "Cloud Computing",
+        "Registries",
+        "Electronic Health Records"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
