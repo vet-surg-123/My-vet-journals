@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03 07:07 UTC",
-  "total": 12218,
+  "updated": "2026-11-04 02:36 UTC",
+  "total": 12221,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,29 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42974710",
+      "title": "Feasibility of Shallow Whole-Genome Sequencing-Based Circulating Tumour DNA Analysis in Canine Multicentric Lymphoma: A Pilot Study.",
+      "authors": "Kim GH, Jang JH, Kim SH, Ryu MO, Kwon CH, Seo KW",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 03",
+      "sortdate": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42974710/",
+      "abstract": "Lymphoma is a common canine malignancy with high morbidity and variable prognosis. Circulating tumour DNA (ctDNA) has emerged as a minimally invasive biomarker for tumour burden, treatment response and prognosis in human lymphoma. However, the feasibility of applying shallow whole-genome sequencing (sWGS)-based ctDNA analysis to canine lymphoma remains unclear. In this pilot study, plasma cell-free DNA (cfDNA) was quantitatively assessed and additional genomic features were evaluated using sWGS in dogs with multicentric lymphoma. cfDNA concentration was significantly higher in dogs with lymphoma (n&#x2009;=&#x2009;13) compared with healthy controls (n&#x2009;=&#x2009;24) (median 3.18 vs. 0.25&#x2009;ng/mL; Mann-Whitney U test, p&#x2009;=&#x2009;0.004). However, total cfDNA concentration was not significantly associated with time to progression (TTP) (p&#x2009;=&#x2009;0.055). Tumour fraction (TF), a surrogate for ctDNA, showed preliminary association with clinical outcome, with a shorter median TTP in the high-TF group than in the low-TF group (77 vs. 302&#x2009;days; p&#x2009;=&#x2009;0.006). Genomic analysis further revealed copy number aberrations (CNAs); notably, gains on chromosome 13 containing the MYC locus were identified in three dogs, all of which belonged to the high-TF group. Dogs with lymphoma also displayed distinct cfDNA fragmentation profiles, characterized by an enrichment of shorter fragments within the analysed size range and a shift in the highest mean-profile peak compared with healthy controls. These findings demonstrate the feasibility of sWGS-based cfDNA analysis in canine lymphoma and suggest that TF may provide clinically relevant information beyond total cfDNA concentration. Validation in a substantially larger, independent cohort is warranted.",
+      "affiliations": [
+        "Laboratory of Veterinary Internal Medicine, Department of Veterinary Clinical Science, College of Veterinary Medicine, Seoul National University, Seoul, Republic of Korea.",
+        "GenesisEgo, Seoul, Republic of Korea."
+      ],
+      "keywords": [
+        "DNA fragmentation",
+        "cell&#x2010;free DNA",
+        "copy number aberration",
+        "liquid biopsy"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
     {
       "id": "42969556",
       "title": "Bendamustine induces peripheral lymphodepletion in dogs with relapsed lymphoma.",
@@ -3323,6 +3346,42 @@
         "molecular diversity"
       ],
       "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42972575",
+      "title": "Clinically relevant hypomagnesemia during recovery from severe leptospirosis-associated acute kidney injury in a dog treated with continuous renal replacement therapy: a case report.",
+      "authors": "Cho J, Kang S, Kim S, Kim M, Park C",
+      "journal": "BMC Vet Res",
+      "date": "2026 Oct 03",
+      "sortdate": "2026-10-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972575/",
+      "abstract": "BACKGROUND: Leptospirosis is an important cause of acute kidney injury (AKI) in dogs and commonly induces renal tubular dysfunction. Although electrolyte abnormalities are frequently recognized during the course of leptospirosis, clinically relevant hypomagnesemia associated with neurological manifestations has rarely been reported in dogs. This report describes a dog that developed severe symptomatic hypomagnesemia during recovery from severe leptospirosis-associated AKI treated with continuous renal replacement therapy (CRRT). CASE PRESENTATION: A 9 year old, 12&#xa0;kg spayed female mixed-breed dog was referred for severe leptospirosis-associated AKI complicated by anuria, hyperbilirubinemia, thrombocytopenia, and pulmonary involvement. Blood and urine polymerase chain reaction assays confirmed Leptospira spp. INFECTION: Because of persistent anuria and progressive azotemia despite intensive medical management, the dog underwent two continuous renal replacement therapy sessions approximately 15 and 18&#xa0;h, respectively. Urine production subsequently recovered, and the dog entered a polyuric recovery phase with progressive improvement in azotemia. On day 13 after admission, generalized tremors, hypersalivation, and altered mentation developed concurrently with severe hypomagnesemia (ionized magnesium, 0.24 mmol/L; total magnesium, 1.4&#xa0;mg/dL). Fractional excretion of magnesium (FEMG) was markedly increased (38.8%), suggesting inappropriate renal magnesium loss despite improving renal function. Intravenous magnesium sulfate administered as a bolus followed by continuous rate infusion resulted in rapid resolution of the neurological signs. At follow-up evaluations performed 11 and 23 days after the hypomagnesemic episode, fractional excretion of magnesium remained increased at 30.2% and 28.4%, respectively, despite improvement in serum creatinine concentration, supporting persistent impairment of renal tubular magnesium handling during recovery. CONCLUSIONS: This case demonstrates that clinically significant hypomagnesemia may develop during the polyuric recovery phase of severe leptospirosis-associated AKI in dogs, even after apparent improvement in renal function. Serial measurements of fractional excretion of magnesium supported continued renal magnesium loss during recovery and emphasized the importance of monitoring magnesium concentrations in dogs with leptospirosis, particularly when neurological abnormalities develop.",
+      "affiliations": [
+        "May Animal Medical Center, Jeonju, Republic of Korea.",
+        "Department of Veterinary Internal Medicine, College of Veterinary Medicine, Jeonbuk National University, 79 Gobong-ro, Iksan, Jeonbuk State, 54596, Republic of Korea.",
+        "Department of Veterinary Internal Medicine, College of Veterinary Medicine, Jeonbuk National University, 79 Gobong-ro, Iksan, Jeonbuk State, 54596, Republic of Korea. chulpark0409@jbnu.ac.kr."
+      ],
+      "keywords": [
+        "Acute kidney injury",
+        "Continuous renal replacement therapy",
+        "Dog",
+        "Fractional excretion of magnesium",
+        "Hypomagnesemia",
+        "Leptospirosis",
+        "Renal tubular dysfunction"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Leptospirosis",
+        "Female",
+        "Dog Diseases",
+        "Acute Kidney Injury",
+        "Magnesium",
+        "Continuous Renal Replacement Therapy"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -14461,6 +14520,45 @@
       "summary_ko": ""
     },
     {
+      "id": "42972342",
+      "title": "Monitoring of oxidative stress and acute phase proteins following testes exposure with ultrasound waves in cats.",
+      "authors": "Hashempur Z, Mogheiseh A, Nazifi S, Divar M, Ahmadi N, Derakhshandeh N, Ahmadi E, Bastani M, Shaikhzadeh A, Hassani A",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 04",
+      "sortdate": "2026-08-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972342/",
+      "abstract": "BACKGROUNDS: Ultrasonic therapy has harmfully effects on the structure and function of the testis. Various mechanisms are involved in the impact of ultrasound waves on testes tissue. This study aimed to investigate the effects of ultrasound exposure on cat`s testes by monitoring acute phase proteins, oxidative stress indices, histopathology, and epididymal sperm evaluation over a period of 60 days. Ten adult domestic short hair (DSH) male cats were divided into two equal groups: one exposed to ultrasound and one control groups. The testes were exposed to ultrasonic therapy using 1&#xa0;MHz, 1.5&#xa0;W/cm2, three times with a 48-hour interval. Blood samples were taken before treatment and at days 1, 3, and 6 after treatment. Histopathology of the testes and epididymal sperm evaluation were performed at day 60. RESULTS: The results showed that acute phase proteins, serum amyloid (SAA), C-reactive protein (CRP), and alpha-1 glycoprotein (AGP), significantly increased in the first three days after treatment and decreased significantly by day 6 in the treatment group. The increase in acute phase proteins was significantly higher in the treatment group compared to the control group. Malondialdehyde (MDA) and total antioxidant capacity (TAC) did not show significant change in the first week after treatment in the ultrasound exposure group compared to the control group. Testosterone concentration was significantly decreased in the ultrasound exposure group compared to the control group. The epididymal sperm and histopathology evaluation indicated no harmful effect of ultrasound in the treatment group compared to the control group. CONCLUSIONS: Ultrasound exposure of cat`s testes induced an acute phase inflammatory response and decreased testosterone concentration in the first week after treatment, but it did not have harmful effect on testis tissue and epididymal sperm quality.",
+      "affiliations": [
+        "Department of Clinical Sciences, School of Veterinary Medicine, Shiraz University, P.O.Box: 7144169155, Shiraz, Fars, Islamic Republic of Iran.",
+        "Department of Clinical Sciences, School of Veterinary Medicine, Shiraz University, P.O.Box: 7144169155, Shiraz, Fars, Islamic Republic of Iran. mogheiseh@yahoo.com.",
+        "Department of Pthobiology, School of Veterinary Medicine, Shiraz University, Shiraz, Fars, Islamic Republic of Iran.",
+        "Shiraz University of Medical Sciences, Shiraz, Fars, Islamic Republic of Iran."
+      ],
+      "keywords": [
+        "Epididym",
+        "Feline",
+        "Fertility",
+        "Sperm",
+        "Testis",
+        "Ultrasonic therapy"
+      ],
+      "mesh": [
+        "Animals",
+        "Male",
+        "Cats",
+        "Testis",
+        "Oxidative Stress",
+        "Acute-Phase Proteins",
+        "Testosterone",
+        "Spermatozoa",
+        "Ultrasonic Waves",
+        "Ultrasonic Therapy",
+        "Malondialdehyde"
+      ],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42544949",
       "title": "Evaluation of the clinical course of immune-mediated polyneuropathy in cats after treatment with human intravenous immunoglobulins.",
       "authors": "Schmitz AK, Sablotni Aguilera AP, Buhmann G, van Renen J, Parzefall B, Matiasek K, Matiasek LA, Fischer A",
@@ -16182,7 +16280,25 @@
         "Institute of Social Sciences Ivo Pilar, Zagreb, Croatia."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Continuous Glucose Monitoring",
+        "Cats",
+        "Humans",
+        "Female",
+        "Diabetes Mellitus",
+        "Retrospective Studies",
+        "Dog Diseases",
+        "Quality of Life",
+        "Male",
+        "Cat Diseases",
+        "Surveys and Questionnaires",
+        "Blood Glucose",
+        "Middle Aged",
+        "Pets",
+        "Adult"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -17423,7 +17539,18 @@
         "Langford Vets, University of Bristol, Langford, Bristol, BS40 5DU, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Anesthesia, General",
+        "Blood Pressure Determination",
+        "Female",
+        "Oscillometry",
+        "Male",
+        "Prospective Studies",
+        "Tongue",
+        "Blood Pressure"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -17501,7 +17628,22 @@
         "Department of Veterinary Medicine, University of Cambridge, Cambridge, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Anxiety",
+        "Humans",
+        "Anesthesia, General",
+        "Female",
+        "Male",
+        "Surveys and Questionnaires",
+        "Ownership",
+        "United Kingdom",
+        "Pets",
+        "Health Knowledge, Attitudes, Practice",
+        "Adult"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -18757,7 +18899,22 @@
         "Laboratory of Molecular Medicine, Faculty of Veterinary Medicine, Hokkaido University, Sapporo, Japan."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Hydronephrosis",
+        "Cat Diseases",
+        "Female",
+        "Retrospective Studies",
+        "Tomography, X-Ray Computed",
+        "Male",
+        "Creatinine",
+        "Kidney",
+        "Postoperative Period",
+        "Renal Insufficiency, Chronic",
+        "Predictive Value of Tests",
+        "Organ Size"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -22531,7 +22688,17 @@
         "Department of Diagnostic Imaging, Centre Hospitalier V&#xe9;t&#xe9;rinaire Saint-Martin, Allonzier-la-Caille, France."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Dogs",
+        "Dog Diseases",
+        "Colon",
+        "Abnormalities, Multiple",
+        "Ectromelia",
+        "Treatment Outcome",
+        "Patellar Dislocation"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -27873,7 +28040,18 @@
         "Clinical Services and Sciences, The Royal Veterinary College, London, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Metoclopramide",
+        "Dogs",
+        "Infusions, Intravenous",
+        "Antiemetics",
+        "Dog Diseases",
+        "Vomiting",
+        "Gastroesophageal Reflux",
+        "Dose-Response Relationship, Drug",
+        "Injections, Intravenous"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
