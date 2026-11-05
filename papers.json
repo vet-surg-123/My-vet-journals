@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04 06:49 UTC",
-  "total": 12222,
+  "updated": "2026-11-05 02:43 UTC",
+  "total": 12225,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -37,6 +37,23 @@
       ],
       "mesh": [],
       "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42978314",
+      "title": "Comparing the clinical presentation of humeral condylar fractures, fissures and incomplete ossification across dog breeds.",
+      "authors": "Bates E, Smith H, Meeson R",
+      "journal": "Vet Rec",
+      "date": "2026 Nov 03",
+      "sortdate": "2026-11-03",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978314/",
+      "abstract": "BACKGROUND: This study presents a retrospective review of dogs diagnosed with an intracondylar humeral deficiency (IHD) and presented to a single referral hospital. METHOD: Dogs diagnosed with humeral condylar fractures, humeral intracondylar fissures (HIFs) or incomplete ossification of the humeral condyle (IOHC) were identified, and their clinical records were evaluated for presenting signs, signalment, management and clinical progression. RESULTS: A total of 239 dogs were included; 192 were diagnosed with a fracture and 47 were diagnosed with IOHC/HIF. Springer Spaniels (25%) and French Bulldogs (25%) were over-represented. The median ages were 3.3 years for Springer Spaniels and 4 months for French Bulldogs. Ninety-five percent of French Bulldogs presented with a fracture, compared with 63% of Springer Spaniels. Most fractures were not associated with significant trauma. LIMITATIONS: Because of its design, this study describes a referred population of dogs and may not be representative of the general UK dog population. CONCLUSIONS: Most French Bulldogs present with condylar fractures while skeletally immature, which we hypothesise are caused by a breed-related or pathological delay in humeral condylar fusion relative to expected fusion times. In contrast, Spaniels mostly present as young to middle-aged adults with either a fracture or lameness attributable to IHD, suggesting physiological fusion followed by the acquisition of an IHD. If this is correct, prophylactic transcondylar screw placement in immature French Bulldogs may be unnecessary.",
+      "affiliations": [
+        "Department of Clinical Science and Services, Queen Mother Hospital for Animals, Royal Veterinary College, Hatfield, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -10623,6 +10640,44 @@
       "summary_ko": ""
     },
     {
+      "id": "42979989",
+      "title": "Survival time and prognostic factors in cats with suspected acute pyelonephritis.",
+      "authors": "Fletcher JR, Gal A, Dill-Macky E, Cook EK, Harris LM, Mackie JT, Malikides N",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Sep 01",
+      "sortdate": "2026-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42979989/",
+      "abstract": "BACKGROUND: Although acute pyelonephritis (APN) is considered to have a better prognosis than other causes of acute kidney injury (AKI) in cats, survival time and prognostic factors are poorly defined. HYPOTHESIS/OBJECTIVES: To determine survival time and prognostic factors influencing survival time in cats suspected of APN. ANIMALS: Fifty-four client-owned cats with suspected APN. METHODS: A retrospective cohort study was designed to review medical records between June 2017 and December 2025 for clinical data and survival time. Overall survival time was assessed using Kaplan-Meier analysis. Cox proportional hazard regression univariable screening then multivariable modeling identified factors associated with survival. Clinical features of survivors and non-survivors to 30-days after presentation were compared. RESULTS: Median survival time (MST) was 390&#xa0;days (95% CI, 153-774&#xa0;days). Cats that experienced less than 50% reduction or any increase in percentage change in serum creatinine concentration between hospital admission and discharge or euthanasia (sCr&#x394;%) had significantly higher hazards of death than cats experiencing greater than 50% reduction in sCr&#x394;%, after adjusting for International Renal Interest Society (IRIS) AKI grade and admission temperature (adjusted hazard ratios [HRs], 8.4&#xa0;&#xd7;&#xa0;104-1.1&#xa0;&#xd7;&#xa0;106; 95% CIs, 4.9&#xa0;&#xd7;&#xa0;102-3.1&#xa0;&#xd7;&#xa0;108; P&#xa0;&lt;&#xa0;.001). No other factors, including pre-existing chronic kidney disease, infecting bacterial isolate, or antimicrobial regimen used, were independently associated with overall survival time. CONCLUSIONS AND CLINICAL IMPORTANCE: Cats suspected of APN have favorable long-term prognosis. Less reduction or any increase in sCr&#x394;% was associated with shorter survival time, with the prognostic effect strongly influenced by IRIS AKI grade and temperature at admission. Acute pyelonephritis (APN), a bacterial infection of the kidneys, is an important cause of acute kidney injury (AKI) in cats. Although APN is generally considered to have a better prognosis than other causes of AKI, the prognosis and factors associated with survival time in cats are poorly defined. This study followed 54 cats with suspected APN to evaluate survival time and factors associated with survival time. MST was 390&#xa0;days, although individual survival times varied. Cats whose kidney function improved less or worsened during hospitalization had shorter survival times than cats with a greater improvement in kidney function. The severity of AKI and body temperature at admission influenced this association. In contrast, pre-existing chronic kidney disease, type of bacteria implicated in the infection, and the antimicrobial treatment used were not independently associated with survival time. Therefore, less improvement in kidney function, higher AKI grade, and decreased body temperature during hospitalization together indicate a less favorable prognosis in cats suspected of APN and may offer pet owners a stronger decision-making foundation.",
+      "affiliations": [
+        "Department of Medicine, Animal Referral Hospital, Brisbane, QLD 4073, Australia.",
+        "Department of Veterinary Clinical Medicine, University of Illinois Urbana-Champaign, Urbana, IL 61802, United States.",
+        "Department of Veterinary Pathology, Vetnostics Pathology, Brisbane, QLD 4172, Australia."
+      ],
+      "keywords": [
+        "acute kidney injury",
+        "feline",
+        "prognosis",
+        "urinary tract infection"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Pyelonephritis",
+        "Female",
+        "Retrospective Studies",
+        "Prognosis",
+        "Male",
+        "Acute Disease",
+        "Acute Kidney Injury",
+        "Creatinine",
+        "Kaplan-Meier Estimate",
+        "Proportional Hazards Models"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42674007",
       "title": "Retrospective analysis of 68 domestic ferrets with urethral obstruction shows high rate of euthanasia at presentation despite good survival to discharge.",
       "authors": "O'Malley B, Sadar MJ, Alexander AB, Bercier M",
@@ -14576,6 +14631,43 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42977943",
+      "title": "Isolation, identification and antifungal resistance profile of toxigenic Aspergillus species from marketed dog foods in Ibadan, Nigeria.",
+      "authors": "Adeyemo IA, Ahmed AO, Isola TO, Aremu A, Odetokun IA, Raufu IA, Raji MA",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 05",
+      "sortdate": "2026-08-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42977943/",
+      "abstract": "BACKGROUND: Mycotoxin-producing fungi that contaminate dog food have effects on the feed's nutritional value, organoleptic characteristics, and overall quality. Animals and humans may experience both short-term and long-term harmful effects by consuming fungi and mycotoxin-contaminated feeds. In dogs, high morbidity and mortality are observed as a result of immunosuppressive, hepatotoxic, nephrotoxic, and carcinogenic effects from the mycotoxins. This study investigated the occurrence, antimicrobial resistance profile and mycotoxins produced by toxigenic Aspergillus species, with the potential aim of providing baseline information on the quality and safety of commercial dog feeds. Eighteen brands/types of dog food samples were obtained from pet and veterinary stores in Ibadan, Oyo State. Two main species of presumptive toxigenic Aspergillus were isolated and identified by using both macroscopic examination and standard microbiological procedures. Antifungal susceptibility test (AFST) was carried out using the disc diffusion method to determine resistance profiles of these presumptive isolates (n=14). The GC-MS analytical method was used to screen 10 selected dog foods for 16 different mycotoxins. RESULTS: Sixteen (88.9%) samples were presumptively positive for Aspergillus species. All (100%) crunchies (imported), noodles and mash types of dog food samples were positive for Aspergillus species. While two out of the three local crunchies and one out of the spaghetti types of the dog food were positive for Aspergillus species. Seven (39%) and 16 (89%) isolation rates were recorded for presumptive Aspergillus parasiticus and Aspergillus flavus, respectively. A varying degree of resistance was observed among the selected isolates to Miconazole, Ketoconazole, Clotrimazole and Nystatin. However, 100% of the 14 isolates showed resistance to Flucytosine and Fluconazole, while 100% of the selected isolates were sensitive to Econazole. Seven different resistance patterns were observed for the 14 isolates of both Aspergillus parasiticus and Aspergillus flavus, with 85.7 % Multiple drugs resistance (MDR). Nine mycotoxins (Aflatoxins B1, G1, G2, M1, M2, Fumonisin B2, Ochratoxin A, T2-toxin and H2-toxin) were detected and higher levels for seven of the mycotoxins (Aflatoxins B1, G1, G2, M1, M2, Ochratoxin A and T2-toxin) were observed. CONCLUSION: This study isolated toxigenic Aspergillus spp that are resistant to standard antifungal drugs with high mycotoxin contamination in dog foods marketed in Ibadan.",
+      "affiliations": [
+        "Department of Veterinary Microbiology, Faculty of Veterinary Medicine, University of Ilorin, Ilorin, Kwara State, Nigeria. adeyemo.ia@unilorin.edu.ng.",
+        "Department of Veterinary Microbiology, Faculty of Veterinary Medicine, University of Ilorin, Ilorin, Kwara State, Nigeria.",
+        "Department of Veterinary Public Health and Preventive Medicine, Faculty of Veterinary Medicine, University of Ilorin, Ilorin, Kwara State, Nigeria.",
+        "Department of Veterinary Pharmacology and Toxicology, Faculty of Veterinary Medicine, University of Ilorin, Ilorin, Kwara State, Nigeria."
+      ],
+      "keywords": [
+        "Antifungal resistance",
+        "Dog foods",
+        "Mycotoxins",
+        "Toxigenic Aspergillus species"
+      ],
+      "mesh": [
+        "Animals",
+        "Animal Feed",
+        "Nigeria",
+        "Aspergillus",
+        "Dogs",
+        "Drug Resistance, Fungal",
+        "Antifungal Agents",
+        "Mycotoxins",
+        "Microbial Sensitivity Tests",
+        "Food Microbiology",
+        "Food Contamination"
+      ],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
