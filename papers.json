@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05 07:02 UTC",
-  "total": 12225,
+  "updated": "2026-11-06 02:43 UTC",
+  "total": 12233,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,85 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42983862",
+      "title": "Immunohistochemical study on spinal cord ependymal cells and ependymomas in dogs.",
+      "authors": "Tokuno H, Chambers JK, Oji T, Takahashi F, Yamaguchi S, Sakai K, Uchida K",
+      "journal": "J Vet Med Sci",
+      "date": "2026 Nov 05",
+      "sortdate": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983862/",
+      "abstract": "Spinal cord ependymoma is a glial tumor that originates from progenitor cells lining the central canal in humans. The histopathological features and origin of canine spinal cord ependymomas remain unclear because of the limited number of cases. In this study, spinal cord ependymomas in two dogs were immunohistochemically examined and compared with normal spinal cord ependymal cells in a dog. A nine-year-old Pomeranian and a nine-year-old Maltese presented with hindlimb paraplegia. Magnetic resonance imaging revealed intramedullary T2-weighted hyperintensity lesions in the thoracic spinal cord of the dogs. Histopathological examination of biopsy samples revealed that the lesions were composed of elongated, bipolar neoplastic cells arranged in pseudorosette and rosette patterns. The neoplastic cells were positive for vimentin, glial fibrillary acidic protein (GFAP), sex-determining region Y-box transcription factor (SOX) 2, SOX9, and zonula occludens-1 (ZO-1). In the control dog, spinal cord ependymal cells consisted of three cell types: cuboidal ependymal cells, tanycytes, and cerebrospinal fluid-contacting neurons, all of which were positive for SOX2, a neural stem cell (NSC) marker. Tanycytes were characterized by vimentin-positive bipolar processes and immunopositivity for SOX2, SOX9, and ZO-1, which were comparable to the features of ependymoma cells. These findings suggest that the spinal cord ependymal layer provides a niche for NSCs and that tanycytes may be the origin of canine spinal cord ependymoma. The present study suggests that vimentin, GFAP, SOX2, SOX9, and ZO-1 are useful immunohistochemical markers for the diagnosis of canine spinal cord ependymoma.",
+      "affiliations": [
+        "Laboratory of Veterinary Pathology, Graduate School of Agricultural and Life Sciences, The University of Tokyo.",
+        "Neo Vets Veterinary Referral Center.",
+        "YPC Tokyo Animal Orthopedic Surgery Hospital.",
+        "Sakai Animal Hospital."
+      ],
+      "keywords": [
+        "ependymoma",
+        "spinal cord tumor",
+        "tanycyte"
+      ],
+      "mesh": [],
+      "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42981718",
+      "title": "Laryngeal paralysis in 72 cats: a multicenter study on epidemiology and treatment.",
+      "authors": "Gobbetti M, Rossanese M, Tremolada G, Pisani G, Cinti F, Montinaro V, Cantatore M",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981718/",
+      "abstract": "OBJECTIVE: To describe the etiology, treatment, and outcomes of cats with laryngeal paralysis (LP) and identify factors associated with survival. METHODS: Retrospective, multicenter, observational study. Medical records from 7 referral hospitals (Italy, UK, US) were reviewed to identify cats with LP (2003 to 2024). Survival was assessed using Kaplan-Meier and Cox regression analyses. RESULTS: 72 cats were included. Primary idiopathic LP was diagnosed in 49 cats (68%) and secondary LP in 17 (24%), most commonly associated with pulmonary neoplasia, trauma, or surgery. Six cats (8%) had comorbidities without a confirmed causal relationship. Bilateral LP was diagnosed in 44 cats (61%), and unilateral LP was diagnosed in 26 cats (36%). Arytenoid lateralization was performed in 53 cats (74%); 93% of cats with bilateral LP and 38.5% of cats with unilateral LP underwent surgery. Complications occurred in 13 cats (24%), including 8 major complications (15%) and 3 deaths from aspiration pneumonia. Estimated 1-, 2-, and 3-year postoperative survival rates were 88%, 85%, and 85%, respectively. Major postoperative complications were the only independent predictor of decreased survival (hazard ratio, 99.42; 95% CI, 8.50 to 1,161.77). CONCLUSIONS: Primary idiopathic LP was the most common diagnosis, although secondary causes, particularly neoplasia, were frequent. Unilateral LP may require surgical treatment. Arytenoid lateralization provided good long-term outcomes, although major complications markedly reduced survival. CLINICAL RELEVANCE: Thorough investigation should be considered in cats with LP to identify underlying neoplasia. Treatment decisions should be based on clinical severity rather than laterality, and owners should be informed of the risk of serious postoperative complications.",
+      "affiliations": [
+        "1Clinica Veterinaria Citt&#xe0; di Monza, Monza, Italy.",
+        "2Department of Clinical Science and Services, Royal Veterinary College, London, UK.",
+        "3Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO.",
+        "4Centro Veterinario Pisani-Carli-Chiodo, Luni Mare, Italy.",
+        "5Ospedale Veterinario I Portoni Rossi-Anicura, Zola Predosa, Italy.",
+        "6Clinica Veterinaria Malpensa-Anicura, Samarate, Italy.",
+        "7Lumbry Park Veterinary Specialists, Alton, Hampshire, UK."
+      ],
+      "keywords": [
+        "arytenoid lateralization",
+        "cat",
+        "dyspnea",
+        "laryngeal paralysis",
+        "stridor"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42981710",
+      "title": "Comparison of the pharmacokinetics and sedative effects of Zenalpha (medetomidine and vatinoxan) administered intramuscularly and oral transmucosally in dogs.",
+      "authors": "Lathan AW, Smith CK, Kleine SA, Smith JS, Ng Z, Hampton CE, Bussieres G, Sun X, Rust MR, Knych H",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981710/",
+      "abstract": "OBJECTIVE: To evaluate the sedative effects and pharmacokinetic profile of medetomidine and vatinoxan (Zenalpha) administered via the oral transmucosal (OTM) route. We hypothesized that sedation scores obtained from Zenalpha OTM (ZOTM) would not differ from Zenalpha IM (ZIM). METHODS: Dogs received 20 &#xb5;g/kg ZIM or 80 &#xb5;g/kg ZOTM. Sedation, anxiolytic, and handling scores were collected at 0, 15, 30, 30, 45, 60, 75, 90, 120, 150, and 180 minutes after administration of Zenalpha. Normality was tested using the Shapiro-Wilk test, and data were presented as median and range. Physiologic data were collected at 0, 5, 10, 15, 30, 45, 60, 90, 120, 240, 360, and 480 minutes. Plasma samples were collected at 0, 3, 5, 8, 8, 10, 15, 30, 45, 60, 90, 120, 240, 360, 480, 720, and 1,440 minutes and analyzed for concentration of medetomidine and vatinoxan using LC-MS-MS. RESULTS: 8 healthy adult Beagles participated in this study. Dogs in ZIM and ZOTM showed significant increases in sedation, anxiolysis, and handling scores compared to baselines. Medetomidine OTM was associated with a time to maximum concentration and relative bioavailability of 86 minutes (6 minutes ZIM) and 26.4%, respectively. Vatinoxan OTM was associated with a time to maximum concentration and relative bioavailability of 216 minutes (15 minutes ZIM) and 55.2%, respectively. CONCLUSIONS: ZOTM (80 &#x3bc;g/kg) provided effective sedation, anxiolysis, and improved handling in healthy dogs comparable to ZIM (20 &#x3bc;g/kg) administration. CLINICAL RELEVANCE: Zenalpha administered OTM, at higher doses, may provide an attractive alternative to IM injection to achieve similar sedation.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, University of Tennessee, Knoxville, TN.",
+        "Department of Large Animal Clinical Sciences, College of Veterinary Medicine, University of Tennessee, Knoxville, TN.",
+        "Office of Information Technology, University of Tennessee, Knoxville, TN.",
+        "Department of Molecular Biosciences, School of Veterinary Medicine, University of California-Davis, Davis, CA."
+      ],
+      "keywords": [
+        "Zenalpha",
+        "medetomidine",
+        "oral transmucosal",
+        "pharmacokinetics",
+        "vatinoxan"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
     {
       "id": "42974710",
       "title": "Feasibility of Shallow Whole-Genome Sequencing-Based Circulating Tumour DNA Analysis in Canine Multicentric Lymphoma: A Pilot Study.",
@@ -616,7 +695,7 @@
       "date": "2026 Oct 28",
       "sortdate": "2026-10-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951006/",
-      "abstract": "Sepsis is one of the leading causes of mortality during the first weeks of life in canine neonates, and early diagnosis is essential to reduce these rates. This study aimed to evaluate changes in clinical, hematological, biochemical, and biomarker parameters (procalcitonin, C-reactive protein, and troponin I levels) in neonatal sepsis in dogs. Descriptive statistics, normality testing, group comparisons, and Pearson or Spearman correlations were performed, with significance set at p &lt; 0.05. Biomarker cut-off values were determined using ROC curve analysis based on sensitivity and specificity above 80%. Thirty-one neonates were included, with 17 animals in the sepsis group (SG) and 14 in the control group (CG). In the assessment of clinical parameters, signs of systemic infection, such as diarrhea, erythema of the body, omphalitis, ecchymoses or hematomas, and cyanosis or necrosis of the extremities, were observed. Neonates in the SG showed bradycardia (p&lt;0.05), hypothermia (p&lt;0.05), and reduced neurological reflexes (p&lt;0.05). Leukopenia (p&lt;0.05), hyperlactatemia (p&lt;0.01), hyperkalemia (p&lt;0.05), and increased cardiac troponin I (p&lt;0.01) were observed in the SG. A negative correlation was detected between the leukocyte count and the lactate concentration (r = -0.59; p&lt;0.01) and between the neutrophil count and the troponin I concentration (r = -0.57; p&lt;0.01). A positive correlation was observed between body temperature and leukocytes (r = 0.54, p &lt; 0.01). Additionally, there was a trend toward thrombocytopenia, hypoglycemia, and increased CRP in the SG, although these findings did not reach statistical significance. The origin of the infections was predominantly maternal (intrauterine or via mastitis), with isolation of beta-hemolytic Streptococcus from uterine swabs (41.2%), Staphylococcus sp. from uterine swabs and milk (35.3%), and Streptococcus sp. from milk only (23.5%). Future serial studies are needed to characterize biomarker kinetics during infection. Early diagnosis of neonatal canine sepsis relies on litter monitoring, clinical signs and laboratory tests, including leukopenia, bacterial culture, lactate (&#x2265;3mmol/L), and cardiac troponin I (&#x2265;0.1ng/dL).",
+      "abstract": "Sepsis is one of the leading causes of mortality during the first weeks of life in canine neonates, and early diagnosis is essential to reduce these rates. This study aimed to evaluate changes in clinical, hematological, biochemical, and biomarker parameters (procalcitonin, C-reactive protein, and troponin I levels) in neonatal sepsis in dogs. Descriptive statistics, normality testing, group comparisons, and Pearson or Spearman correlations were performed, with significance set at p&#x202f;&lt;&#x202f;0.05. Biomarker cut-off values were determined using ROC curve analysis based on sensitivity and specificity above 80%. Thirty-one neonates were included, with 17 animals in the sepsis group (SG) and 14 in the control group (CG). In the assessment of clinical parameters, signs of systemic infection, such as diarrhea, erythema of the body, omphalitis, ecchymoses or hematomas, and cyanosis or necrosis of the extremities, were observed. Neonates in the SG showed bradycardia (p&#x202f;&lt;&#x202f;0.05), hypothermia (p&#x202f;&lt;&#x202f;0.05), and reduced neurological reflexes (p&#x202f;&lt;&#x202f;0.05). Leukopenia (p&#x202f;&lt;&#x202f;0.05), hyperlactatemia (p&#x202f;&lt;&#x202f;0.01), hyperkalemia (p&#x202f;&lt;&#x202f;0.05), and increased cardiac troponin I (p&#x202f;&lt;&#x202f;0.01) were observed in the SG. A negative correlation was detected between the leukocyte count and the lactate concentration (r&#x202f;=&#x202f;-0.59; p&#x202f;&lt;&#x202f;0.01) and between the neutrophil count and the troponin I concentration (r&#x202f;=&#x202f;-0.57; p&#x202f;&lt;&#x202f;0.01). A positive correlation was observed between body temperature and leukocytes (r&#x202f;=&#x202f;0.54, p&#x202f;&lt;&#x202f;0.01). Additionally, there was a trend toward thrombocytopenia, hypoglycemia, and increased CRP in the SG, although these findings did not reach statistical significance. The origin of the infections was predominantly maternal (intrauterine or via mastitis), with isolation of beta-hemolytic Streptococcus from uterine swabs (41.2%), Staphylococcus sp. from uterine swabs and milk (35.3%), and Streptococcus sp. from milk only (23.5%). Future serial studies are needed to characterize biomarker kinetics during infection. Early diagnosis of neonatal canine sepsis relies on litter monitoring, clinical signs and laboratory tests, including leukopenia, bacterial culture, lactate (&#x2265;3&#x202f;mmol/L), and cardiac troponin I (&#x2265;0.1&#x202f;ng/dL).",
       "affiliations": [
         "Department of Veterinary Clinic, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University (UNESP), Botucatu, Brazil.",
         "Department of Veterinary Clinic, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University (UNESP), Botucatu, Brazil; Department of Veterinary Medicine, Federal University of Alagoas (UFAL), Vi&#xe7;osa, Brazil.",
@@ -626,9 +705,9 @@
         "Department of Veterinary Clinic, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University (UNESP), Botucatu, Brazil. Electronic address: maria-lucia.lourenco@unesp.br."
       ],
       "keywords": [
-        "Neonatal canine sepsis",
-        "bacterial infection",
-        "biochemical changes"
+        "Bacterial infection",
+        "Biochemical changes",
+        "Neonatal canine sepsis"
       ],
       "mesh": [],
       "category": "neurosurgery",
@@ -1062,6 +1141,57 @@
         "growth",
         "mulle",
         "salinity"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42985444",
+      "title": "Decision tree models to guide endotracheal tube selection in dogs.",
+      "authors": "Ngamlertwong N, Punyapornwithaya V, Siriyakhun S, Seymour C, Seki S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 21",
+      "sortdate": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985444/",
+      "abstract": "INTRODUCTION: Choosing an endotracheal tube (ETT) of an appropriate size is critical for effective airway management in dogs undergoing anesthesia or emergency care. Conventional methods often rely on body weight (BW), palpation of external tracheal diameter, nasal septum width, or subjective clinician experience. However, these approaches are frequently imprecise and lack well-established guidelines. Therefore, this study aimed to develop a machine learning-based decision tree model to standardize ETT size using measurable anatomical parameters in dolichocephalic, mesocephalic, and brachycephalic breeds. METHODS: A retrospective analysis was conducted on data from dogs undergoing anesthesia or emergency care at the Northern Regional Veterinary Healthcare and Learning Center, Faculty of Veterinary Medicine, Chiang Mai University, (NOVEL CMU) Thailand between January and December 2024. We investigated the relationship between the internal diameter (ID) of the ETT used and multiple patient variables, including BW, sex, age, breed, and internal tracheal diameter (ITD) measured at the thoracic inlet on radiographs. Decision tree analysis was used to determine the ETT selection. We hypothesized that a decision tree model integrating BW and ITD would accurately predict appropriate ETT sizing in dogs, but that upper airway anatomical differences would necessitate separate models for non-brachycephalic breeds (Group DM, including dolichocephalic and mesocephalic conformation) and brachycephalic breeds (Group B). RESULTS AND DISCUSSION: The results demonstrated that Group B required ETTs with a significantly smaller ID compared to Group DM of the same BW. Variable importance analysis identified BW and ITD as the primary predictors of ETT size in both groups. Conversely, sex and age demonstrated negligible predictive value and were not significant factors in the selection process. Hence, the decision tree model successfully generated distinct algorithmic pathways for Group DM and Group B. The developed decision tree models offer a practical, non-invasive method for standardizing ETT sizes in clinical practice, thereby enhancing skilled veterinary human capital. This algorithmic approach accounts for individual anatomical variations in the respiratory tract, particularly in brachycephalic dogs. For clinical application, clinicians should prepare tubes within &#xb1;0.5 mm of the predicted size to ensure optimal airway management and patient safety.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, Chiang Mai University, Chiang Mai, Thailand.",
+        "Research Center for Veterinary Biosciences and Veterinary Public Health, Chiang Mai, Thailand.",
+        "Retired, Ludlow, United Kingdom.",
+        "School of Veterinary Nursing and Technology, Faculty of Veterinary Science, Nippon Veterinary and Life Science University, Musashino, Japan."
+      ],
+      "keywords": [
+        "anatomical parameters",
+        "canine",
+        "decision tree",
+        "endotracheal tube",
+        "machine learning"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "42985006",
+      "title": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
+      "authors": "Du X, Zhang H, Tian W, Chen J, Wen M, Fan W",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 21",
+      "sortdate": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985006/",
+      "abstract": "Population-level nutrient recommendations provide the foundation for complete and balanced diets in dogs and cats, but they do not fully account for inter-individual variation in nutritional requirements, metabolic phenotypes, and dietary responses. Precision nutrition provides a response-guided framework that integrates individual characteristics with monitored dietary responses to refine nutritional management through repeated reassessment. This review examines the conceptual framework, host determinants, clinical applications, and translational challenges of precision nutrition in companion animals. Obesity, chronic enteropathy, chronic kidney disease, and urolithiasis are discussed as representative clinical models in which dietary interventions can be linked to measurable outcomes and adjusted according to individual response. Current clinical implementation is informed primarily by phenotypic assessment, dietary history, routine clinical and biochemical measures, and longitudinal monitoring, with biomarkers such as serum phosphate providing direct guidance in specific clinical contexts. Microbiome and metabolomic profiles, selected molecular biomarkers, and digital monitoring tools, such as smart feeders and activity monitors, may provide complementary information, whereas multi-omics integration and AI-assisted prediction remain largely exploratory. Further progress will require standardized species-specific datasets, prospective validation of predictive biomarkers, reliable digital measurements, and externally validated, interpretable models that demonstrate added value beyond established clinical assessment. Overall, precision nutrition represents an iterative, response-guided framework in which individual characteristics and monitored outcomes inform dietary selection and adjustment over time.",
+      "affiliations": [
+        "Pet Nutrition Research Center, Gambol Pet Food Group Co., Ltd., Shanghai, China.",
+        "Shandong Key Laboratory of Applied Technology for Protein and Peptide Drugs, Institute of Biopharmaceutical Research, Liaocheng University, Liaocheng, China."
+      ],
+      "keywords": [
+        "artificial intelligence",
+        "companion animals",
+        "disease management",
+        "gut microbiome",
+        "multi-omics",
+        "precision nutrition"
       ],
       "mesh": [],
       "category": "internal",
@@ -3286,17 +3416,17 @@
       ],
       "mesh": [
         "Animals",
-        "Dexmedetomidine",
-        "Sevoflurane",
         "Cats",
         "Female",
-        "Anesthetics, Inhalation",
         "Male",
-        "Pulmonary Alveoli",
-        "Cross-Over Studies",
-        "Hypnotics and Sedatives",
         "Anesthesia, Inhalation",
-        "Dose-Response Relationship, Drug"
+        "Anesthetics, Inhalation",
+        "Cross-Over Studies",
+        "Dexmedetomidine",
+        "Dose-Response Relationship, Drug",
+        "Hypnotics and Sedatives",
+        "Pulmonary Alveoli",
+        "Sevoflurane"
       ],
       "category": "anesthesia",
       "summary_ko": ""
@@ -3924,14 +4054,14 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Ultrasonography",
-        "Prospective Studies",
         "Female",
-        "Lung",
         "Male",
-        "Pulmonary Atelectasis",
         "Anesthesia",
-        "Dog Diseases"
+        "Dog Diseases",
+        "Lung",
+        "Prospective Studies",
+        "Pulmonary Atelectasis",
+        "Ultrasonography"
       ],
       "category": "anesthesia",
       "summary_ko": ""
@@ -4031,7 +4161,16 @@
         "Veterinary Specialty Hospital North County, California, San Marcos, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Surgical Wound Infection",
+        "Osteotomy",
+        "Risk Factors",
+        "Dogs",
+        "Tibia",
+        "Prevalence",
+        "Dog Diseases"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -4784,7 +4923,16 @@
         "Laboratory of Veterinary Surgery, Department of Veterinary Medicine, College of Bioresource Sciences, Nihon University, Fujisawa, Japan."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Hepatectomy",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Dog Diseases",
+        "Vena Cava, Inferior"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -6034,6 +6182,33 @@
       "summary_ko": ""
     },
     {
+      "id": "42981827",
+      "title": "A mixed methods exploration of pet owners' concerns surrounding anesthesia risk.",
+      "authors": "Sherman A, Love L, Griffenhagen G, Hofmeister EH",
+      "journal": "Vet Anaesth Analg",
+      "date": "2026 Sep 16",
+      "sortdate": "2026-09-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981827/",
+      "abstract": "OBJECTIVE: To characterize dog and cat owners' concerns and informational needs surrounding general anesthesia. STUDY DESIGN: Cross-sectional, multi-institutional anonymous survey POPULATION: Owners of dogs or cats that underwent anesthesia (n = 3136 owners). METHODS: A questionnaire was distributed to clients of three veterinary teaching hospitals in the USA between 2019 and 2024 whose small animal pets underwent general anesthesia. The survey included Likert-scale and open-ended items addressing perceived risks, experience with veterinary anesthesia, desired information, and communication preferences. Descriptive statistics were used to identify common concerns and communication preferences. Inferential nonparametric statistics compared responses of pet owners who had experience with veterinary anesthetic complications versus those who did not have this experience. A large language model was used to conduct inductive thematic analysis to explore patterns in responses. RESULTS: The survey response rate was 5.2%. Pet owners who had experience with veterinary anesthetic complications wanted more information regarding anesthetic premedications (p &lt; 0.001), anesthetic drugs (p &lt; 0.001), and intravenous fluid use (p = 0.006) than owners whose pets had never experienced an anesthetic complication. Owners who had experienced anesthetic complications indicated significantly greater concern about their pet experiencing stress in the hospital (p = 0.017), vomiting (p = 0.034), and the potential for death (p = 0.002), and also expressed a greater desire to meet the anesthesiologist (p = 0.003). Themes identified via qualitative analysis included overwhelming fear of mortality and disability, anxiety surrounding error, and knowledge as power. Owners viewed anesthesiologists as safety and analgesia experts, desired detailed information about veterinary anesthesia care, and were interested in how to balance cost and value of specialized care. CONCLUSIONS: Owners, especially those who had experienced veterinary anesthetic complications, value transparency and tailored communication strategies. These findings support the development of structured communication tools and educational resources to enhance client experience.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, University of Minnesota College of Veterinary Medicine, St. Paul, MN, USA. Electronic address: sherm661@umn.edu.",
+        "Department of Molecular Biomedical Sciences, NC State College of Veterinary Medicine, Raleigh, NC, USA.",
+        "Department of Clinical Science, Colorado State University College of Veterinary Medicine, Fort Collins, CO, USA.",
+        "School of Veterinary Science, Massey University, Palmerston North, New Zealand."
+      ],
+      "keywords": [
+        "communication",
+        "dog and cat",
+        "general anesthesia",
+        "informational needs",
+        "pet owner",
+        "veterinary anesthesiologist"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
       "id": "42744760",
       "title": "A retrospective multicenter study of outcomes and complications in dogs undergoing total hip replacement with a BFX collared stem.",
       "authors": "Brandstetter V, Matis U, Schuenemann R, Arndt C, Pozzi A, Natsios P, Haimel G",
@@ -6049,7 +6224,19 @@
         "Department of Small Animal Surgery, College of Veterinary Medicine, University of Zurich, Zurich, Switzerland."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Arthroplasty, Replacement, Hip",
+        "Female",
+        "Postoperative Complications",
+        "Male",
+        "Hip Prosthesis",
+        "Treatment Outcome",
+        "Dog Diseases",
+        "Risk Factors"
+      ],
       "category": "jointreplacement",
       "summary_ko": ""
     },
@@ -6067,7 +6254,17 @@
         "Ascentra Veterinary Dentistry and Oral Surgery, Newmarket, Ontario, Canada."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Dog Diseases",
+        "Mandibular Osteotomy",
+        "Mandibular Neoplasms",
+        "Cadaver",
+        "Sarcoma",
+        "Mandible"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -6918,7 +7115,18 @@
         "Laboratory of Companion Animal Surgery, Department of Companion Animal Clinical Sciences, School of Veterinary Medicine, Rakuno Gakuen University, Ebetsu, Japan."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cholangiography",
+        "Dog Diseases",
+        "Cholecystectomy",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Gallbladder Diseases",
+        "Treatment Outcome"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -7621,9 +7829,9 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42702550/",
       "abstract": "A 4-year-old intact female mixed-breed dog was admitted with a 2-month history of progressive thoracic and pelvic limb paresis. Neurological examination localized the lesion to the cervical spine. Magnetic resonance imaging (MRI) revealed a well-defined mass of the spinal cord extending from the third to fifth cervical vertebral level. The mass was T2-weighted hypointense, T1-weighted isointense, with homogeneous contrast enhancement. Based on the surgical, histopathological, and microbiologic findings, the lesion was diagnosed as an inflammatory pseudotumor. At 55 days postoperatively, the patient demonstrated marked gait improvement, and MRI confirmed successful mass removal with a small residual intramedullary lesion at the C5 level. Follow-up MRI at day 118 exhibited tumor recurrence, and hypofractionated radiotherapy was administered. One month after treatment, MRI demonstrated lesion size reduction.",
       "affiliations": [
-        "College of Veterinary Medicine, Chungnam National University.",
-        "College of Veterinary Medicine, Gyeongsang National University.",
-        "S-Animal Cancer Center."
+        "College of Veterinary Medicine, Chungnam National University, Daejeon, Republic of Korea.",
+        "College of Veterinary Medicine, Gyeongsang National University, Jinju, Republic of Korea.",
+        "S-Animal Cancer Center, Yangsan, Republic of Korea."
       ],
       "keywords": [
         "MRI",
@@ -7631,7 +7839,15 @@
         "radiation therapy",
         "spinal disease"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Female",
+        "Dog Diseases",
+        "Magnetic Resonance Imaging",
+        "Granuloma, Plasma Cell",
+        "Spinal Cord Diseases"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -10904,7 +11120,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42669475/",
       "abstract": "A 9-year-old neutered male Labrador Retriever presented with increased intraocular pressure in the left eye and underwent enucleation for a suspected intraocular tumor. Grossly, a white to greyish-white solid mass occupied the anterior segment and was partially contiguous with the lens. Histologically, the tumor exhibited biphasic proliferation of epithelial and mesenchymal components. The mesenchymal component showed osteoid formation, and transitional features were observed between the two components. Based on histological and immunohistochemical findings, the tumor was diagnosed as a carcinosarcoma composed of an iridociliary adenocarcinoma component and an osteosarcomatous component. This is the first report of carcinosarcoma in the canine eye, expanding the understanding of the morphological diversity and histogenetic characteristics of canine iridociliary tumors.",
       "affiliations": [
-        "Department of Veterinary Pathology, School of Veterinary Medicine, Rakuno Gakuen University."
+        "Department of Veterinary Pathology, School of Veterinary Medicine, Rakuno Gakuen University, Hokkaido, Japan."
       ],
       "keywords": [
         "carcinosarcoma",
@@ -10913,7 +11129,20 @@
         "iridociliary adenocarcinoma",
         "osteosarcomatous differentiation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Carcinosarcoma",
+        "Dog Diseases",
+        "Adenocarcinoma",
+        "Iris Neoplasms",
+        "Ciliary Body",
+        "Osteosarcoma",
+        "Uveal Neoplasms",
+        "Eye Enucleation",
+        "Eye Neoplasms"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -10927,8 +11156,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42669473/",
       "abstract": "This study aimed to determine the incidence of emesis in dogs receiving a low dose of intravenous medetomidine. Anesthetic records of dogs that received &#x2264;3 &#xb5;g/kg medetomidine intravenously before anesthesia induction were retrospectively reviewed. Data included demographics, doses, and the presence of emesis, retching, sialorrhea, or lip licking. A total of 155 cases met the criteria. The administered dose of medetomidine was 3.0 (0.5-3.0) &#xb5;g/kg (median [range]). Emesis occurred in 3 of 155 dogs (1.9%), while retching, sialorrhea, and lip licking occurred in two, two, and five dogs, respectively. The incidence of emesis observed in dogs receiving low-dose (&#x2264;3 &#xb5;g/kg) intravenous medetomidine was lower than that reported in studies using higher doses.",
       "affiliations": [
-        "Faculty of Veterinary Medicine, Okayama University of Science.",
-        "Veterinary Medical Teaching Hospital, Okayama University of Science."
+        "Faculty of Veterinary Medicine, Okayama University of Science, Ehime, Japan.",
+        "Veterinary Medical Teaching Hospital, Okayama University of Science, Ehime, Japan."
       ],
       "keywords": [
         "dog",
@@ -10937,7 +11166,19 @@
         "vomiting",
         "&#x3b1;2-adrenoceptor agonist"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Medetomidine",
+        "Retrospective Studies",
+        "Vomiting",
+        "Female",
+        "Male",
+        "Dog Diseases",
+        "Incidence",
+        "Dose-Response Relationship, Drug",
+        "Hypnotics and Sedatives"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -11092,20 +11333,34 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42649075/",
       "abstract": "Hyalinizing pancreatic adenocarcinoma is a rare subtype of exocrine pancreatic carcinoma in dogs, characterized by abundant extracellular hyaline material within the tumor. In this study, we investigated two canine cases exhibiting this distinctive hyalinizing morphology using histological, proteomic, immunohistochemical, ultrastructural, and molecular approaches. Histological examination revealed amyloid-like eosinophilic hyaline deposits; however, these deposits lacked diagnostic features of amyloid, as confirmed by Congo red and thioflavin S staining and transmission electron microscopy. Liquid chromatography-tandem mass spectrometry (LC-MS/MS) identified bile salt-activated lipase (BAL) as the predominant component of the hyaline deposits. Immunohistochemistry confirmed strong anti-BAL immunoreactivity in the deposits. In addition to BAL, amyloid-associated proteins, including clusterin, vitronectin, apolipoprotein E, and apolipoprotein A-I, were detected. Together with the negative Congo red and thioflavin S staining and ultrastructural findings, these results support that the hyaline deposits are BAL-rich, non-amyloid extracellular deposits. Some deposits also contained collagen, indicating biochemical heterogeneity of the hyaline material. RT-qPCR analysis suggested higher CEL, and lower GRP94 expression in hyalinizing pancreatic adenocarcinomas than in non-hyalinizing pancreatic carcinomas. These observations raise a hypothesis that excessive BAL production, together with reduced GRP94-mediated chaperone support, may contribute to extracellular accumulation of aggregated BAL. Collectively, this study identifies BAL as the predominant component of hyaline deposits in canine hyalinizing pancreatic adenocarcinoma based on LC-MS/MS analysis and highlights a non-amyloid protein aggregation process associated with this tumor subtype.",
       "affiliations": [
-        "Laboratory of Veterinary Toxicology, Tokyo University of Agriculture and Technology.",
-        "Research Unit of Innovative One Medicine, Advanced Research Center for One Welfare, Tokyo University of Agriculture and Technology.",
-        "National Institute of Animal Health, National Agriculture and Food Research Organization.",
-        "Smart-Core-Facility Promotion Organization, Tokyo University of Agriculture and Technology.",
-        "FUJIFILM VET Systems Co., Ltd."
+        "Laboratory of Veterinary Toxicology, Tokyo University of Agriculture and Technology, Tokyo, Japan.",
+        "Research Unit of Innovative One Medicine, Advanced Research Center for One Welfare, Tokyo University of Agriculture and Technology, Tokyo, Japan.",
+        "National Institute of Animal Health, National Agriculture and Food Research Organization, Ibaraki, Japan.",
+        "Smart-Core-Facility Promotion Organization, Tokyo University of Agriculture and Technology, Tokyo, Japan.",
+        "FUJIFILM VET Systems Co., Ltd., Tokyo, Japan."
       ],
       "keywords": [
-        "bile salt&#x2013;activated lipase",
+        "bile salt-activated lipase",
         "dog",
         "hyaline",
         "mass spectrometry",
         "pancreatic adenocarcinoma"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Adenocarcinoma",
+        "Pancreatic Neoplasms",
+        "Hyalin",
+        "Dog Diseases",
+        "Male",
+        "Proteomics",
+        "Tandem Mass Spectrometry",
+        "Female",
+        "Chromatography, Liquid",
+        "Microscopy, Electron, Transmission",
+        "Immunohistochemistry"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -12428,18 +12683,18 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Analgesics, Opioid",
-        "Pain Measurement",
-        "Cross-Over Studies",
         "Female",
-        "Nausea",
         "Male",
-        "Pain",
-        "Methadone",
-        "Prospective Studies",
+        "Analgesics, Opioid",
         "Behavior, Animal",
-        "Xylazine",
-        "Cat Diseases"
+        "Cat Diseases",
+        "Cross-Over Studies",
+        "Methadone",
+        "Nausea",
+        "Pain",
+        "Pain Measurement",
+        "Prospective Studies",
+        "Xylazine"
       ],
       "category": "anesthesia",
       "summary_ko": ""
@@ -12717,15 +12972,26 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42604803/",
       "abstract": "A 7-year-old intact male toy poodle presented with abdominal distension, polydipsia, and polyuria. Abdominal ultrasonography revealed bilateral adrenal atrophy, and adrenocorticotropic hormone (ACTH) stimulation testing showed persistently low cortisol concentrations with concurrent low endogenous ACTH, indicating central hypoadrenocorticism. To localize dysfunction within the hypothalamic-pituitary-adrenal axis, a corticotropin-releasing hormone (CRH) stimulation test was performed. Endogenous ACTH increased markedly after CRH administration, whereas cortisol remained undetectable, demonstrating preserved pituitary responsiveness and supporting a diagnosis of hypothalamic hypoadrenocorticism. Treatment of hypoadrenocorticism with prednisolone alone resulted in long-term clinical stabilization without electrolyte abnormalities for over one year. To our knowledge, this is the first canine report classifying suspected hypothalamic hypoadrenocorticism using CRH stimulation testing.",
       "affiliations": [
-        "School of Veterinary Nursing &amp; Technology, Faculty of Veterinary Science, Nippon Veterinary and Life Science University.",
-        "Mitaka Chuo Animal Hospital."
+        "School of Veterinary Nursing &amp; Technology, Faculty of Veterinary Science, Nippon Veterinary and Life Science University, Tokyo, Japan.",
+        "Mitaka Chuo Animal Hospital, Tokyo, Japan."
       ],
       "keywords": [
         "corticotropin-releasing hormone stimulation test",
         "hypoadrenocorticism",
         "tertiary hypoadrenocorticism"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Male",
+        "Corticotropin-Releasing Hormone",
+        "Dogs",
+        "Dog Diseases",
+        "Adrenal Insufficiency",
+        "Adrenocorticotropic Hormone",
+        "Prednisolone",
+        "Hydrocortisone",
+        "Hypothalamic Diseases"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -12799,7 +13065,17 @@
         "Petemo Animal Medical Center Sagamihara, Sagamihara, Japan."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Dogs",
+        "Leiomyosarcoma",
+        "Dog Diseases",
+        "Urethral Neoplasms",
+        "Urethra",
+        "Treatment Outcome",
+        "Vagina"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -13479,18 +13755,18 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Magnesium Sulfate",
-        "Intervertebral Disc Displacement",
         "Female",
-        "Analgesics",
-        "Dog Diseases",
-        "Postoperative Pain",
         "Male",
+        "Analgesics",
         "Anti-Inflammatory Agents",
+        "Dog Diseases",
         "Double-Blind Method",
+        "Intervertebral Disc Displacement",
         "Laminectomy",
-        "Thoracic Vertebrae",
-        "Lumbar Vertebrae"
+        "Lumbar Vertebrae",
+        "Magnesium Sulfate",
+        "Postoperative Pain",
+        "Thoracic Vertebrae"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -14229,6 +14505,46 @@
       "summary_ko": ""
     },
     {
+      "id": "42983423",
+      "title": "Evaluating plasma renin activity as a monitoring parameter for mineralocorticoid treatment in dogs with primary hypoadrenocorticism.",
+      "authors": "Arrigoni S, Harburger LA, Neubert E, Riond B, Evans H, Unterer S, Boretti FS, Sieber-Ruckstuhl N",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 08",
+      "sortdate": "2026-08-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983423/",
+      "abstract": "BACKGROUND: In human medicine, plasma renin activity (PRA) is used to assess mineralocorticoid treatment adequacy in hypoadrenocorticism, with elevated levels indicating under-replacement and suppressed levels over-replacement. In dogs with primary hypoadrenocorticism, PRA is increased before treatment and decreases with treatment, but its value as a monitoring parameter remains uncertain. The objective of this study was to evaluate PRA as a marker to guide mineralocorticoid dosing in dogs with primary hypoadrenocorticism. A total of 52 PRA measurements were collected from 28 dogs during scheduled desoxycorticosterone pivalate (DOCP) treatment visits. All dogs had received DOCP and prednisolone for at least five months. PRA was measured by ELISA detecting angiotensin I. RESULTS: Median PRA was 1.6 ng/mL/h (range, 0-19.2), with 19 values above, 17 within, and 16 below the reference interval. PRA showed moderate correlations with potassium (p&#x2009;=&#x2009;0.009, &#x1d6d2; = 0.36), sodium (p&#x2009;=&#x2009;0.02, &#x1d6d2; = -0.33), the sodium-to-potassium (Na/K) ratio (p&#x2009;=&#x2009;0.006, &#x1d6d2; = -0.38), and DOCP dose (p&#x2009;=&#x2009;0.02, &#x1d6d2; = -0.34), while urine specific gravity correlated with DOCP dose (p&#x2009;=&#x2009;0.01, &#x1d6d2; = -0.50). Compared with visits with decreased PRA, visits with increased PRA had a significantly lower Na/K ratio (p&#x2009;=&#x2009;0.048). Increased PRA occurred more frequently during visits with concurrent disease (p&#x2009;=&#x2009;0.005); concurrent disease was also associated with higher creatinine concentrations (p&#x2009;=&#x2009;0.023) and lower DOCP doses (p&#x2009;=&#x2009;0.004). In subgroup analyses, chronic enteropathy was associated with higher potassium concentrations (p&#x2009;=&#x2009;0.003), lower Na/K ratios (p&#x2009;=&#x2009;0.009), and higher DOCP doses (p&#x2009;&lt;&#x2009;0.001), whereas chronic kidney disease was associated with higher creatinine concentrations (p&#x2009;&lt;&#x2009;0.001) and lower DOCP doses (p&#x2009;&lt;&#x2009;0.001). Clinical assessment and PRA status were concordant in 48% of visits. CONCLUSIONS: PRA may provide additional information for monitoring mineralocorticoid treatment in dogs with hypoadrenocorticism treated with DOCP. However, its interpretation can be challenging, as it often does not match electrolyte results and both PRA and electrolytes may be affected by other diseases. Therefore, PRA should be interpreted as a supportive parameter within the clinical context.",
+      "affiliations": [
+        "Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
+        "Bessy's Kleintierklinik, ZN IVC Evidensia Schweiz AG, Watt/Regensdorf, Switzerland.",
+        "Clinical Laboratory, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
+        "Nationwide Specialist Laboratories, Cambridge, UK.",
+        "Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland. fboretti@vetclinics.uzh.ch.",
+        "Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland. nsieber@vetclinics.uzh.ch."
+      ],
+      "keywords": [
+        "Canine",
+        "Desoxycorticosterone pivalate treatment",
+        "Plasma renin activity",
+        "Primary hypoadrenocorticism"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Renin",
+        "Female",
+        "Prednisolone",
+        "Desoxycorticosterone",
+        "Male",
+        "Mineralocorticoids",
+        "Addison Disease",
+        "Biomarkers",
+        "Potassium"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42567836",
       "title": "Use of a cell saver device for perioperative autotransfusion in 102 dogs and one cat.",
       "authors": "Michalska A, Bray J",
@@ -14525,6 +14841,40 @@
         "Immunohistochemistry"
       ],
       "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42983507",
+      "title": "Inflammatory myofibroblastic tumor in a 9-year-old male neutered mixed-breed dog with gastrointestinal signs; a case report.",
+      "authors": "Vafaei R, Nassiri SM, Mirani AH",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 06",
+      "sortdate": "2026-08-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983507/",
+      "abstract": "A 9-year-old male neutered mixed-breed dog was presented with chronic diarrhea and vomiting. Abdominal ultrasonography revealed a mass in the jejunum, which was surgically excised. Histopathological examination and immunohistochemistry confirmed the diagnosis of an inflammatory myofibroblastic tumor (IMT). This case report discusses the clinical presentation, diagnostic approach, and management of IMT in this dog.",
+      "affiliations": [
+        "Department of Clinical Pathology, Faculty of Veterinary Medicine, University of Tehran, Tehran, Iran.",
+        "Department of Clinical Pathology, Faculty of Veterinary Medicine, University of Tehran, Tehran, Iran. nasirim@ut.ac.ir.",
+        "Kaveh Pet Hospital, Tehran, Iran."
+      ],
+      "keywords": [
+        "Dog",
+        "Gastrointestinal",
+        "Immunohistochemistry",
+        "Inflammatory myofibroblastic tumor",
+        "SMA"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Dog Diseases",
+        "Neoplasms, Muscle Tissue",
+        "Jejunal Neoplasms",
+        "Immunohistochemistry",
+        "Ultrasonography"
+      ],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -14853,7 +15203,23 @@
         "Department of Surgical and Radiological Sciences, Weill School of Veterinary Medicine, University of California, Davis, Davis, California, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Female",
+        "Cat Diseases",
+        "Creatinine",
+        "Blood Glucose",
+        "Male",
+        "Electrolytes",
+        "Lactic Acid",
+        "Acid-Base Equilibrium",
+        "Brain Neoplasms",
+        "Acid-Base Imbalance"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -16071,18 +16437,18 @@
       ],
       "mesh": [
         "Animals",
-        "Female",
         "Dogs",
-        "Mastectomy",
-        "Wound Healing",
+        "Female",
+        "Dog Diseases",
         "Low-Level Light Therapy",
+        "Mammary Neoplasms, Animal",
+        "Mastectomy",
         "Pilot Projects",
         "Plasma Gases",
-        "Mammary Neoplasms, Animal",
-        "Dog Diseases",
         "Prospective Studies",
+        "Thermography",
         "Ultrasonography",
-        "Thermography"
+        "Wound Healing"
       ],
       "category": "surgery",
       "summary_ko": ""
@@ -18439,7 +18805,19 @@
         "Department of Veterinary Medicine, College of Bioresource Sciences, Nihon University, Fujisawa, Japan."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Hepatectomy",
+        "Liver Neoplasms",
+        "Carcinoma, Hepatocellular",
+        "Female",
+        "Dog Diseases",
+        "Vena Cava, Inferior",
+        "Male",
+        "Retrospective Studies",
+        "Treatment Outcome"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -22270,7 +22648,16 @@
         "Toronto Veterinary Referral and Emergency Hospital, Toronto, Ontario, Canada."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Dog Diseases",
+        "Laparoscopy",
+        "Gastrointestinal Stromal Tumors",
+        "Treatment Outcome",
+        "Cecal Neoplasms"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -23977,7 +24364,17 @@
         "AURA Veterinary, University of Surrey School of Veterinary Medicine, Guildford, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Sarcoma",
+        "Amputation, Surgical",
+        "Surgical Flaps",
+        "Forelimb",
+        "Male",
+        "Female"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -25518,7 +25915,19 @@
         "Department of Surgery, School of Medicine, Iwate Medical University, Iwate, Japan."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Hepatectomy",
+        "Laparoscopy",
+        "Dog Diseases",
+        "Female",
+        "Liver Neoplasms",
+        "Male",
+        "Treatment Outcome",
+        "Carcinoma, Hepatocellular",
+        "Prospective Studies"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -25538,7 +25947,18 @@
         "BK21 FOUR Future Veterinary Medicine Leading Education and Research Center, Seoul National University, Seoul, South Korea."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Male",
+        "Dog Diseases",
+        "Atlanto-Occipital Joint",
+        "Atlanto-Axial Joint",
+        "Cervical Vertebrae",
+        "Tomography, X-Ray Computed",
+        "Joint Dislocations",
+        "Bone Screws"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
