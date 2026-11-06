@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 02:43 UTC",
-  "total": 12233,
+  "updated": "2026-11-06 07:10 UTC",
+  "total": 12238,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -38,6 +38,75 @@
       ],
       "mesh": [],
       "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42988701",
+      "title": "Corrigendum to \"Development of a feline Cetuximab with therapeutic potential against feline oral squamous cell carcinoma\" [Vet. J. 320 (2026) 106918].",
+      "authors": "Altamura G, Finizio A, Napolano A, Capasso C, Raia M, Sasso E, Zambrano N, Borzacchiello G",
+      "journal": "Vet J",
+      "date": "2026 Nov 05",
+      "sortdate": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42988701/",
+      "abstract": "",
+      "affiliations": [
+        "Department of Veterinary Medicine and Animal Productions, University of Naples Federico II, Via Delpino 1, Naples 80127, Italy.",
+        "CEINGE - Biotecnologie Avanzate Franco Salvatore, Via G. Salvatore 486, Naples 80145, Italy.",
+        "CEINGE - Biotecnologie Avanzate Franco Salvatore, Via G. Salvatore 486, Naples 80145, Italy; Department of Molecular Medicine and Medical Biotechnologies, University of Naples Federico II, Via S. Pansini 5, Naples 80131, Italy.",
+        "CEINGE - Biotecnologie Avanzate Franco Salvatore, Via G. Salvatore 486, Naples 80145, Italy; Department of Molecular Medicine and Medical Biotechnologies, University of Naples Federico II, Via S. Pansini 5, Naples 80131, Italy. Electronic address: zambrano@unina.it.",
+        "Department of Veterinary Medicine and Animal Productions, University of Naples Federico II, Via Delpino 1, Naples 80127, Italy. Electronic address: borzacch@unina.it."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42987509",
+      "title": "Heat-inactivated Bifidobacterium adolescentis LA20 alleviates doxorubicin-induced senescence and barrier dysfunction in feline intestinal epithelial cells.",
+      "authors": "Wang H, Liu T, Bai H, Jin H, Li Y, Wang Z",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 05",
+      "sortdate": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987509/",
+      "abstract": "OBJECTIVE: To investigate the protective effects and molecular mechanisms of heat-inactivated Bifidobacterium adolescentis LA-20 (HT-LA20) against doxorubicin (DOX)-induced senescent injury in feline intestinal epithelial cells (FIECs). METHODS: This in vitro experimental study was conducted from November 1, 2025, through August 31, 2026, and involved only FIECs. No clinical patients or animals were included. The DOX-induced injury and senescence model was established in FIECs. The effects of HT-LA20 on cellular senescence and related proteins were evaluated by senescence-associated &#x3b2;-galactosidase staining, cell viability assays, and ELISA. Transcriptomic sequencing and untargeted metabolomics were integrated to elucidate the molecular regulatory mechanisms. RESULTS: Cell-based assays and transcriptomic and untargeted metabolomic analyses were performed with 4 independent biological replicates/group. HT-LA20 reversed DOX-induced reductions in cell viability and cellular senescence; upregulated tight junction proteins and mucins 1 and 2; suppressed release of IL-1&#x3b2;, tumor necrosis factor-&#x3b1;, IL-8, monocyte chemoattractant protein 1, and matrix metalloproteinase 1; and promoted VEGF and basic fibroblast growth factor (bFGF) secretion. Transcriptomic and metabolomic analyses showed that HT-LA20 reversed DOX-induced omic disturbances. Integrated multiomics Kyoto Encyclopedia of Genes and Genomes enrichment analysis indicated that its effects centered on the retinol metabolism-serotonergic synapse-intestinal immunoglobulin A immune network multitarget axis and regulation of inflammatory pathways, including nuclear factor &#x3ba; B and Toll-like receptor signaling. CONCLUSIONS: HT-LA20 effectively alleviates DOX-induced injury in FIECs by restoring intestinal epithelial barrier function and suppressing inflammatory senescence. CLINICAL RELEVANCE: These findings provide a theoretical basis for subsequent in vivo studies on postbiotics for chemotherapy-induced intestinal injury in veterinary medicine; clinical application requires further validation.",
+      "affiliations": [
+        "Nourse Science Centre for Pet Nutrition, Wuhu, China.",
+        "School of Food and Biological Engineering, Jiangsu University, Zhenjiang, China."
+      ],
+      "keywords": [
+        "Bifidobacterium adolescentis",
+        "doxorubicin",
+        "feline",
+        "heat inactivated",
+        "intestinal barrier"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "42987508",
+      "title": "Advanced heartworm disease in dogs is associated with marked right heart and pulmonary artery remodeling.",
+      "authors": "Kim M, Seo MW, Cho J, Park C",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 05",
+      "sortdate": "2026-11-05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987508/",
+      "abstract": "OBJECTIVE: To characterize echocardiographic findings of right heart and pulmonary artery remodeling in dogs with heartworm disease. METHODS: Medical records were searched for those of client-owned dogs with heartworm infection diagnosed from July 2020 through February 2023 and with no major systemic diseases not attributable to heartworm infection. Results for variables of interest were compared for dogs grouped by heartworm clinical class (classes 1 and 2 [mild] vs classes 3 and 4 [advanced]), pulmonary hypertension probability (low and intermediate vs high), and tricuspid regurgitation pressure gradient (mild, moderate, or severe). Pre- and postextraction variables were also compared for dogs with caval syndrome. RESULTS: 44 dogs were included. Compared with dogs with mild heartworm disease (n = 23), dogs with advanced heartworm disease (21) had greater right atrial and right ventricular enlargement, less right pulmonary artery distensibility, shorter pulmonary artery acceleration time, higher main pulmonary artery-to-aorta ratio, and lower right ventricular systolic function. Similar results were identified for dogs with high (vs intermediate or low) pulmonary hypertension probability. Normalized right atrial diameter had the highest discriminatory performance for identifying advanced heartworm disease (area under the curve, 0.95; 95% CI, 0.88 to 1.00), followed by tricuspid regurgitation pressure gradient, normalized right ventricular dimension, and other variables. Right atrial size significantly decreased after heartworm extraction (n = 8 dogs). CONCLUSIONS: Advanced heartworm disease is associated with marked right heart and pulmonary artery remodeling. CLINICAL RELEVANCE: Echocardiographic assessment of right heart remodeling may assist clinicians in evaluating heartworm disease severity and identifying dogs with clinically important cardiopulmonary involvement.",
+      "affiliations": [
+        "Department of Veterinary Internal Medicine, College of Veterinary Medicine, Jeonbuk National University, Iksan, South Korea.",
+        "&#xb6;Contributed equally to this work."
+      ],
+      "keywords": [
+        "dogs",
+        "echocardiography",
+        "heartworm disease",
+        "pulmonary hypertension",
+        "right heart remodeling"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -2188,6 +2257,32 @@
       "summary_ko": ""
     },
     {
+      "id": "42987466",
+      "title": "Thoracolumbar versus lumbosacral epidural anaesthesia in dogs: a single-centre retrospective study.",
+      "authors": "Molins AG, Sambugaro B, Corletto F",
+      "journal": "Vet Anaesth Analg",
+      "date": "2026 Oct 13",
+      "sortdate": "2026-10-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987466/",
+      "abstract": "OBJECTIVE: To compare both vasopressor and intraoperative rescue fentanyl administration after thoracolumbar (TL) and lumbosacral (LS) epidural (extradural) anaesthesia in dogs undergoing cranial abdominal surgery. STUDY DESIGN: Retrospective cohort, single-centre, observational study. ANIMALS: Eighty-nine client-owned dogs undergoing cranial abdominal surgery. METHODS: Medical records of dogs undergoing TL or LS epidural anaesthesia for cranial abdominal surgery between 2014 and 2021 were retrieved. Selected demographic variables, mean arterial blood pressure, anaesthetic and epidural drugs and their dosage, volume and injection site, vasopressor and intraoperative rescue fentanyl administration were compared between groups. Intraoperative haemodynamic stability was assessed using generalised average real variability (GenARV). Univariate analysis was used to compare groups. RESULTS: Forty-three dogs were enrolled in the TL group and 46 in the LS group. Vasopressors were required more frequently [p = 0.030; odds ratio 2.67 (1.09-6.53)] in the LS group, but GenARV was not different (p = 0.706; 1.51 &#xb1; 0.60 and 1.46 &#xb1; 0.68 mmHg minute-1 in the LS and TL groups, respectively]. The number of dogs requiring intraoperative rescue fentanyl did not differ between groups (p = 0.992); however, the median (range) amount of fentanyl per hour of surgery was lower in the TL group [1.31 (0.75-7) and 2.87 (0.75-14) &#x3bc;g kg-1 hour-1 in the TL and LS groups, respectively; p = 0.019]. The volume of epidural injectate was lower in group TL (p &lt; 0.001). CONCLUSIONS AND CLINICAL RELEVANCE: In dogs undergoing cranial abdominal surgery, TL epidural anaesthesia was associated with reduced vasopressor use compared to LS epidural anaesthesia, while providing comparable intraoperative analgesia with a reduced volume of injectate. Thoracolumbar epidural anaesthesia may result in a more targeted neuraxial blockade with fewer cardiovascular adverse effects, supporting its use for cranial abdominal surgeries.",
+      "affiliations": [
+        "Granta Veterinary Specialist, Linton, UK; DWR Veterinary Specialists, Six Mile Bottom, UK. Electronic address: andreagmuk@gmail.com.",
+        "DWR Veterinary Specialists, Six Mile Bottom, UK.",
+        "Granta Veterinary Specialist, Linton, UK; DWR Veterinary Specialists, Six Mile Bottom, UK."
+      ],
+      "keywords": [
+        "GenARV",
+        "cranial abdominal surgery",
+        "epidural",
+        "haemodynamic stability",
+        "intraoperative analgesia",
+        "thoracolumbar epidural"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42863523",
       "title": "Usefulness of serum amyloid A to differentiate feline inflammatory lower respiratory tract diseases from cardiac or neoplastic disease: a retrospective study of 22 cats (2021-2024).",
       "authors": "Berro E, Fastrès A, Lamoureux A",
@@ -2957,6 +3052,33 @@
         "intrapulmonary arteriovenous anastomoses",
         "pulmonic stenosis",
         "ventricular septal defect"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42987688",
+      "title": "Incidence, risk factors, and clinical features of postoperative new-onset atrial fibrillation in dogs undergoing mitral valve repair surgery.",
+      "authors": "Kurogochi K, Nishiyama M, Furusato S, Nii Y, Mizuno M, Uechi M",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 07",
+      "sortdate": "2026-10-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987688/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Postoperative atrial fibrillation (POAF) is a potential complication following cardiac surgery. This study aims to identify POAF risk factors and describe its clinical features following mitral valve repair (MVR) in dogs. ANIMALS, MATERIALS AND METHODS: Dogs that underwent MVR between January 2020 and December 2023 were included in the study. Dogs with pre-operative atrial fibrillation or those that died intra-operatively were excluded. Potential risk factors for new-onset POAF were assessed based on selected parameters, and POAF duration was documented. RESULTS: Postoperative atrial fibrillation occurred in 100 of 1,577 dogs. Possible independent risk factors included male sex (vs. female sex; risk ratio [RR], 1.84; 95% confidence interval [CI], 1.22-2.78), body weight (per 1.0 kg; RR, 1.17; 95% CI, 1.04-1.30), left ventricular end-diastolic internal diameter normalized to body weight (per 0.1 unit; RR, 1.28; 95% CI, 1.11-1.47), and left ventricular systolic internal diameter normalized to body weight (per 0.1 unit; RR, 0.72; 95% CI, 0.56-0.94). Postoperative atrial fibrillation lasted &lt;24 h in 88 of 100 dogs and returned to sinus rhythm between 24 h and 7 days in eight dogs and between 7 days and 1 month in one dog. Postoperative atrial fibrillation persisted for &gt;1 month in three dogs. STUDY LIMITATIONS: The retrospective design and predominance of small-breed dogs may limit generalizability. CONCLUSIONS: New-onset POAF occurred in 6.3% of dogs undergoing MVR at our institution. Male sex, greater body weight, and pre-operative left ventricular remodeling may be associated with onset of POAF. The majority of POAF returned to sinus rhythm within 24 h postoperatively.",
+      "affiliations": [
+        "JASMINE Veterinary Cardiovascular Medical Center, 1-8-37 Nakagawa, Tsuzuki, Yokohama, Kanagawa, 224-0001, Japan; Department of Clinical Sciences, North Carolina State University, College of Veterinary Medicine, Raleigh, NC, USA.",
+        "JASMINE Veterinary Cardiovascular Medical Center, 1-8-37 Nakagawa, Tsuzuki, Yokohama, Kanagawa, 224-0001, Japan.",
+        "JASMINE Veterinary Cardiovascular Medical Center, 1-8-37 Nakagawa, Tsuzuki, Yokohama, Kanagawa, 224-0001, Japan; Department of Health Data Science, Yokohama City University, 22-2, Seto, Kanazawa-ku, Yokohama, Kanagawa, 236-0027, Japan.",
+        "JASMINE Veterinary Cardiovascular Medical Center, 1-8-37 Nakagawa, Tsuzuki, Yokohama, Kanagawa, 224-0001, Japan. Electronic address: uechi.masami@jasmine-vet.co.jp."
+      ],
+      "keywords": [
+        "Atrial tachycardia",
+        "Dog",
+        "Mitral valve plasty",
+        "Myxomatous mitral valve disease",
+        "Open-heart surgery",
+        "Supraventricular tachycardia"
       ],
       "mesh": [],
       "category": "cardiac",
@@ -18152,14 +18274,14 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Anesthesia, General",
-        "Blood Pressure Determination",
         "Female",
-        "Oscillometry",
         "Male",
+        "Anesthesia, General",
+        "Blood Pressure",
+        "Blood Pressure Determination",
+        "Oscillometry",
         "Prospective Studies",
-        "Tongue",
-        "Blood Pressure"
+        "Tongue"
       ],
       "category": "anesthesia",
       "summary_ko": ""
