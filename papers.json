@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06 07:10 UTC",
-  "total": 12238,
+  "updated": "2026-11-07 02:10 UTC",
+  "total": 12243,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -1050,6 +1050,135 @@
         "Eyelid tumor",
         "Freeze&#x2013;thaw cycle",
         "Periocular neoplasm"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991649",
+      "title": "Blood-panel patterns across feline creatinine strata and shared baseline effects on ratio associations.",
+      "authors": "Shin H, Kim JY, Yun JE, Kang SR, Jang J, Kobayashi M",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991649/",
+      "abstract": "INTRODUCTION: Cats with similar creatinine (CRE) values can have different accompanying blood-panel findings, but the relevance of these patterns to subsequent change is uncertain. METHODS: We examined routine blood panels across seven clinically proposed creatinine strata, refined through retrospective review. The dataset comprised 5,743 episode-anchored visits from 3,006 cats; chronic kidney disease (CKD) diagnoses were unavailable. A broad candidate review yielded 33 calculable markers for screening. RESULTS: The ratios of blood urea nitrogen (BUN), phosphorus (PHOS), and symmetric dimethylarginine (SDMA) to CRE met false-discovery-rate correction for association with creatinine slopes that included the baseline visit. None met correction for slopes using subsequent visits only. Removing the baseline visit reduced absolute correlations more for these three ratios than for 27 other nonredundant markers (mean difference 0.120; cat-cluster bootstrap 95% CI 0.038-0.198), consistent with shared-baseline coupling. In post hoc analyses of strata 1-2, PHOS/CRE and SDMA/CRE associations remained positive after adjustment for age and baseline creatinine, but did not meet correction (both q&#x202f;=&#x202f;0.072). Component models did not show consistent added value from either ratio. The BUN-to-albumin (ALB) ratio mainly reflected current values and within-episode changes. Serum amyloid A (SAA), the neutrophil (NEU)-to-lymphocyte (LYM) ratio, and the ALB-to-globulin (GLOB) ratio described systemic patterns weakly associated with creatinine. DISCUSSION: Clinical observations and retrospective data supported considering accompanying systemic and electrolyte findings when assessing individual cats. Whether interpreting these findings together improves clinical assessment requires prospective validation.",
+      "affiliations": [
+        "Greycoat Research Inc., Seongnam-si, Republic of Korea.",
+        "Taeneung Animal Hospital, Seoul, Republic of Korea.",
+        "Seijo Kobayashi Veterinary Clinic, Setagaya, Tokyo, Japan."
+      ],
+      "keywords": [
+        "creatinine",
+        "creatinine strata",
+        "feline chronic kidney disease",
+        "inflammaging",
+        "phosphorus-to-creatinine ratio",
+        "routine blood panel",
+        "serum amyloid A"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991619",
+      "title": "Deep learning for diagnostic and clinical decision support in companion animals: a systematic review of CNN- and LSTM-based approaches.",
+      "authors": "Guevara-Flores JJ, López-Rojas J, Vásquez-Coronel JA",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991619/",
+      "abstract": "Early disease detection prior to the onset of advanced clinical signs remains a critical imperative in veterinary medicine. This systematic review provides a methodological synthesis of Convolutional Neural Networks and Long Short-Term Memory networks applied to diagnostic and clinical decision support in canine and feline patients, evaluating both algorithmic performance and clinical feasibility. Adhering to the PICO-CS framework and PRISMA 2020 guidelines, we queried Scopus and Web of Science for peer-reviewed studies published between 2021 and 2026, retrieving a final corpus of 57 primary studies. Eleven clinical domains were identified, with evidence heavily concentrated in Oncology (28.1%), Cardiology (15.8%), and Pulmonology (12.3%). CNN architectures predominated in spatial imaging modalities-including radiographs, clinical photography, ultrasonography, and microscopic imagery-whereas LSTM networks were deployed for temporal signals and sensor-derived telemetry. Binary classification tasks achieved the highest performance metrics (accuracy reaching up to 99%), whereas multi-class formulations exhibited broader variability due to dataset imbalance. Cross-study benchmarking revealed substantial heterogeneity in datasets, evaluation metrics, and validation protocols, while reliance on high-performance computational infrastructure poses a barrier to point-of-care deployment in resource-constrained clinics. We conclude that while deep learning architectures hold significant promise as clinical decision-support tools, transitioning to routine veterinary practice requires prospective external validation, representative open-access datasets, and lightweight models optimized for conventional clinical hardware.",
+      "affiliations": [
+        "Facultad de Ingenier&#xed;a en Sistemas e Inform&#xe1;tica, Universidad Tecnol&#xf3;gica del Per&#xfa;, Lima, Peru.",
+        "Centro de Apoyo Log&#xed;stico al Investigador (CALI), Universidad Tecnol&#xf3;gica del Per&#xfa;, Lima, Peru."
+      ],
+      "keywords": [
+        "artificial intelligence",
+        "computational infrastructure",
+        "deep learning",
+        "diagnostic imaging",
+        "disease detection",
+        "veterinary oncology"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991501",
+      "title": "Dietary acrylamide and AGE products in processed pet food: a review of the evidence and implications for safety thresholds in dogs and cats.",
+      "authors": "Hopf A, Muir M, England A, Dehghani F",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991501/",
+      "abstract": "Traditionally processed pet foods, including kibble (dry), and retorted or canned formats (wet), are manufactured using high-temperature thermal processing methods that drive the formation of Maillard reaction products (MRPs) and acrylamide (AA). Dogs and cats commonly consume the same traditionally processed food as a daily dietary staple over prolonged periods, resulting in chronic, sustained dietary exposure to these compounds. In humans and rodents, dietary advanced glycation end products (AGEs) and AA are associated with diabetes, cardiovascular disease, neurodegeneration, and forms of cancer through mechanisms including oxidative stress, chronic inflammation, protein cross-linking, and activation of the receptor for advanced glycation end-products (RAGE). Dietary restriction of these compounds reduces disease markers in humans and rodents. Studies in companion animals indicate that dietary AGE intake influences systemic AGE exposure, and that mildly processed diets are linked to lower circulating AGE concentrations. Adverse health outcomes attributable to these compounds have not been demonstrated in companion animals. Unlike for human food, no regulatory benchmarks for acrylamide exist in pet foods, and no benchmarks for AGEs exist in any jurisdiction. This review examines the evidence on dietary AGEs and AA and health outcomes in humans and rodents, considers its potential relevance to companion animals, and discusses mildly processed diets as an alternative approach worth investigating.",
+      "affiliations": [
+        "School of Chemical and Biomedical Engineering, University of Sydney, Darlington, NSW, Australia.",
+        "Pet Longevity Institute (PLI), Alexandria, NSW, Australia.",
+        "Lyka Pet Food, Sydney, NSW, Australia."
+      ],
+      "keywords": [
+        "acrylamide",
+        "advanced glycation end products (AGEs)",
+        "chronic disease burden",
+        "companion animal",
+        "dietary exposure and hazard"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991092",
+      "title": "Baseline erythrocyte sedimentation rate is associated with mortality in dogs with chronic kidney disease.",
+      "authors": "Moon CH, Joo JB, Ro WB, Lee CM",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991092/",
+      "abstract": "BACKGROUND: Chronic kidney disease (CKD) in dogs has variable survival outcomes and systemic complications not fully captured by renal excretory markers. Erythrocyte sedimentation rate (ESR) may reflect cumulative systemic disease burden, but its prognostic relevance in canine CKD remains unclear. OBJECTIVE: To evaluate the prognostic value of baseline ESR in dogs with CKD and its contribution to mortality risk stratification with conventional clinical and renal variables. Animals: A total of 272 dogs were included: 145 healthy controls and 127 dogs with CKD. METHODS: Associations among ESR, clinicopathological variables, CKD stage, and survival were assessed. Prognostic factors were evaluated using receiver operating characteristic (ROC) curve analysis and Cox proportional hazards regression. Two exploratory composite risk scores were constructed from multivariable Cox regression coefficients: one excluding ESR and one incorporating ESR. Their apparent performance was compared using areas under the ROC curve (ROC-AUCs) and Kaplan-Meier survival analyses. RESULTS: Non-survivors had a higher ESR than survivors [median (IQR), 21 (13-40) vs. 11 (8-14) mm/h; p&#x202f;&lt;&#x202f;0.0001]. The optimal ESR cut-off was 16&#x202f;mm/h, and ESR alone had an ROC-AUC of 0.79 [95% confidence interval (CI), 0.71-0.88]. An ESR of &#x2265;16&#x202f;mm/h remained associated with mortality in multivariable Cox regression analysis (hazard ratio, 3.42; 95% CI, 1.78-6.64). The scores incorporating and excluding ESR had apparent ROC-AUCs of 0.87 (95% CI, 0.81-0.93) and 0.85 (95% CI, 0.79-0.92), respectively, with no statistically significant difference between them (paired DeLong test, p&#x202f;=&#x202f;0.39). CONCLUSION: Baseline ESR was associated with disease severity and all-cause mortality in dogs with CKD. Baseline ESR may provide complementary prognostic information when interpreted with conventional renal and clinical variables. The ESR-inclusive composite score should be considered exploratory and requires external validation.",
+      "affiliations": [
+        "Department of Veterinary Internal Medicine, College of Veterinary Medicine and BK21 FOUR program, Chonnam National University, Gwangju, Republic of Korea.",
+        "SNC Animal Medical Center, Seoul, Republic of Korea.",
+        "Shine Animal Medical Center, Seoul, Republic of Korea."
+      ],
+      "keywords": [
+        "inflammatory biomarker",
+        "multi-biomarker risk score",
+        "prognosis",
+        "risk stratification",
+        "survival analysis"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42991074",
+      "title": "Propolis as an alternative treatment for companion animal skin infections: addressing antimicrobial resistance.",
+      "authors": "Adra C, Olsson MA, Horn R, Tran TD",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991074/",
+      "abstract": "Bacterial skin infections are among the most prevalent health concerns in companion animals and represent a primary driver for antimicrobial prescriptions within veterinary practices. The widespread use of empirical broad-spectrum antibiotic prescribing has contributed to the emergence of antimicrobial-resistant pathogens, including Staphylococcus pseudintermedius and Pseudomonas aeruginosa in veterinary dermatology. This resistance complicates treatment outcomes and raises broader public health concerns under the One Health framework. Consequently, there is a growing need for alternative antimicrobial strategies that can reduce the reliance on conventional antibiotics. Propolis, a resinous substance produced by bees, has gained attention as a potential candidate due to its wide range of biological activities including antimicrobial, anti-inflammatory and wound healing. This structured narrative review evaluates the current evidence for propolis in the treatment of dermatologic infections in companion animals. The available evidence demonstrates that propolis exhibits antimicrobial activity against key veterinary dermatologic pathogens including Staphylococcus spp., Pseudomonas aeruginosa, Malassezia pachydermatis and dermatophytes. However, this evidence is primarily based on in vitro studies with very limited clinical data. While clinical studies have examined propolis in other veterinary dermatologic applications, no clinical trials to date have specifically investigated its use in the treatment of canine pyoderma, a common and frequently recurring skin infection in canine practice. Recommendations for future research include controlled clinical trials evaluating propolis for the treatment of companion animal skin infections as an adjunct to, or potential alternative for, conventional antibiotics, the development of standardization protocols due to the chemically heterogeneous nature of propolis and refinement of delivery systems. Overall, these findings support the promising potential of propolis as a treatment for skin infections in companion animals.",
+      "affiliations": [
+        "Centre for Bioinnovation, University of the Sunshine Coast, Sippy Downs, QLD, Australia.",
+        "School of Science, Technology and Engineering, University of the Sunshine Coast, Sippy Downs, QLD, Australia.",
+        "Eumundi Vets, Eumundi, QLD, Australia."
+      ],
+      "keywords": [
+        "One Health",
+        "antimicrobial resistance",
+        "bee products",
+        "companion animals",
+        "propolis",
+        "skin infections",
+        "veterinary dermatology"
       ],
       "mesh": [],
       "category": "surgery",
@@ -12589,13 +12718,13 @@
       "mesh": [
         "Animals",
         "Dogs",
-        "Tranexamic Acid",
-        "Blood Loss, Surgical",
-        "Antifibrinolytic Agents",
         "Female",
         "Male",
+        "Antifibrinolytic Agents",
+        "Blood Loss, Surgical",
+        "Laminectomy",
         "Prospective Studies",
-        "Laminectomy"
+        "Tranexamic Acid"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
