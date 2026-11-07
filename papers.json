@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07 02:10 UTC",
-  "total": 12243,
+  "updated": "2026-11-07 06:22 UTC",
+  "total": 12248,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,89 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42994409",
+      "title": "Tibial Anatomy and Functional Outcome in Growing Dogs with Tibial Tuberosity Avulsion Fracture Repair Followed by Implant Removal.",
+      "authors": "Hayes SN, Franklin AL, Franklin SP",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994409/",
+      "abstract": "OBJECTIVES: The aims of this study were to compare tibial anatomy between a cohort of dogs that had implants removed following repair of tibial tuberosity avulsion fracture and a historical cohort that had implants left in situ, and to objectively quantify patient function to determine if deformity resulted in impaired function. METHODS: Dogs that had open reduction and fixation of tibial tuberosity avulsion fracture with subsequent implant removal (Cohort A) had radiographs of both hindlimbs and objective gait analysis. Tibial plateau angle, patellar position, axial and transverse tibial tuberosity position, and total pressure index were compared between operated and normal limbs. Measurements of tibial anatomy of the operated limbs were then compared with a historical cohort of dogs that did not have implants removed (Cohort B). RESULTS: Five dogs in Cohort A had implants removed 23 to 28 days after tibial tuberosity avulsion fracture repair with no refractures. Operated limbs had a lower tibial plateau angle, greater axial tibial tuberosity position and smaller transverse tibial tuberosity position when compared with normal limbs, but there was no significant difference in total pressure index between operated and normal limbs. There were no clearly meaningful differences in tibial anatomy between Cohort A and B. However, Cohort A had no dogs with a tibial plateau angle less than 0 degrees, while 2/6 dogs in Cohort B had a negative tibial plateau angle. CONCLUSION: Implant removal 23 to 28 days after tibial tuberosity avulsion fracture repair did not preserve normal tibial anatomy; however, objective function was maintained.",
+      "affiliations": [
+        "Kansas City Canine Orthopedics, Kansas, United States, Shawnee."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994099",
+      "title": "Surgical outcomes of congenital cleft palate repair in dogs: a scoping review.",
+      "authors": "Elazegui E, Wolfs E",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994099/",
+      "abstract": "BACKGROUND: Congenital cleft palate (CFP) is a common orofacial malformation in dogs associated with substantial morbidity and neonatal mortality. The objective of this scoping review was to map the current veterinary literature describing surgical approaches, reported outcomes, complications, and evidence gaps following surgical repair of canine CFPs. METHODS: A scoping review was conducted and reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (ie, PRISMA-ScR) framework. PubMed, Web of Science, and Google Scholar were searched through January 21, 2026. Two reviewers independently screened records and charted outcomes. Eligible studies reported clinical data on surgical management of canine CFP, including oronasal fistula formation, revision surgery, or postoperative complications. \"Experimental Design Grade\" and \"Evidence Grade\" were used as descriptive critical appraisal tools. These grades were not considered formal risk-of-bias assessments. RESULTS: 19 studies involving 122 dogs met inclusion criteria. No prospective studies were identified. Surgical approaches included von Langenbeck-type repairs, overlapping flap palatoplasty, and other mucoperiosteal or adjunctive reconstructive techniques. Oronasal fistula formation was the most commonly reported complication, ranging from 0% to 100%. Revision surgery was reported in up to 50% of cases. All included sources were classified as Experimental Design Grade III-V, and substantial heterogeneity existed in surgical techniques, outcome definitions, and follow-up duration (0.25 to 127 months). No surgical technique demonstrated consistent superiority. CLINICAL RELEVANCE: Multiple surgical techniques can achieve acceptable functional outcomes in dogs with CFPs; however, postoperative complications, particularly oronasal fistula formation, remain common. The current literature is limited by predominantly lower-level study designs and heterogeneity, highlighting the need for prospective studies with standardized outcome reporting.",
+      "affiliations": [],
+      "keywords": [
+        "cleft palate",
+        "cleft palate repair",
+        "oronasal fistula",
+        "palatoplasty",
+        "palatoschisis"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994089",
+      "title": "Coagulopathic manifestations as a primary presentation of canine angiostrongylosis: a retrospective case series.",
+      "authors": "Van Heuckelom E, Biscop A, Bhatti SFM, Stammeleer L, Decorte B, Paepe D",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994089/",
+      "abstract": "OBJECTIVE: To describe the clinical presentations, diagnostic findings, and treatment outcomes of 3 dogs with atypical, predominantly coagulopathic manifestations of Angiostrongylus vasorum infection and to highlight the associated diagnostic challenges. ANIMALS: 3 client-owned dogs presented at a veterinary referral hospital in Flanders, Belgium, between March 2018 and April 2022. Cases were eligible for inclusion if coagulopathic manifestations were a predominant component of the clinical presentation and canine angiostrongylosis diagnosis was confirmed. CLINICAL PRESENTATION: The 3 included dogs were male and aged 8 months, 1 year, and 5 years. They presented with clinical signs attributed to hemarthrosis, intracranial hemorrhage, or both, with onset and progression varying among patients. Respiratory signs were absent in 1 dog and mild in 2 dogs, and initial diagnostic considerations included primary orthopedic or neurological disease. RESULTS: All dogs exhibited coagulation abnormalities consistent with consumptive coagulopathy, including thrombocytopenia, prolonged clotting times, and/or increased D-dimer concentrations. Infection with A vasorum was confirmed by serological antigen detection and/or fecal Baermann examination. Imaging findings included joint swelling, intracerebral hemorrhage, and mild interstitial pulmonary changes. Treatment consisted of anthelmintic therapy with adjunctive corticosteroids, and 2 dogs received plasma transfusion. All dogs recovered with resolution of clinical signs and normalization of laboratory abnormalities. CLINICAL RELEVANCE: These cases highlight the importance of including canine angiostrongylosis in the differential diagnosis for dogs presenting with unexplained coagulopathy or hemorrhage, even in the absence of respiratory signs, particularly in regions where the parasite is emerging. Early diagnosis and treatment are critical to prevent potentially life-threatening complications.",
+      "affiliations": [
+        "1Small Animal Department, Faculty of Veterinary Medicine, Ghent University, Merelbeke-Melle, Belgium.",
+        "2Department of Translational Physiology, Infectiology and Public Health, Faculty of Veterinary Medicine, Ghent University, Merelbeke-Melle, Belgium."
+      ],
+      "keywords": [
+        "Angio Detect",
+        "Angiostrongylus vasorum",
+        "angiostrongylosis",
+        "coagulopathy",
+        "intracranial hemorrhage"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42994086",
+      "title": "Premedication with medetomidine compared to acepromazine reduces the risk of hypotension and mild acute kidney injury in healthy dogs undergoing gonadectomy surgery: results of a randomized clinical trial.",
+      "authors": "Quinn CT, Walton AN",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994086/",
+      "abstract": "OBJECTIVE: To compare premedication with medetomidine or acepromazine in regard to hypotension and acute kidney injury (AKI) in dogs undergoing elective gonadectomy. METHODS: This randomized clinical trial included healthy dogs &#x2265; 6 months of age undergoing gonadectomy in a university teaching hospital. Exclusion criteria were weight &lt; 4 kg, American Society of Anesthesiologists risk &gt; 2, or cardiovascular/renal disease. Premedication consisted of methadone and medetomidine at 0.3 to 5 &#xb5;g/kg or acepromazine at 0.01 to 0.05 mg/kg IM. Anesthesia was induced with alfaxalone and maintained with isoflurane. Hypotension (mean arterial pressure &lt; 60 mm Hg) frequency, severity, and duration; recovery temperature; and vomiting and pain interventions were compared. Oliguria 24 hours postoperatively was defined as no urination with low-volume bladder. Serum creatinine was measured from blood before and 24 hours after surgery. Acute kidney injury was defined as an increase of &gt; 26.5 &#xb5;mol/L. RESULTS: The medetomidine group included 51 dogs and the acepromazine group 43. There were no differences in preoperative characteristics, anesthetic doses, or time. Hypotension was significantly less frequent (51% vs 84%), had a shorter duration (14 &#xb1; 20.2 minutes vs 26 &#xb1; 24.2 minutes), and was less severe (lowest mean arterial pressure 60.0 &#xb1; 14.9 mm Hg vs 51 &#xb1; 10.3 mm Hg) following medetomidine. Acute kidney injury was less frequent in the medetomidine group (9.8% vs 20.9%), with no oliguric AKI cases compared to 4 following acepromazine. There were no differences in postoperative hypothermia or treatments for vomiting or pain. CONCLUSIONS: Premedication with medetomidine results in a lower frequency and duration of hypotension and might reduce the risk of AKI. CLINICAL RELEVANCE: For healthy dogs undergoing elective surgery, premedication with medetomidine is preferable to acepromazine.",
+      "affiliations": [],
+      "keywords": [
+        "acepromazine",
+        "acute kidney injury",
+        "dog",
+        "hypotension",
+        "medetomidine"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
     {
       "id": "42983862",
       "title": "Immunohistochemical study on spinal cord ependymal cells and ependymomas in dogs.",
@@ -2706,6 +2789,31 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "42995017",
+      "title": "Pitfalls of M-mode echocardiography end-diastolic and end-systolic measurements: a study of 154 dogs with myxomatous mitral valve disease.",
+      "authors": "Lobo L, Pereira GGCM, Pires MJ",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 10",
+      "sortdate": "2026-10-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995017/",
+      "abstract": "INTRODUCTION/OBJECTIVES: Echocardiographic assessment of myxomatous mitral valve disease (MMVD) includes measurement of the left ventricular internal dimension at the end-diastole (LVIDd) and at the end-systole (LVIDs), using established cardiac cycle markers. The LVIDd is measured at the QRS onset, which may not coincide with the maximal internal dimension. The LVIDs is obtained at maximum septal contraction, which in dogs with non-synchronous contraction (NSC) between the septal and free wall, may not correspond to the minimal internal dimension. This study investigates alternative measurement methods and their potential impact on MMVD staging. ANIMALS, MATERIALS AND METHODS: A retrospective analysis of echocardiographic examinations from 154 dogs with MMVD was performed. Twenty-five dogs displayed NSC and were selected for LVIDs assessment. The LVIDd was measured at the onset of the QRS complex (method D1, recommended by the American College of Veterinary Internal Medicine [ACVIM]) and at the largest chamber diameter (method D2). In dogs with NSC, the LVIDs was measured using maximum septal contraction point (method S1) and minimum septal-to-free wall distance (method S2). RESULTS: The LVIDd values were significantly lower with method D1 in 152 dogs (P&lt;0.001). Using method D2, 12 dogs exceeded the the body-weight-normalized LVIDd threshold of 1.7. In NSC dogs, LVIDs values were significantly higher with method S1 (P&lt;0.001). STUDY LIMITATIONS: Limitations included operator subjectivity and observational NSC. CONCLUSIONS: The measurement method influences LVIDd and LVIDs values. Although method D2 is not ACVIM- recommended, its application could hypothetically alter staging outcomes, highlighting the effect of measurement timing.",
+      "affiliations": [
+        "Onevet Hospital Veterin&#xe1;rio do Porto, R. Palmeiras 19, 4150-562, Porto, Portugal; Faculdade de Medicina Veterin&#xe1;ria, Universidade Lus&#xf3;fona, Campo Grande 376, 1749-024, Lisboa, Portugal; Centro de Estudos de Ci&#xea;ncia Animal, Campus Agr&#xe1;rio de Vair&#xe3;o, 4480-009, Vila do Conde, Portugal.",
+        "Universidade de Tr&#xe1;s-Os-Montes e Alto Douro, 5000-801, Vila Real, Portugal; Onevet Cl&#xed;nica Veterin&#xe1;ria Gondomar, Av. Oliveira Martins 75, 4420-230, Gondomar, Portugal. Electronic address: guilherme9pereira@gmail.com.",
+        "Centro de Investiga&#xe7;&#xe3;o e Tecnologias Agroambientais e Biol&#xf3;gicas (CITAB), Inov4Agro, Universidade de Tr&#xe1;s-Os-Montes e Alto Douro, 5000-801, Vila Real, Portugal; Departamento de Ci&#xea;ncias Veterin&#xe1;rias, Universidade de Tr&#xe1;s-Os-Montes e Alto Douro, 5000-801, Vila Real, Portugal."
+      ],
+      "keywords": [
+        "Asynchrony",
+        "Cardiopathy",
+        "Staging",
+        "Timing",
+        "Ventricle"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
