@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08 01:42 UTC",
-  "total": 12248,
+  "updated": "2026-11-08 06:27 UTC",
+  "total": 12251,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,39 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "42998873",
+      "title": "A blinded, non-inferiority randomised clinical trial comparing the efficacy and safety of low-dose methotrexate and ciclosporin for the control of moderate to severe canine atopic dermatitis.",
+      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idee A, Buendia E, Germain PA, Cochet-Faivre N, Meyer L, Legain M",
+      "journal": "Vet J",
+      "date": "2026 Nov 07",
+      "sortdate": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998873/",
+      "abstract": "BACKGROUND: Canine atopic dermatitis (cAD) is a chronic, inflammatory skin disease that may require long-term systemic immunomodulatory treatment. Low-dose methotrexate (MTX) is an inexpensive immunomodulator used in human dermatology, but robust veterinary data are lacking. OBJECTIVE: To determine whether weekly subcutaneous low-dose MTX is non-inferior to oral ciclosporin (CsA) in controlling moderate-to-severe cAD. ANIMALS: Fifty-five client-owned dogs with non-seasonal moderate-to-severe cAD enrolled at nine dermatology centres in France. MATERIALS AND METHODS: Randomised, double-blind, positive-controlled, multicentre non-inferiority trial. Dogs received either subcutaneous MTX (0.15-0.5mg/kg/week) plus oral placebo, or oral CsA (5mg/kg/day, then spaced) plus injectable placebo. The primary endpoint was the percentage reduction in the CADESI-04 lesional score on week 28 (non-inferiority margin 20%). Secondary endpoints included the Pruritus Visual Analogue Scale (PVAS) and CADESI-04 scores, assessed 4-weekly, and drug protocol safety assessments. RESULTS: Fifty-five dogs were randomised (MTX n=28; CsA n=27). At week 28, mean CADESI-04 reductions were 65.4% (MTX) and 69.5% (CsA), demonstrating non-inferiority. CsA induced faster improvement (weeks 4-12), but efficacy converged by week 20. Gastrointestinal adverse events occurred more frequently with MTX (82%) than with CsA (70%). No consistent haematological, renal or hepatic injury was observed during the study. Two MTX-treated dogs developed severe liver disease during long-term follow-up. CLINICAL RELEVANCE: Weekly subcutaneous low-dose MTX provided non-inferior control of lesions and pruritus compared with CsA by week 28. Although slower in onset and associated with more gastrointestinal adverse events, MTX may represent an affordable long-term cAD treatment option, with appropriate hepatic monitoring.",
+      "affiliations": [
+        "Oniris, INRAE, BIOEPAR, 44300 Nantes, France; Oniris VetAgroBio Nantes, 44300 Nantes, France. Electronic address: antoine.rostang@oniris-nantes.fr.",
+        "Universit&#xe9; de Lyon, VetAgro Sup, UPSP ICE 2016.A104, Marcy l'&#xe9;toile, France.",
+        "CHV Languedocia, Montpellier, France.",
+        "Ecole Nationale V&#xe9;t&#xe9;rinaire de Toulouse, University of Toulouse, Toulouse, France; Toulouse Institute for Infectious and Inflammatory Diseases (INFINITy), Inserm, CNRS, University of Toulouse, Toulouse, France.",
+        "CHV OnlyVet, Saint Priest, France.",
+        "Clinique v&#xe9;t&#xe9;rinaire des Hutins, IVC Evidensia France, Saint Julien en Genevois, France.",
+        "Dermatology, Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, Maisons Alfort, France; Anses, INRAE, Ecole v&#xe9;t&#xe9;rinaire d'Alfort, Laboratoire de Sant&#xe9; Animale, BIPAR, Maisons Alfort, France.",
+        "Oniris VetAgroBio Nantes, 44300 Nantes, France.",
+        "UMS CREFRE-ANEXPLO, Universit&#xe9; de Toulouse, INSERM, UPS, ENVT, Toulouse, France.",
+        "Ecole Nationale V&#xe9;t&#xe9;rinaire de Toulouse, University of Toulouse, Toulouse, France."
+      ],
+      "keywords": [
+        "dermatology",
+        "dog",
+        "double-blind",
+        "immunomodulator",
+        "pruritus",
+        "veterinary"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "42994409",
       "title": "Tibial Anatomy and Functional Outcome in Growing Dogs with Tibial Tuberosity Avulsion Fracture Repair Followed by Implant Removal.",
@@ -1110,6 +1143,56 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "42997290",
+      "title": "Whippets have larger abdominal caudal vena cava to aorta ratios than other dogs on computed tomography.",
+      "authors": "Esmieu SL, Ma MH, Mantis P, Biondo S, Constantinescu R, Furtado ARR",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 23",
+      "sortdate": "2026-10-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997290/",
+      "abstract": "INTRODUCTION: Whippets are sighthounds with distinct cardiovascular adaptations associated with athletic performance. The caudal vena cava to aorta ratio (CVC/Ao) is an established index of intravascular volume status, assessed ultrasonographically and on computed tomography (CT) at thoracic and abdominal sites, but breed-specific differences remain unreported. We compared thoracic and abdominal CVC/Ao in whippets and non-whippet controls, and with published reference values, and hypothesised that whippets would have higher ratios. METHODS: Sixty-eight dogs without known cardiovascular disease (34 whippets, 34 non-whippet controls) were retrospectively reviewed. CTs were performed under general anaesthesia, with CVC/Ao measured at standardised abdominal and thoracic sites. Groups were compared with Welch's two-sample t-tests, sites within animals with paired t-tests, and analysis of covariance adjusted for weight and age. Significance was set at p &lt; 0.05. RESULTS: Whippets had significantly higher abdominal CVC/Ao than controls (1.54 &#xb1; 0.29 vs. 1.28 &#xb1; 0.23; p &lt; 0.001), whereas thoracic ratios did not differ (1.22 &#xb1; 0.23 vs. 1.28 &#xb1; 0.26; p = 0.29). The abdominal difference persisted after adjustment for weight and age (adjusted difference 0.29, 95% CI 0.15-0.42; p &lt; 0.001). Within whippets, abdominal ratios exceeded thoracic ratios (p &lt; 0.001), a difference not seen in controls (p = 0.99). The thoracic ratio declined with age independently of breed and weight (-0.023 per year; p = 0.002). Both groups exceeded published CT values at both sites, and a greater proportion of whippets than controls exceeded the ultrasonographic upper limit (73.5% vs. 41.2%; p = 0.007). Observed mean &#xb1; 2 SD limits were 0.96-2.13 (abdomen, whippets), 0.82-1.75 (abdomen, controls) and 0.76-1.74 (thorax, combined); these are cohort observations rather than breed-specific reference ranges. DISCUSSION: Whippets had larger abdominal CVC/Ao than controls, with comparable thoracic ratios, indicating a site-specific increase not attributable to body size or age. Because both groups exceeded published values, reference values are not transferable across imaging modality irrespective of breed or anaesthetic status. Modality-, breed- and possibly age-specific ranges are needed, and we provide preliminary limits as a starting point.",
+      "affiliations": [
+        "Dick White Referrals, Cambridgeshire, United Kingdom.",
+        "Veterinary Diagnostic Imaging Consultants Limited, Newmarket, Suffolk, United Kingdom."
+      ],
+      "keywords": [
+        "caudal vena cava to aorta ratio",
+        "computed tomography",
+        "general anaesthesia",
+        "intravascular volume",
+        "mean &#xb1; 2 SD",
+        "whippet"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "42996192",
+      "title": "Effects of rifaximin on the fecal microbiota of healthy dogs: a pilot study.",
+      "authors": "Harada H, Tamura M, Kawabata M, Sakatani A, Deguchi T, Fukuda A, Usui M, Ohta H",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 23",
+      "sortdate": "2026-10-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42996192/",
+      "abstract": "INTRODUCTION: Rifaximin is a poorly absorbed antibiotic that is used for the treatment of hepatic encephalopathy in humans. However, it is important to evaluate the effects of antibiotics on the gut microbiota because antibiotics may alter gut microbial composition. This study aimed to investigate the effects of 28&#x202f;days rifaximin administration on the gut microbiota of healthy dogs. METHODS: Five healthy dogs were administered rifaximin (25&#x202f;mg/kg q12h) for 28&#x202f;days. Fecal samples were collected from the rectum on day 0 (before rifaximin administration), day 14, and day 28. Fecal microbiota composition and diversity were evaluated by 16S rRNA gene sequencing targeting the V3-V4 region at three time points. RESULTS: No adverse effects, including gastrointestinal symptoms, were observed during the administration. Firmicutes was the most abundant phylum at all time points, while Fusobacteriota, Bacteroidota, and Actinobacteriota were also major phyla. No significant changes were observed in alpha diversity metrics, including amplicon sequence variants (p&#x202f;=&#x202f;0.449), Chao1 (p&#x202f;=&#x202f;0.241), and the Shannon index (p&#x202f;=&#x202f;0.248), and beta diversity metrics, including weighted UniFrac distances (p&#x202f;=&#x202f;0.471), unweighted UniFrac distances (p&#x202f;=&#x202f;0.157), and Bray-Curtis dissimilarities (p&#x202f;=&#x202f;0.089). CONCLUSION: No statistically significant changes in fecal microbiota alpha or beta diversity were detected following 28&#x202f;days of rifaximin administration. Given the small sample size and lack of an untreated control group, these findings should be interpreted as preliminary and do not provide evidence to guide clinical use of rifaximin in dogs.",
+      "affiliations": [
+        "Companion Animal Internal Medicine, Department of Companion Animal Clinical Sciences, School of Veterinary Medicine, Rakuno Gakuen University, Ebetsu, Hokkaido, Japan.",
+        "Food Microbiology and Food Safety Unit, Division of Preventive Veterinary Medicine, School of Veterinary Medicine, Rakuno Gakuen University, Ebetsu, Hokkaido, Japan."
+      ],
+      "keywords": [
+        "16S rRNA",
+        "antibiotics",
+        "dysbiosis",
+        "gut microbiota",
+        "healthy dogs",
+        "rifaximin"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
