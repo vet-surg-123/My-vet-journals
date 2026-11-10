@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09 07:00 UTC",
-  "total": 12252,
+  "updated": "2026-11-10 04:18 UTC",
+  "total": 12254,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -34,6 +34,57 @@
         "gastric perforation",
         "septic peritonitis",
         "surgical management"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43001339",
+      "title": "Laparoscopic-assisted treatment of giant urachal cyst in a female Dachshund.",
+      "authors": "Park J, Lee WJ, Jeong J, Lee H, Jeong SM, Kim DH",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 09",
+      "sortdate": "2026-11-09",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43001339/",
+      "abstract": "OBJECTIVE: To describe the clinical features and successful surgical management of a giant, symptomatic urachal cyst (UC) in a dog using a laparoscopic-assisted approach without partial cystectomy. STUDY DESIGN: Case report. ANIMAL: A 10-year-old, 4.6&#x2009;kg, spayed female Dachshund. METHODS: The dog presented with urinary incontinence, pollakiuria, and abdominal distension. Computed tomography (CT) and cystography identified a 13-cm cystic lesion at the bladder apex without luminal communication. A laparoscopic exploration was initially attempted either for cyst resection, or for decortication combined with omentalization. Following percutaneous aspiration of the cyst, the lesion was dissected from the surrounding omental adhesion. Due to the inability to identify the course of both ureters and the indistinct anatomical margins between the cyst and the bladder, the procedure was converted to a mini-laparotomy. The cystic wall was readily separated from the bladder apex by blunt dissection and completely excised after circumferential incision at the external junction between the cyst and the bladder using a vessel sealing device. Following omentalization of the cyst resection site, the bladder was returned to its anatomical position within the peritoneal cavity. RESULTS: Postoperative recovery was uneventful. Transient apical bulging and discomfort during bladder distension were observed on postoperative cystography, attributed to a localized compliance mismatch between the denuded bladder wall and the stiffer, thermally coagulated region. Bladder capacity normalized by day 21 with a normal bladder silhouette. Histopathology confirmed a subserosal UC with no evidence of malignancy. The patient remained clinically well, and no recurrence was noted during a 20-month follow-up. CONCLUSION: Laparoscopic-assisted resection was an effective, minimally invasive treatment for the giant UC in this dog. Consistent with current human medical guidelines, simple marginal excision without partial cystectomy proved feasible and sufficient for a UC lacking luminal communication, regardless of lesion size.",
+      "affiliations": [
+        "Department of Veterinary Surgery, Time Animal Medical Center, Daejeon, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chungnam National University, Daejeon, Republic of Korea."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43000681",
+      "title": "Comparative Immunoreactivity of iNOS, PCNA and p53 in Stable and Progressive Canine Transmissible Venereal Tumours.",
+      "authors": "Dincel GC, Yıldırım S, Anteplioğlu T, İlhan F, Karasu A, Cetin N, AlOlayan E, El-Ashram S",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 08",
+      "sortdate": "2026-11-08",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000681/",
+      "abstract": "Canine transmissible venereal tumour (CTVT) is a naturally occurring transmissible neoplasm with variable biological behaviour, including progressive growth, stationary behaviour and spontaneous regression. However, the marker-expression patterns associated with these clinicopathological phenotypes remain incompletely characterised. The present study investigated iNOS, PCNA and p53 expression in CTVT and evaluated their association with the operational clinicopathological phenotype. Sixteen genital CTVT samples obtained from surgically treated dogs were classified as stable (n&#x2009;=&#x2009;7) or progressive (n&#x2009;=&#x2009;9) using predefined criteria requiring concordance between local invasion and quantitative mitotic count. Immunohistochemistry was performed for iNOS, PCNA, p53 and cytokeratin (CK), and immunoreactivity was evaluated semiquantitatively by two blinded observers. Progressive tumours showed significantly higher iNOS, PCNA and p53 immunoreactivity scores than stable tumours. Across the three markers, median scores ranged from 0 to 1 in stable tumours and were 3 in progressive tumours, with significant differences in all comparisons (Mann-Whitney U&#x2009;=&#x2009;0.0; two-sided exact p&#x2009;=&#x2009;0.0002). iNOS immunoreactivity was predominantly cytoplasmic in tumour cells, with occasional staining in vascular endothelial and inflammatory cells, whereas PCNA and p53 showed widespread nuclear positivity in progressive tumours and more limited expression in stable tumours. CK immunoreactivity was absent in all samples, consistent with the absence of detectable cytokeratin expression in the examined tumours. To our knowledge, the present study provides the first tumour-cell-focused characterisation of iNOS immunoreactivity in CTVT, evaluated concurrently with PCNA and p53 across operationally defined stable and progressive clinicopathological phenotypes.",
+      "affiliations": [
+        "Department of Medical Pathology, Faculty of Medicine, Ankara Medipol University, Ankara, T&#xfc;rkiye.",
+        "Department of Pathology, Faculty of Veterinary Medicine, University of Atat&#xfc;rk, Erzurum, T&#xfc;rkiye.",
+        "Department of Pathology, Faculty of Veterinary Medicine, Kyrgyz-Turkish Manas University, Chingiz Aitmatov Campus, Djal, Bishkek, Kyrgyzstan.",
+        "Department of Pathology, Faculty of Veterinary Medicine, University of K&#x131;r&#x131;kkale, K&#x131;r&#x131;kkale, T&#xfc;rkiye.",
+        "Department of Pathology, Faculty of Veterinary Medicine, University of Balikesir, Bal&#x131;kesir, T&#xfc;rkiye.",
+        "Department of Surgery, Faculty of Veterinary Medicine, University of Van Yuzuncu Yil, Van, T&#xfc;rkiye.",
+        "Department of Obstetrics and Gynecology, Faculty of Veterinary Medicine, University of Van Yuzuncu Yil, Van, T&#xfc;rkiye.",
+        "Infectious Disease Vaccines Research Chair, Department of Zoology, King Saud University, Riyadh, Saudi Arabia.",
+        "Zoology Department, Faculty of Science, Kafrelsheikh University, Kafr El-Sheikh, Egypt.",
+        "Key Laboratory of Livestock Infectious Diseases, Ministry of Education, College of Animal Science and Veterinary Medicine, Shenyang Agricultural University, Shenyang, China."
+      ],
+      "keywords": [
+        "PCNA",
+        "canine transmissible venereal tumour",
+        "clinicopathological phenotype",
+        "iNOS",
+        "immunohistochemistry",
+        "p53"
       ],
       "mesh": [],
       "category": "surgery",
@@ -7488,7 +7539,16 @@
         "tumour microenvironment",
         "tumour&#x2010;infiltrating lymphocytes"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Sarcoma",
+        "Neoplasm Recurrence, Local",
+        "Female",
+        "Male",
+        "Tumor Microenvironment"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -8066,7 +8126,17 @@
         "mammary tumours",
         "mastectomy"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Female",
+        "Mammary Neoplasms, Animal",
+        "Prognosis",
+        "Neoplasm Staging",
+        "Risk Factors",
+        "Carcinoma"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -8192,7 +8262,18 @@
         "social media",
         "veterinary clinics"
       ],
-      "mesh": [],
+      "mesh": [
+        "Dogs",
+        "Animals",
+        "Dog Diseases",
+        "Neoplasms",
+        "Quality of Life",
+        "Decision Making",
+        "Retrospective Studies",
+        "Humans",
+        "Ownership",
+        "Social Media"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -9302,7 +9383,18 @@
         "immunotherapy",
         "toxicity"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Skin Neoplasms",
+        "Radiation Dose Hypofractionation",
+        "Combined Modality Therapy",
+        "Mastocytoma",
+        "Antibodies, Monoclonal"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -11694,7 +11786,18 @@
         "cancer",
         "canine"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Hemangiosarcoma",
+        "Arginine",
+        "Female",
+        "Prospective Studies",
+        "Male",
+        "Lymphoma",
+        "Splenic Neoplasms"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -12440,7 +12543,19 @@
         "radiation therapy",
         "surgery"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Osteosarcoma",
+        "Retrospective Studies",
+        "Dog Diseases",
+        "Female",
+        "Bone Neoplasms",
+        "Male",
+        "Pelvic Bones",
+        "Prognosis",
+        "Treatment Outcome"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -13183,7 +13298,18 @@
         "cytosine arabinoside",
         "feline"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cytarabine",
+        "Cat Diseases",
+        "Female",
+        "Lymphoma",
+        "Male",
+        "Retrospective Studies",
+        "Infusions, Intravenous",
+        "Antimetabolites, Antineoplastic"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -13485,7 +13611,21 @@
         "immunohistochemistry",
         "mismatch repair"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Pilot Projects",
+        "Immunohistochemistry",
+        "DNA Mismatch Repair",
+        "Cat Diseases",
+        "Neoplasms",
+        "DNA-Binding Proteins",
+        "MutL Protein Homolog 1",
+        "MutS Homolog 2 Protein",
+        "Cross Reactions",
+        "Cell Line, Tumor",
+        "Antibodies"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -13874,7 +14014,22 @@
         "ihc",
         "topo II&#x3b1;"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Adenocarcinoma",
+        "DNA Topoisomerases, Type II",
+        "Adenoma",
+        "Colorectal Neoplasms",
+        "Female",
+        "Male",
+        "Colonic Polyps",
+        "Gene Expression Regulation, Neoplastic",
+        "DNA-Binding Proteins",
+        "Intestinal Mucosa",
+        "Immunohistochemistry"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -13897,7 +14052,16 @@
         "immunotherapy",
         "mucosal melanoma"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Melanoma",
+        "Mouth Neoplasms",
+        "Humans",
+        "Immunotherapy",
+        "Disease Models, Animal"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -13919,7 +14083,16 @@
         "mast cell tumour",
         "perivulvar"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Male",
+        "Retrospective Studies",
+        "Female",
+        "Mastocytoma",
+        "Proto-Oncogene Proteins c-kit"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -14337,7 +14510,17 @@
         "mammary neoplasms",
         "three&#x2010;dimensional culture"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cobalt",
+        "Mammary Neoplasms, Animal",
+        "Female",
+        "Cell Line, Tumor",
+        "Dog Diseases",
+        "Neovascularization, Pathologic",
+        "Gene Expression Regulation, Neoplastic"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -14455,7 +14638,21 @@
         "neoplasms",
         "vascular tissue"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Fluvastatin",
+        "Dog Diseases",
+        "Cell Line, Tumor",
+        "Hemangiosarcoma",
+        "Dipyridamole",
+        "Cholesterol",
+        "Lipid Metabolism",
+        "L-Lactate Dehydrogenase",
+        "Xenograft Model Antitumor Assays",
+        "Humans",
+        "Gene Expression Regulation, Neoplastic"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -17505,7 +17702,21 @@
         "oral neoplasia",
         "radiomics"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Lymphatic Metastasis",
+        "Radiomics",
+        "Mouth Neoplasms",
+        "Machine Learning",
+        "Retrospective Studies",
+        "Tomography, X-Ray Computed",
+        "Female",
+        "Male",
+        "Lymph Nodes",
+        "Neck"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -17967,7 +18178,18 @@
         "clinical trial",
         "osteosarcoma"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Killer Cells, Natural",
+        "Dog Diseases",
+        "Osteosarcoma",
+        "Female",
+        "Cell Line, Tumor",
+        "Neoplasms",
+        "Male",
+        "Neoplasm Metastasis"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -18851,7 +19073,18 @@
         "neck dissection",
         "oral cancer"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Female",
+        "Lymphatic Metastasis",
+        "Sentinel Lymph Node Biopsy",
+        "Male",
+        "Mouth Neoplasms",
+        "Sentinel Lymph Node"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -19010,7 +19243,18 @@
         "tumour margin inking",
         "veterinary pathology"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Skin Neoplasms",
+        "Dog Diseases",
+        "Aerosols",
+        "Prospective Studies",
+        "Margins of Excision",
+        "Female",
+        "Ink",
+        "Coloring Agents"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -19037,7 +19281,22 @@
         "postoperative therapy",
         "recurrence"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Electrochemotherapy",
+        "Sarcoma",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Neoplasm Recurrence, Local",
+        "Bleomycin",
+        "Antibiotics, Antineoplastic",
+        "Combined Modality Therapy",
+        "Chemotherapy, Adjuvant",
+        "Soft Tissue Neoplasms"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -19664,7 +19923,19 @@
         "nano&#x2010;micelles",
         "triple&#x2010;negative breast cancer"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Female",
+        "Dogs",
+        "Micelles",
+        "Mammary Neoplasms, Animal",
+        "Antineoplastic Agents",
+        "Dog Diseases",
+        "Polyethylene Glycols",
+        "Cell Line, Tumor",
+        "Polyesters",
+        "Nanoparticles"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -19951,7 +20222,7 @@
     },
     {
       "id": "42400110",
-      "title": "Long-Term Outcome of Electrochemotherapy in the Treatment of Advanced Stages (T(3)-T(4)) of Feline Nasal Planum Squamous Cell Carcinoma.",
+      "title": "Long-Term Outcome of Electrochemotherapy in the Treatment of Advanced Stages (T(3) -T(4) ) of Feline Nasal Planum Squamous Cell Carcinoma.",
       "authors": "Franchini D, Laino I, Perrone C, Di Bello A, Ciccarelli S",
       "journal": "Vet Comp Oncol",
       "date": "2026 Jul 03",
@@ -19967,7 +20238,19 @@
         "palliative therapy",
         "squamous cell carcinoma"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Electrochemotherapy",
+        "Carcinoma, Squamous Cell",
+        "Cat Diseases",
+        "Cats",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Nose Neoplasms",
+        "Treatment Outcome",
+        "Neoplasm Staging"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -24832,13 +25115,12 @@
       "mesh": [
         "Animals",
         "Cats",
-        "Cat Diseases",
-        "Sarcoma",
+        "Female",
         "Amputation, Surgical",
-        "Surgical Flaps",
+        "Cat Diseases",
         "Forelimb",
-        "Male",
-        "Female"
+        "Sarcoma",
+        "Surgical Flaps"
       ],
       "category": "surgery",
       "summary_ko": ""
@@ -34497,16 +34779,12 @@
       "affiliations": [],
       "keywords": [],
       "mesh": [
+        "Spinal Cord Neoplasms",
         "Animals",
         "Dogs",
+        "Retrospective Studies",
         "Dog Diseases",
-        "Meningioma",
-        "Female",
-        "Treatment Outcome",
-        "Male",
-        "Meningeal Neoplasms",
-        "Neoplasm Recurrence, Local",
-        "Spinal Cord Neoplasms"
+        "Meningioma"
       ],
       "category": "neurooncology",
       "summary_ko": ""
