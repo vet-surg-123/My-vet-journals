@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10 07:37 UTC",
-  "total": 12254,
+  "updated": "2026-11-11 02:07 UTC",
+  "total": 12263,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -453,6 +453,163 @@
       "summary_ko": ""
     },
     {
+      "id": "43008074",
+      "title": "Esophageal strictures associated with prolonged nasoesophageal tube placement in three cats.",
+      "authors": "Cho J, Kim M, Kim S, Lee J, Chae HK, Park C",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008074/",
+      "abstract": "Nasoesophageal tube placement for a prolonged period of time has not previously been associated with esophageal stricture in cats. Three cats with suspected hepatic lipidosis required extended enteral nutritional support because voluntary food intake remained &lt;&#x2009;25% of the calculated resting energy requirement. The cumulative duration of nasoesophageal tube placement was 24-37&#xa0;days. Regurgitation or retching developed within 1-3&#xa0;days after tube removal, and esophagoscopy identified severe focal strictures in the cervical esophagus at the C4-C6 vertebral level in all 3 cats. One cat underwent 3 endoscopic balloon dilatation sessions at 1-week intervals, with enlargement of the esophageal lumen. The consistent anatomic location and temporal association with prolonged tube placement suggest that extended nasoesophageal intubation may be a risk factor for cervical esophageal stricture formation in cats. When prolonged nutritional support is anticipated, transition to a feeding tube intended for long-term use should be considered.",
+      "affiliations": [
+        "Veterinary Internal Medicine, Jeonbuk National University, Iksan, Republic of Korea.",
+        "May Animal Medical Center, Jeonju, Republic of Korea.",
+        "Cheongju Korea Animal Medical Center, Cheongju, Republic of Korea.",
+        "College of Veterinary Medicine, Kyungpook National University, Daegu, Republic of Korea."
+      ],
+      "keywords": [
+        "enteral nutrition",
+        "feeding tube",
+        "mucosal injury",
+        "regurgitation"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Esophageal Stenosis",
+        "Enteral Nutrition",
+        "Intubation, Gastrointestinal",
+        "Female",
+        "Male",
+        "Esophagoscopy"
+      ],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "43008073",
+      "title": "Use of a novel low-fat hydrolyzed diet in the management of dogs with chronic enteropathy.",
+      "authors": "Hernández-Anllo C, Feo L, Hervera M, Puig J",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008073/",
+      "abstract": "BACKGROUND: Dietary management plays a central role in the diagnosis and treatment of chronic enteropathy (CE) in dogs. Although hydrolyzed-protein diets are commonly used in patients with CE, and dietary fat restriction is recommended in selected gastrointestinal disorders, the combined effect of low fat and hydrolyzed protein has not been specifically evaluated. HYPOTHESIS/OBJECTIVES: Assess clinical response and acceptability of a low-fat, hydrolyzed diet in dogs with CE. ANIMALS: Thirty-one client-owned dogs. METHODS: Prospective clinical study. Dogs were fed a commercial low-fat (2.01&#xa0;g/100&#xa0;kcal metabolizable energy) hydrolyzed salmon protein diet and stratified according to previous dietary history. Dogs were evaluated at baseline, 1&#xa0;month, and 3&#xa0;months. The primary outcome was clinical response, classified as complete response (CR), partial response (PR), or non-response (NR) based on gastrointestinal signs and the Canine Inflammatory Bowel Disease Activity Index (CIBDAI) score. Dogs with CR or PR were considered responders. Diet acceptability was assessed. RESULTS: At T1, 20 of 31 (64.5%) dogs were categorized as CR, 3 of 31 (9.7%) as PR, and 8 of 31 (25.8%) as NR. Twenty-three of 31 (74.2%) dogs had a positive clinical response. The CIBDAI scores decreased significantly from T0 to T1 (P&#xa0;&lt;&#xa0;.001). At T2, 94.4% of initial responders maintained CR. Diet acceptability was excellent in 75.0% of cases. CONCLUSIONS AND CLINICAL IMPORTANCE: This low-fat, hydrolyzed diet had significant short- and mid-term effectiveness and was well tolerated in dogs with CE, reinforcing its potential as a treatment for food-responsive enteropathy.",
+      "affiliations": [
+        "Internal Medicine Department, AniCura Ars Veterin&#xe0;ria Veterinary Hospital, Barcelona 08034, Spain.",
+        "Expert Pet Nutrition, 8955 Oetwil an der Limmat, Switzerland."
+      ],
+      "keywords": [
+        "canine",
+        "chronic enteropathy",
+        "food-responsive enteropathy",
+        "hydrolyzed diets",
+        "low-fat diets"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Diet, Fat-Restricted",
+        "Female",
+        "Male",
+        "Chronic Disease",
+        "Prospective Studies",
+        "Animal Feed",
+        "Intestinal Diseases",
+        "Treatment Outcome"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43008072",
+      "title": "Ultrasound-measured renal length and corticomedullary thickness for the diagnosis and staging of chronic kidney disease in cats.",
+      "authors": "Brans M, Stock E, Duchateau L, Paepe D",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008072/",
+      "abstract": "BACKGROUND: Ultrasonography is well established in veterinary practice, and renal dimensions may aid in diagnosing chronic kidney disease (CKD) in cats. HYPOTHESIS/OBJECTIVES: Assess whether renal length, cortical and medullary thickness, and derived ratios identify CKD, reflect CKD severity, and are changed by hyperthyroidism. Evaluate effects of age, body weight, sex, laterality, and observer variability on renal dimensions. ANIMALS: Two hundred fifty-nine client-owned cats: healthy (n&#xa0;=&#xa0;179), CKD-affected (n&#xa0;=&#xa0;38), and nonazotemic hyperthyroid (n&#xa0;=&#xa0;42). METHODS: Ultrasonographic renal dimensions were measured retrospectively. Group comparisons were performed using fixed effects and mixed models. Diagnostic accuracy was assessed using receiver operating characteristic analysis. Effects of age, body weight, sex, and laterality were evaluated using multiple linear regression. Intraobserver (novice) and interobserver (novice vs expert) variability were quantified using intraclass correlation coefficients from random effect models. RESULTS: Age, body weight, and sex accounted for biological variation in healthy cats, which also exhibited minor left-right kidney asymmetry. Cats with CKD were reliably distinguished from healthy and hyperthyroid cats by renal dimensions. Compared with age-comparable healthy cats, CKD-affected cats had shorter kidneys (-0.49&#xa0;cm, -13.26%, P&#xa0;&lt;&#xa0;.001), thinner cortices (dorsal: -0.10&#xa0;cm, -16.23%, P&#xa0;&lt;&#xa0;.001; transverse: -0.06&#xa0;cm, -9.14%, P&#xa0;&lt;&#xa0;.05), and thinner medullae (dorsal: -0.28&#xa0;cm, -26.25%, P&#xa0;&lt;&#xa0;.001; transverse: -0.24&#xa0;cm, -19.7%, P&#xa0;&lt;&#xa0;.001). Renal length and medullary thickness showed the highest diagnostic accuracy, but no renal dimension reliably reflected disease severity. Interobserver variability was considerable. CONCLUSIONS AND CLINICAL IMPORTANCE: Ultrasonographic renal dimensions may support CKD diagnosis in cats, but biological and observer variability must be considered.",
+      "affiliations": [
+        "Small Animal Department, Faculty of Veterinary Medicine, Ghent University, Merelbeke, Belgium.",
+        "Department of Morphology, Imaging, Orthopedics, Rehabilitation and Nutrition, Faculty of Veterinary Medicine, Ghent University, Merelbeke, Belgium."
+      ],
+      "keywords": [
+        "corticomedullary ratio",
+        "hyperthyroidism",
+        "observer variability",
+        "renal cortical thickness",
+        "renal medullary thickness"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Female",
+        "Male",
+        "Renal Insufficiency, Chronic",
+        "Ultrasonography",
+        "Retrospective Studies",
+        "Kidney",
+        "Hyperthyroidism",
+        "Kidney Medulla",
+        "Observer Variation"
+      ],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43008071",
+      "title": "Comparative cytokine profiling in cerebrospinal fluid and serum of dogs with meningoencephalitis of unknown origin.",
+      "authors": "Gasser A, Démoulins T, Stein VM",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43008071/",
+      "abstract": "BACKGROUND: Meningoencephalitis of unknown origin (MUO) is a common inflammatory central nervous system (CNS) disease in dogs with unclear etiology, complicating diagnosis. HYPOTHESIS/OBJECTIVES: Dogs with MUO exhibit distinct cytokine profiles in cerebrospinal fluid (CSF) compared to other CNS diseases and controls. ANIMALS: The study included 23 dogs diagnosed with MUO based on clinical signs, supportive CSF, and imaging findings. For comparison, 110 dogs were included, comprising dogs with CNS disorders, neurological diseases not involving the CNS (non-CNS), and orthopedic diseases. METHODS: In this prospective cross-sectional observational study, 6 cytokines (interferon-&#x3b3; [IFN-&#x3b3;], TNF-&#x3b1;, IL-2, IL-6, IL-10, IL-15) were measured in paired CSF and serum samples using multiplex bead-based immunoassays. Primary outcome was the association between CSF cytokine concentrations and MUO, assessed by logistic regression. RESULTS: Meningoencephalitis of unknown origin showed significantly higher CSF concentrations compared to idiopathic epilepsy, intracranial neoplasia, intervertebral disc herniation, and non-CNS diseases in IFN-&#x3b3; (MUO: median 108.4&#xa0;pg/mL, IQR 25.8 vs comparison group: 10.5&#xa0;pg/mL, IQR 0.0; &#x3b2;-coefficient 0.039, 95% CI, 0.021-0.057, P&#xa0;&lt;&#xa0;.001) and interleukin (IL)-10 (MUO: 171.1&#xa0;pg/mL, IQR 37.0 vs 8.5&#xa0;pg/mL, IQR 0.0; &#x3b2;-coefficient 0.021, 95% CI, 0.011-0.030, P&#xa0;&lt;&#xa0;.001). Moreover, TNF-&#x3b1; (&#x3b2;-coefficient 0.062, 95% CI, 0.023-0.102, P&#xa0;&lt;&#xa0;.01), IL-15 (&#x3b2;-coefficient 0.080, 95% CI, 0.012-0.148, P&#xa0;&lt;&#xa0;.05) and IL-2 (&#x3b2;-coefficient 0.055, 95% CI, 0.005-0.104, P&#xa0;&lt;&#xa0;.05) concentrations were also elevated in MUO versus comparison group. CONCLUSIONS AND CLINICAL IMPORTANCE: Cerebrospinal fluid cytokine profiling identifies a characteristic intrathecal immune signature in MUO, advancing the understanding of its immunopathogenesis.",
+      "affiliations": [
+        "Division of Clinical Neurology, Department of Clinical Veterinary Medicine, Vetsuisse Faculty, University of Bern, Bern 3012, Switzerland.",
+        "Institute of Veterinary Bacteriology, Department of Infectious Diseases and Pathobiology, Vetsuisse Faculty, University of Bern, Bern 3001, Switzerland."
+      ],
+      "keywords": [
+        "biomarkers",
+        "canine",
+        "multiplex immunoassay",
+        "neuroinflammation",
+        "pro-inflammatory mediators"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Meningoencephalitis",
+        "Cytokines",
+        "Female",
+        "Male",
+        "Cross-Sectional Studies",
+        "Prospective Studies"
+      ],
+      "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43006832",
+      "title": "Correction to: Single Enema Fecal Microbiota Transplantation in Cats With Chronic Enteropathy.",
+      "authors": "",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43006832/",
+      "abstract": "",
+      "affiliations": [],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42929748",
       "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
       "authors": "Negro L, Pey P, Specchi S, Penninck D, Diana A, Linta N, Nanni C, Baldinetti M, Morabito S",
@@ -810,6 +967,43 @@
       "summary_ko": ""
     },
     {
+      "id": "43004843",
+      "title": "Age-Related Renal Hemodynamic Changes in Dogs: A Doppler Ultrasonographic Study.",
+      "authors": "García Álvarez F, Molina E, Pessina P, Cazzuli G",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43004843/",
+      "abstract": "The physiological effects of aging on renal hemodynamics in dogs are not yet well defined. This prospective analytical study aimed to evaluate renal aging using Doppler ultrasonography by comparing renal hemodynamic parameters between healthy young adult and healthy geriatric small-breed dogs. Fifty-eight healthy small-breed dogs (&#x2264;10&#xa0;kg) were divided into two groups (young adult and geriatric) and underwent renal Doppler ultrasonography to compare renal hemodynamic parameters between groups. A total of 116 kidneys were evaluated. Age-related hemodynamic changes were identified. Geriatric dogs exhibited lower aortic peak systolic velocity (PSV) and main renal artery end-diastolic velocity, as well as higher intrarenal resistive and pulsatility indices, compared with young adults. In addition, a trend towards lower PSV and higher resistive index in the main renal arteries, along with a higher renal-to-aortic ratio, was observed in geriatric dogs. These findings may provide valuable complementary information during routine ultrasonographic evaluation, contributing to the early detection of renal vascular alterations, monitoring of disease progression, and assessment of therapeutic response in renal disorders. Furthermore, they may support future research into renal vascular physiology and pathology.",
+      "affiliations": [
+        "Facultad De Veterinaria, Departamento De Cl&#xed;nicas y Hospital Veterinario, Universidad De La Rep&#xfa;blica, Montevideo, Uruguay.",
+        "Facultad De Ciencias Veterinarias, Hospital Escuela, Universidad De Buenos Aires, Buenos Aires, Argentina."
+      ],
+      "keywords": [
+        "aging",
+        "canine",
+        "kidney",
+        "renal blood flow",
+        "ultrasound"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Ultrasonography, Doppler",
+        "Aging",
+        "Kidney",
+        "Male",
+        "Female",
+        "Prospective Studies",
+        "Hemodynamics",
+        "Blood Flow Velocity",
+        "Renal Circulation",
+        "Renal Artery"
+      ],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42960540",
       "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
       "authors": "Neittaanmäki H, Rajamäki M, Airas N, Tilamaa A, Viitanen S",
@@ -1091,6 +1285,85 @@
       ],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43005152",
+      "title": "A personalized three-dimensional printed knee splint for mechanical mitigation of canine knee osteoarthritis and adjunctive nonsteroidal anti-inflammatory drug therapy.",
+      "authors": "Li XT, Xiong ZH, Ye JM, Qiu WT, Sun JF, Gu JL, Yue-Yin, Ou ZL, Li SC",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 26",
+      "sortdate": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005152/",
+      "abstract": "INTRODUCTION: Canine knee osteoarthritis (OA) involves pain, inflammation, altered joint loading, and restricted motor function. Because nonsteroidal anti-inflammatory drugs (NSAIDs) do not directly correct abnormal joint mechanics, this study evaluated a personalized three-dimensional (3D)-printed polylactic acid knee splint, used alone or with short-term NSAID treatment, in a monosodium iodoacetate-induced beagle knee OA model. METHODS: Twelve dogs were assigned to four groups (n = 3 per group): OA without continued treatment (OA), splint alone (OA/Spt), NSAIDs alone (OA/NSAIDs), and combined NSAIDs plus splint treatment (OA/NSAIDs/Spt). In vivo outcomes included static hindlimb weight-bearing symmetry, knee joint range of motion (ROM), and Liverpool Osteoarthritis in Dogs (LOAD), The Canine Brief Pain Inventory (CBPI), and The CanineOrthopedic Index (COI) pain and function scores. Finite element analysis using representative healthy and OA knee models was used as descriptive, model-based mechanical support. RESULTS: The splint remained belowthe polylactic acid (PLA) yield threshold under simulated loading and reduced several model-predicted mechanical indices in the OA model, including peak stress, equivalent elastic strain, femoral condylar contact pressure, and cartilage total deformation. In vivo, splint treatment alone was associated with better short-term functional outcomes than no continued treatment, whereas the OA/NSAIDs/Spt group showed the greatest overall improvement in weight-bearing symmetry, ROM, and clinical scores. DISCUSSION: Because no formal interaction analysis was performed, the combined-treatment findings should be interpreted as broader short-term functional benefit rather than evidence of an interaction effect. These preliminary results support personalized 3D-printed splinting as a potential mechanical adjunct to NSAID therapy for canine knee OA.",
+      "affiliations": [
+        "Teaching Animal Hospital, College of Veterinary Medicine of South China Agricultural University, Guangzhou, China.",
+        "Foshan Zhengheng Biotechnology Co., Ltd., Foshan, China.",
+        "Guangzhou Liming Biotechnology Co., Ltd., Guangzhou, China."
+      ],
+      "keywords": [
+        "3D printing",
+        "canine osteoarthritis",
+        "finite element analysis",
+        "monosodium iodoacetate",
+        "nonsteroidal anti-inflammatory drugs",
+        "personalized knee splint",
+        "quality of life"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43005087",
+      "title": "Thermal response to moderate exercise in dogs of different biotypes and brachycephalic obstructive airway syndrome severity assessed using infrared thermography.",
+      "authors": "Reyes-Sotelo B, Martínez-Burnes J, Hernández-Avalos I, Olmos-Hernández A, Mora-Medina P, Villanueva-García D, Torres-Bernal F, Casas-Alvarado A, Mota-Rojas D",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 26",
+      "sortdate": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005087/",
+      "abstract": "INTRODUCTION: The aim of this study was to evaluate dogs of different skull conformations (cephalic biotypes) and Brachycephalic Obstructive Airway Syndrome (BOAS) grades subjected to two standardized moderate exercise tests, in order to determine their effects on infrared thermal responses in facial and appendicular thermal windows. METHODS: A total of 80 dogs were evaluated: dolichocephalic (n = 20), mesocephalic (n = 20), and brachycephalic (n = 40), with the latter classified according to BOAS severity as G1 (n = 10), G2 (n = 18), and G3 (n = 12). Infrared thermal responses were evaluated in facial regions (caruncle, upper and lower eyelids, upper and lower lips, masseter, and nostril region) and appendicular regions (forelimbs, hindlimbs, gracilis, biceps femoris, and gastrocnemius muscles). Measurements were obtained at four time points: T1, baseline; T2, after the 6-min walk test; T3, after the 1,000-meter walk test; and T4, following a 10-min recovery period. RESULTS: Brachycephalic dogs exhibited significant increases in facial surface temperature, reaching up to 2.6 &#xb0;C (p &lt; 0.0001), and showed slower thermal recovery after 10 min. In G2 dogs, muscular thermal windows showed post-exercise temperatures of 35 &#xb0;C &#xb1; 0.5 &#xb0;C. The 6-min walk test revealed significant differences in distance traveled among cephalic biotypes (p = 0.0028). Furthermore, the 1,000-meter walk test revealed more pronounced alterations in superficial microcirculation in brachycephalic dogs across all BOAS grades. DISCUSSION: The greater facial thermal response and slower recovery observed in brachycephalic dogs suggest potential ventilatory limitations and increased reliance on cutaneous heat dissipation. The two exercise tests provided complementary information, with the 6-min walk test distinguishing differences in initial exercise performance and the 1,000-meter test revealing more pronounced thermal alterations associated with brachycephalic conformation and BOAS severity.",
+      "affiliations": [
+        "Doctoral Program in Biological and Health Sciences, Universidad Aut&#xf3;noma Metropolitana, Mexico City, Mexico.",
+        "Facultad de Medicina Veterinaria y Zootecnia, Instituto de Ecolog&#xed;a Aplicada, Universidad Aut&#xf3;noma de Tamaulipas, Ciudad Victoria, Mexico.",
+        "Clinical Pharmacology and Veterinary Anesthesia, Biological Sciences Department, Facultad de Estudios Superiores Cuautitl&#xe1;n, Universidad Nacional Aut&#xf3;noma de M&#xe9;xico, Cuautitl&#xe1;n, Mexico.",
+        "Department Bioterio and Experimental Surgery, Instituto Nacional de Rehabilitaci&#xf3;n Luis Guillermo Ibarra Ibarra (INR-LGII), Mexico City, Mexico.",
+        "Livestock Science Department, Facultad de Estudios Superiores Cuautitl&#xe1;n, Universidad Nacional Aut&#xf3;noma de M&#xe9;xico, Cuautitl&#xe1;n, Mexico.",
+        "Division of Neonatology, Hospital Infantil de M&#xe9;xico Federico G&#xf3;mez, Mexico City, Mexico.",
+        "Neurophysiology, Behavior and Animal Welfare Assessment, Department of Agricultural and Animal Production, Universidad Aut&#xf3;noma Metropolitana, Mexico City, Mexico."
+      ],
+      "keywords": [
+        "BOAS",
+        "brachycephalic",
+        "dolichocephalic",
+        "infrared thermography",
+        "mesocephalic"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43005072",
+      "title": "Pedicle screw and rod fixation in three cats with caudal lumbar vertebral fracture and luxation: a case report.",
+      "authors": "Aartsen SAM, van Stee LL, Meij BP",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 26",
+      "sortdate": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005072/",
+      "abstract": "BACKGROUND: Pedicle Screw and Rod Fixation (PSRF) is used for spinal stabilization of human and, more recently, in dogs. The use of bilateral PSRF in cats at the caudal lumbar and lumbosacral regions has not been reported. OBJECTIVES: To describe the outcomes of cats with caudal lumbar vertebral fractures and luxation treated with bilateral monoaxial PSRF surgery. ANIMALS: Three cats with traumatic caudal lumbar vertebral fractures and luxation treated with bilateral PSRF (2016-2018). METHODS: Short case series. A retrospective analysis of medical records of cats treated with PSRF was performed. Data collected included clinical signs, neurological examination, pre-operative radiographs, and pre-operative CT scan. Post-operative neurological examination and radiographs 6-7 weeks post-operative were conducted. All radiographs and CT scans were reviewed by a board-certified veterinary radiologist. Inclusion criteria were cats presented to the clinic with thoracolumbar fractures and luxations without comorbidities. All cats were examined by a veterinary surgeon or surgery resident before surgery, immediately post-operative, 2 out of 3 cats presented 2-3 weeks post operative and all cats presented 6-7 weeks post-operative. Outcome assessment included comparing the neurological grade of the cats before and after surgery and the feasibility of placing the PSRF system in the vertebra of the cats. RESULTS: All cats underwent bilateral PSRF for stabilization of the caudal lumbar vertebrae to decompress and stabilize the spinal cord and cauda equina. The first cat presented with a comminuted fracture and luxation of L6 neurological grade III according to the modified Griffith Sharp-Wheeler scale and improved to grade 0 neurological status after surgery. The second cat had a caudal comminuted vertebral body fracture of L7 with minor dorsal dislocation and improved after surgery from neurological grade IV to grade III post-operatively. The third cat presented with a complete L5-L6 luxation with multiple fractures and displaced fracture fragments and a neurological grade V; no improvement was observed following surgery. CONCLUSIONS AND CLINICAL IMPORTANCE: PSRF is a technically feasible surgical option for the treatment of vertebral fractures and luxations in cats; emphasizing the potential of the PSRF system in cats warrants further exploration.",
+      "affiliations": [
+        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, Netherlands."
+      ],
+      "keywords": [
+        "fracture repair",
+        "lumbar fracture cat",
+        "lumbar luxation cat",
+        "neurologic damage",
+        "pedicle screw and rod fixation (PSRF)"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -12845,28 +13118,39 @@
     },
     {
       "id": "42622352",
-      "title": "EXPRESS: Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
+      "title": "Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitis.",
       "authors": "Knies M, Hofman N, Jackson-Onis J, Broens EM, Teske E",
       "journal": "J Feline Med Surg",
       "date": "2026 Aug 20",
       "sortdate": "2026-08-20",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42622352/",
-      "abstract": "OBJECTIVES: To evaluate the agreement of a commercially available point-of-care FCoV RT-qPCR assay and external laboratories RT-qPCR testing in cats with effusive and non-effusive FIP, and in cats with other diseases presenting with similar clinical signs. METHODS: Client-owned cats suspected of FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from liver, spleen, or mesenteric lymph nodes were collected, split, and analysed using both a point-of-care RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on AAFP/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test, and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t-tests. RESULTS: One hundred cats were included (effusions n = 62, FNAs n = 38). Overall agreement between assays was substantial (&#x3ba; = 0.73), with near-perfect concordance for effusions (&#x3ba; = 0.81) and lower agreement for FNAs (&#x3ba; = 0.61). Relative sensitivity was highest in effusions (98.1% point-of-care, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle). CONCLUSION AND RELEVANCE: The point-of-care FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry higher risk of false negatives likely due to low viral loads and heterogeneous distribution. Point-of-care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics.",
+      "abstract": "OBJECTIVES: The aim of the present study was to evaluate the agreement of a commercially available point-of-care (POC) feline coronavirus (FCoV) quantitative RT-PCR (RT-qPCR) assay and external laboratories' RT-qPCR testing in cats with effusive and non-effusive feline infectious peritonitis (FIP), and in cats with other diseases presenting with similar clinical signs. METHODS: Client-owned cats suspected of having FIP were enrolled with owner consent. Effusions and ultrasound-guided fine-needle aspirates (FNAs) from the liver, spleen or mesenteric lymph nodes were collected, split and analysed using both a POC RT-qPCR and an external laboratory RT-qPCR. FIP was diagnosed based on American Association of Feline Practitioners/EveryCat guidelines. Sensitivity and negative predictive values were calculated, agreement assessed with Cohen's kappa, paired differences tested with McNemar's test and correlation of crossing point (Cp) values analysed using Pearson's coefficient and paired t-tests. RESULTS: A total of 100 cats were included (effusions n&#x2009;=&#x2009;62, FNAs n&#x2009;=&#x2009;38). Overall agreement between assays was substantial (&#x3ba;&#x2009;=&#x2009;0.73), with near-perfect concordance for effusions (&#x3ba;&#x2009;=&#x2009;0.81) and lower agreement for FNAs (&#x3ba;&#x2009;=&#x2009;0.61). Relative sensitivity was highest in effusions (98.1% POC, 92.3% external) and lower in FNAs (63.3-64.5%), with negative predictive values showing similar trends. Cp values were moderately correlated between assays, with minor mean differences (~1 cycle). CONCLUSIONS AND RELEVANCE: The POC FCoV RT-qPCR assay is a practical and reliable tool and shows very good agreement with external reference laboratory RT-qPCR testing. FNAs remain useful when effusions are unavailable but carry a higher risk of false negatives, likely due to low viral loads and heterogeneous distribution. POC care testing offers rapid turnaround, supporting timely clinical decision-making, but results must be interpreted alongside clinical presentation and other diagnostics. Agreement between point-of-care and external reference laboratory RT-qPCR testing for feline coronavirus in cats with suspected feline infectious peritonitisFeline infectious peritonitis (FIP) is a serious disease caused by feline coronavirus. Diagnosing FIP can be difficult because there is no single test that can confirm the disease in every cat. One commonly used test is called RT-qPCR, which stands for quantitative reverse transcription polymerase chain reaction. This test first converts viral RNA into DNA (reverse transcription) and then amplifies it, allowing very small amounts of virus to be detected. The &#x2018;q&#x2019; (quantitative) part means that the test also provides an estimate of how much viral material is present. In this study, we compared a point-of-care RT-qPCR test, which can be performed directly in the veterinary clinic, with RT-qPCR testing performed by external laboratories. We tested fluid samples from the chest or abdomen (effusions) and small needle samples from organs (fine-needle aspirates) from cats suspected of having FIP. We included 100 cats with clinical signs consistent with FIP. Samples were tested using both RT-qPCR methods when available. The final diagnosis of FIP was based on accepted international guidelines. We found that the two RT-qPCR tests showed similar performance overall, with good agreement between methods. Both tests performed very well on effusion samples, detecting viral RNA in most cats with FIP. In contrast, performance was lower for fine-needle aspirates, where both tests sometimes failed to detect the virus. This means that the point-of-care RT-qPCR test is a useful tool to support the diagnosis of FIP, especially when effusion is present. Its rapid turnaround time may help veterinarians make quicker clinical decisions. However, a negative result in a fine-needle aspirate does not exclude FIP, and results should always be interpreted together with clinical findings and other diagnostic tests.",
       "affiliations": [
         "AniCura Specialist Referral Centre Haaglanden, The Netherlands.",
-        "Department of Biomolecular Health Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands.",
-        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, The Netherlands."
+        "Department of Biomolecular Health Sciences, Faculty of Veterinary Medicine, Utrecht University, The Netherlands.",
+        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, The Netherlands."
       ],
       "keywords": [
-        "FIP",
         "RT-qPCR",
         "assay",
         "assay comparison",
         "diagnostics",
+        "feline infectious peritonitis",
         "point-of-care testing",
         "rapid molecular testing"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Feline Infectious Peritonitis",
+        "Coronavirus, Feline",
+        "Point-of-Care Systems",
+        "Female",
+        "Sensitivity and Specificity",
+        "Real-Time Polymerase Chain Reaction",
+        "Male",
+        "Rapid Diagnostic Tests"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -42010,17 +42294,19 @@
         "Sentinel lymph node"
       ],
       "mesh": [
+        "Male",
+        "Female",
         "Animals",
         "Dogs",
         "Dog Diseases",
-        "Female",
         "Lymphatic Metastasis",
         "Lymph Nodes",
         "Neoplasms",
-        "Male",
         "Lymphoscintigraphy",
         "Sentinel Lymph Node",
-        "Sentinel Lymph Node Biopsy"
+        "Sentinel Lymph Node Biopsy",
+        "Spectroscopy, Near-Infrared",
+        "Cross-Sectional Studies"
       ],
       "category": "oncology",
       "summary_ko": ""
