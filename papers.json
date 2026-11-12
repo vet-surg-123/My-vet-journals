@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12 03:15 UTC",
-  "total": 12263,
+  "updated": "2026-11-12 07:33 UTC",
+  "total": 12266,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,69 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43013985",
+      "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
+      "authors": "Leung K, Wood MW",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 11",
+      "sortdate": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013985/",
+      "abstract": "OBJECTIVE: To evaluate gabapentin's effect on blood pressure and sedation scores in healthy dogs. It was hypothesized gabapentin administration would decrease blood pressure and increase sedation scores compared to placebo administration. METHODS: A randomized, blinded, placebo-controlled crossover study was performed from July 1, 2024, to July 30, 2025. Fifteen apparently healthy dogs presented for 3 paired (gabapentin and control) evaluations for a total of 6 visits. At each visit, dogs were administered either a 20-mg/kg oral dose of liquid gabapentin or an equivalent volume of placebo solution. Treatment order was randomized. Blood pressure was obtained 3 hours after each dog received treatment using the oscillometric technique. Sedation scores were collected prior to blood pressure measurement. RESULTS: The median diastolic blood pressure (78.67 mm Hg) and median mean arterial pressure (90.67 mm Hg) were significantly lower after gabapentin administration. Median systolic blood pressure (127.3 mm Hg) was not significantly different after gabapentin administration. Sedation score (4.0) was significantly higher after gabapentin. CONCLUSIONS: Oral gabapentin administration caused increased diastolic pressure, mean arterial pressure, and sedation scores. CLINICAL RELEVANCE: Blood pressure measurements in patients receiving preappointment gabapentin should be interpreted with caution.",
+      "affiliations": [],
+      "keywords": [
+        "diastolic blood pressure",
+        "gabapentin",
+        "sedation",
+        "stress",
+        "systolic blood pressure"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43013978",
+      "title": "Frequency of occurrence, signalment, clinicopathologic and imaging findings, and outcomes with nontraumatic spontaneous intracranial hemorrhagic stroke in dogs.",
+      "authors": "Thibodeaux LA, Kent M, Bennett M, Barber R",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 11",
+      "sortdate": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013978/",
+      "abstract": "OBJECTIVE: To describe the frequency, clinicopathologic and imaging findings, and outcomes in dogs with spontaneous intra-parenchymal hemorrhagic stroke (sIHS). ANIMALS: Retrospective study involving 25 dogs. CLINICAL PRESENTATION: Medical records were reviewed for signalment; neurological, clinicopathologic, and imaging findings; anatomic localization; comorbidities; therapy; and outcome in dogs with sIHS (2010 to 2024). Lesion number, location, and volume were recorded. Outcome was defined as excellent, good, or poor. Frequency was defined out of a contemporaneous population of dogs &#x2265; 6 years old with an acute presentation of neurological signs. RESULTS: Affected dogs were older, small- to medium-breed dogs. Dogs often presented for neurological dysfunction reflective of a prosencephalic lesion (19 of 25 dogs) or new-onset seizures (13 of 25 dogs). A single, well-defined hemorrhage within the prosencephalon was commonly observed on MRI. Outcome was frequently excellent. Complete seizure remission was common. Larger lesion volumes were associated with poor outcomes. One dog experienced clinical signs suggestive of an additional sIHS 4 months after the initial stroke. Frequency of sIHS was 25 of 427 dogs (6%) &#x2265; 6 years old undergoing brain MRI. CLINICAL RELEVANCE: sIHS should be considered in older dogs with an acute onset of prosencephalic dysfunction and/or seizures. Following exclusion of secondary IHS, an excellent long-term outcome may be realized in dogs with sIHS, despite the presence of comorbidities. Short-term anticonvulsant therapy may be necessary. Development of poststroke epilepsy is unlikely. Dogs rarely experience another IHS.",
+      "affiliations": [],
+      "keywords": [
+        "MRI",
+        "canine",
+        "intracranial intraparenchymal hemorrhage",
+        "prognosis",
+        "spontaneous hemorrhagic stroke"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43013973",
+      "title": "Soft tissue sarcoma grade does not differ between extremity and nonextremity locations.",
+      "authors": "Patel MH, Selmic LE, Lapsley JM, Piegols HJ",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 11",
+      "sortdate": "2026-11-11",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43013973/",
+      "abstract": "OBJECTIVE: To evaluate whether canine soft tissue sarcomas (STSs) located on the extremities are of lower histologic grade than those on nonextremity locations. The hypothesis was that the frequency of grade I and grade II/III tumors would be similar between extremity and nonextremity locations. METHODS: This retrospective cohort study evaluated canines undergoing surgical resection of an STS and subsequent histopathologic assessment during the period of November 20, 2018, to April 8, 2025, at a single institution. RESULTS: 134 STSs on 129 dogs were identified, with 129 STSs included in analysis. Seventy-two STSs (55.8%) were located on the extremities, while 57 (44.2%) were located on nonextremity locations. Forty-nine STSs (68.1%) on the extremities were grade I, and 23 (31.9%) were grade II/III; 40 nonextremity STSs (70.2%) were grade I, and 17 (29.3%) were grade II/III. CONCLUSIONS: The distribution of STSs as grade I or grade II/III is similar for STSs located on extremity and nonextremity locations. CLINICAL RELEVANCE: STSs located on an extremity cannot be assumed to be of a low histologic grade. Risks of local recurrence and potential need for adjuvant therapy, particularly with a marginal excision, should be discussed during the preoperative period with clients for STSs located on the extremities, similar to other locations based on similar grade distributions.",
+      "affiliations": [],
+      "keywords": [
+        "extremities",
+        "marginal",
+        "soft tissue sarcomas",
+        "surgical excision",
+        "tumor grade"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
     {
       "id": "43000138",
       "title": "A case of gastric perforation associated with eosinophilic sclerosing fibroplasia of the pyloric antrum in a cat.",
