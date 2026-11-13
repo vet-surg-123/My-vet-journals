@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 02:49 UTC",
-  "total": 12271,
+  "updated": "2026-11-13 07:04 UTC",
+  "total": 12273,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,57 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43020214",
+      "title": "Comparative sedative effects of subcutaneous injection at GV20 versus intramuscular opioid administration in dogs: a randomized clinical trial.",
+      "authors": "Pehar B, Maksimović A",
+      "journal": "Vet J",
+      "date": "2026 Nov 12",
+      "sortdate": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020214/",
+      "abstract": "OBJECTIVE: To compare sedation after butorphanol or methadone administered intramuscularly (IM) or subcutaneously (SC) at Governing Vessel 20 (GV20) in dogs. METHODS: Twenty-four healthy client-owned dogs were randomized to four groups (n = 6) receiving either opioid (0.4mgkg-1) by IM injection or SC injection at GV20. Sedation was scored every 5min for 35min on a 21-point scale by three evaluators. Friedman and Kruskal-Wallis tests assessed changes over time and differences among groups; intraclass correlation coefficients (ICCs) assessed agreement. RESULTS: Mean onset of observable sedation was 3.5 &#xb1; 2.4min in the pooled SC groups and 10.5 &#xb1; 5.9min in the pooled IM groups. Scores changed over time in all groups (P &lt; 0.001) and differed among groups at every assessment (P = 0.003-0.044). SC-group scores approached 18/21 at 20-30min, whereas IM-group scores approached 12/21 at 35min. ICCs were 0.94-0.99. No serious adverse event required intervention or withdrawal. CONCLUSIONS: SC administration at GV20 was associated with earlier and greater sedation than IM administration. Route- and site-matched studies are needed before attributing the effect specifically to GV20 or recommending routine use.",
+      "affiliations": [
+        "University of Sarajevo - Veterinary Faculty, Department of Clinical Sciences, Zmaja od Bosne 90, 71000 Sarajevo, Bosnia and Herzegovina.",
+        "University of Sarajevo - Veterinary Faculty, Department of Clinical Sciences, Zmaja od Bosne 90, 71000 Sarajevo, Bosnia and Herzegovina. Electronic address: alan.maksimovic@vfs.unsa.ba."
+      ],
+      "keywords": [
+        "GV20",
+        "acupuncture",
+        "butorphanol",
+        "dog",
+        "methadone",
+        "pharmacopuncture"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43020213",
+      "title": "Association of ATP7A and ATP7B Variants with Treatment Response in Copper-Associated Hepatitis in the Labrador retriever.",
+      "authors": "den Boer ER, Nielen M, Spanjersberg TCF, Fieten H",
+      "journal": "Vet J",
+      "date": "2026 Nov 12",
+      "sortdate": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020213/",
+      "abstract": "Copper-associated hepatitis in Labrador retrievers is typically treated with copper-restricted diets and D-penicillamine (D-pen). Individual responses in necessary treatment duration and reaccumulation of copper after treatment vary. This exploratory study investigated whether genotype for ATP7B:c.4358G&gt;A and ATP7A:c.980C&gt;T, which are correlated with hepatic copper levels, is associated with this variation in treatment response. Three previously published studies were reanalysed. One retrospective study of hepatic copper decline during D-pen treatment (n=43), and two prospective studies of hepatic copper levels during copper-restricted feeding: one in Labrador retrievers with subclinical copper accumulation (n=28) and one in Labrador retrievers after successful D-pen treatment (n=16). Models of original studies were updated with genotype, and, for the D-pen study, also with diet. Hepatic copper decline during D-pen treatment was analysed with a mixed model and with linear regression of the average monthly decline until the first follow-up biopsy. Copper normalisation on a copper-restricted diet was analysed with logistic regression. In D-pen-treated dogs, ATP7B:c.4358G&gt;A was associated with slower hepatic copper decline (76mg/kg dwl/month per variant allele; 95% CI: 29.4 to 122.7; p &lt; 0.01) and ATP7A:c.980C&gt;T showed a non-significant trend towards faster hepatic copper decline (-72.7mg/kg dwl/month; 95% CI: -146.2 to 0.9; p = 0.06). In dogs with subclinical hepatic copper accumulation, ATP7B:c.4358G&gt;A was associated with higher odds of failing to normalise hepatic copper on a copper-restricted diet (odds ratio 13.0 per variant allele; 95% CI 2.2 to 255.4; p &lt; 0.05). In conclusion, ATP7B:c.4358G&gt;A was associated with slower hepatic copper decline in D-pen-treated Labrador retrievers. Additionally, ATP7B:c.4358G&gt;A was associated with a lower likelihood of hepatic copper normalisation during copper-restricted feeding. The association between ATP7A:c.980C&gt;T and faster hepatic copper decline was weaker and needs confirmation. These exploratory findings warrant prospective studies to determine whether genetic testing can help guide treatment of Labrador retrievers with copper-associated hepatitis.",
+      "affiliations": [
+        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, the Netherlands.",
+        "Department of Population Health Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, the Netherlands.",
+        "Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, the Netherlands. Electronic address: h.fieten@uu.nl."
+      ],
+      "keywords": [
+        "ATP7A",
+        "ATP7B",
+        "Copper-associated hepatitis",
+        "D-penicillamine",
+        "Labrador retriever",
+        "copper-restricted diet"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "43013985",
       "title": "Effect of gabapentin on blood pressure and sedation scores in healthy dogs.",
