@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12 07:33 UTC",
-  "total": 12266,
+  "updated": "2026-11-13 02:49 UTC",
+  "total": 12271,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -989,7 +989,7 @@
       "date": "2026 Nov 01",
       "sortdate": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968222/",
-      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analyzed for ammonia, pH, anion gap, electrolytes, lactate, blood urea nitrogen (BUN), creatinine and phosphorus. Plasma was frozen at -80oC and shipped for amino acid analysis.ResultsFive of 20 cats had an AKI and 15/20 had AoCKD. Median age and weight were 12 years (range 3-14) and 4.5 kg (range 3-5.6), respectively. Seven cats were hyperammonemic (median 252 &#xb5;mol/l, range 113-886) and 13 were not (median 23 &#xb5;mol/l, range 11-49). Creatinine, BUN and phosphorus were significantly higher in hyperammonemic cats. BUN and phosphorus correlated with ammonia. Fifteen of 20 cats (75%) were acidotic but there was no difference in lactate or blood and urine pH between the cats with and without hyperammonemia. The anion gap was higher (29.6, range 27-40 vs 25.1, range 11-34) and serum bicarbonate lower (9 mEq/L, range 4.8-13.5 vs 11.9, range 8-24.2) in hyperammonemic cats. Median plasma citrulline (47 nMol/mL, range 31-128 vs 22, range 12-37) and ornithine (20 nMol/mL, range 12-33 vs 10, range 7-35) but not arginine concentrations were significantly higher in hyperammonemic cats (p&lt;0.05). Plasma citrulline concentrations were positively correlated with serum creatinine (r = 0.621, p = 0.003).Conclusions and relevanceHyperammonemic cats with AKI/AoCKD do not have deficiencies in urea cycle amino acid concentrations but do have more severe azotemia with accompanying high anion gap metabolic acidosis. Increases in citrulline may reflect decreased kidney function.",
+      "abstract": "An incorrect version of this manuscript was published online and has been temporarily removed.",
       "affiliations": [
         "Department of Small Animal Clinical Sciences, Cummings School of Veterinary Medicine at Tufts University, North Grafton, USA."
       ],
@@ -1252,6 +1252,106 @@
       ],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43017553",
+      "title": "Case Report: Delayed epirubicin extravasation-induced ulceration in a dog managed without surgical intervention using adjunctive hyperbaric gaseous cryotherapy.",
+      "authors": "Kim CG, Park JH, Jeong SW",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 28",
+      "sortdate": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017553/",
+      "abstract": "Extravasation of anthracyclines can result in progressive tissue injury, ulceration, and necrosis, and may ultimately require surgical intervention. Management of delayed presentations remains challenging, as recommended treatments, including dexrazoxane, dimethyl sulfoxide (DMSO), and cold compresses, are most effective when initiated promptly after the extravasation event. A 9-year-old spayed female Poodle with suspected stage IV multicentric lymphoma developed a progressive ulcerative lesion 17&#x202f;days after suspected epirubicin extravasation, by which time the recommended treatment window for standard interventions had elapsed. Given the progressive ulceration, severity of tissue injury, and delayed presentation, surgical debridement was considered. However, conservative management was pursued owing to the patient's limited prognosis and the owner's preference to prioritize quality of life. Treatment included hyperbaric gaseous cryotherapy (HGC) as the principal adjunctive modality, based on prior clinical experience in wound management and pain control. Dexrazoxane, topical DMSO, and ice-pack application were also incorporated despite the elapsed therapeutic window, as few alternative treatment options remained at that stage. Progressive wound healing was observed over the course of treatment, with complete re-epithelialization achieved by day 93 without surgical intervention. The wound remained fully healed until the patient died of progressive lymphoma on day 138. This case documents complete wound resolution without surgery in a dog with delayed epirubicin extravasation managed with multimodal conservative treatment incorporating adjunctive HGC.",
+      "affiliations": [
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Konkuk University, Seoul, Republic of Korea.",
+        "Leaders Animal Medical Center, Seongnam, Republic of Korea."
+      ],
+      "keywords": [
+        "anthracycline",
+        "chemotherapy complication",
+        "conservative management",
+        "delayed presentation",
+        "epirubicin",
+        "extravasation",
+        "hyperbaric gaseous cryotherapy",
+        "wound healing"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43017042",
+      "title": "Beyond the ventricle: the atrial contribution to feline hypertrophic cardiomyopathy and implications for diagnosis, prognosis, and emerging therapy.",
+      "authors": "Kongchatree S, Rattanasrisomporn J",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 28",
+      "sortdate": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017042/",
+      "abstract": "Hypertrophic cardiomyopathy is the most common heart disease of cats and is conventionally characterised by its ventricular phenotype. The clinical events that determine quality and duration of life in affected cats, however, are atrial in their proximate pathophysiology. Congestive heart failure arises from elevated left atrial pressure transmitted to the pulmonary venous bed, arterial thromboembolism arises from blood stasis in a remodelled and dysfunctional left atrial appendage, and survival tracks left atrial size and function independently of left ventricular wall thickness. Recent longitudinal evidence indicates that lower left atrial fractional shortening can be detected before the diagnostic threshold for left ventricular hypertrophy is met, suggesting the atrium registers the disease before the ventricular wall-thickness criterion does. Despite this body of evidence, contemporary diagnostic frameworks, prognostic models, and the regulatory endpoint underpinning the recent conditional approval of delayed-release rapamycin remain anchored on the ventricle. This narrative review examines the atrial contribution to feline hypertrophic cardiomyopathy through five themes: atrial pathobiology, atrial imaging, atrial-driven outcomes, the implications for emerging disease-modifying therapy, and the practical implications for the cardiology consultation. We outline a framework for stage-anchored therapy decisions and a research agenda prioritising atrial trial endpoints and multicentre replication. In a disease affecting 14.7% of apparently healthy cats, with an 11.3% 10-year thromboembolic risk in preclinical cohorts, we propose that the atrium should now be at the centre of feline hypertrophic cardiomyopathy rather than at its periphery.",
+      "affiliations": [
+        "Department of Companion Animal Clinical Sciences, Faculty of Veterinary Medicine, Kasetsart University, Bangkok, Thailand."
+      ],
+      "keywords": [
+        "arterial thromboembolism",
+        "atrial cardiomyopathy",
+        "companion animal",
+        "comparative medicine",
+        "feline hypertrophic cardiomyopathy",
+        "left atrial function",
+        "sirolimus",
+        "speckle-tracking echocardiography"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43016731",
+      "title": "Will a trans-articular external fixator placed across the canine stifle allow normal motion if the hinge is centered over the femoral condyle?",
+      "authors": "Baldeon MA, Roe S, Knazovicky D",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 28",
+      "sortdate": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016731/",
+      "abstract": "Traumatic ligamentous stifle injuries are often immobilized with hinged transarticular external skeletal fixation (htaESF), with the hinge placed over the center of the joint. Range of motion (ROM) in htaESF can protect cartilage, however during ROM the stifle center changes. We hypothesized that a hinge placed over the center of the femoral condyles would not allow normal femoro-tibial positioning during ROM. Eight canine pelvic limbs were harvested. Femurs were immobilized and tibias pinned to control rotation during ROM. The femoral condylar center at 135&#xb0; was marked and lines drawn to a point on the tibia and femur marked on a radio-opaque grid. Radiographs were taken every 5&#xb0; through ROM. Intersect point (IP) was the intersection of the femoral and tibial lines. The IP x-y coordinates were normalized and plotted. Convex hull area for IP coordinates was calculated. Coefficient variation of the Euclidean distance was calculated. Intersect shift and flexion angle relationship was modeled with a linear mixed model. IP path was non-linear with no consistent pattern between individual legs and within each dog. Convex hull area was large and bilaterally asymmetrical. Linear mixed model analysis revealed a significant inverse relationship between IP shift and stifle angle (P &lt; 0.001). The IP of stifle joints during ROM are likely not similar enough to safely execute ROM while in a htaESF. Limitations include previously frozen limbs, and evaluation of only one point in the stifle. Further investigation must be done to determine the ideal construct for ROM without placing abnormal forces on the joint.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC, United States."
+      ],
+      "keywords": [
+        "center of rotation",
+        "external skeletal fixator",
+        "joint immobilization",
+        "ligament",
+        "range of motion"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43016486",
+      "title": "Beyond the lungs and heart: a possible association between digestive disease and exercise intolerance in 10 dogs.",
+      "authors": "Corsaletti A, Martineau M, Etien H, Le Boedec K",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 28",
+      "sortdate": "2026-10-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016486/",
+      "abstract": "INTRODUCTION: Exercise intolerance and panting are classically attributed to cardiac, respiratory, or other diseases. In some cases, the underlying etiology remains undetermined despite a comprehensive diagnostic workup. While fatigue is one of the most common symptoms in humans with inflammatory bowel disease (IBD), chronic enteropathy is not currently recognized as a primary cause of exercise intolerance in dogs. METHODS: A retrospective review was conducted on the medical records of 10 dogs presenting with exercise intolerance lacking overt digestive or respiratory signs. All dogs underwent empirical gastrointestinal-directed medical and dietary therapies with subsequent owner-perceived clinical resolution. RESULTS: Ten dogs presenting with chronic exercise intolerance were evaluated. Six of these dogs also exhibited unexplained panting at rest (6/10). Subtle gastrointestinal signs and abdominal discomfort on palpation were present in four and five cases, respectively. Standard cardiopulmonary and metabolic investigations were largely unremarkable. Notably, half of the cohort (5/10) exhibited cobalamin insufficiency or deficiency. Dogs were managed with gastrointestinal-directed medical therapies (e.g., prokinetics, acid suppressants, tylosin) and/or dietary modifications (predominantly low-fat, single-protein (monoprotein), or hydrolyzed diets). Following these targeted interventions, all dogs achieved complete clinical resolution per owners within a median of 21&#x202f;days. CONCLUSION: A gastrointestinal etiology may be considered in dogs presenting with unexplained exercise intolerance and excessive panting. Subtle physical exam findings, serum cobalamin and folate concentrations, and empirical dietary/medical trials can be used to support clinical suspicion. This case series suggests a potential canine equivalent of human IBD-related fatigue, highlighting the need for further research into the gut-brain axis, intestinal dysbiosis, and delayed gastric emptying in veterinary medicine.",
+      "affiliations": [
+        "Centre Hospitalier V&#xe9;t&#xe9;rinaire Fr&#xe9;gis-IVC Evidensia France, Service de M&#xe9;decine Interne, Paris, France.",
+        "Centre Hospitalier V&#xe9;t&#xe9;rinaire des Cordeliers-IVC Evidensia France, Service de M&#xe9;decine Interne, Meaux, France."
+      ],
+      "keywords": [
+        "aerodigestive disorders",
+        "canine",
+        "fatigue",
+        "gastroenterology",
+        "pulmonology"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -14080,6 +14180,47 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43015812",
+      "title": "Surgical resection and angularis oris axial pattern flap reconstruction with adjuvant radiation therapy for recurrent soft palate leiomyosarcoma in a dog.",
+      "authors": "Park J, Huh C, Choi MY, Kim DY, Go DM, Hwang TS",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 15",
+      "sortdate": "2026-08-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015812/",
+      "abstract": "BACKGROUND: Leiomyosarcoma of the oral cavity is extremely rare in both human and veterinary medicine. To the best of our knowledge, this is the first report describing the clinical course and multimodal treatment of a canine leiomyosarcoma arising in the soft palate. CASE PRESENTATION: A 3-year-old, spayed female Pungsan dog was presented with a recurrent soft palate mass, dyspnea, epistaxis, and anorexia. The patient had a history of two prior surgeries involving incomplete excisions, both resulting in a diagnosis of oral sarcoma. The tumor exhibited aggressive recurrence, with rapid growth intervals of 3 months and 3 weeks, respectively. Computed tomography revealed a large soft tissue mass (3.8&#x2009;&#xd7;&#x2009;3.5&#x2009;&#xd7;&#x2009;4.4&#xa0;cm) occupying most of the pharyngeal space. Marginal excision with reconstruction using an angularis oris axial pattern flap was performed, followed by adjuvant radiation therapy. Histopathology and positive immunohistochemistry for desmin and smooth muscle actin confirmed the diagnosis of leiomyosarcoma. Although the patient remained stable, a 2.5-mm recurrent nodule was detected 9.5 months post-irradiation. As the tumor progressed and further surgical intervention was declined, a second course of radiation therapy was administered at the 14-month mark. Three months later, the patient experienced episodic dysphagia but subsequently recovered her general condition. The patient was lost to follow-up 21.5 months post-surgery. During the clinical course, fistula formation occurred in the early post-irradiation period, followed by progressive thinning of the soft palate, including the reconstructed flap, over long-term follow-up. CONCLUSIONS: The soft palate leiomyosarcoma in this patient was characterized by highly aggressive local invasiveness rather than distant metastasis. Although complete local control was not achieved despite multimodal treatment, the 11-month postoperative progression-free interval represented clinically meaningful suppression of tumor progression, particularly when considering the rapid pattern of previous recurrences.",
+      "affiliations": [
+        "S Animal Cancer Center, Yangsan, 50638, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chungnam National University, Daejeon, 34134, Republic of Korea.",
+        "Institute of Animal Medicine, College of Veterinary Medicine, Gyeongsang National University, Jinju, 52828, Republic of Korea.",
+        "College of Veterinary Medicine, Seoul National University, Seoul, 08826, Republic of Korea.",
+        "BioToxtech, Cheongju, 28115, Republic of Korea.",
+        "Institute of Animal Medicine, College of Veterinary Medicine, Gyeongsang National University, Jinju, 52828, Republic of Korea. hwangts@gnu.ac.kr."
+      ],
+      "keywords": [
+        "Adjuvant radiation therapy",
+        "Angularis oris axial pattern flap",
+        "Dog",
+        "Leiomyosarcoma",
+        "Recurrent oral tumor",
+        "Soft palatal defect"
+      ],
+      "mesh": [
+        "Animals",
+        "Leiomyosarcoma",
+        "Female",
+        "Dogs",
+        "Dog Diseases",
+        "Neoplasm Recurrence, Local",
+        "Surgical Flaps",
+        "Palate, Soft",
+        "Radiotherapy, Adjuvant",
+        "Mouth Neoplasms",
+        "Plastic Surgery Procedures"
+      ],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
