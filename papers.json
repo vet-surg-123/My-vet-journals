@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13 07:04 UTC",
-  "total": 12273,
+  "updated": "2026-11-14 02:38 UTC",
+  "total": 12281,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -65,6 +65,29 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021523",
+      "title": "EXPRESS: Biomechanical evaluation of feline sacroiliac joint stabilization using a single short cannulated compression headless screw: A cadaveric study.",
+      "authors": "Kornmayer M, Wachsmuth L, Zablotski Y, Thorwaechter C, Wieser J",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 12",
+      "sortdate": "2026-11-12",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021523/",
+      "abstract": "OBJECTIVES: The aim of this study was to compare interfragmentary compression and rotational stability achieved with a single short cannulated compression headless screw (CCHS) with those obtained using longer CCHSs and cortical lag screws in a feline sacroiliac luxation (SIL) model. METHODS: In this experimental study, 12 cadavers of adult domestic short-haired cats with a simulated unilateral SIL were stabilized using a single 2.5 mm CCHSs engaging 40 % of the sacral width and mounted in a mechanical testing machine. To assess compressive forces, pressure-mapping sensors were inserted into the joint space before fracture reduction. Total force (N), area of compression (mm2), and total pressure (N/mm2) were recorded. For rotational mechanical testing, the pelves were subsequently loaded through the acetabulum to replicate hindlimb ground reaction forces. A constant displacement rate of 0.5 mm/s was applied until maximal failure. Yield and ultimate load, stiffness, and failure modes were recorded. Results were compared with previously obtained data for CCHSs and cortical lag screws engaging 60 % of the sacral width. Group comparisons were conducted using Fischer's ANOVA and Kruskal-Wallis tests. Post-hoc pairwise comparisons were conducted using Student's t-tests and the Dunn test. Statistical significance was set at p &lt; 0.05. RESULTS: No statistically significant differences were identified among groups or in pairwise comparisons for total force (p=0.35), area of compression (p=0.76), total pressure (p=0.37), yield load (p = 0.55), ultimate load (p = 0.82), or stiffness (p = 0.57). All failures occurred due to screw loosening. CONCLUSIONS AND RELEVANCE: A single CCHS engaging 40 % of the sacral width provides interfragmentary compression and rotational stability comparable to that of screws engaging 60 % of the sacral width lengths under the specific ex vivo testing conditions used in the feline SIL model.",
+      "affiliations": [
+        "LMU Small Animal Clinic, Centre for Clinical Veterinary Medicine, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany.",
+        "Department of Orthopaedics and Trauma Surgery, Musculoskeletal University Center Munich (MUM), University Hospital, LMU Munich, Germany."
+      ],
+      "keywords": [
+        "cannulated compression headless screw",
+        "interfragmentary compression",
+        "rotational stability",
+        "sacroiliac luxation"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -724,6 +747,121 @@
       "summary_ko": ""
     },
     {
+      "id": "43021594",
+      "title": "Evaluation of intrarenal hypoperfusion and renal congestion assessed by intrarenal Doppler ultrasonography in dogs with myxomatous mitral valve disease.",
+      "authors": "Iwai Y, Morita T, Terukina H, Yamasaki M",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021594/",
+      "abstract": "BACKGROUND: While the predictive value of venous impedance index (VII) for evaluating renal congestion is reported in dogs with myxomatous mitral valve disease (MMVD), an ultrasonographic index of renal perfusion has not been reported. HYPOTHESIS/OBJECTIVES: Low renal perfusion assessed by interlobar renal artery velocity time integral (VTI) is associated with a worse prognosis in dogs with MMVD. Combining VTI and VII provides additional prognostic information. ANIMALS: Sixty-two client-owned dogs without heart disease evaluated for preanesthetic or general health assessment and 80 client-owned dogs with MMVD. METHODS: Prospective cohort study. The VTI was measured by manually tracing the spectral velocity envelope of interlobar arteries. The primary endpoint was defined as the composite of cardiac-related death and renal-related death. RESULTS: The VTI was corrected for the effect of heart rate (VTIc) because VTI and heart rate were negatively correlated in dogs without heart disease. In dogs with MMVD, the VTIc decreased with higher ACVIM stage. Dogs with lower VTIc (&lt; 8.3) had significantly shorter survival times (median, not reached; 95% CI, 98&#xa0;days-not reached; P&#xa0;&lt;&#xa0;.001) than those with normal VTIc (median, not reached; 95% CI, not reached). In multivariable Cox analysis, VII remained significantly associated with outcome (HR, 1.24 per 0.1-unit increase; 95% CI, 1.07-1.42). Exploratory classification combining VII (&lt;0.37 or &#x2265;0.37) and VTIc (&#x2265;8.3 or&#xa0;&lt;&#xa0;8.3) identified 4 subsets with different survival outcomes. CONCLUSIONS AND CLINICAL IMPORTANCE: The VTIc might be associated with outcome in dogs with MMVD and combined assessment might provide additional exploratory prognostic information. Myxomatous mitral valve disease (MMVD) is a common heart disease in dogs and can affect blood flow within the kidneys. We investigated whether Doppler ultrasonography could detect reduced kidney blood flow and kidney congestion in dogs with this disease. Reduced kidney blood flow was observed as heart disease became more severe and was associated with shorter survival. Kidney congestion was also associated with outcome. Assessing both kidney blood flow and congestion might provide additional information about prognosis in dogs with MMVD.",
+      "affiliations": [
+        "Laboratory of Veterinary Small Animal Internal Medicine, Cooperative Department of Veterinary Medicine, Faculty of Veterinary Medicine, Iwate University, Morioka 020-8550, Japan."
+      ],
+      "keywords": [
+        "canine",
+        "cardiorenal syndrome",
+        "mitral regurgitation",
+        "pulmonary hypertension",
+        "velocity time integral",
+        "venous impedance index"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Mitral Valve Insufficiency",
+        "Ultrasonography, Doppler",
+        "Prospective Studies",
+        "Kidney",
+        "Renal Artery",
+        "Prognosis"
+      ],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021593",
+      "title": "Abnormalities in cobalamin status in dogs with congenital portosystemic shunt before and after shunt closure.",
+      "authors": "Proksch AL, Kunath T, Heilmann RM, Schneider MA, Kaline M, Dreller V, Langenstein J, Bauer N, Moritz A",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021593/",
+      "abstract": "BACKGROUND: Cobalamin dysvitaminosis occurs with congenital portosystemic shunt (cPSS). Limited data exist on the effects of cPSS-type, cPSS-closure, and association with hyperammonemia. HYPOTHESIS/OBJECTIVES: Cobalamin and folate status differ between healthy and cPSS-dogs, before and after cPSS-closure, between complete and incomplete cPSS-closure, and cPSS-types. Cobalamin dysvitaminosis is associated with hyperammonemia, which ameliorates after cPSS-closure. ANIMALS: Eighty-three dogs. METHODS: Concentrations of cobalamin, transcobalamin (TCB), metabolites (homocysteine [HCy], serum [sMMA], urinary [uMMA:crea] methylmalonic acid), folate, and blood ammonia were prospectively compared between 44 cPSS-dogs and 39 age and body weight matched controls. Compared were 32 out of 44 intrahepatic (cIPSS) and 12 out of 44 extrahepatic (cEPSS) cPSS-dogs, before (PSS-0) and 12&#xa0;weeks (PSS-12) after cPSS-closure, and complete versus incomplete cPSS-closure. RESULTS: Hypocobalaminemia occurred in 2 out of 44 PSS-0-dogs (cIPSS) and hypercobalaminemia in 8 out of 44 PSS-0-dogs (5/12 cEPSS, 3/32 cIPSS). Of 34 normocobalaminemic PSS-0-dogs, in 47% available HCy samples concentrations were below the reference interval, whereas sMMA and uMMA:crea were higher in 61% and 27%. PSS-0-dogs had lower HCy, higher sMMA and uMMA:crea, and lower folate concentrations than controls (each P&#xa0;&lt;&#xa0;.0001). Hyperammonemia occurred in 35 out of 43 PSS-0-dogs, but ammonia did not correlate with any variable. Of 32 out of 38 normocobalaminemic PSS-12-dogs, 31% had supraphysiologic sMMA and 10% supraphysiologic uMMA:crea concentrations. PSS-12-dogs had lower cobalamin (P&#xa0;=&#xa0;.0001) and TCB (P&#xa0;=&#xa0;.014), higher HCy (P&#xa0;&lt;&#xa0;.0001), lower uMMA:crea (P&#xa0;=&#xa0;.0002), and higher folate concentrations (P&#xa0;&lt;&#xa0;.0001) than PSS-0-dogs. At PSS12, cIPSS-dogs had significantly higher sMMA concentrations (P&#xa0;=&#xa0;.0001) than cEPSS-dogs. Lower sMMA (P&#xa0;=&#xa0;.0001) and uMMA:crea (P&#xa0;=&#xa0;.003) were more common with complete than incomplete cPSS-closure. CONCLUSIONS AND CLINICAL IMPORTANCE: Dysvitaminosis is common in cPSS-dogs persisting in some cPSS-dogs after cPSS-closure. Some dogs are born with an abnormal blood vessel that allows blood to bypass the liver causing liver dysfunction and malnutrition such as vitamin deficiency. We compared 44 affected dogs with 39 healthy dogs. We measured blood levels of vitamin B12 and folate and vitamin-dependent substances that increase during B12 and folate deficiency. These vitamin-dependent substances help to identify vitamin deficiency within cells despite normal vitamin blood concentrations. Before treatment, most affected dogs had normal vitamin B12 levels in their blood. However, many had higher amounts of vitamin-dependent substances in their blood or urine, suggesting altered vitamin B12 and folate processing and thus, vitamin deficiency within cells. Twelve weeks after surgical treatment to close the abnormal blood vessel, several blood variables of vitamin concentrations and vitamin-dependent substances improved, although some dogs still had abnormal results. In dogs with complete vessel closure vitamin blood concentrations and vitamin-dependent substances were more often normal than in dogs with incomplete closure, indicating better vitamin availability after vessel closure. Our findings suggest that dogs with this liver blood vessel anomaly often have abnormalities of vitamin B12 and folate concentrations (blood concentrations and within cells) and that abnormalities can persist 12&#xa0;weeks after treatment.",
+      "affiliations": [
+        "Clinic for Small Animals, Internal Medicine, JLU Giessen, 35392 Giessen, Germany.",
+        "Department for Small Animals, College of Veterinary Medicine, University of Leipzig, 04103 Leipzig, Germany.",
+        "Antech Lab Germany GmbH, 68519 Viernheim, Germany."
+      ],
+      "keywords": [
+        "MMA/methylmalonic acid",
+        "canine",
+        "folate",
+        "homocysteine",
+        "transcobalamin",
+        "vitamin B12"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Vitamin B 12",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Congenital Portosystemic Shunt",
+        "Vitamin B 12 Deficiency",
+        "Folic Acid",
+        "Homocysteine",
+        "Methylmalonic Acid",
+        "Transcobalamins",
+        "Ammonia"
+      ],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021591",
+      "title": "K-number-based selection in Danish dachshunds: offspring outcomes and implications for genetic diversity.",
+      "authors": "Sullivan S, Kutzler MA",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021591/",
+      "abstract": "BACKGROUND: In dachshunds, the number of calcified discs (K-number [KN]) is one heritable determinant of the risk of intervertebral disc disease and is used for breeding selection in some countries; however, there are no prior reports of offspring KN outcomes or the effect of KN selection on size of the effective breeding population (Ne). HYPOTHESIS/OBJECTIVES: To determine whether progressively limiting breeding eligibility to dogs with lower KNs would: (1) improve offspring KN outcomes and (2) reduce the effective population size of the breeding population below a threshold that risks genetic bottleneck. ANIMALS: Danish dachshunds (n&#xa0;=&#xa0;2120) with KN recorded to a public database from 1993 to 2024. METHODS: This retrospective study analyzed KN records from 2120 dogs screened between 1990 and 2024. Associations between parental KN and offspring KN phenotype were evaluated using parent-offspring regression and cumulative-link ordinal models. RESULTS: Worse offspring KN was predicted by both worse sire (P&#xa0;=&#xa0;4.8&#xa0;&#xd7;&#xa0;10-6; odds ratio [OR] 1.3; 95% CI, 1.16-1.45) and dam (P&#xa0;=&#xa0;3.3&#xa0;&#xd7;&#xa0;10-5; OR 1.3; 95% CI, 1.13-1.40) KN. Increasingly stringent parental KN selection was associated with improved offspring KN distributions, with predicted next-generation mean KN decreasing from 2.26 under K&#xa0;&#x2264;&#xa0;4 selection to 1.54 under K0 selection. However, more stringent selection reduced effective breeding population size below thresholds associated with genetic bottleneck risk (eg, standard wirehaired: Ne&#xa0;=&#xa0;179 under K&#xa0;&#x2264;&#xa0;4 vs Ne&#xa0;=&#xa0;52 under K0). CONCLUSIONS AND CLINICAL IMPORTANCE: Increasingly stringent limitation of parent KN was associated with lower-KN offspring groups but also decreased effective population size, highlighting the need to balance disease-risk reduction against preservation of genetic diversity. Intervertebral disc disease (IVDD) is a common health problem in dachshunds. We evaluated a Danish breeding program designed to reduce IVDD prevalence in dachshunds by selecting breeding dogs based on their K-number (KN), which is the number of calcified discs visible on radiographs. K-number is inherited and associated with a dog&#x2019;s risk of IVDD. Compared with FGF4L2 (CDDY)-based selection, KN-based selection might be preferable because it better reflects overall inherited IVDD risk in a disease influenced by multiple genes. We found that parent KN was a predictor of offspring KN. The heritability of KN supports its use in selective breeding, and dogs produced through the program had improved KN scores corresponding to an estimated 19% reduction in IVDD prevalence. Stricter breeding restrictions resulted in better offspring KNs but also reduced the size of the eligible breeding population. For most dachshund varieties, stringent restrictions reduced breeding populations to levels that risk loss of genetic diversity. Although KN-based selection is currently limited by the number of scored breeding dogs, mandatory KN screening of all dachshunds used for breeding in Denmark as of 2026 might increase the effective breeding population sizes.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, Auburn University, Auburn, AL 36832, United States.",
+        "Department of Veterinary Population Medicine, College of Veterinary Medicine, University of Minnesota, St. Paul, MN 55108, United States."
+      ],
+      "keywords": [
+        "IVDD",
+        "KN",
+        "breeding management programs",
+        "disc calcification",
+        "estimated breeding value",
+        "intervertebral disc disease",
+        "spinal radiograph"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Genetic Variation",
+        "Female",
+        "Breeding",
+        "Retrospective Studies",
+        "Denmark",
+        "Dog Diseases",
+        "Male",
+        "Selection, Genetic",
+        "Intervertebral Disc Degeneration",
+        "Phenotype"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42929748",
       "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
       "authors": "Negro L, Pey P, Specchi S, Penninck D, Diana A, Linta N, Nanni C, Baldinetti M, Morabito S",
@@ -1201,6 +1339,56 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43022916",
+      "title": "Primary hyperparathyroidism in a cat with synchronous bilateral parathyroid carcinomas: a case report.",
+      "authors": "Choi U, Kwon G, Lim JH, Oh SI, Ock S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 29",
+      "sortdate": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43022916/",
+      "abstract": "Primary hyperparathyroidism (PHPTH) is a rare endocrine disorder in cats, and bilateral parathyroid carcinoma is exceptionally uncommon. A 14-year-old neutered male Russian Blue cat presented with decreased appetite, reduced activity, vomiting, and persistent hypercalcemia. Hypercalcemia was documented by increased ionized calcium (iCa; 1.90&#x202f;mmol/L) and total calcium (14.3&#x202f;mg/dL), and an increased intact parathyroid hormone concentration (18.6&#x202f;pg/mL) supported a diagnosis of PHPTH. Cervical ultrasonography, computed tomography, and fine-needle aspiration cytology identified bilateral parathyroid-associated lesions but could not determine malignancy or the functional contribution of each lesion. During preoperative stabilization with intravenous 0.9% sodium chloride and furosemide, the iCa concentration decreased from 1.90 to 1.47&#x202f;mmol/L. On the fourth day of hospitalization, complete right thyroid lobectomy with excision of the associated right parathyroid mass and left parathyroidectomy with partial left thyroidectomy were performed. Histopathologic examination supported the diagnosis of synchronous bilateral low-grade, well-differentiated parathyroid carcinomas, with infiltrative growth into adjacent non-neoplastic parathyroid tissue in the left lesion and focal capsular penetration in the right lesion. Postoperative hypocalcemia was managed with intravenous calcium gluconate and oral calcitriol during hospitalization, followed by oral vitamin D supplementation after discharge. Serum iCa normalized by postoperative day 28 and remained within the reference interval thereafter. On postoperative day 161, serum iCa and iPTH concentrations were within their respective reference intervals, and follow-up CT showed no evidence of local recurrence or detectable metastasis. This case highlights that bilateral parathyroid carcinomas may exhibit subtle histopathologic evidence of malignancy that is not predicted by preoperative imaging or cytology, while lesion-specific functional status and anatomical relationships to the thyroid gland may independently influence surgical planning.",
+      "affiliations": [
+        "Department of Veterinary Clinical Pathology, College of Veterinary Medicine, Jeonbuk National University, Iksan, Republic of Korea.",
+        "Daegu Animal Medical Center, Daegu, Republic of Korea.",
+        "Department of Veterinary Pathology, College of Veterinary Medicine, Jeonbuk National University, Iksan, Republic of Korea."
+      ],
+      "keywords": [
+        "bilateral parathyroid carcinoma",
+        "cat",
+        "parathyroid neoplasia",
+        "parathyroidectomy",
+        "primary hyperparathyroidism"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021781",
+      "title": "Limitations of transmucosal ketamine administration for chronic pain in dogs with osteoarthritis.",
+      "authors": "Seabolt RA, Elam LH, Griffenhagen GM, Duerr FM",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 29",
+      "sortdate": "2026-10-29",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021781/",
+      "abstract": "INTRODUCTION: This prospective, open-label clinical trial aimed to evaluate the efficacy of low-dose keta-mine (0.5&#x202f;mg/kg) administered by oral transmucosal route every 8&#x202f;h in client-owned dogs with refractory, chronic osteoarthritis pain. METHODS: Objective gait analysis was the primary outcome measure for orthopedic function relating to pain. Liquid chromatography-tandem mass spectrometry was used to quantify plasma ketamine and norketamine concentrations 30 and 60&#x202f;min after administration of an oral transmucosal ketamine (TMK) gelatin lozenge. RESULTS: Enrollment was discontinued early due to difficulty of administering TMK in the formulation provided (administration success&#x202f;=&#x202f;54%; 181/334 doses in n&#x202f;=&#x202f;9 participants). The result-ing sample size was too small for the intended statistical analysis of objective outcome da-ta to determine treatment efficacy. Mean plasma concentrations of ketamine and norketa-mine (n&#x202f;=&#x202f;8 patients) were 4.5&#x202f;ng/mL (+/- 3.0) and 47&#x202f;ng/mL (+/- 38.3) at 30&#x202f;min, and 1.7&#x202f;ng/mL (+/- 1.2) and 65.7&#x202f;ng/mL (+/- 46.7) at 60&#x202f;min post administration. DISCUSSION: These values suggest that TMK is absorbed and subsequently metabolized into norketa-mine. However, the low success rate of administration demonstrated that an oral transmu-cosal gelatin lozenge is an impractical delivery method for low-dose ketamine in a clinical setting. Evaluation of alternative TMK formulations and further research with an appropriate sample size is recommended to evaluate efficacy, pharmacokinetics, and pharmacody-namics before TMK can be used clinically.",
+      "affiliations": [
+        "Department of Clinical Sciences, Colorado State University, Fort Collins, CO, United States."
+      ],
+      "keywords": [
+        "absorption",
+        "canine",
+        "ketamine",
+        "mobility",
+        "osteoarthritis",
+        "pain",
+        "transmucosal"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -13123,6 +13311,49 @@
       "summary_ko": ""
     },
     {
+      "id": "43021241",
+      "title": "Distribution and viral load of canine respiratory coronavirus in naturally infected dogs: evidence from clinical sampling sites and tissue detection.",
+      "authors": "Poonsin P, Zahro AN, Wiwatvisawakorn V, Punyathi P, Lacharoje S, Lean FZX, Piewbang C, Techangamsuwan S",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 22",
+      "sortdate": "2026-08-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021241/",
+      "abstract": "BACKGROUND: Canine respiratory coronavirus (CRCoV) is a respiratory pathogen associated with the canine infectious respiratory disease complex (CIRDC). Although CRCoV is primarily considered a respiratory virus, its distribution beyond the respiratory tract remains poorly understood. This study investigated the prevalence, anatomical distribution, viral loads, and tissue localization of CRCoV in naturally infected dogs using both antemortem and postmortem samples. RESULTS: A total of 267 dogs were sampled using nasal (NS), oropharyngeal (OS), and rectal swabs (RS). CRCoV RNA was detected in 10.49% of dogs tested by reverse transcription quantitative PCR (RT-qPCR), and viral loads were quantified using reverse transcription digital PCR (RT-dPCR). CRCoV RNA was detected across all sampling routes, with significantly higher viral loads in NS than in OS (p&#x2009;&lt;&#x2009;0.001) and RS (p&#x2009;&lt;&#x2009;0.001), and higher viral loads in OS than in RS (p&#x2009;&lt;&#x2009;0.01). Longitudinal sampling demonstrated that viral RNA became undetectable within one week in most dogs; however, viral shedding persisted in one severely ill dog that subsequently died. In postmortem samples, CRCoV RNA was detected in both respiratory and extra-respiratory tissues, and was successfully localized within the mesenteric lymph node by in situ hybridization, consistent with possible extra-respiratory detection. CONCLUSIONS: These findings provide new insight into the tissue distribution of CRCoV in naturally infected dogs, demonstrating a predominance in the respiratory tract while suggesting possible extra-respiratory detection. Further studies are needed to determine the biological significance of these findings and to confirm whether CRCoV undergoes systemic dissemination or active replication beyond the respiratory tract.",
+      "affiliations": [
+        "Department of Pathology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand.",
+        "Center of Excellence in Animal Virome and Diagnostic Development, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand.",
+        "The International Graduate Program of Veterinary Science and Technology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand.",
+        "SLV Pet Hospital, Bangkok, Thailand.",
+        "Department of Infectious Diseases and Public Health, Jockey Club College of Veterinary Medicine and Life Sciences, City University of Hong Kong, Kowloon, Hong Kong SAR, PR China.",
+        "Department of Pathology, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand. somporn62@hotmail.com.",
+        "Center of Excellence in Animal Virome and Diagnostic Development, Faculty of Veterinary Science, Chulalongkorn University, Bangkok, Thailand. somporn62@hotmail.com."
+      ],
+      "keywords": [
+        "Canine respiratory coronavirus",
+        "Digital PCR",
+        "Extra-respiratory detection",
+        "Tissue localization",
+        "Viral load quantification"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Viral Load",
+        "Coronavirus, Canine",
+        "Coronavirus Infections",
+        "Dog Diseases",
+        "Female",
+        "RNA, Viral",
+        "Male",
+        "Rectum",
+        "Respiratory Tract Infections",
+        "Virus Shedding",
+        "Oropharynx"
+      ],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
       "id": "42633780",
       "title": "Postoperative rotational instability after tibial plateau-leveling osteotomy is associated with acute cranial cruciate ligament rupture and meniscal injury.",
       "authors": "Copet A, Fostier-Humbert M, Blondel M, Cachon T",
@@ -14082,6 +14313,39 @@
         "Hypothalamic Diseases"
       ],
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43021339",
+      "title": "Defining and classifying peri-anaesthetic mortality in dogs and cats using the Delphi method: the Definition Research for Establishing Anaesthetic Mortality (D.R.E.A.M.) consensus study.",
+      "authors": "Hernández-Magaña EZ, Redondo JI",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 17",
+      "sortdate": "2026-08-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021339/",
+      "abstract": "BACKGROUND: Peri-anaesthetic mortality is an important indicator of anaesthetic safety in dogs and cats, but comparisons between studies are limited by inconsistent definitions, temporal windows and attribution criteria. This three-round online Delphi study sought expert consensus on principles for defining and conceptually classifying peri-anaesthetic mortality in dogs and cats. Spanish-speaking experts in veterinary anaesthesia and analgesia completed an exploratory open-ended round followed by two structured consensus rounds. Round 2 evaluated 38 statements on a 1-9 agreement scale, and Round 3 evaluated 18 refinement statements on a 0-10 scale transformed to a continuous 1-9 analytical scale. Positive consensus was defined as median&#x2009;&#x2265;&#x2009;7 and interquartile range&#x2009;&#x2264;&#x2009;2, and negative consensus as median&#x2009;&#x2264;&#x2009;3 and interquartile range&#x2009;&#x2264;&#x2009;2. RESULTS: Of 57 experts invited, 47 participated in Round 1, and all completed Rounds 2 and 3. In Round 2, 23 statements reached positive consensus, one reached negative consensus and 14 did not reach consensus. In Round 3, nine statements reached positive consensus, one reached negative consensus and eight did not reach consensus. The panel supported separating temporal eligibility from causal attribution, assigning one primary cause when sufficient information was available and recording contributing factors separately. Supported causal domains included anaesthesia, surgery, diagnostic procedures, pre-existing disease and sedation. Fixed 24-hour, 48-hour and 7-day windows did not reach consensus as standalone criteria. A flexible model using a 24-hour or 48-hour base window, with extension up to 7 days only when supported by evidence of an anaesthetic complication, reached positive consensus. Unresolved areas included the base window, single-count reporting, anaesthesia as a contributing but non-primary factor, treatment limitation or economic constraints, an independent sedation-specific definition and an indeterminate or unclassifiable category. CONCLUSIONS: This study supports a preliminary hierarchical causal framework rather than classification based on timing alone or a binary anaesthetic versus non-anaesthetic distinction. The findings provide a conceptual basis for developing and validating a practical classification tool for research, morbidity and mortality review and clinical audit, but the framework should not yet be interpreted as a validated adjudication tool.",
+      "affiliations": [
+        "Departamento de Medicina y Cirug&#xed;a Animal, Facultad de Veterinaria, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain. eva.hernandezmagana@uchceu.es.",
+        "Departamento de Medicina y Cirug&#xed;a Animal, Facultad de Veterinaria, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain. nacho@uchceu.es."
+      ],
+      "keywords": [
+        "Anaesthesia-related death",
+        "Cats",
+        "Delphi consensus",
+        "Dogs",
+        "Peri-anaesthetic mortality"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Anesthesia",
+        "Delphi Technique",
+        "Anesthetics",
+        "Consensus",
+        "Perioperative Period"
+      ],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
