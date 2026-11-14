@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14 02:38 UTC",
-  "total": 12281,
+  "updated": "2026-11-14 06:52 UTC",
+  "total": 12286,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -17,25 +17,150 @@
   },
   "papers": [
     {
+      "id": "43025542",
+      "title": "Comparative biochemical analysis of amniotic fluid in canine fetuses delivered through elective and therapeutic cesarean sections.",
+      "authors": "Bonavina JT, Estevam MV, Bianchini M, Rocha-Júnior JD, Araújo RA, Beretta S, Armani DJC, Marcusso P, Toniollo GH, Apparício M",
+      "journal": "Vet J",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025542/",
+      "abstract": "This study represents the first comparison of biochemical analysis of amniotic fluid (AF) from bitches undergoing therapeutic c-section for resolution of dystocia (TC) versus elective cesarean sections (EC). A total of 104 samples were analyzed, and significant differences in AF composition were identified. Biochemical evaluations from the EC aligned with reference values while in the TC group it revealed elevated liver and kidney enzyme levels, suggesting early signs of damage even with short dystocia durations. Significant differences in electrolyte concentrations were observed, reflecting renal function and fetal maturity. Thus, this study emphasizes that even brief dystocia can adversely impact fetal health and highlight the need for further research to explore the implications of prolonged labor on fetal biochemistry, including the effects of maternal parity and offspring sex. Amniotic fluid samples from anomalous and meconium-stained fetuses were analyzed in separate groups, and significant differences were observed in biochemical parameters, including LDH, glucose, magnesium, and fructosamine. These findings suggest that metabolic alterations and fetal stress can be detected prenatally, reflecting the impact of congenital malformations and the presence of meconium.",
+      "affiliations": [
+        "Department of Pathology, Reproduction and One Health, School of Agricultural and Veterinary Sciences, S&#xe3;o Paulo State University, FCAV/UNESP, Jaboticabal, SP, Brazil.",
+        "Department of Veterinary Clinics, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University, FMVZ/UNESP, Botucatu, SP, Brazil.",
+        "Department of Veterinary Surgery and Animal Reproduction, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University, FMVZ/UNESP, Botucatu, SP, Brazil. Electronic address: maricy.apparicio@unesp.br."
+      ],
+      "keywords": [
+        "apgar score",
+        "dystocia",
+        "fetal hypoxia",
+        "fetal membranes",
+        "perinatal stress"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43025060",
+      "title": "Antimicrobial use exceeds culture-confirmed urinary tract infections in cats with feline idiopathic cystitis with and without urethral obstruction.",
+      "authors": "Chang M, Myrick S, Wilson-Robles H, Stewart SD",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025060/",
+      "abstract": "OBJECTIVE: To compare antimicrobial use and signalment in cats with feline idiopathic cystitis (FIC) with and without active urethral obstruction (UO) and determine whether antimicrobial use was supported by urinalysis and urine culture results. METHODS: This multicenter prospective observational study compared client-owned male cats with FIC with and without obstruction from 40 referral hospitals in the US and Canada between January 2025 and September 2025. Cats weighing &gt; 2 kg that completed screening diagnostics (CBC, biochemistry, urinalysis, urine culture, and abdominal ultrasound) were eligible. Cats with alternative etiologies (excluding bacterial cystitis) for their urinary signs or recent corticosteroid, chemotherapeutic, radiation, or immunosuppressive therapy were excluded. Signalment, weight, antimicrobial prescription history, presence of bacteriuria on urinalysis, and urine culture results were collected and compared. RESULTS: A total of 457 cats were enrolled, including 111 cats with FIC and 346 cats with UO. Age, weight, presence of bacteriuria, urine culture positivity, and antimicrobial prescriptions prior to referral did not differ between groups. Antimicrobial administration after referral was significantly more common in the UO group despite similar rates of bacteriuria and positive urine cultures. Twenty-eight percent of cats (130 of 457) received antimicrobials, while 9.2% of cats (42 of 457) had positive urine cultures. CONCLUSIONS: Cats with FIC and UO share comparably low prevalence of bacterial cystitis; however, antimicrobials were frequently administered without evidence of bacteriuria or culture-confirmed infection, particularly in cats with UO. CLINICAL RELEVANCE: The low prevalence of bacterial cystitis in cats with FIC and UO supports prioritizing diagnostic-driven antimicrobial decision-making to reduce unnecessary antimicrobial use in cats with lower urinary tract diseases.",
+      "affiliations": [
+        "1Veterinary Specialty Hospital Sorrento Valley, Sorrento Valley, CA.",
+        "2Ethos Discovery, San Diego, CA."
+      ],
+      "keywords": [
+        "antimicrobial stewardship",
+        "feline idiopathic cystitis",
+        "feline lower urinary tract diseases",
+        "urethral obstruction",
+        "urinary tract infection"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43025058",
+      "title": "Delayed surgery can be considered for cardiovascularly stable dogs with hemoperitoneum due to a ruptured splenic mass.",
+      "authors": "Park JE, Grimes JA, Harris JD, Koenig A",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025058/",
+      "abstract": "OBJECTIVE: To determine whether the timing of surgery affects morbidity and/or mortality of dogs with hemoperitoneum secondary to a ruptured splenic mass. METHODS: In this retrospective cohort study, medical records of dogs diagnosed with hemoperitoneum due to a ruptured splenic mass between 2010 and 2023 were reviewed for clinical data. Dogs were classified in the early group (early) if surgery occurred &lt; 6 hours and the delayed group (delayed) if surgery occurred &#x2265; 6 hours after presentation. RESULTS: A total of 177 client-owned dogs (99 early, 78 delayed) were included. The median duration of time from admission to surgery was 4.1 hours (range, 2.2 to 5.95 hours) for early and 14.0 hours (range, 6.02 to 68.4 hours) for delayed dogs. Early dogs were more likely to present in hypovolemic shock, have a higher shock index, and receive crystalloid boluses and RBC-containing transfusions preoperatively than delayed dogs. There was no difference in the occurrence of hypotension intraoperatively between groups. Early dogs were more likely to receive an RBC-containing transfusion during and/or after surgery and had longer hospitalization than delayed dogs. Overall survival to discharge was 94.9% (168 of 177); there was no difference between groups. CONCLUSIONS: There was no difference in mortality based on timing of surgery. Early dogs were more likely to receive RBC-containing transfusions throughout hospitalization and have a longer hospital stay compared to delayed dogs. CLINICAL RELEVANCE: Stable dogs may be able to have delayed surgery without increasing morbidity or mortality. Early surgery should be considered for dogs that have ongoing concerns for stability despite medical intervention.",
+      "affiliations": [],
+      "keywords": [
+        "hemoabdomen",
+        "hemoperitoneum",
+        "splenectomy",
+        "splenic mass",
+        "survival"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43025055",
+      "title": "Fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors in 3 dogs.",
+      "authors": "Jeong N, Hasegawa D, Jung J",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025055/",
+      "abstract": "OBJECTIVE: To describe the intraoperative findings and outcomes of fluorescein sodium-guided resection of cervical peripheral nerve sheath tumors (PNSTs) in dogs, including in the re-operative setting. ANIMALS: 3 client-owned dogs with cervical PNST. Two dogs underwent a second resection of progressive malignant PNST (MPNST) after subtotal resection and stereotactic radiation therapy performed elsewhere. One dog underwent primary resection of a previously untreated PNST identified as a schwannoma. CLINICAL PRESENTATION: Affected dogs were between 10 and 11 years of age (weighing between 4.2 and 5.4 kg) and presented with cervical pain, hyperesthesia, or tetraparesis. Preoperative MRI revealed contrast-enhancing intradural extramedullary masses with extraforaminal extensions. RESULTS: Fluorescein sodium (20 mg/kg) was administered IV after surgical exposure. Tumor tissue exhibited yellow discoloration under standard illumination in all dogs and bright fluorescence under 395-nm UV illumination in 2 dogs and, in the 2 re-operative cases, was visually distinct from the surrounding postoperative and radiation-induced fibrosis, which was grossly assessed as nondiseased and did not take up fluorescein. This contrast assisted dissection, and gross total resection was achieved in all dogs; nonfluorescent tissue was not biopsied. Histopathology confirmed MPNST in 2 dogs and schwannoma in 1 dog. Fluorescein-related adverse events were not observed. Both MPNST cases developed remote or metastatic disease within 4 months (1 euthanized); the schwannoma case was recurrence-free at 3 months. CLINICAL RELEVANCE: Fluorescein sodium-guided resection of canine cervical PNSTs is feasible with widely available equipment and may aid intraoperative identification of tumor tissue in both primary and re-operative settings, suggesting a lower equipment barrier than commonly assumed. Because nonfluorescent tissue was not sampled, fluorescein should be an adjunct to, not a substitute for, surgical judgment.",
+      "affiliations": [
+        "1Department of Veterinary Surgery, Ilsan Animal Medical Center, Goyang-si, Republic of Korea.",
+        "2Laboratory of Veterinary Clinical Neurology, Graduate School of Nippon Veterinary and Life Science University, Tokyo, Japan.",
+        "3Department of Veterinary Radiology, Ilsan Animal Medical Center, Goyang-si, Republic of Korea."
+      ],
+      "keywords": [
+        "canine",
+        "fluorescein sodium",
+        "fluorescence-guided surgery",
+        "peripheral nerve sheath tumor",
+        "reoperation"
+      ],
+      "mesh": [],
+      "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43025054",
+      "title": "A simple algorithm allows triaging of dogs with mitral valve disease into cardiac or noncardiac causes of dyspnea.",
+      "authors": "Rishniw M, Dickson D, Caivano D, Vatne L, Harris J, Pavelkova E, Hung YW",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025054/",
+      "abstract": "OBJECTIVE: To create a simple algorithm for diagnosis of congestive heart failure (CHF) in dogs with myxomatous mitral valve disease (MMVD). METHODS: Data were collected between November 2, 2015, and December 7, 2017, from dogs presented to investigators after a tentative diagnosis of CHF by first-opinion clinicians. Investigators completed a data-submission form and provided a final diagnosis of CHF or subclinical MMVD. Data included each of the 8 variables of the original algorithm. Variables that did not change diagnostic accuracy were removed from the model. RESULTS: 120 dogs were included: 46 with CHF and 74 with subclinical cardiac disease and an alternate diagnosis for clinical signs; 82 dogs (36 with CHF) were referred for coughing. All dogs with CHF had loud or palpable murmurs, as did 59 without CHF. Forty-five dogs with CHF and 26 without CHF lacked sinus arrhythmia. All nonpanting dogs with CHF and 7 of 56 without CHF had tachypnea or dyspnea. All dogs with CHF had moderate-to-severe left atrial enlargement versus 25 of 35 dogs without CHF. Examined in series, these 4 variables yielded an algorithm sensitivity of 98% and specificity of 95% for diagnosing CHF. CONCLUSIONS: Clinicians who are presented with a dog suspected of having CHF secondary to MMVD should be able to determine whether CHF is likely using 3 to 4 simple variables: a loud or palpable murmur, lack of sinus arrhythmia, tachypnea or dyspnea, and at least moderate left atrial enlargement. CLINICAL RELEVANCE: This algorithm might improve first-opinion practitioners' diagnosis of CHF in dogs with MMVD.",
+      "affiliations": [
+        "1Veterinary Information Network, Davis, CA.",
+        "2HeartVets, Porthcawl, Wales, UK.",
+        "3Department of Veterinary Medicine, University of Perugia, Perugia, Umbria, Italy.",
+        "4Empet Nydalen, Oslo, Norway.",
+        "5NMBU School of Veterinary Science, Norwegian University of Life Sciences, &#xc5;s, Norway.",
+        "6HeartVets, Exeter, England, UK.",
+        "7Woodcroft Referrals, Stockport, England, UK.",
+        "8Cardiospecial Veterinary Hospital, Taipei, Taiwan."
+      ],
+      "keywords": [
+        "cardiac",
+        "congestive heart failure",
+        "coughing",
+        "diagnosis",
+        "murmur"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "43020214",
-      "title": "Comparative sedative effects of subcutaneous injection at GV20 versus intramuscular opioid administration in dogs: a randomized clinical trial.",
+      "title": "Comparative sedative effects of subcutaneous injection at GV20 versus intramuscular opioid administration in dogs: A randomized clinical trial.",
       "authors": "Pehar B, Maksimović A",
       "journal": "Vet J",
       "date": "2026 Nov 12",
       "sortdate": "2026-11-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43020214/",
-      "abstract": "OBJECTIVE: To compare sedation after butorphanol or methadone administered intramuscularly (IM) or subcutaneously (SC) at Governing Vessel 20 (GV20) in dogs. METHODS: Twenty-four healthy client-owned dogs were randomized to four groups (n = 6) receiving either opioid (0.4mgkg-1) by IM injection or SC injection at GV20. Sedation was scored every 5min for 35min on a 21-point scale by three evaluators. Friedman and Kruskal-Wallis tests assessed changes over time and differences among groups; intraclass correlation coefficients (ICCs) assessed agreement. RESULTS: Mean onset of observable sedation was 3.5 &#xb1; 2.4min in the pooled SC groups and 10.5 &#xb1; 5.9min in the pooled IM groups. Scores changed over time in all groups (P &lt; 0.001) and differed among groups at every assessment (P = 0.003-0.044). SC-group scores approached 18/21 at 20-30min, whereas IM-group scores approached 12/21 at 35min. ICCs were 0.94-0.99. No serious adverse event required intervention or withdrawal. CONCLUSIONS: SC administration at GV20 was associated with earlier and greater sedation than IM administration. Route- and site-matched studies are needed before attributing the effect specifically to GV20 or recommending routine use.",
+      "abstract": "OBJECTIVE: To compare sedation after butorphanol or methadone administered intramuscularly (IM) or subcutaneously (SC) at Governing Vessel 20 (GV20) in dogs. METHODS: Twenty-four healthy client-owned dogs were randomized to four groups (n&#x202f;=&#x202f;6) receiving either opioid (0.4&#x202f;mg&#x202f;kg-1) by IM injection or SC injection at GV20. Sedation was scored every 5&#x202f;min for 35&#x202f;min on a 21-point scale by three evaluators. Friedman and Kruskal-Wallis tests assessed changes over time and differences among groups; intraclass correlation coefficients (ICCs) assessed agreement. RESULTS: Mean onset of observable sedation was 3.5&#x202f;&#xb1;&#x202f;2.4&#x202f;min in the pooled SC groups and 10.5&#x202f;&#xb1;&#x202f;5.9&#x202f;min in the pooled IM groups. Scores changed over time in all groups (P&#x202f;&lt;&#x202f;0.001) and differed among groups at every assessment (P&#x202f;=&#x202f;0.003-0.044). SC-group scores approached 18/21 at 20-30&#x202f;min, whereas IM-group scores approached 12/21 at 35&#x202f;min. ICCs were 0.94-0.99. No serious adverse event required intervention or withdrawal. CONCLUSIONS: SC administration at GV20 was associated with earlier and greater sedation than IM administration. Route- and site-matched studies are needed before attributing the effect specifically to GV20 or recommending routine use.",
       "affiliations": [
-        "University of Sarajevo - Veterinary Faculty, Department of Clinical Sciences, Zmaja od Bosne 90, 71000 Sarajevo, Bosnia and Herzegovina.",
-        "University of Sarajevo - Veterinary Faculty, Department of Clinical Sciences, Zmaja od Bosne 90, 71000 Sarajevo, Bosnia and Herzegovina. Electronic address: alan.maksimovic@vfs.unsa.ba."
+        "University of Sarajevo - Veterinary Faculty, Department of Clinical Sciences, Zmaja od Bosne 90, Sarajevo 71000, Bosnia and Herzegovina.",
+        "University of Sarajevo - Veterinary Faculty, Department of Clinical Sciences, Zmaja od Bosne 90, Sarajevo 71000, Bosnia and Herzegovina. Electronic address: alan.maksimovic@vfs.unsa.ba."
       ],
       "keywords": [
+        "Acupuncture",
+        "Butorphanol",
+        "Dog",
         "GV20",
-        "acupuncture",
-        "butorphanol",
-        "dog",
-        "methadone",
-        "pharmacopuncture"
+        "Methadone",
+        "Pharmacopuncture"
       ],
       "mesh": [],
       "category": "anesthesia",
@@ -31195,7 +31320,18 @@
         "Department of Clinical Sciences, Cummings School of Veterinary Medicine at Tufts University, North Grafton, Massachusetts, United States."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Female",
+        "Male",
+        "Forelimb",
+        "Ulna",
+        "Ligaments",
+        "Radiography"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -31450,7 +31586,20 @@
         "MedVet Medical &amp; Cancer Centers for Pets, Worthington, Ohio, United States."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Osteotomy",
+        "Bone Plates",
+        "Tibia",
+        "Dog Diseases",
+        "Postoperative Complications",
+        "Female",
+        "Anterior Cruciate Ligament",
+        "Retrospective Studies",
+        "Male",
+        "Stifle"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -43835,7 +43984,7 @@
       "date": "2026 Mar 13",
       "sortdate": "2026-03-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41825482/",
-      "abstract": "Chemical restraint influences canine hip dysplasia scores for both the standard ventrodorsal hip-extended radiographs and during stress radiography. There is, however, no consensus on the optimal anaesthesia protocol for these stress radiographs. The objective of this study was to evaluate the impact of sedation/anaesthesia on the highest laxity index while using a validated force-measuring device.Ten Beagle dogs were randomly assigned to undergo stress radiographs under four different sedation/anaesthesia protocols on three separate occasions. Vital parameters, ease of procedure and laxity index were evaluated.Parameters such as temperature, heart rate and respiratory rate remained within normal ranges for all protocols. One dog experienced a seizure after dexmedetomidine and ketamine sedation (protocol C). Protocol B (dexmedetomidine/butorphanol/midazolam) and protocol A (dexmedetomidine/butorphanol) scored significantly better than protocol C (dexmedetomidine/ketamine) and D (dexmedetomidine/propofol) in various aspects of ease of the procedure. While the maximum laxity was similar between protocols A, B and D, only in protocols A and B, a plateau phase was reached. Overall, protocols A and B performed similarly; the best scores were, however, consistently allocated to protocol B.The sedation protocol dexmedetomidine, butorphanol and midazolam emerged as the most favourable sedation protocol for stress radiography of the coxofemoral joint, offering practicality and a high laxity index, without adverse effects.",
+      "abstract": "BACKGROUND AND OBJECTIVE: Chemical restraint influences canine hip dysplasia scores for both the standard ventrodorsal hip-extended radiographs and during stress radiography. There is, however, no consensus on the optimal anaesthesia protocol for these stress radiographs. The objective of this study was to evaluate the impact of sedation/anaesthesia on the highest laxity index while using a validated force-measuring device. STUDY DESIGN: Ten Beagle dogs were randomly assigned to undergo stress radiographs under four different sedation/anaesthesia protocols on three separate occasions. Vital parameters, ease of procedure and laxity index were evaluated. RESULTS: Parameters such as temperature, heart rate and respiratory rate remained within normal ranges for all protocols. One dog experienced a seizure after dexmedetomidine and ketamine sedation (protocol C). Protocol B (dexmedetomidine/butorphanol/midazolam) and protocol A (dexmedetomidine/butorphanol) scored significantly better than protocol C (dexmedetomidine/ketamine) and D (dexmedetomidine/propofol) in various aspects of ease of the procedure. While the maximum laxity was similar between protocols A, B and D, only in protocols A and B, a plateau phase was reached. Overall, protocols A and B performed similarly; the best scores were, however, consistently allocated to protocol B. CONCLUSION: The sedation protocol dexmedetomidine, butorphanol and midazolam emerged as the most favourable sedation protocol for stress radiography of the coxofemoral joint, offering practicality and a high laxity index, without adverse effects.",
       "affiliations": [
         "Department of Veterinary Morphology, Imaging, Orthopedics, Rehabilitation and Nutrition, Ghent University, Merelbeke, Belgium.",
         "Department of Physical Medicine and Orthopaedic Surgery, Ghent University, Ghent, Belgium.",
@@ -43844,7 +43993,22 @@
         "Department of Veterinary and Biosciences, Ghent University, Merelbeke, Belgium."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dexmedetomidine",
+        "Hypnotics and Sedatives",
+        "Butorphanol",
+        "Radiography",
+        "Ketamine",
+        "Female",
+        "Anesthesia",
+        "Hip Dysplasia, Canine",
+        "Male",
+        "Midazolam",
+        "Hip Joint",
+        "Propofol"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -44161,7 +44325,7 @@
       "date": "2026 Mar 11",
       "sortdate": "2026-03-11",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41812685/",
-      "abstract": "The aim of this study was to compare different secondary fixation methods in a canine tibial fracture gap model.Twelve paired tibiae from large-breed dogs were examined. The tibiae were classified into four groups using a random block design. Implant fixation methods included a single 3.5&#x2009;mm locking plate (3.5 LP), a 3.5 LP with a single 2.8&#x2009;mm intramedullary pin (3.5 LP/2.8 IM pin) and two 2.0&#x2009;mm or 2.7&#x2009;mm orthogonal locking plates (3.5/2.0 LP or 3.5/2.7 LP). The tibial constructs were non-destructively tested in four-point bending and torsion and tested to failure in craniocaudal or lateromedial bending.In the non-destructive tests, the 3.5/2.7 LP had higher torsional stiffness than the others (p&#x2009;&lt;&#x2009;0.001). In the destructive tests with the craniocaudal bending, the 3.5/2.7 LP had higher yield stiffness (vs. 3.5 LP, p&#x2009;=&#x2009;0.002; vs. 3.5 LP/2.8 IM pin, p&#x2009;=&#x2009;0.041; vs. 3.5/2.0 LP, p&#x2009;=&#x2009;0.021) and bending moment (vs. 3.5 LP, p&#x2009;=&#x2009;0.002; vs. 3.5 LP/2.8 IM pin, p&#x2009;=&#x2009;0.017; vs. 3.5/2.0 LP, p&#x2009;=&#x2009;0.038) than the others. In lateromedial bending, the 3.5 LP/2.8 IM pin had a higher yield angle than the other constructs (vs. 3.5/2.0 LP, p&#x2009;=&#x2009;0.020; vs. 3.5/2.7 LP, p&#x2009;=&#x2009;0.012).The orthogonal plating technique using the 3.5/2.7 LP was the strongest construct and may have a mechanical advantage over other secondary fixation methods tested.",
+      "abstract": "OBJECTIVE: The aim of this study was to compare different secondary fixation methods in a canine tibial fracture gap model. STUDY DESIGN: Twelve paired tibiae from large-breed dogs were examined. The tibiae were classified into four groups using a random block design. Implant fixation methods included a single 3.5&#x2009;mm locking plate (3.5 LP), a 3.5 LP with a single 2.8&#x2009;mm intramedullary pin (3.5 LP/2.8 IM pin) and two 2.0&#x2009;mm or 2.7&#x2009;mm orthogonal locking plates (3.5/2.0 LP or 3.5/2.7 LP). The tibial constructs were non-destructively tested in four-point bending and torsion and tested to failure in craniocaudal or lateromedial bending. RESULTS: In the non-destructive tests, the 3.5/2.7 LP had higher torsional stiffness than the others (p&#x2009;&lt;&#x2009;0.001). In the destructive tests with the craniocaudal bending, the 3.5/2.7 LP had higher yield stiffness (vs. 3.5 LP, p&#x2009;=&#x2009;0.002; vs. 3.5 LP/2.8 IM pin, p&#x2009;=&#x2009;0.041; vs. 3.5/2.0 LP, p&#x2009;=&#x2009;0.021) and bending moment (vs. 3.5 LP, p&#x2009;=&#x2009;0.002; vs. 3.5 LP/2.8 IM pin, p&#x2009;=&#x2009;0.017; vs. 3.5/2.0 LP, p&#x2009;=&#x2009;0.038) than the others. In lateromedial bending, the 3.5 LP/2.8 IM pin had a higher yield angle than the other constructs (vs. 3.5/2.0 LP, p&#x2009;=&#x2009;0.020; vs. 3.5/2.7 LP, p&#x2009;=&#x2009;0.012). CONCLUSION: The orthogonal plating technique using the 3.5/2.7 LP was the strongest construct and may have a mechanical advantage over other secondary fixation methods tested.",
       "affiliations": [
         "JD Wheat Veterinary Orthopedic Research Laboratory, Department of Surgical and Radiological Sciences, School of Veterinary Medicine, University of California, Davis, California, United States.",
         "Department of Human Resources, Aeonpet Co., Ltd., Ichikawa-shi, Chiba, Japan.",
@@ -44170,7 +44334,14 @@
         "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Purdue University, West Lafayette, Indiana, United States."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Bone Plates",
+        "Tibial Fractures",
+        "Biomechanical Phenomena",
+        "Fracture Fixation, Internal"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -44926,13 +45097,22 @@
       "date": "2026 Mar 07",
       "sortdate": "2026-03-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41794045/",
-      "abstract": "This aim of this study was to determine feline stifle joint stability and muscle force ratios after cranial cruciate ligament transection and intra-articular reconstruction, and assess the feasibility of this reconstruction in cats.Ten feline hindlimbs were tested in an axial limb press with 30% body weight load. Femoral angles were set to 60&#x2009;degrees, and stifle and hock angles to 120&#x2009;degrees. The cranial cruciate ligament was transected, and testing was repeated. Intra-articular reconstruction was performed using a 16-strand ultra-high molecular weight polyethylene graft and four 3&#x2009;mm interference screws. Friedman's repeated-measures analysis of variance compared angles, forces, and tibial translation.Tibial translation increased significantly after cranial cruciate ligament transection (p&#x2009;=&#x2009;0.02) but did not differ from intact joints post-reconstruction (p&#x2009;=&#x2009;0.5). Forces (p&#x2009;=&#x2009;0.72, p&#x2009;=&#x2009;0.74) and bone/joint angles (p&#x2009;=&#x2009;0.12) did not differ across test situations. Mean quadriceps force was twice the gastrocnemius force. Measurement repeatability was good, with a within-subject standard deviation for distance at 0.4&#x2009;mm and for angles at 0.4 to 1.1&#x2009;degrees.Limb press positioning was consistent and repeatable, and muscle forces approached in vivo values. Intra-articular reconstruction restored joint stability under static load and appeared feasible for use in cats.",
+      "abstract": "OBJECTIVES: This aim of this study was to determine feline stifle joint stability and muscle force ratios after cranial cruciate ligament transection and intra-articular reconstruction, and assess the feasibility of this reconstruction in cats. METHODS: Ten feline hindlimbs were tested in an axial limb press with 30% body weight load. Femoral angles were set to 60&#x2009;degrees, and stifle and hock angles to 120&#x2009;degrees. The cranial cruciate ligament was transected, and testing was repeated. Intra-articular reconstruction was performed using a 16-strand ultra-high molecular weight polyethylene graft and four 3&#x2009;mm interference screws. Friedman's repeated-measures analysis of variance compared angles, forces, and tibial translation. RESULTS: Tibial translation increased significantly after cranial cruciate ligament transection (p&#x2009;=&#x2009;0.02) but did not differ from intact joints post-reconstruction (p&#x2009;=&#x2009;0.5). Forces (p&#x2009;=&#x2009;0.72, p&#x2009;=&#x2009;0.74) and bone/joint angles (p&#x2009;=&#x2009;0.12) did not differ across test situations. Mean quadriceps force was twice the gastrocnemius force. Measurement repeatability was good, with a within-subject standard deviation for distance at 0.4&#x2009;mm and for angles at 0.4 to 1.1&#x2009;degrees. CLINICAL SIGNIFICANCE: Limb press positioning was consistent and repeatable, and muscle forces approached in vivo values. Intra-articular reconstruction restored joint stability under static load and appeared feasible for use in cats.",
       "affiliations": [
         "Department of Veterinary Clinical Sciences, University of Copenhagen, Copenhagen, Denmark.",
         "College of Veterinary Medicine, University of Florida, Gainesville, Florida, United States."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Stifle",
+        "Anterior Cruciate Ligament",
+        "Biomechanical Phenomena",
+        "Polyethylene",
+        "Anterior Cruciate Ligament Injuries",
+        "Polyethylenes"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
@@ -48282,13 +48462,22 @@
       "date": "2026 Feb 24",
       "sortdate": "2026-02-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41734783/",
-      "abstract": "This study aimed to compare gap formation between a classical transcalcaneal bone tunnel and a bioabsorbable suture anchor in a feline Achilles tendon avulsion model.Gastrocnemius tendons were dissected from the calcaneus of seven pairs of feline gastrocnemius tendon-calcaneus specimens. Reinsertion was performed either through a transverse bone tunnel or with a bioabsorbable suture anchor with a metric 3 non-absorbable monofilament polypropylene-polyethylene suture in a Bunnell-Mayer pattern. Tensile tests were conducted under physiological loading conditions. Gap formation was tracked with a video camera, and force on the tendon was measured. Results were compared with t-tests.Mean load at a gap of 0.5&#x2009;mm was significantly higher for the suture anchor (44.2&#x2009;&#xb1;&#x2009;5.5&#x2009;N) compared with the bone tunnel (23.0&#x2009;&#xb1;&#x2009;15.4&#x2009;N). A 3-mm gap was not reached with the suture anchor. Failure loads were dominated by suture breakage and were not significantly different between suture anchor (55.2&#x2009;&#xb1;&#x2009;8.0&#x2009;N) and bone tunnel (65.1&#x2009;&#xb1;&#x2009;8.3&#x2009;N). Pulling through the tendon substance did not occur.The suture anchor resisted gap formation more effectively than the bone tunnel and can be considered advantageous for gastrocnemius tendon reinsertion in cats.",
+      "abstract": "OBJECTIVE: This study aimed to compare gap formation between a classical transcalcaneal bone tunnel and a bioabsorbable suture anchor in a feline Achilles tendon avulsion model. STUDY DESIGN: Gastrocnemius tendons were dissected from the calcaneus of seven pairs of feline gastrocnemius tendon-calcaneus specimens. Reinsertion was performed either through a transverse bone tunnel or with a bioabsorbable suture anchor with a metric 3 non-absorbable monofilament polypropylene-polyethylene suture in a Bunnell-Mayer pattern. Tensile tests were conducted under physiological loading conditions. Gap formation was tracked with a video camera, and force on the tendon was measured. Results were compared with t-tests. RESULTS: Mean load at a gap of 0.5&#x2009;mm was significantly higher for the suture anchor (44.2&#x2009;&#xb1;&#x2009;5.5&#x2009;N) compared with the bone tunnel (23.0&#x2009;&#xb1;&#x2009;15.4&#x2009;N). A 3-mm gap was not reached with the suture anchor. Failure loads were dominated by suture breakage and were not significantly different between suture anchor (55.2&#x2009;&#xb1;&#x2009;8.0&#x2009;N) and bone tunnel (65.1&#x2009;&#xb1;&#x2009;8.3&#x2009;N). Pulling through the tendon substance did not occur. CONCLUSION: The suture anchor resisted gap formation more effectively than the bone tunnel and can be considered advantageous for gastrocnemius tendon reinsertion in cats.",
       "affiliations": [
         "Institute of Lightweight Design and Structural Biomechanics, TU Wien, Vienna, Austria.",
         "Department of Surgery, Small Animal Hospital Sattledt, Sattledt, Austria."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Achilles Tendon",
+        "Suture Anchors",
+        "Tensile Strength",
+        "Absorbable Implants",
+        "Suture Techniques",
+        "Biomechanical Phenomena"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -58729,13 +58918,25 @@
       "date": "2026 Jan 05",
       "sortdate": "2026-01-05",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41490877/",
-      "abstract": "The objective of this study is to report radiographic description and outcome of construct failure following cranial closing wedge osteotomy (CCWO) using locking plates in dogs.Medical records and radiographs of dogs with construct failure after CCWO presented at a single institution were reviewed retrospectively. Signalment, history, implants used in initial surgery, time between CCWO surgery and failure, time between initial and revision surgery, cause of failure, and revision details were recorded. Radiographs were reviewed to measure pre- and postoperative tibial plateau angle (TPA) and cortical alignment. Clinical outcomes and complications following revision were noted in short-term follow-up (&lt;6 months).Ten dogs met the inclusion criteria. In all cases, CCWO was initially performed with locking implants. There were no intraoperative complications; two cases had superficial surgical site infection (SSI) after CCWO. Time from surgery to failure was a median of 10 days (4-87). Nine fractures were described, all in the proximal tibia; one case had screw loosening with loss of osteotomy reduction. Multiple failure patterns were identified. Nine of 10 cases underwent surgical revision: one developed SSI. One case was treated conservatively. At follow-up, 9/10 had no or very mild lameness.Construct failure is a potential complication after CCWO using locking plates. Revision surgery is often required, and a good outcome can be expected. Further studies are necessary to investigate specific risk factors and incidence.",
+      "abstract": "OBJECTIVE: The objective of this study is to report radiographic description and outcome of construct failure following cranial closing wedge osteotomy (CCWO) using locking plates in dogs. STUDY DESIGN: Medical records and radiographs of dogs with construct failure after CCWO presented at a single institution were reviewed retrospectively. Signalment, history, implants used in initial surgery, time between CCWO surgery and failure, time between initial and revision surgery, cause of failure, and revision details were recorded. Radiographs were reviewed to measure pre- and postoperative tibial plateau angle (TPA) and cortical alignment. Clinical outcomes and complications following revision were noted in short-term follow-up (&lt;6 months). RESULTS: Ten dogs met the inclusion criteria. In all cases, CCWO was initially performed with locking implants. There were no intraoperative complications; two cases had superficial surgical site infection (SSI) after CCWO. Time from surgery to failure was a median of 10 days (4-87). Nine fractures were described, all in the proximal tibia; one case had screw loosening with loss of osteotomy reduction. Multiple failure patterns were identified. Nine of 10 cases underwent surgical revision: one developed SSI. One case was treated conservatively. At follow-up, 9/10 had no or very mild lameness. CONCLUSION: Construct failure is a potential complication after CCWO using locking plates. Revision surgery is often required, and a good outcome can be expected. Further studies are necessary to investigate specific risk factors and incidence.",
       "affiliations": [
         "University of Ghent, Small Animal Department, Merelbeke, Belgium.",
         "Orthopedic Department, Willows Veterinary Centre and Referral Service, Solihull, United Kingdom."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Osteotomy",
+        "Bone Plates",
+        "Tibia",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Dog Diseases",
+        "Postoperative Complications",
+        "Reoperation"
+      ],
       "category": "orthopedics",
       "summary_ko": ""
     },
