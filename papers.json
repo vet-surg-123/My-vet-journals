@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14 06:52 UTC",
-  "total": 12286,
+  "updated": "2026-11-15 02:07 UTC",
+  "total": 12302,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -139,6 +139,64 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43031287",
+      "title": "Airway collapse in small breed dogs and its association with clinical and anatomic variables.",
+      "authors": "Kelly D, Labrador J, Peak K, Doyle E, Calleja S, Vecin M, Lomp T, Smith A, Rasmussen-Clark B, Pollard D",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031287/",
+      "abstract": "OBJECTIVES: The objective of the study was to evaluate associations between clinical and anatomic variables in small breed dogs with lower airway collapse. MATERIALS AND METHODS: One hundred and fifty dogs with chronic cough presenting between July 2017 and July 2023 were retrospectively included. Bronchoscopy recordings were reviewed to identify presence, location and severity of airway collapse. Anatomic variables were measured on computed tomography images. Cardiac variables were assessed with echocardiography or thoracic radiographs. RESULTS: Decreasing thoracic height:width ratio (Estimate: -51.75; 95% CI: -82.54 to -20.96), increasing body condition score (BCS) (Estimate: 6.45; 95% CI: 3.35 to 9.55) and presence of left atrial enlargement (Estimate: 21.97; 95% CI: 7.02 to 36.92) were associated with increasing cumulative bronchial collapse scores. Decreasing thoracic height:width ratio (OR: 0.02; 95% CI: 0.0004 to 0.63), increasing age (OR: 1.02; 95% CI: 1.01 to 1.03) and increasing body condition score (OR: 1.41; 95% CI: 1.04 to 1.92) were associated with increasing bronchomalacia scores. Decreasing thoracic height:width ratio (OR: 0.001; 95% CI: 0.00000758 to 0.08), increasing body condition score (OR: 1.63; 95% CI: 1.18 to 2.29), presence of left atrial enlargement (OR: 4.89; 95% CI: 1.19 to 21.65) and presence of airway neutrophilic inflammation (OR: 3.98; 95% CI: 1.10 to 17.39) were associated with increasing left principal bronchus collapse scores. Decreasing thoracic height:width ratio (OR: 0.003; 95% CI: 0.0001 to 0.07), increasing body condition score (OR: 1.54; 95% CI: 1.20 to 1.99) and presence of left atrial enlargement (OR: 4.85; 95% CI: 1.38 to 18.99) were associated with increasing left caudal lobar bronchus collapse scores. CLINICAL SIGNIFICANCE: Variations in thoracic conformation might be involved in the aetiopathogenesis of airway collapse and reduced thoracic height:width ratio is associated with increasing airway collapse scores. Increasing body condition score is a modifiable variable associated with increasing airway collapse scores. Left atrial enlargement is associated with increased bronchial collapse scores but might directly contribute only to pre-existing collapse of the left caudal lobar bronchus.",
+      "affiliations": [
+        "Southern Counties Veterinary Specialists, IVC Evidensia, Ringwood, UK.",
+        "Anderson Moores Veterinary Specialists, Winchester, UK.",
+        "Lumbry Park Veterinary Specialists, Alton, UK.",
+        "Pride Veterinary Referrals, Derby, UK.",
+        "Bristol Vet Specialists, Bristol, UK.",
+        "Statistics, Cambridge, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43031255",
+      "title": "Effects of stifle angle and cranial cruciate ligament deficiency on cranial-caudal translation of the tibia and medial meniscus in dogs.",
+      "authors": "Granovsky G, Shahar M, Shipov A, Bitton E, Amotz RB, Milgram J",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031255/",
+      "abstract": "OBJECTIVE: To quantify cranial-caudal translation of the tibia and medial meniscus relative to the femur in intact and cranial cruciate ligament (CCL) deficient stifles, in dogs. STUDY DESIGN: Ex vivo biomechanical study. SAMPLE POPULATION: Six skeletally mature canine hindlimbs harvested from dogs weighing 20-25&#x2009;kg. METHODS: Stifles were tested in a custom-designed joint-testing machine. Cranial-caudal translations under cranial-caudal loads of the tibia, medial collateral ligament (MCL) and cranial and caudal medial meniscal horns were measured at three stifle angles with CCL intact and cut. RESULTS: Cranial-caudal translation decreased with increasing flexion of the intact stifle, transected CCL caused maximum cranial-caudal translation of all measured structures at stifle angle of 115&#xb0;. Largest translations were recorded for the tibia, then cranial medial meniscus horn, caudal medial meniscus horn, and MCL, with minor differences observed between measured structures. In pairwise comparisons, cranial translation increased when increasing cranial load from 0.2 to 2.0&#x2009;kg (p&#x2009;&lt;&#x2009;.0001), and after cutting the CCL (p&#x2009;=&#x2009;.006). With the CCL cut, less tibial translation relative to the femur was seen with the stifle at 90&#xb0;, compared to the translation at 135&#xb0; (p&#x2009;=&#x2009;.042) and 115&#xb0; (p&#x2009;=&#x2009;.012). CONCLUSION: Cranial loading caused all measured structures to translate cranial relative to the femur; however, the medial meniscus is more constrained, and translated cranial less than the tibia, resulting in caudal translation of the medial meniscus relative to the tibial plateau. CLINICAL SIGNIFICANCE: Damage to the medial meniscus likely occurs during weightbearing at stifle angles of 115&#xb0; to 135&#xb0; &#xa0;with the caudal horn in an abnormal caudal location.",
+      "affiliations": [
+        "Laboratory of Biomechanics, Koret School of Veterinary Medicine, Robert H Smith Faculty of Agriculture, Food, and Environment, Hebrew University of Jerusalem, Rehovot, Israel."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43031242",
+      "title": "Accuracy of intraoperative gross margin assessment by veterinary surgeons compared with histologic margin evaluation: A multicenter prospective cohort study.",
+      "authors": "Hill M, Tremolada G, Lapsley J, Selmic L, Boadi S, Oleson J, Piegols H",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 13",
+      "sortdate": "2026-11-13",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031242/",
+      "abstract": "OBJECTIVE: To identify the sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and accuracy of intraoperative surgeon-perceived margin status via gross examination compared to histologic evaluation for marginal and wide cutaneous mass excisions. STUDY DESIGN: Multicenter prospective cohort study. ANIMAL POPULATION: A total of 84 dogs and six cats with 102 cutaneous masses. METHODS: Four surgeons completed a survey assessing margin completeness after mass removal prior to histologic results. RESULTS: Surgeon ability to identify incomplete margins had a sensitivity of 56.3%, specificity of 87.2%, PPV of 45%, NPV of 91.5%, and accuracy of 82.4%. Surgeon margin assessment was correct in 58.5% of marginally excised and 98.4% of widely excised masses: odds ratio (OR) 0.024 (confidence interval [CI]: 0.003, 0.19). Margin assessment based upon cytologic malignancy status was correct in nine of 14 (64.3%) benign lesions and 75 of 88 (85.2%) malignant lesions: OR 0.31 (CI: 0.09, 1.1). CONCLUSION: Surgeons did not have improved accuracy in margin assessment for cytologically benign masses compared with malignant masses. Surgeon margin assessment correctness may be influenced by surgical dose. Additionally, when surgeons suspected a complete margin, there was a high probability that the histologic margin was complete. Limitations included the diversity of cases enrolled, few participating surgeons, potential non-blinded assessment bias, and lack of clinical follow up. CLINICAL SIGNIFICANCE: Veterinary surgeons can provide owners an assessment of margin completeness with a degree of confidence for wide mass excision. Caution should persist in assessment of marginally excised tumors. This information allows owners to contemplate further treatment pending histopathology results.",
+      "affiliations": [
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio, USA.",
+        "Department of Clinical Sciences, Colorado State University College of Veterinary Medicine, Fort Collins, Colorado, USA.",
+        "Department of Biostatistics, University of Iowa College of Public Health, Manville Heights, Iowa, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -386,6 +444,30 @@
       "summary_ko": ""
     },
     {
+      "id": "43027254",
+      "title": "Opioid-Sparing Effect of an Ultrasound-Guided Transversus Abdominis Plane Block Added to a Multimodal Analgesic Protocol in Dogs with Acute Pancreatitis: A Matched-Control Pilot Study.",
+      "authors": "Díaz-González A, Pérez-Merino EM, Cristóbal-Verdejo JI, Martínez-Zafra C, Espadas-González L",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 07",
+      "sortdate": "2026-11-07",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027254/",
+      "abstract": "Acute pancreatitis in dogs causes severe abdominal pain, typically managed with systemic opioids, which can impair gastrointestinal motility and delay recovery. This prospective clinical communication evaluated the opioid-sparing effect and clinical outcomes of an ultrasound-guided transversus abdominis plane block added to a multimodal analgesic protocol in dogs with acute pancreatitis. Twelve dogs were allocated into a locoregional block group (n = 6) and a control group managed with opioids (n = 6), matched on five severity scores recorded at admission. The primary outcome was opioid consumption during the first 24 h after enrollment; secondary outcomes were pain during the same period, time to first voluntary food intake, hospitalization length, and inflammatory response. The block group received significantly fewer methadone doses (median 0 vs. 4.5; p = 0.015) and five of six dogs required no methadone beyond the enrollment dose. Cumulative pain scores during the first 24 h were also significantly lower in the block group (p = 0.037). The time to first voluntary food intake was shorter in the block group (12 vs. 48 h; p = 0.02). No significant differences were found in hospitalization length or survival. Adding a transversus abdominis plane block to a multimodal protocol was associated with a marked opioid-sparing effect and promoted earlier voluntary food intake, although these preliminary findings require confirmation in larger studies.",
+      "affiliations": [
+        "Department of Animal Medicine, Hospital Cl&#xed;nico Veterinario, Facultad de Veterinaria, University of Extremadura, Avenida de la Universidad s/n, 10003 C&#xe1;ceres, Spain."
+      ],
+      "keywords": [
+        "acute pancreatitis",
+        "dog",
+        "opioid-sparing",
+        "pain management",
+        "regional anesthesia",
+        "transversus abdominis plane block"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
       "id": "42994409",
       "title": "Tibial Anatomy and Functional Outcome in Growing Dogs with Tibial Tuberosity Avulsion Fracture Repair Followed by Implant Removal.",
       "authors": "Hayes SN, Franklin AL, Franklin SP",
@@ -466,6 +548,86 @@
       ],
       "mesh": [],
       "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027247",
+      "title": "Hydrated Nucleus Pulposus Extrusion in Dogs: A Narrative Review of Pathophysiology, Diagnosis, and Clinical Management.",
+      "authors": "Neagu AG, Pavel RG, Micșa C, Fernoagă C, Tudor N",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027247/",
+      "abstract": "Hydrated nucleus pulposus extrusion (HNPE) is a non-Hansen type of acute canine intervertebral disc herniation: gelatinous, minimally degenerate nuclear material extrudes and forms a well-marginated extradural mass on MRI, the so-called 'seagull sign'. It differs from classic Hansen type I or II disc disease, typically affecting the cervical spine of small-breed dogs, with spinal hyperaesthesia often mild or absent. This narrative review synthesises the literature on HNPE in dogs, focusing on four clinically relevant comparisons: cervical versus thoracolumbar disease, MRI versus computed tomography for diagnosis, conservative versus surgical management, and the proposed causes of extrusion from a non-degenerate disc. Across the studies reviewed, most dogs recover functionally whether managed surgically or conservatively, and recovery time relates more closely to intramedullary T2-weighted hyperintensity than to treatment choice. Gaps remain: comparative studies are retrospective and non-randomised, so treatment equivalence remains unproven, thoracolumbar cases remain fewer, and the terminology separating HNPE from acute non-compressive nucleus pulposus extrusion (ANNPE) is used inconsistently. We conclude that conservative management is a reasonable first option for ambulatory dogs with compressive HNPE and normal to mild hyperaesthesia, and that surgical decompression remains appropriate for severe or progressive deficits, and we set out priorities for future research.",
+      "affiliations": [
+        "Faculty of Veterinary Medicine, University of Agronomic Sciences and Veterinary Medicine of Bucharest, 105 Splaiul Independen&#x21b;ei, 050097 Bucharest, Romania."
+      ],
+      "keywords": [
+        "conservative management",
+        "dog",
+        "hydrated nucleus pulposus extrusion",
+        "intervertebral disc disease",
+        "magnetic resonance imaging",
+        "spinal cord compression"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027240",
+      "title": "Comparison of Dorsal Quadratus Lumborum and Rectus Sheath Blocks for Canine Ovariectomy: A Randomised Clinical Trial.",
+      "authors": "Polo-Paredes G, Carrillo-Flores S, Acosta A, Lucas X, Laredo FG, Belda E",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027240/",
+      "abstract": "This study aimed to compare the analgesic properties of the dorsal quadratus lumborum block (QLB) and the rectus sheath block (RSB) as part of a multimodal analgesic protocol in female dogs undergoing ovariectomy. A total of 57 dogs were included in the study. They were randomly divided into three groups: QLB, RSB or control. All the animals were premedicated with dexmedetomidine 0.125 mg m-2 and methadone 0.1 mg kg-1, induced with propofol and maintained with isoflurane. The blocks were performed using 0.4 mL kg-1 per hemiabdomen of bupivacaine 0.25%. In the intraoperative period, when the heart rate, mean arterial pressure or respiratory rate increased &#x2265; 20% from baseline, fentanyl 0.002 mg kg-1 was administered as rescue analgesia. During the early postoperative period, pain was assessed using the short form of the Glasgow Composite Pain Scale (GCPS-SF). Methadone 0.2 mg kg-1 was administered if GCPS-SF scores were &#x2265;6/24 as rescue analgesia. No differences were found in fentanyl doses between groups (p = 0.4406). However, a clinically significant reduction of postoperative methadone rescue doses was found in the QLB group compared to the control group (26,32% absolute risk difference, with a 95% confidence interval of 6.64% to 49.10%), but not between QLB-RSB or RSB-control groups. In conclusion, dorsal QLB reduced early postoperative rescue analgesia requirements when included in a multimodal analgesic protocol in female dogs undergoing ovariectomy.",
+      "affiliations": [
+        "Hospital Veterinario Universidad de Murcia, 30100 Murcia, Spain.",
+        "Departamento de Medicina y Cirug&#xed;a Animal, Facultad de Veterinaria, Universidad de Murcia, 30100 Murcia, Spain."
+      ],
+      "keywords": [
+        "anaesthesia",
+        "analgesia",
+        "dogs",
+        "neutering",
+        "ovariectomy",
+        "quadratus lumborum block",
+        "rectus sheath block"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027238",
+      "title": "Computed Tomography Features of Canine Mammary Tumours: A Retrospective Multicentre Study.",
+      "authors": "De Felice D, Spada S, Nogueira Aires LP, Calabria A, Costanza D, Greco A, Terragni R, Vignoli M, Russo M",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 06",
+      "sortdate": "2026-11-06",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027238/",
+      "abstract": "Mammary tumours are among the most common neoplastic disorders in female dogs, and although computed tomography (CT) is widely used for oncological staging, CT evaluation of primary mammary tumours remains relatively underexplored. This multicentre retrospective study aimed to develop a standardised CT reporting protocol using a modified BI-RADS&#x2122; lexicon and to evaluate the qualitative and quantitative features associated with malignancy. Pre- and post-contrast CT scans were evaluated for 34 female dogs with 106 histologically confirmed mammary tumours, of which 81 were malignant and 25 were benign. The heterogeneous and rim enhancement patterns were strongly associated with malignant lesions (p &lt; 0.001; 88.9% sensitivity, 40% specificity). Perilesional oedema exhibited high specificity (84%) but low sensitivity (33.3%). A tumour volume &gt;1.90 cm3 was significantly associated with malignancy (p = 0.046). The proposed cumulative scoring system (0-4 points) showed an AUC of 0.711. After accounting for within-dog clustering, the dichotomous high-risk classification (score &#x2265; 2) remained significantly associated with malignancy (OR = 1.70; 95% CI: 1.11-2.58; p = 0.014). Tumours classified as high-risk (score &#x2265; 2) showed an 84.2% observed proportion of malignancy, with 82.7% sensitivity and 58% specificity. This CT-based protocol could help to standardise reporting and identify tumours with a higher risk of malignancy.",
+      "affiliations": [
+        "Department of Veterinary Medicine and Animal Production, University of Naples \"Federico II\", Via Federico Delpino, 80137 Naples, Italy.",
+        "Clinic of Reproductive Medicine, Vetsuisse Faculty, University of Zurich, 8057 Zurich, Switzerland.",
+        "Interdepartmental Veterinary Radiology Center, Department of Veterinary Medicine and Animal Productions, University of Napoli \"Federico II\", Via Federico Delpino 1, 80137 Naples, Italy.",
+        "\"Calabria\" Veterinary Specialty Center, Via Amerigo Vespucci, 1 Marigliano (NA), 80034 Naples, Italy.",
+        "\"PetCare\" Veterinary Clinic, Via Marzabotto 1/2/MN, 40133 Bologna, Italy.",
+        "Department of Veterinary Medicine, University of Teramo, Nepezzano, Piano D'accio (TE), 64100 Teramo, Italy."
+      ],
+      "keywords": [
+        "BI-RADS&#x2122;",
+        "canine mammary tumours",
+        "computed tomography",
+        "diagnostic imaging",
+        "malignancy",
+        "modified BI-RADS&#x2122;",
+        "veterinary reproduction"
+      ],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -614,6 +776,32 @@
       ],
       "mesh": [],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027214",
+      "title": "Evaluation of the Tolerability and Efficacy of Adjuvant Treatment with Adipose Mesenchymal Stem/Stromal Cells in Dogs with Kidney Disease Secondary to Leishmaniosis.",
+      "authors": "González MA, Barrera-Chacón R, Jiménez-Fragoso J, Macías-García B, Fernández-Cotrina J, Gil-Molino M, Robles NR, Martín-Cano FE, Duque FJ",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027214/",
+      "abstract": "The tolerability and efficacy of treatment with allogeneic adipose-derived mesenchymal stem cells (aAMSCs) were evaluated in dogs with kidney disease secondary to canine leishmaniosis (CanL). In this non-blinded, single-center, 3-month study, twenty dogs received either conventional treatment (CT; n = 10) or conventional treatment plus an intravenous dose of aAMSCs (CT + aAMSCs; n = 10). Efficacy was assessed at days 0, 30, and 90 using plasma and urinary biomarkers. In both groups (CT, n = 6; CT + aAMSCs, n = 7), glomerular filtration rate was estimated by scintigraphy, and urinary proteomics was performed. No serious adverse events were observed, although two dogs experienced transient gastrointestinal events. No significant between-group differences occurred in renal parameters at time points. Intragroup analyses showed significant reductions in uNGAL/c in both groups and UPCR only in CT + aAMSCs. Longitudinal mixed-effects analyses revealed no significant group &#xd7; time interactions for any of the evaluated variables. Urinary proteomics identified four protein entries with higher abundance in the CT + aAMSCs group at T90, although UMAP showed no separation between groups. A single intravenous aAMSCs dose was well tolerated but provided no renal benefits over conventional treatment. Further studies should evaluate alternative dosing protocols.",
+      "affiliations": [
+        "Departamento de Medicina Animal, Hospital Cl&#xed;nico Veterinario, Universidad de Extremadura, 10003 C&#xe1;ceres, Spain.",
+        "Laboratorio LeishmanCeres (GLP Compliance Certified), Unidad de Parasitolog&#xed;a, Hospital Cl&#xed;nico Veterinario, Universidad de Extremadura, 10003 C&#xe1;ceres, Spain.",
+        "Departamento de Sanidad Animal, Hospital Cl&#xed;nico Veterinario, Universidad de Extremadura, 10003 C&#xe1;ceres, Spain.",
+        "Servicio de Nefrolog&#xed;a, Hospital Universitario de Badajoz, Universidad de Extremadura, 06080 Badajoz, Spain.",
+        "Laboratorio de Reproducci&#xf3;n Equina y Espermatolog&#xed;a, Hospital Cl&#xed;nico Veterinario, Universidad de Extremadura, 10003 C&#xe1;ceres, Spain."
+      ],
+      "keywords": [
+        "adipose mesenchymal stem cells",
+        "biomarker",
+        "canine leishmaniosis",
+        "scintigraphy"
+      ],
+      "mesh": [],
+      "category": "imaging",
       "summary_ko": ""
     },
     {
@@ -1381,6 +1569,34 @@
       "summary_ko": ""
     },
     {
+      "id": "43027183",
+      "title": "Adjuvant Interstitial Yttrium-90 Hydrogel (IsoPet(®)) Following Limb-Sparing Marginal Excision of Multifocal Distal Pelvic-Limb Neoplasia in a Dog.",
+      "authors": "Isai GK, Drygas KA, Weeks B",
+      "journal": "Animals (Basel)",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027183/",
+      "abstract": "BACKGROUND: Achieving complete surgical margins can be challenging for tumors involving the distal extremities due to limited surrounding soft tissue and the proximity of functionally important structures. Incompletely excised tumors may require adjuvant radiation therapy to treat suspected residual microscopic disease. Yttrium-90 phosphate hydrogel (IsoPet&#xae;) is an emerging injectable radiation modality that delivers localized beta radiation to a tumor bed or surgical margin. CASE DESCRIPTION: An eight-year-old neutered male Bullmastiff was evaluated by the referring veterinarian for firm subcutaneous masses developed along the right pelvic limb. Fine-needle aspiration was initially suggestive of an inflammatory process; however, subsequent punch biopsies identified Grade II soft tissue sarcoma. The patient was referred for surgical oncology evaluation. Four right pelvic limb masses and the right popliteal lymph node were surgically excised. Histopathological examination of the excisional specimens identified poorly differentiated carcinoma involving the excised masses, with metastatic involvement of the right popliteal lymph node and incomplete surgical margins. Adjuvant Y-90 hydrogel was elected following complete surgical wound healing. On 20 November 2025, 8.46 mCi (313 MBq) of Y-90 phosphate hydrogel in a total volume of 4.7 mL was administered through 66 peri-incisional and incisional injections distributed across the previous right pelvic limb surgical beds using a grid-based technique. The procedure was completed without complications. Post-treatment follow-up demonstrated satisfactory wound healing, with only mild transient appetite reduction and minimal localized tissue irritation. After surgery plus adjuvant Y-90, no clinically detectable local recurrence was identified at the treatment sites during the 120-day documented follow-up period. Seventy-four days following Y-90 hydrogel treatment, computed tomography performed for persistent otic disease identified an aggressive osteolytic lesion involving the right C5 vertebra with extradural spinal cord compression. The relationship between this lesion and the previously treated pelvic limb neoplasia could not be definitively established. Despite the subsequent development of this cervical lesion, no clinically detectable recurrence was documented at the original treatment limb sites. This finding is an observation after combined surgery and Y-90, not evidence of Y-90-specific efficacy. The patient was subsequently managed supportively and was euthanized by the referring veterinarian approximately four months after identification of the cervical lesion. CONCLUSION: This single case demonstrates that peri-incisional Y-90 phosphate hydrogel could be administered to multiple distal pelvic-limb surgical beds after limb-sparing excision. The procedure was well tolerated. No clinically detectable local recurrence was identified at the treated sites during the 120-day documented follow-up period. Because gross disease had already been removed and there was no comparator, these observations cannot establish the independent efficacy of IsoPet&#xae;. Prospective studies are needed.",
+      "affiliations": [
+        "Capital Veterinary Specialists LLC, 1615 Mahan Center Boulevard, Tallahassee, FL 32308, USA.",
+        "Vivos Inc., Suite N288, 1030 N. Center Parkway, Kennewick, WA 99336, USA."
+      ],
+      "keywords": [
+        "IsoPet&#xae;",
+        "brachytherapy",
+        "canine",
+        "incomplete histologic margins",
+        "neoplasia",
+        "precision radionuclide therapy",
+        "soft tissue tumor",
+        "veterinary oncology",
+        "yttrium-90"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42960540",
       "title": "Neurokinin-1 receptor antagonist (maropitant) for treatment of chronic idiopathic rhinitis in dogs: a pilot study.",
       "authors": "Neittaanmäki H, Rajamäki M, Airas N, Tilamaa A, Viitanen S",
@@ -1464,6 +1680,65 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027166",
+      "title": "Suspected Focal Junctional Tachycardia with Type I Isorhythmic Atrioventricular Dissociation Associated with Diffuse Lymphocytic Myocarditis of Undetermined Etiology in a Cat.",
+      "authors": "Miralles-Plaza I, Martín-Ambrosio-Francés M, Del Portillo-Miguel I, McDonald HR, Cala A, Cerrada-Serra I",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 30",
+      "sortdate": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027166/",
+      "abstract": "Focal junctional tachycardia (FJT) is a regular, narrow QRS complex tachycardia with subtle cycle length irregularity, frequently associated with isorhythmic atrioventricular dissociation (IAVD). Its presentation may be paroxysmal or non-paroxysmal. This rhythm is well recognized in humans and dogs. However, to the best of the authors' knowledge, FJT has not been previously published in cats. This case report describes a 9-year-old neutered male domestic shorthair cat presenting with signs of congestive heart failure, hyperthermia, and a non-paroxysmal FJT. Electrocardiography demonstrated a narrow QRS tachycardia with type I synchronization IAVD, consistent with suspected FJT. Transthoracic echocardiography revealed severe biatrial enlargement, concentric ventricular hypertrophy and echocardiographic measures suggestive of high probability of pulmonary hypertension. There was apparently preserved global systolic function and diastolic dysfunction. These findings were consistent with a non-specific cardiomyopathy phenotype stage C. Pleural fluid cytology initially suggested a lymphoproliferative disorder; however, postmortem histopathological examination confirmed diffuse lymphocytic myocarditis without evidence of neoplasia. Despite intensive supportive and antithrombotic therapy, the cat experienced sudden death. To the authors' knowledge, this is the first description of suspected FJT with type I IAVD in a cat. This case highlights myocarditis as a critical differential diagnosis in cats presenting with a lymphocytic effusion, structural echocardiographic changes, and complex supraventricular arrhythmias. It also discusses the diagnostic challenges and prognostic implications associated with inflammatory myocardial disease in this species.",
+      "affiliations": [
+        "Veterinary Teaching Hospital, Universidad Cardenal Herrera CEU, CEU Universities, Calle Santiago Ram&#xf3;n y Cajal s/n, 46115 Valencia, Spain.",
+        "University Veterinary Teaching Hospital, Faculty of Biomedical and Health Sciences, Campus de Villaviciosa, Universidad Europea de Madrid, Calle Tajo s/n, 28670 Madrid, Spain.",
+        "Small Animal Hospital Royal (Dick) School of Veterinary Studies, the University of Edinburgh, Roslin EH25 9RG, UK.",
+        "Independent Researcher, San Francisco, CA 94110, USA.",
+        "Independent Researcher, Marlow SK7 1DX, UK.",
+        "Department of Animal Medicine and Surgery, Universidad CEU-Cardenal Herrera, CEU Universities, Calle Assegadors, 2, 46115 Valencia, Spain."
+      ],
+      "keywords": [
+        "cats",
+        "focal junctional tachycardia",
+        "heart failure",
+        "isorhythmic atrioventricular dissociation",
+        "myocarditis"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027165",
+      "title": "Short-Term Effects of Meloxicam and Marine-Based Fatty Acid Compounds on Objective Limb Loading and Owner-Reported Outcomes in Dogs with Hip Osteoarthritis: A Randomized, Double-Blind, Placebo-Controlled Trial.",
+      "authors": "Kashemsant N, Panitsillapakit P, Vijarnsorn M, Lekcharoensuk C, Yangtara S, Pooliam J, Lascelles BDX",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 30",
+      "sortdate": "2026-10-30",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027165/",
+      "abstract": "Canine hip osteoarthritis (OA) requires multidimensional assessment. This randomized, double-blind, placebo-controlled trial evaluated 4-week treatment with meloxicam, PCSO-524, EAB-277, meloxicam plus PCSO-524, or placebo in 203 client-owned dogs with naturally occurring hip OA. The principal outcome was index-hindlimb peak vertical force (PVF) measured by force-plate gait analysis. Secondary outcomes included PVF responder status, orthopedic assessment score (OAS), Liverpool Osteoarthritis in Dogs (LOAD), Canine Brief Pain Inventory (CBPI), and safety assessments. The primary baseline-adjusted mean PVF analysis did not demonstrate treatment superiority among groups. A secondary responder analysis using an analysis-stage &gt;5%BW PVF threshold showed that meloxicam had a nominally higher Week 4 responder probability than placebo (relative risk = 4.000; 95% confidence interval, 1.223 to 13.079; p = 0.022), interpreted as supportive rather than confirmatory. Within-group score reductions were observed in LOAD and CBPI pain interference for the combination group, LOAD for PCSO-524, and CBPI pain interference for EAB-277. OAS did not change significantly within any group. Between-group differences in LOAD and CBPI changes were not significant. No consistent group-level laboratory safety concern was detected. These findings support multidimensional assessment while emphasizing that secondary results do not establish treatment superiority.",
+      "affiliations": [
+        "Department of Physiology, Faculty of Veterinary Medicine, Kasetsart University, Bangkok 10900, Thailand.",
+        "Department of Companion Animal Clinical Sciences, Faculty of Veterinary Medicine, Kasetsart University, Bangkok 10900, Thailand.",
+        "Siriraj Research Data Management Unit, Research Department, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand.",
+        "Translational Research in Pain and Comparative Pain Research and Education Center, Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC 27607, USA.",
+        "Center for Translational Pain Research, Department of Anesthesiology, Duke University, Durham, NC 27710, USA.",
+        "Thurston Arthritis Center, UNC School of Medicine, Chapel Hill, NC 27599, USA."
+      ],
+      "keywords": [
+        "canine hip osteoarthritis",
+        "force-plate gait analysis",
+        "green-lipped mussel",
+        "marine-derived fatty acids",
+        "meloxicam",
+        "owner-reported outcome measures",
+        "peak vertical force",
+        "responder analysis"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -1763,6 +2038,33 @@
       "summary_ko": ""
     },
     {
+      "id": "43027112",
+      "title": "Omeprazole Exposure Before Referral in Dogs with Chronic Inflammatory Enteropathy: A Retrospective Observational Single-Centre Study.",
+      "authors": "Norman A, Walton-Clark M",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 27",
+      "sortdate": "2026-10-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027112/",
+      "abstract": "Omeprazole, a proton pump inhibitor, is widely used in veterinary medicine, although it may be frequently prescribed for conditions in which evidence of benefit is limited. This retrospective observational single-centre study evaluated omeprazole exposure before referral in dogs subsequently diagnosed with chronic inflammatory enteropathy. Medical records from 151 dogs were reviewed, including omeprazole exposure during the six months preceding referral, documented indication, dose and administration frequency. Indications were classified according to American College of Veterinary Internal Medicine consensus recommendations. Overall, 83/151 dogs (55.0%; 95% CI, 47.0-62.7%) had documented omeprazole exposure within six months of referral. Of these, 30/83 (36.1%; 95% CI, 26.6-46.9%) had a documented consensus-consistent indication, whereas 53/83 (63.9%; 95% CI, 53.1-73.4%) did not. Non-specific gastrointestinal signs were the most common documented indication (42/83; 50.6%), followed by suspected gastrointestinal bleeding or gastrointestinal ulceration or erosion (21/83; 25.3%) and suspected gastro-oesophageal reflux or reflux-associated oesophagitis (9/83; 10.8%). Among dogs with a clearly documented once or twice daily oral dosing regimen, once daily administration was more common than twice daily administration (38/65; 58.5% versus 27/65; 41.5%). Omeprazole exposure was common before referral, and a substantial proportion of exposed dogs had no documented indication consistent with ACVIM consensus recommendations. Interpretation was limited by the retrospective design and dependence on the completeness of referring veterinary clinical records.",
+      "affiliations": [
+        "Anderson Moores Veterinary Specialists, Linnaeus Veterinary Limited, Winchester SO21 2LL, UK.",
+        "Eastcott Veterinary Referrals, Linnaeus Veterinary Limited, Edison Business Park, Swindon SN3 3FR, UK."
+      ],
+      "keywords": [
+        "acid suppression",
+        "gastro-oesophageal reflux",
+        "gastroduodenal ulceration",
+        "gastroprotectants",
+        "primary care",
+        "proton pump inhibitor",
+        "stewardship",
+        "veterinary medicine"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42934855",
       "title": "EXPRESS:Management of Distal Hindlimb Injuries in Cats Using an Exvet External Skeletal Fixation System: A Multicenter Retrospective Study.",
       "authors": "Uygur S, Dogan A, Yardımcı C, Ulusan S, Beale BS, Immler M, Vidoni B, Schnabl-Feichter E",
@@ -1894,6 +2196,29 @@
       "summary_ko": ""
     },
     {
+      "id": "43027107",
+      "title": "Congenital Caudal Vertebral Anomalies in a Pedigree of Beagles.",
+      "authors": "Fish SJ, Manfredi JM, Panek CL, Jacobson AL, Harman CD, Winkler PA, Miyadera K, Komáromy AM",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 26",
+      "sortdate": "2026-10-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027107/",
+      "abstract": "Despite increased recognition of caudal vertebral anomalies in the domestic dog (Canis lupus familiaris), studies describing tail deformities remain limited. To address this gap in the literature, this study aimed to identify and classify the caudal vertebral anomaly phenotypes in a pedigree of Beagles. Subjects included 67 dogs (36 males and 31 females), aged eight months to eight years old (M= 38.8 &#xb1; 25.6 months). All 67 dogs were visually examined, and tails were palpated to determine if they had any kinks, bends, misalignments, or deformities in their tail prior to radiographic assessment. Radiographs of the caudal vertebrae were obtained from 53 dogs and evaluated for congenital anomalies, including block vertebrae, hemivertebrae, brachyury (very short tail), and axial deviations. Of the 53 radiographed dogs, 25 (47.2%) exhibited at least one congenital caudal vertebral anomaly, with block vertebrae being the most common finding (43.4%). Four dogs (7.6%) had mild congenital abnormalities detected radiographically that were not identified during physical examination. Based on pedigree structure, an autosomal recessive trait is suspected. These findings demonstrate a high prevalence of caudal vertebral anomalies within this pedigree of Beagles and emphasize the importance of radiographic evaluation for accurate identification and phenotypic classification.",
+      "affiliations": [
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine, Michigan State University, East Lansing, MI 48824, USA.",
+        "Department of Large Animal Clinical Sciences, College of Veterinary Medicine, Michigan State University, East Lansing, MI 48824, USA."
+      ],
+      "keywords": [
+        "block vertebra",
+        "hemivertebra",
+        "malformation",
+        "radiographic examination"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
       "id": "42928650",
       "title": "Comparative Effectiveness of COP and CHOP Chemotherapy Protocols in Feline Intermediate- to Large-Cell Lymphoma: A Systematic Review and Meta-Analysis.",
       "authors": "Lam YWS, Pimentel PAB, Nekouei O, Giuliano A",
@@ -1968,6 +2293,35 @@
       ],
       "mesh": [],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027095",
+      "title": "From Effusion to Diagnosis: Integrating the FIP Effusion Index and Cell Tube Block Immunohistochemistry in a Geriatric Cat.",
+      "authors": "Lopes R, Fernandes C, Lima de Carvalho H, Barros G, Sampaio F",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 24",
+      "sortdate": "2026-10-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027095/",
+      "abstract": "Feline infectious peritonitis (FIP) can be overlooked in older cats with competing causes of effusion. An older female domestic shorthair cat with hyperthyroidism and a hypertrophic cardiomyopathy phenotype developed abdominal effusion in December 2023. Initial effusion total protein was 5.46 g/dL, the albumin-to-globulin ratio was 0.48 and delta total nucleated cell ratio (&#x394;TNC) was 60.58, yielding a retrospectively calculated FIP Effusion Index of 126.2. Coronavirus RT-PCR detected FCoV RNA, with M1058L mutation positivity, and cell tube block immunohistochemistry (CTB-IHC) demonstrated viral antigen within macrophages. A second sample collected from scant residual effusion 9 days after the initiation of GS-441524 had a &#x394;TNC of 2.15 and a FIP Effusion Index of 7.17, despite a higher total protein concentration and a lower albumin-to-globulin ratio. GS-441524 treatment began on 20 December 2023 and ended on 22 March 2024. Abdominal fluid was no longer detected at the assessment on 25 January. No confirmed FIP relapse was documented before death during cardiopulmonary decompensation in January 2026. This case illustrates complementary contributions of the FIP Effusion Index and CTB-IHC, with an exploratory observation of serial FIP Effusion Index change. Threshold comparison is retrospective. The lower index was observed during treatment alongside markedly reduced effusion, but this observation does not establish a treatment effect or validate treatment monitoring.",
+      "affiliations": [
+        "CEDIVET Veterinary Laboratories, Lionesa Business Hub, R. Lionesa 446 C24, 4465-671 Le&#xe7;a do Balio, Portugal.",
+        "Department of Veterinary Sciences, University of Tr&#xe1;s-os-Montes e Alto Douro (UTAD), 5000-801 Vila Real, Portugal.",
+        "Department of Veterinary and Animal Sciences, CESPU University, 4585-116 Gandra, Portugal.",
+        "UNIPRO-Oral Pathology and Rehabilitation Research Unit, CESPU University, 4585-116 Gandra, Portugal.",
+        "AniCura Santa Marinha Veterinary Hospital, R. Dom Henrique de Cernache 183, 4400-625 Vila Nova de Gaia, Portugal.",
+        "Cytology and Hematology Diagnostic Services, Laboratory of Histology and Embryology, Department of Microscopy, ICBAS-School of Medicine and Biomedical Sciences, University of Porto (U. Porto), Rua de Jorge Viterbo Ferreira, 228, 4050-313 Porto, Portugal."
+      ],
+      "keywords": [
+        "Sysmex XN-1000V",
+        "abdominal effusion",
+        "case report",
+        "cell tube block",
+        "feline coronavirus",
+        "feline infectious peritonitis"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
@@ -2067,6 +2421,31 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027080",
+      "title": "Improving Femoral Tunnel Placement in Canine Cranial Cruciate Ligament Reconstruction Using a Novel Adjustable Aiming Device: Evaluation Through Simulated Surgical Trials.",
+      "authors": "Lee TY, Lin CC, Yang SY, Wang YC, Wu CH",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 23",
+      "sortdate": "2026-10-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027080/",
+      "abstract": "Accurate femoral tunnel placement in canine cranial cruciate ligament (CrCL) reconstruction is challenging because of small joint anatomy and limited dedicated instrumentation. This study evaluated an adjustable femoral tunnel aiming device combined with patient-specific preoperative planning. Thirteen surgeons (six experienced and seven novices) performed simulated tunnel positioning using the device and a freehand technique. Outcomes included aperture positional error, measured as Euclidean distance (ED), angular deviation (AD), positioning time, and intra- and intersurgeon variability. Device-guided positioning reduced EDs (4.1-4.7 mm vs. 5.1-6.2 mm; p = 0.0275) and ADs (6.4-8.2&#xb0; vs. 10.7-12.6&#xb0;; p = 0.0038). Neither surgeon experience nor its interaction with technique significantly affected EDs or ADs. The device significantly reduced intrasurgeon variability in both outcomes and intersurgeon ADs variability among experienced surgeons. However, systematic distal bias (3.1-3.4 mm; p &lt; 0.001) was observed with device-guided positioning. These findings support improved positioning accuracy and consistency with the device in simulated canine CrCL reconstruction. Further device refinement and hands-on practice may help address systematic deviations, while additional cadaveric and clinical validation is required before clinical application.",
+      "affiliations": [
+        "Department of Surgery, National Taiwan University Veterinary Hospital, Taipei 10617, Taiwan.",
+        "Department of Electrical Engineering, Fu Jen Catholic University, New Taipei 242062, Taiwan.",
+        "Institute of Veterinary Clinical Science, National Taiwan University, Taipei 10617, Taiwan."
+      ],
+      "keywords": [
+        "aiming device",
+        "cranial cruciate ligament",
+        "femoral tunnel placement",
+        "intra-articular reconstruction",
+        "patient-specific instrumentation"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -2222,6 +2601,28 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43027063",
+      "title": "Slipped Capital Femoral Epiphysis in Two Neutered Male Maine Coon Cats: A Case Report.",
+      "authors": "Vaduva C, Zaha C, Casalean T, Morar D, Simiz F, Simina V, Bogdan F, Kracunovic CM, Degi J, Dascălu R",
+      "journal": "Animals (Basel)",
+      "date": "2026 Oct 22",
+      "sortdate": "2026-10-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43027063/",
+      "abstract": "Slipped capital femoral epiphysis (SCFE), also referred to as spontaneous femoral capital physeal fracture, is an uncommon orthopedic disorder in cats characterized by separation of the femoral capital epiphysis through the proximal femoral physis in the absence of significant trauma. Maine Coon cats, particularly males, appear to be predisposed to this condition. This report describes two neutered male Maine Coon cats, aged 21 and 16 months, presenting with pelvic limb lameness without a known history of significant trauma. The first cat exhibited grade 2 pelvic limb lameness, bilateral pelvic limb muscle atrophy, and pain and crepitus during manipulation of both coxofemoral joints. Radiographic examination revealed bilateral SCFE associated with secondary degenerative changes. The second cat presented with grade 1 pelvic limb lameness, joint laxity, and pain without palpable crepitus. Radiographic examination raised suspicion of right femoral capital physeal separation, which was subsequently confirmed by computed tomography. Both cats underwent femoral head and neck excision (FHNE), with bilateral FHNE performed during a single anesthetic episode in the first cat. Postoperative clinical examinations and owner reports indicated improvement in pelvic limb function and resolution of clinically apparent lameness in both cats. Radiographic examinations performed six months postoperatively documented the surgical changes, with persistent reduction in pelvic limb soft-tissue volume consistent with muscle atrophy. These cases highlight the variable clinical and imaging presentations of SCFE in Maine Coon cats and the complementary roles of radiography and computed tomography in diagnosis. Although clinical improvement was observed following FHNE, the absence of standardized functional assessments limits definitive conclusions regarding the extent of postoperative recovery.",
+      "affiliations": [
+        "Horia Cernescu Research Unit, Faculty of Veterinary Medicine, University of Life Sciences \"Regele Mihai I\" from Timisoara, 300645 Timisoara, Romania."
+      ],
+      "keywords": [
+        "coxofemoral joint",
+        "delayed physeal closure",
+        "diagnostic imaging",
+        "feline orthopedics"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
