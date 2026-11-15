@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15 02:07 UTC",
-  "total": 12302,
+  "updated": "2026-11-15 06:59 UTC",
+  "total": 12304,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -19,23 +19,24 @@
     {
       "id": "43025542",
       "title": "Comparative biochemical analysis of amniotic fluid in canine fetuses delivered through elective and therapeutic cesarean sections.",
-      "authors": "Bonavina JT, Estevam MV, Bianchini M, Rocha-Júnior JD, Araújo RA, Beretta S, Armani DJC, Marcusso P, Toniollo GH, Apparício M",
+      "authors": "Bonavina JT, Estevam MV, Bianchini M, Rocha-Júnior JD, Araújo RA, Beretta S, Armani DJC, Marcusso PF, Toniollo GH, Apparício M",
       "journal": "Vet J",
       "date": "2026 Nov 13",
       "sortdate": "2026-11-13",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025542/",
       "abstract": "This study represents the first comparison of biochemical analysis of amniotic fluid (AF) from bitches undergoing therapeutic c-section for resolution of dystocia (TC) versus elective cesarean sections (EC). A total of 104 samples were analyzed, and significant differences in AF composition were identified. Biochemical evaluations from the EC aligned with reference values while in the TC group it revealed elevated liver and kidney enzyme levels, suggesting early signs of damage even with short dystocia durations. Significant differences in electrolyte concentrations were observed, reflecting renal function and fetal maturity. Thus, this study emphasizes that even brief dystocia can adversely impact fetal health and highlight the need for further research to explore the implications of prolonged labor on fetal biochemistry, including the effects of maternal parity and offspring sex. Amniotic fluid samples from anomalous and meconium-stained fetuses were analyzed in separate groups, and significant differences were observed in biochemical parameters, including LDH, glucose, magnesium, and fructosamine. These findings suggest that metabolic alterations and fetal stress can be detected prenatally, reflecting the impact of congenital malformations and the presence of meconium.",
       "affiliations": [
+        "Department of Veterinary Surgery and Animal Reproduction, School of veterinary Medicine and Animal Science, S&#xe3;o Paulo State University, FMVZ/UNESP, Botucatu, SP, Brazil.",
         "Department of Pathology, Reproduction and One Health, School of Agricultural and Veterinary Sciences, S&#xe3;o Paulo State University, FCAV/UNESP, Jaboticabal, SP, Brazil.",
         "Department of Veterinary Clinics, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University, FMVZ/UNESP, Botucatu, SP, Brazil.",
-        "Department of Veterinary Surgery and Animal Reproduction, School of Veterinary Medicine and Animal Science, S&#xe3;o Paulo State University, FMVZ/UNESP, Botucatu, SP, Brazil. Electronic address: maricy.apparicio@unesp.br."
+        "Department of Veterinary Surgery and Animal Reproduction, School of veterinary Medicine and Animal Science, S&#xe3;o Paulo State University, FMVZ/UNESP, Botucatu, SP, Brazil. Electronic address: maricy.apparicio@unesp.br."
       ],
       "keywords": [
-        "apgar score",
-        "dystocia",
-        "fetal hypoxia",
-        "fetal membranes",
-        "perinatal stress"
+        "Apgar score",
+        "Dystocia",
+        "Fetal hypoxia",
+        "Fetal membranes",
+        "Perinatal stress"
       ],
       "mesh": [],
       "category": "internal",
@@ -413,31 +414,31 @@
     {
       "id": "42998873",
       "title": "A blinded, non-inferiority randomised clinical trial comparing the efficacy and safety of low-dose methotrexate and ciclosporin for the control of moderate to severe canine atopic dermatitis.",
-      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idee A, Buendia E, Germain PA, Cochet-Faivre N, Meyer L, Legain M",
+      "authors": "Rostang A, Mosca M, Panzuti P, Pressanti C, Idée A, Buendia E, Germain PA, Cochet-Faivre N, Meyer L, Legain M",
       "journal": "Vet J",
       "date": "2026 Nov 07",
       "sortdate": "2026-11-07",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998873/",
-      "abstract": "BACKGROUND: Canine atopic dermatitis (cAD) is a chronic, inflammatory skin disease that may require long-term systemic immunomodulatory treatment. Low-dose methotrexate (MTX) is an inexpensive immunomodulator used in human dermatology, but robust veterinary data are lacking. OBJECTIVE: To determine whether weekly subcutaneous low-dose MTX is non-inferior to oral ciclosporin (CsA) in controlling moderate-to-severe cAD. ANIMALS: Fifty-five client-owned dogs with non-seasonal moderate-to-severe cAD enrolled at nine dermatology centres in France. MATERIALS AND METHODS: Randomised, double-blind, positive-controlled, multicentre non-inferiority trial. Dogs received either subcutaneous MTX (0.15-0.5mg/kg/week) plus oral placebo, or oral CsA (5mg/kg/day, then spaced) plus injectable placebo. The primary endpoint was the percentage reduction in the CADESI-04 lesional score on week 28 (non-inferiority margin 20%). Secondary endpoints included the Pruritus Visual Analogue Scale (PVAS) and CADESI-04 scores, assessed 4-weekly, and drug protocol safety assessments. RESULTS: Fifty-five dogs were randomised (MTX n=28; CsA n=27). At week 28, mean CADESI-04 reductions were 65.4% (MTX) and 69.5% (CsA), demonstrating non-inferiority. CsA induced faster improvement (weeks 4-12), but efficacy converged by week 20. Gastrointestinal adverse events occurred more frequently with MTX (82%) than with CsA (70%). No consistent haematological, renal or hepatic injury was observed during the study. Two MTX-treated dogs developed severe liver disease during long-term follow-up. CLINICAL RELEVANCE: Weekly subcutaneous low-dose MTX provided non-inferior control of lesions and pruritus compared with CsA by week 28. Although slower in onset and associated with more gastrointestinal adverse events, MTX may represent an affordable long-term cAD treatment option, with appropriate hepatic monitoring.",
+      "abstract": "BACKGROUND: Canine atopic dermatitis (cAD) is a chronic, inflammatory skin disease that may require long-term systemic immunomodulatory treatment. Low-dose methotrexate (MTX) is an inexpensive immunomodulator used in human dermatology, but robust veterinary data are lacking. OBJECTIVE: To determine whether weekly subcutaneous low-dose MTX is non-inferior to oral ciclosporin (CsA) in controlling moderate-to-severe cAD. ANIMALS: Fifty-five client-owned dogs with non-seasonal moderate-to-severe cAD enrolled at nine dermatology centres in France. MATERIALS AND METHODS: Randomised, double-blind, positive-controlled, multicentre non-inferiority trial. Dogs received either subcutaneous MTX (0.15-0.5&#x202f;mg/kg/week) plus oral placebo, or oral CsA (5&#x202f;mg/kg/day, then spaced) plus injectable placebo. The primary endpoint was the percentage reduction in the CADESI-04 lesional score on week 28 (non-inferiority margin 20%). Secondary endpoints included the Pruritus Visual Analogue Scale (PVAS) and CADESI-04 scores, assessed 4-weekly, and drug protocol safety assessments. RESULTS: Fifty-five dogs were randomised (MTX n&#x202f;=&#x202f;28; CsA n&#x202f;=&#x202f;27). At week 28, mean CADESI-04 reductions were 65.4% (MTX) and 69.5% (CsA), demonstrating non-inferiority. CsA induced faster improvement (weeks 4-12), but efficacy converged by week 20. Gastrointestinal adverse events occurred more frequently with MTX (82%) than with CsA (70%). No consistent haematological, renal or hepatic injury was observed during the study. Two MTX-treated dogs developed severe liver disease during long-term follow-up. CLINICAL RELEVANCE: Weekly subcutaneous low-dose MTX provided non-inferior control of lesions and pruritus compared with CsA by week 28. Although slower in onset and associated with more gastrointestinal adverse events, MTX may represent an affordable long-term cAD treatment option, with appropriate hepatic monitoring.",
       "affiliations": [
-        "Oniris, INRAE, BIOEPAR, 44300 Nantes, France; Oniris VetAgroBio Nantes, 44300 Nantes, France. Electronic address: antoine.rostang@oniris-nantes.fr.",
+        "Oniris, INRAE, BIOEPAR, Nantes 44300, France; Oniris VetAgroBio Nantes, Nantes 44300, France. Electronic address: antoine.rostang@oniris-nantes.fr.",
         "Universit&#xe9; de Lyon, VetAgro Sup, UPSP ICE 2016.A104, Marcy l'&#xe9;toile, France.",
         "CHV Languedocia, Montpellier, France.",
         "Ecole Nationale V&#xe9;t&#xe9;rinaire de Toulouse, University of Toulouse, Toulouse, France; Toulouse Institute for Infectious and Inflammatory Diseases (INFINITy), Inserm, CNRS, University of Toulouse, Toulouse, France.",
         "CHV OnlyVet, Saint Priest, France.",
         "Clinique v&#xe9;t&#xe9;rinaire des Hutins, IVC Evidensia France, Saint Julien en Genevois, France.",
         "Dermatology, Ecole Nationale V&#xe9;t&#xe9;rinaire d'Alfort, Maisons Alfort, France; Anses, INRAE, Ecole v&#xe9;t&#xe9;rinaire d'Alfort, Laboratoire de Sant&#xe9; Animale, BIPAR, Maisons Alfort, France.",
-        "Oniris VetAgroBio Nantes, 44300 Nantes, France.",
+        "Oniris VetAgroBio Nantes, Nantes 44300, France.",
         "UMS CREFRE-ANEXPLO, Universit&#xe9; de Toulouse, INSERM, UPS, ENVT, Toulouse, France.",
         "Ecole Nationale V&#xe9;t&#xe9;rinaire de Toulouse, University of Toulouse, Toulouse, France."
       ],
       "keywords": [
-        "dermatology",
-        "dog",
-        "double-blind",
-        "immunomodulator",
-        "pruritus",
-        "veterinary"
+        "Dermatology",
+        "Dog",
+        "Double-blind",
+        "Immunomodulator",
+        "Pruritus",
+        "Veterinary"
       ],
       "mesh": [],
       "category": "internal",
@@ -1594,6 +1595,43 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43033022",
+      "title": "Ultrasound and CT Features of Isolated Gallbladder Torsion With a Suspected Congenital Anomaly in a Cat: An Imaging Diagnosis.",
+      "authors": "Moserová H, Dvořáková R, Lein F, Junášková M, Lorenzová J, Proks P",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033022/",
+      "abstract": "An 8-month-old domestic short-haired cat was presented to the emergency room with an episode of peracute vomiting and abdominal pain. Ultrasound and computed tomography (CT) examination revealed an abnormally positioned and distended gallbladder with a thickened gallbladder wall. A presumptive diagnosis of gallbladder torsion was made and subsequently confirmed during laparotomy. Although uncommon, gallbladder torsion should be considered a differential diagnosis in feline patients with clinical signs of abdominal pain and peracute vomiting.",
+      "affiliations": [
+        "Department of Diagnostic Imaging, Small Animal Clinic, Faculty of Veterinary Medicine, University of Veterinary Sciences Brno, Brno, Czech Republic.",
+        "Clinical Department for Small Animals and Horses, Diagnostic Imaging, University Clinic for Small Animals, University of Veterinary Medicine Vienna, Vienna, Austria.",
+        "Department of Internal Medicine, Small Animal Clinic, Faculty of Veterinary Medicine, University of Veterinary Sciences Brno, Brno, Czech Republic.",
+        "Department of Surgery and Orthopedics, Small Animal Clinic, Faculty of Veterinary Medicine, University of Veterinary Sciences Brno, Brno, Czech Republic."
+      ],
+      "keywords": [
+        "bile duct",
+        "computed tomography",
+        "gallbladder",
+        "torsion",
+        "ultrasonography"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Torsion Abnormality",
+        "Gallbladder Diseases",
+        "Ultrasonography",
+        "Tomography, X-Ray Computed",
+        "Diagnosis, Differential",
+        "Gallbladder",
+        "Female"
+      ],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -2884,6 +2922,31 @@
       ],
       "mesh": [],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43032204",
+      "title": "Case Report: (18)F-FDG PET/CT for precision assessment of tumor aggressiveness in canine subcutaneous leiomyosarcoma.",
+      "authors": "Chae Y, Lee D, Koo Y, Yun T, Kim H, Kang BT",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 19",
+      "sortdate": "2026-10-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032204/",
+      "abstract": "A 9-year-old intact male Alaskan Malamute was presented with a hemorrhagic, ulcerative skin lesion on the right elbow. Cytological examination revealed bacterial infection and atypical epithelioid-appearing cells exhibiting anisocytosis and anisokaryosis; however, mesenchymal neoplastic cells were not identified. Despite antimicrobial therapy, the lesion progressed rapidly. Histopathological examination of the biopsy specimen was consistent with a grade 2 soft tissue sarcoma; however, the clinical behavior was more aggressive than anticipated for this grade, prompting further evaluation. 18F-fluorodeoxyglucose (18F-FDG) positron emission tomography/computed tomography (PET/CT) demonstrated high metabolic activity of the mass, with a maximum standardized uptake value of 10.1 and mean standardized uptake value of 4.6, with no evidence of distant metastasis. Surgical resection was performed about 2&#x202f;weeks after PET/CT. Notably, histopathological examination of the surgical specimen revealed a grade 3 poorly differentiated mesenchymal neoplasm with incomplete surgical margins, indicating that the preoperative biopsy had underestimated the final tumor grade and that the high 18F-FDG avidity observed on PET/CT was more consistent with the final histopathologic grade. Immunohistochemical staining confirmed the diagnosis of subcutaneous leiomyosarcoma. Although adjuvant chemotherapy was recommended, only palliative therapy was provided at the owner's request. Local recurrence and pulmonary lesions suspected to be metastatic developed 3&#x202f;months postoperatively, and the dog expired 6&#x202f;months after surgery. To the best of our knowledge, this is the first report of 18F-FDG PET/CT findings in canine subcutaneous leiomyosarcoma, underscoring the utility of this imaging modality in evaluating tumor aggressiveness and guiding treatment planning.",
+      "affiliations": [
+        "Laboratory of Veterinary Internal Medicine, College of Veterinary Medicine, Chungbuk National University, Cheongju, Chungbuk, Republic of Korea.",
+        "College of Veterinary Medicine, Kyungpook National University, Daegu, Republic of Korea."
+      ],
+      "keywords": [
+        "18F-FDG PET/CT",
+        "diagnostic imaging",
+        "soft tissue sarcoma",
+        "subcutaneous leiomyosarcoma",
+        "tumor grading",
+        "veterinary oncology"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -32834,7 +32897,17 @@
         "VetCT, Cambridge, UK."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Retrospective Studies",
+        "Magnetic Resonance Imaging",
+        "Epilepsy",
+        "Female",
+        "Male",
+        "Seizures"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
