@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 02:23 UTC",
-  "total": 12304,
+  "updated": "2026-11-16 06:57 UTC",
+  "total": 12307,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,77 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43035210",
+      "title": "Analytical agreement of a multiparametric, fully quantitative fluorescent immunoassay analyser (Vcheck) with commercial laboratory assays for NT‑proBNP and cardiac troponin‑I in dogs and cats.",
+      "authors": "Ferasin L, Hudson E, Farminer J, Ferasin H",
+      "journal": "Vet J",
+      "date": "2026 Nov 15",
+      "sortdate": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035210/",
+      "abstract": "BACKGROUND: Cardiac biomarkers, such as N-terminal pro-B-type natriuretic peptide (NT-proBNP) and cardiac troponin-I (cTnI), are widely used in dogs and cats to assess myocardial stretch and injury, respectively. However, most measurements rely on external laboratories, resulting in turnaround times of 2-7 days. The Vcheck analyser is a fully quantitative, automated fluorescent immunoassay platform capable of providing rapid point-of-care results, but independent validation using robust statistical methodology is required. OBJECTIVES: To evaluate the analytical agreement between Vcheck NT-proBNP and cTnI measurements and established commercial assays (Cardiopet&#xae; and Access&#xae;), and to assess clinical classification concordance, turnaround time, and per-test consumable cost comparison. METHODS: Paired serum samples from 60 cats and 60 dogs were analysed using Vcheck and corresponding commercial assays. Agreement was assessed using Bland-Altman analysis. Out-of-range values were excluded from Bland-Altman analysis but retained for clinical classification. RESULTS: NT-proBNP demonstrated minimal proportional differences and excellent clinical classification agreement in both species (cats: 100% across all categories; dogs: 88.2-96.0%). Cardiac TnI showed proportional bias, but classification agreement remained high, particularly for elevated and high values (cats: 78.8-100%; dogs: 70.0-94.7%). Vcheck provided results within 10-15minutes, compared with 2-7 days for commercial assays, and per-test costs were substantially lower. CONCLUSIONS: Vcheck demonstrates analytical agreement with reference laboratory assays for NT-proBNP and cTnI, with substantial advantages in turnaround time and lower per-test consumable costs. These findings support its integration into small-animal cardiology practice, particularly where rapid decision-making is essential.",
+      "affiliations": [
+        "Specialist Veterinary Cardiology Consultancy, Hampshire, United Kingdom. Electronic address: luca@cardiospecialist.co.uk.",
+        "The Ralph Veterinary Referral Centre, Buckinghamshire, United Kingdom.",
+        "Specialist Veterinary Cardiology Consultancy, Hampshire, United Kingdom."
+      ],
+      "keywords": [
+        "Cardiac biomarkers",
+        "NT-proBNP",
+        "analytical agreement",
+        "cTnI",
+        "canine cardiology",
+        "feline cardiology"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43035208",
+      "title": "Comparison of Von Frey Filaments and Electronic Von Frey Device in Healthy dogs - a Prospective, randomized, experimental study.",
+      "authors": "Schütter A, Bennmann L, Brause S, Rupp V, Freise F, Kästner S",
+      "journal": "Vet J",
+      "date": "2026 Nov 15",
+      "sortdate": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035208/",
+      "abstract": "Quantitative sensory testing (QST) using Von Frey Monofilaments (VFM) is established for assessing mechanical sensitivity in dogs. Alternatively, an Electronic Von Frey device (EVF) is available. At present no direct method comparison with both devices has been conducted in dogs. Therefore, it was aimed to compare usage of EVF and VFM in healthy dogs in terms of inter-rater and inter-device reliability. Further the influence of clipping on results gained and a possible correlation between body weight and sensory threshold should be assessed. In a prospective, randomized experimental study, with four raters VFM and EVF were compared in 61 healthy dogs (18 male, 6 male neutered, 25 female, 12 female spayed) at four anatomical locations across three appointments. Agreement between VFM and EVF was poor across all three appointments (ICC = 0.282-0.285). Inter-rater ICCs were poor for both methods, ranging from 0.25 to 0.34 for VFM and from 0.21 to 0.25 for EVF. Mixed-model analyses revealed significant effects of rater, dog type, anatomical location, and body weight for both devices (p &lt; 0.0001). No significant effect of fur clipping on thresholds was detected for either method. EVF measurements were significantly shorter in duration than VFM (p &lt; 0.001). The two devices do not represent the same test modality and cannot be used interchangeably. Device- and site-specific reference values should be established separately for each method. Given the poor interrater reliability, consistent rater training and the use of a single rater are essential in both clinical and research settings.",
+      "affiliations": [
+        "University of Veterinary Medicine Hannover, Small Animal Clinic B&#xfc;nteweg 9, 30559 Hannover. Electronic address: Alexandra.schuetter@tiho-hannover.de.",
+        "University of Veterinary Medicine Hannover, Small Animal Clinic B&#xfc;nteweg 9, 30559 Hannover.",
+        "University of Veterinary Medicine Hannover Foundation, Institute for Biometry, Epidemiology and Information Processing, B&#xfc;nteweg 2, 30559 Hannover."
+      ],
+      "keywords": [
+        "Aesthesiometer",
+        "Chronic Pain",
+        "QST",
+        "Von Frey Filament",
+        "inter-device reliability",
+        "inter-rater reliability",
+        "skin sensitivity"
+      ],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "43035099",
+      "title": "Experiences Using a 1.7 mm Locking Bone Plate System for Stabilization of Appendicular Fractures in Dogs and Cats.",
+      "authors": "Martin KS, Johnson MD",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 15",
+      "sortdate": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035099/",
+      "abstract": "OBJECTIVE: To retrospectively evaluate the stabilization of appendicular fractures using the Fixin 1.7&#x2009;mm locking plate system in dogs and cats. STUDY DESIGN: A review of patient medical records with traumatic appendicular fractures stabilized with the Fixin 1.7&#x2009;mm locking plate was performed. Fractures were excluded due to lack of follow-up radiographs, prophylactic plating, or the use of additional plates. Data pertaining to the signalment, fracture classification, implants, evidence of radiographic healing, and limb function were recorded. Stabilization included both minimally invasive plate osteosynthesis (MIPO) and open reduction and internal fixation (ORIF) methods. Outcomes were determined from clinical and radiographic follow-ups. RESULTS: One hundred out of 133 evaluated fractures met inclusion criteria. Median age and weight were 3 (IQR 1-6) years and 3.46 (IQR 2.5-4.78) kg. Complete healing occurred in 29/37 (78%) MIPO and 48/63 (76%) ORIF cases, for a combined outcome of 77/100 (77%). Complications occurred in 7/37 (19%) fractures repaired via MIPO and 8/63 (13%) fractures repaired via ORIF, with an overall complication rate of 15/100 (15%). CONCLUSION: Results suggest the Fixin 1.7&#x2009;mm system provides acceptable outcomes comparable to existing micro-locking systems in appropriately selected cases.",
+      "affiliations": [
+        "University of Florida College of Veterinary Medicine, Department of Small Animal Clinical Sciences, Florida, United States, Gainesville.",
+        "Kinetic Veterinary Specialists, Department of Small Animal Surgery, Florida, United States, Clermont."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "43025542",
       "title": "Comparative biochemical analysis of amniotic fluid in canine fetuses delivered through elective and therapeutic cesarean sections.",
