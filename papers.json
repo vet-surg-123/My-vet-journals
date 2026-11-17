@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16 06:57 UTC",
-  "total": 12307,
+  "updated": "2026-11-17 04:45 UTC",
+  "total": 12310,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,26 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43039220",
+      "title": "Computed Tomography Lymphography for Sentinel Lymph Node Mapping in Cats.",
+      "authors": "Pérez AR, Escoda-Llorens X, Alonso-Fernandez I, Tobon M, Rodriguez-Piza I, Espada Y, Novellas R",
+      "journal": "Vet J",
+      "date": "2026 Nov 16",
+      "sortdate": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43039220/",
+      "abstract": "Sentinel lymph node (SLN) mapping improves nodal staging accuracy in veterinary oncology, but computed tomography (CT)-based SLN mapping has not been clinically described in cats with superficial tumours. This prospective study evaluated the feasibility and clinical applicability of indirect CT lymphography for SLN identification in feline superficial tumours. Seventeen client-owned cats with cytologically or histologically confirmed superficial tumours were prospectively enrolled. Following routine contrast-enhanced CT staging, indirect CT lymphography was performed by peritumoural subcutaneous injection of iodinated contrast medium. CT acquisitions were obtained at 1, 3, and 5minutes after injection. SLN identification, lymphatic drainage patterns, opacification characteristics, attenuation values, and metastatic status were assessed. SLN identification was successful in 15/17 cats (88.2%), with a total of 26 SLNs identified. The mandibular lymphocentre was the most frequently identified drainage basin (76.9%). All SLNs demonstrated contrast uptake by 3minutes post-injection. Heterogeneous opacification predominated at all post-injection time points. Atypical lymphatic drainage patterns were identified in 5/15 cats (33.3%), including bilateral drainage within the expected tumour-associated lymphocentre (3/15), contralateral drainage (1/15), and drainage to a non-tumour-associated lymphocentre (1/15). Bilateral drainage was exclusively observed in rostral facial tumours. Neoplastic involvement was identified in 5/26 SLNs (19.2%), including metastatic disease in four SLNs and lymphomatous infiltration in one. Indirect CT lymphography is a feasible and clinically applicable technique for SLN mapping in cats with superficial tumours. The frequent identification of atypical lymphatic drainage patterns highlights the limitations of relying solely on anatomically presumed regional lymph nodes for nodal staging. CT lymphography may represent a practical and minimally invasive tool to improve lymph node staging in feline oncology.",
+      "affiliations": [
+        "Hospital Cl&#xed;nic Veterinari, Universitat Aut&#xf2;noma de Barcelona, Barcelona, Spain; Departament de Medicina i Cirurgia Animals, Facultat de Veterin&#xe0;ria, Universitat Aut&#xf2;noma de Barcelona, Barcelona, Spain. Electronic address: adrian.ramos@uab.cat.",
+        "Oncology Service, AniCura Gl&#xf2;ries Hospital Veterinari, Barcelona, Spain.",
+        "Hospital Cl&#xed;nic Veterinari, Universitat Aut&#xf2;noma de Barcelona, Barcelona, Spain.",
+        "Hospital Cl&#xed;nic Veterinari, Universitat Aut&#xf2;noma de Barcelona, Barcelona, Spain; Departament de Medicina i Cirurgia Animals, Facultat de Veterin&#xe0;ria, Universitat Aut&#xf2;noma de Barcelona, Barcelona, Spain."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "anatomy",
+      "summary_ko": ""
+    },
     {
       "id": "43035210",
       "title": "Analytical agreement of a multiparametric, fully quantitative fluorescent immunoassay analyser (Vcheck) with commercial laboratory assays for NT‑proBNP and cardiac troponin‑I in dogs and cats.",
@@ -85,6 +105,32 @@
       "keywords": [],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43036113",
+      "title": "Membranous Ezrin Expression Is Associated With Regional Lymph Node Involvement in Canine Mast Cell Tumours.",
+      "authors": "Dos Santos MA, Siqueira PB, Maués T, Consalter A, de Freitas BA, Dos Santos da Silva F, Amaral CB, Ferreira AMR, Mencalha AL, da Silva Leite J",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 15",
+      "sortdate": "2026-11-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036113/",
+      "abstract": "Canine mast cell tumours (MCTs) show variable biological behaviour, ranging from localized tumours to aggressive disease with regional lymph node involvement. Understanding cellular features associated with this variability may help characterize their biological behaviour. Ezrin, a member of the ERM protein family involved in cell motility, has been associated with tumour progression in several neoplasms. However, its role in canine MCT remains unclear. This study aimed to evaluate ezrin immunoreactivity and its association with regional lymph node histological status in a retrospective series of 27 canine cutaneous and subcutaneous MCTs. Cytoplasmic and membranous immunolabelling were scored by intensity and percentage of positive neoplastic cells. Cytoplasmic positivity exceeded 50% in 26/27 tumours (96.3%) and membranous positivity exceeded 50% in 19/27 (70.4%). Histological lymph node categories (HN0-HN3) were documented for 26 tumours. The ordinal percentage score for membranous immunolabel correlated positively with HN category (Spearman's &#x3c1;&#x2009;=&#x2009;0.418, two-sided p&#x2009;=&#x2009;0.034; n&#x2009;=&#x2009;26), whereas the combined membranous score did not (&#x3c1;&#x2009;=&#x2009;0.259, p&#x2009;=&#x2009;0.202). The diffuse immunolabelling pattern also showed no statistically significant correlation with HN category (&#x3c1;&#x2009;=&#x2009;0.165, p&#x2009;=&#x2009;0.430; n&#x2009;=&#x2009;25). These findings suggest an association between the proportion of MCT cells showing membranous ezrin immunoreactivity and regional lymph node histological status. Further studies are required in order to enlighten ezrin's role in MCT disease evolution.",
+      "affiliations": [
+        "Postgraduate Program in Veterinary Medicine (Clinics and Animal Reproduction), Faculty of Veterinary Medicine, Universidade Federal Fluminense, Rio de Janeiro, Brazil.",
+        "Department of Biophysics and Biometry, Roberto Alcantara Gomes Institute of Biology, Rio de Janeiro State University, Rio de Janeiro, Brazil.",
+        "Veterinary School Hospital of Universidade Federal Fluminense, Rio de Janeiro, Brazil.",
+        "Department of Veterinary Clinic and Pathology, Faculty of Veterinary Medicine, Universidade Federal Fluminense, Rio de Janeiro, Brazil."
+      ],
+      "keywords": [
+        "cellular distribution",
+        "cytoskeletal protein",
+        "histological grading",
+        "immunohistochemical expression",
+        "lymphatic metastasis"
+      ],
+      "mesh": [],
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -7375,7 +7421,20 @@
         "antimicrobial susceptibility testing",
         "pyometra"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Pyometra",
+        "Female",
+        "Dog Diseases",
+        "Anti-Bacterial Agents",
+        "Retrospective Studies",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Escherichia coli",
+        "Escherichia coli Infections",
+        "Microbial Sensitivity Tests",
+        "Drug Resistance, Bacterial"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -8913,7 +8972,20 @@
         "pyometra",
         "sepsis"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Pyometra",
+        "Dog Diseases",
+        "Female",
+        "Anti-Bacterial Agents",
+        "Retrospective Studies",
+        "Sepsis",
+        "Creatinine",
+        "Hysterectomy",
+        "Ovariectomy",
+        "Treatment Outcome"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -10164,7 +10236,22 @@
         "melarsomine",
         "moxidectin"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dirofilariasis",
+        "Dog Diseases",
+        "Female",
+        "Macrolides",
+        "Male",
+        "Doxycycline",
+        "Triazines",
+        "Arsenicals",
+        "Prednisone",
+        "Filaricides",
+        "Drug Therapy, Combination",
+        "Dose-Response Relationship, Drug"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -12806,7 +12893,16 @@
         "survival",
         "urethral obstruction"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Ferrets",
+        "Urethral Obstruction",
+        "Retrospective Studies",
+        "Male",
+        "Euthanasia, Animal",
+        "United States",
+        "Female"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -13463,7 +13559,20 @@
         "pancreatitis",
         "ultrasonography"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Lipase",
+        "Pancreatitis",
+        "Female",
+        "Male",
+        "Oxazines",
+        "Ultrasonography",
+        "Glutarates",
+        "Hospitals, Animal",
+        "Sensitivity and Specificity"
+      ],
       "category": "imaging",
       "summary_ko": ""
     },
@@ -13487,7 +13596,19 @@
         "screening diagnostics",
         "urinalysis"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Renal Insufficiency, Chronic",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Longitudinal Studies",
+        "Urinalysis",
+        "Specific Gravity",
+        "Risk Factors"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -14081,7 +14202,14 @@
         "index of microbial air contamination",
         "terminal cleaning"
       ],
-      "mesh": [],
+      "mesh": [
+        "Air Microbiology",
+        "Animals",
+        "Operating Rooms",
+        "Hospitals, Animal",
+        "Bacterial Load",
+        "Time Factors"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -14443,6 +14571,46 @@
         "Laminectomy",
         "Prospective Studies",
         "Tranexamic Acid"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43035787",
+      "title": "Technique and short-term outcomes associated with a minimally invasive endoscopically assisted thoracolumbar hemilaminectomy in 40 dogs.",
+      "authors": "Rocheleau PJ, Robson A, Bird SD, Domney LN, Holz KA",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 20",
+      "sortdate": "2026-08-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035787/",
+      "abstract": "OBJECTIVE: To describe the technique and short-term outcomes associated with endoscopically assisted hemilaminectomy. METHODS: Dogs were included if they had a minimally invasive endoscopic hemilaminectomy due to compressive disc disease with minimum 8-week follow-up. A small surgical approach was performed between the affected dorsal spinous processes and the associated articular facet removed. The remainder of the procedure including bone removal and spinal decompression was performed using endoscopic control. Outcome measures included signalment, weight, body-condition score, duration of signs, and pre- and post-operative physical and neurological examination findings, CT imaging, surgical time and complications. RESULTS: Forty client-owned dogs met the inclusion criteria for the study. Mean surgery time was 57&#xa0;min (range 20-95). There was a significant decrease in neuroscore from pre-intervention (mean 3.14, 95% CI 2.70-3.58) to post-intervention (mean 1.31, 95% CI 0.83-1.79), mean difference = -1.83, 95% CI -1.40 to -2.26. The average length of hospitalization following surgery was on average 1.9 days (IQR 1.75). Five dogs experienced post-operative complications. Post-operative CTs revealed no visible residual disc material in any patient, which was consistent with endoscopic findings. Body condition score had no effect on any outcome measures. CONCLUSIONS: The technique described here was safe and effective and allowed for good visualization and access to the spinal canal. Most complications were manageable and within commonly accepted limits. CLINICAL RELEVANCE: Endoscopically assisted hemilaminectomy can be performed effectively with commonly available instrumentation and may be considered to minimize surgical trauma.",
+      "affiliations": [
+        "Espanola Animal Hospital, Greater Sudbury, ON, Canada.",
+        "Espanola Animal Hospital, Greater Sudbury, ON, Canada. info@espanolavet.ca.",
+        "Veterinary Emergency &amp; Referral Group, Brooklyn, NY, USA."
+      ],
+      "keywords": [
+        "Canine",
+        "Endoscopic",
+        "Hemilaminectomy",
+        "IVDD",
+        "Minimally invasive"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Laminectomy",
+        "Female",
+        "Dog Diseases",
+        "Male",
+        "Treatment Outcome",
+        "Intervertebral Disc Displacement",
+        "Endoscopy",
+        "Lumbar Vertebrae",
+        "Minimally Invasive Surgical Procedures",
+        "Thoracic Vertebrae",
+        "Postoperative Complications",
+        "Intervertebral Disc Degeneration"
       ],
       "category": "neurosurgery",
       "summary_ko": ""
@@ -17053,7 +17221,21 @@
         "murmur",
         "stethoscope"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Cats",
+        "Stethoscopes",
+        "Heart Murmurs",
+        "Cat Diseases",
+        "Dog Diseases",
+        "Arrhythmias, Cardiac",
+        "Heart Auscultation",
+        "Artificial Intelligence",
+        "Sensitivity and Specificity",
+        "Prospective Studies",
+        "Female"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -17078,7 +17260,17 @@
         "oral",
         "pentobarbital"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Pentobarbital",
+        "Dogs",
+        "Administration, Oral",
+        "Female",
+        "Hypnotics and Sedatives",
+        "Male",
+        "Euthanasia, Animal",
+        "Aggression"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
