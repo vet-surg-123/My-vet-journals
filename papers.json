@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17 08:17 UTC",
-  "total": 12310,
+  "updated": "2026-11-18 03:51 UTC",
+  "total": 12314,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,32 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43041144",
+      "title": "EXPRESS: Dysbiosis correlates with more severe changes in intestinal function in cats with chronic enteropathy.",
+      "authors": "Chen CC, Moraiti KT, Giordano MV, Blake AB, Pilla R, Giaretta PR, Tolbert MK, Xenoulis PG, Crisi PE, Boari A",
+      "journal": "J Feline Med Surg",
+      "date": "2026 Nov 17",
+      "sortdate": "2026-11-17",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041144/",
+      "abstract": "BackgroundMultiple pathophysiological mechanisms have been reported in animals with chronic enteropathy, as reflected by altered serum and fecal metabolites indicative of mucosal damage (e.g., fecal cholesterol, nervonic acid, arachidonic acid), malabsorption (e.g., serum cobalamin, fecal glucose), and loss of microbial function (e.g., fecal bile acid conversion). Furthermore, in dogs, marked intestinal dysbiosis has been linked to more severe underlying intestinal dysfunction, but this relationship is less characterized in cats.ObjectivesCharacterizing fecal microbiome and metabolome in healthy cats (HC), and cats with chronic enteropathy (FCE), either with increased dysbiosis index (DI &gt; 0) or normal DI (&lt; 0).MethodsRetrospective cross-sectional study including 49 HC and 71 cats with FCE. Fecal microbiome was assessed by DNA shotgun sequencing and qPCR-based DI. Targeted fecal metabolites (long-chain fatty acids, sterols, bile acids, and carbohydrates) were measured by mass spectrometry-based platforms.ResultsMultivariate analysis accounted for age, showed significant differences in metabolomic (median R2 [95% CI]: 0.19 [0.15-0.24]), microbial (0.17 [0.11-0.24]), and functional gene (0.16 [0.10-0.25]) profiles in cats with FCE (adjusted-P &lt; 0.01), with more pronounced shifts in those with increased DI. Fecal cholesterol, nervonic acid, and arachidonic acid were higher in FCE (adjusted-P &lt; 0.01) and correlated positively with DI (r = 0.33, 0.41, and 0.44, respectively; adjusted-P &lt; 0.01). Increased fecal glucose and primary bile acid percentage were observed only in FCE-increased DI. A significantly lower cobalamin concentration was observed in cats with increased DI compared to those with a normal DI.Conclusions and relevanceFCE is associated with multiple functional marker alterations, including intestinal cell structural damage, malabsorption, and disrupted microbial function. These changes are not present in all cats, confirming that FCE is heterogeneous with varying degrees of underlying pathology. Cats with FCE with increased dysbiosis index exhibited more severe functional changes compared to those with normal dysbiosis index.",
+      "affiliations": [
+        "Gastrointestinal Laboratory; Department of Small Animal Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Texas A&amp;M University, College Station, TX, USA.",
+        "Clinic of Medicine, Faculty of Veterinary Science, University of Thessaly, Karditsa, Greece.",
+        "Department of Veterinary Medicine, University of Teramo, Piano D'Accio, Teramo, Italy.",
+        "Endovet Professional Association, Veterinary Clinic James Harriot, Roseto degli Abruzzi, Italy.",
+        "Department of Veterinary Pathology, Hygiene and Public Health, University of Milan, Milan, Italy."
+      ],
+      "keywords": [
+        "dysbiosis",
+        "fecal carbohydrate profile",
+        "fecal lipid profile",
+        "shotgun metagenomic sequencing"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "43039220",
       "title": "Computed Tomography Lymphography for Sentinel Lymph Node Mapping in Cats.",
@@ -34,6 +60,24 @@
       "keywords": [],
       "mesh": [],
       "category": "anatomy",
+      "summary_ko": ""
+    },
+    {
+      "id": "43040794",
+      "title": "Intrametatarsal pad injection of indocyanine green for near-infrared fluorescence imaging of the thoracic duct in four dogs and two cats with chylothorax.",
+      "authors": "Composto K, Porter I, Griffin MA, Buote NJ",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 16",
+      "sortdate": "2026-11-16",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040794/",
+      "abstract": "OBJECTIVE: To assess the efficacy of direct near-infrared fluorescence (NIRF) using indocyanine green (ICG) via intrametatarsal pad injection in dogs and cats with idiopathic chylothorax. STUDY DESIGN: Retrospective case series of client-owned animals undergoing intrametatarsal ICG injection and thoracoscopic thoracic duct ligation between 2020 and 2025. ANIMALS: A total of four dogs and two cats. METHODS: Inclusion criteria consisted of cytologically confirmed chylothorax, preoperative computed tomography (CT) lymphangiogram (CTL), and known intraoperative injection of ICG in the metatarsal pad(s). Data collected included signalment, weight, preoperative diagnostics, number of ducts visualized intraoperatively, dose of ICG, additional doses required, and concordance with CTL. Time to visualization of the ICG in the thoracic duct, surgical procedures performed, and any intraoperative complications encountered were also reported. Postoperative data included time to discharge, time to first recheck, presence of fluid at first recheck, postoperative complications, status at last recheck, and total follow-up time. RESULTS: Median number of ducts seen between T10 and 13 region on preoperative CT was 2.5 (range: 1-4). The ICG dose ranged from 0.06 to 0.25&#x2009;mg/kg, and two cases required additional injections to visualize the duct and all branches. A duct not previously seen on CT was visualized with NIRF in one dog. Median time to TD visualization was 7&#x2009;min (range: 5-22&#x2009;min). No intra- or postoperative complications due to the metatarsal injections were reported, and all patients were discharged. A total of 5/6 patients did not require thoracocentesis and were clinically well at a median last follow-up of 647&#x2009;days (range: 454-793). CONCLUSION: Intrametatarsal injection of ICG appears effective for identification of the thoracic duct in animals with chylothorax.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, Cornell University, Ithaca, New York, USA.",
+        "Department of Clinical Sciences, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, Colorado, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -1290,6 +1334,34 @@
         "Phenotype"
       ],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43041395",
+      "title": "Approaching canine inflammatory myopathy by cluster analysis: an immunohistopathological observational study.",
+      "authors": "Alf V, Kolb N, Zablotski Y, Mandigers PJJ, Matiasek K, Rosati M",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43041395/",
+      "abstract": "INTRODUCTION: Immune-mediated inflammatory myopathies (IMs) in dogs represent a heterogeneous group of disorders with incompletely characterized histopathological and immunophenotypic characteristics. This study aimed to identify multiparametric histological and immunophenotypic patterns in canine IMs to support accurate diagnosis from formalin-fixed paraffin-embedded (FFPE) muscle biopsies. METHODS: A cohort of 162 dogs was retrospectively analyzed using a standardized 91-variable histopathological grading scheme, immunohistochemistry for CD3, CD8, CD20, IBA-1, and MHC II, and hierarchical k-means cluster analysis. Multimodel inference was applied to identify associations between immune markers and infiltrating cells with the presence of myonecrosis, fibrosis, myoregeneration, and muscle atrophy within the study population. RESULTS: Four distinct histopathological subgroups were identified. Cluster 1 (56%) was characterized by fiber-invasive, endomysial infiltration with CD3&#x202f;+&#x202f;T-cell predominance over CD20&#x202f;+&#x202f;B-cells and extensive myonecrosis, encompassing cases of polymyositis, infectious myositis, and breed-specific myositides. Cluster 2 (28%) demonstrated broad, compartment-spanning infiltration with CD20&#x202f;+&#x202f;B-cell predominance over T-cells, lower rates of myonecrosis, and included masticatory muscle myositis cases alongside limb muscle polymyositis of similar immunophenotype. Cluster 3 (10%) exhibited diffuse, severe inflammatory infiltration with a balanced B/T-cell composition and marked fibrosis, representing end-stage disease. Cluster 4 (6%) was defined by vasculocentric inflammatory infiltration, B-cell predominance over T-cells, and minimal myonecrosis, consistent with immune-mediated vasculitis. Multimodel inference further revealed that B-cell infiltration was negatively associated with myonecrosis across the total cohort, while macrophages and mast cells were positively associated with fiber destruction. B-cells and plasma cells were independently associated with fibrosis across multiple clusters. DISCUSSION: These findings establish a histopathology- and immunophenotype-based classification framework for canine IMs, highlighting the need for subtype-specific diagnostic and therapeutic strategies.",
+      "affiliations": [
+        "Section of Clinical and Comparative Neuropathology, Institute for Veterinary Pathology, Center for Clinical Veterinary Medicine, Ludwig-Maximilians-Universitaet Muenchen, Munich, Germany.",
+        "Clinic for Ruminants with Ambulatory and Herd Health Services, Center for Clinical Veterinary Medicine, Ludwig-Maximilians-Universitaet Muenchen, Munich, Germany.",
+        "Expertise Centre of Genetics, Department of Clinical Sciences, Faculty of Veterinary Medicine, Utrecht University, Utrecht, Netherlands.",
+        "Neurology Service, Evidensia Referral Hospital Arnhem, Arnhem, Netherlands."
+      ],
+      "keywords": [
+        "canine",
+        "histopathology",
+        "immunohistochemistry",
+        "inflammatory myopathy",
+        "masticatory myositis",
+        "polymyositis",
+        "vasculitis"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
@@ -15364,6 +15436,48 @@
         "Plastic Surgery Procedures"
       ],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43040289",
+      "title": "A comparative study of the numerical analysis of the performance of a new plate design for canine TPO procedures.",
+      "authors": "Turek W, Aleksiewicz R, Trębacz P, Joszko K, Kiełbowicz M, Aleksiewicz K, Borowska-Skarzyńska U, Godlewska M, Kiryluk J",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 15",
+      "sortdate": "2026-08-15",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040289/",
+      "abstract": "OBJECTIVE: The aim of this study was to compare the biomechanical performance of a conventional 7-hole pelvic osteotomy plate and a newly developed elongated 8-hole pelvic osteotomy plate using finite element analysis experimentally validated by digital image correlation. METHODS: Finite element models of the pelvis-implant construct were developed for both plate designs. The pelvic geometry was reconstructed from computed tomography images of a large-breed dog, and the models were analysed in a triple pelvic osteotomy configuration. Loading conditions were simplified to quasi-static forces corresponding to canine gait. Physical 3D-printed pelvis-implant models were additionally tested using digital image correlation to validate the numerical displacement results in corresponding anatomical regions. The numerical simulations enabled evaluation of the distributions of displacement, stress, and strain within the implant and the pelvic bone. RESULTS: The numerical analysis showed that the novel elongated plate design resulted in lower total displacement and a more homogeneous strain distribution in the ilium than the conventional 7-hole plate. The maximum displacement was 2.50&#xa0;mm for the 7-hole construct and 1.84&#xa0;mm for the 8-hole construct. In the acetabular loading region, the finite element displacement values were 1.37&#xa0;mm and 1.01&#xa0;mm, respectively, while the corresponding digital image correlation values were 1.36&#xa0;mm and 0.89&#xa0;mm. Although higher stress values were observed within the 8-hole plate, the calculated implant stresses remained below the yield strength of Ti-6Al-4&#xa0;V ELI titanium alloy. CONCLUSIONS: In this experimentally validated finite element model of a triple pelvic osteotomy configuration, the elongated 8-hole plate demonstrated lower displacement and a more favourable strain distribution than the conventional 7-hole plate. These findings suggest a potential mechanical advantage of the longer plate design under simplified quasi-static loading conditions. Further cadaveric, cyclic fatigue, and clinical studies are required to determine whether these biomechanical differences translate into improved clinical outcomes.",
+      "affiliations": [
+        "PROTON Rezonans Zwierz&#x105;t, ul. Pi&#x142;sudskiego 36/3, Krakow, 31-111, Poland.",
+        "Department of Diagnostics and Clinical Sciences, Faculty of Veterinary Medicine, University of Agriculture, al. Mickiewicza 21, Cracow, 31-120, Poland.",
+        "PROVET Veterinary Clinic, ul. H. Wrobla 10a, Siemianowice &#x15a;l&#x105;skie, 41-100, Poland.",
+        "Department of Surgery and Anaesthesiology of Small Animals, Institute of Veterinary Medicine, Warsaw University of Life Sciences-SGGW, ul. Nowoursynowska 159 C, Warsaw, 02-776, Poland. piotr_trebacz@sggw.edu.pl.",
+        "Department of Biomechatronics, Faculty of Biomedical Engineering, Silesian University of Technology, ul. Roosevelta 40 St, Zabrze, 41-800, Poland.",
+        "Department of Surgery and Anaesthesiology of Small Animals, Institute of Veterinary Medicine, Warsaw University of Life Sciences-SGGW, ul. Nowoursynowska 159 C, Warsaw, 02-776, Poland.",
+        "Kie&#x142;bowicz Veterinary Clinic, ul. Energetyczna 101, 55-120, Oborniki &#x15a;l&#x105;skie, Poland.",
+        "MEDGAL Sp. z o.o. ul. Niewodnicka 26A, Ksi&#x119;&#x17c;yno, 16-001, Poland.",
+        "Clinic of Orthopedics, Traumatology and Hand Surgery, University Clinical Hospital, ul. M. C. Sk&#x142;odowskiej 24a, Bia&#x142;ystok, 15-276, Poland."
+      ],
+      "keywords": [
+        "Canine hip dysplasia",
+        "Dogs",
+        "Elongated plate",
+        "Finite element analysis",
+        "Locking plate",
+        "Pelvic osteotomy"
+      ],
+      "mesh": [
+        "Animals",
+        "Bone Plates",
+        "Dogs",
+        "Finite Element Analysis",
+        "Osteotomy",
+        "Biomechanical Phenomena",
+        "Pelvic Bones",
+        "Tomography, X-Ray Computed",
+        "Printing, Three-Dimensional"
+      ],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
