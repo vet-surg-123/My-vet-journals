@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-19 07:45 UTC",
-  "total": 12330,
+  "updated": "2026-11-20 03:42 UTC",
+  "total": 12339,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -1213,6 +1213,133 @@
       "summary_ko": ""
     },
     {
+      "id": "43054632",
+      "title": "Anesthesia for electrochemotherapy in dogs and cats: a mini-review of current practices and future considerations.",
+      "authors": "Seliškar A, Klasić M, Tomsič K",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054632/",
+      "abstract": "Electrochemotherapy (ECT) is a short, minimally invasive procedure that causes mild to moderate pain. In humans, ECT can often be performed under sedation and local anesthesia, whereas general anesthesia is generally preferred in veterinary medicine. Anesthesia of dogs and cats undergoing ECT can be challenging because of altered clinical status, paraneoplastic syndromes, and concurrent chronic comorbidities. Recent evidence suggests that anesthetic and analgesic agents, particularly opioids, may modulate antitumor immune responses and potentially influence oncological outcomes, although the clinical relevance of these effects requires further investigation. Effective peri-procedural pain management is essential for patient recovery and welfare, and opioid-free or opioid-sparing strategies incorporating locoregional anesthesia may reduce opioid requirements while providing effective analgesia. The growing clinical evidence supporting the efficacy of ECT in veterinary oncology highlights the need for updated patient-tailored anesthetic and analgesic protocols. Moreover, it supports the potential of ECT as a useful research model for investigating tumor-anesthesia interactions, with translational relevance to human oncology. This mini-review summarizes current practices and practical considerations in veterinary onco-anesthesia and identifies priorities for future research.",
+      "affiliations": [
+        "Small Animal Clinic, Veterinary Faculty, University of Ljubljana, Ljubljana, Slovenia."
+      ],
+      "keywords": [
+        "analgesia",
+        "anesthesia",
+        "cat",
+        "dog",
+        "electrochemotherapy",
+        "onco-anesthesia",
+        "pain"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054321",
+      "title": "Dynamics of salivary cortisol and oxytocin during standardized field training in search-and-rescue (SAR) dogs.",
+      "authors": "Bolechová P, Chmelíková E, Polónyiová A, Vostrá-Vydrová H, Dokoupilová A, Svobodová I",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054321/",
+      "abstract": "Search and rescue (SAR) dogs perform physically and cognitively demanding tasks under complex field conditions. The aim of this study was to characterize temporal changes in salivary cortisol and oxytocin concentrations during standardized simulated SAR field training and to explore their associations with selected dog- and training-related factors. Twenty-one working dogs participated in three standardized simulated field-training exercises. Saliva samples were collected at six sampling points covering the pre-workload, workload, and early recovery phases. Temporal changes were evaluated using generalized linear mixed-effects models accounting for repeated measurements within dogs, while associations with dog- and training-related factors were examined as secondary or exploratory analyses. Salivary cortisol showed a significant overall effect of sampling phase, with a statistically significant difference from the pre-workload sampling point observed only at the later workload sampling point, whereas the other pairwise comparisons, including the final recovery sampling point, were not statistically significant after adjustment for multiple comparisons. Salivary oxytocin also showed a significant overall sampling-phase effect, but no individual pairwise comparison remained statistically significant after adjustment. Oxytocin concentrations showed a non-monotonic descriptive pattern and were numerically lower than the pre-workload concentration at the final sampling point. These findings should be interpreted as preliminary information on endocrine responses associated with standardized simulated SAR field training rather than as direct evidence of positive or adverse welfare states or incomplete physiological recovery. Further studies integrating endocrine, behavioral, autonomic, performance-related, physical, and other welfare-related measures are needed to clarify the functional significance of these responses.",
+      "affiliations": [
+        "Department of Ethology and Companion Animal Science, Faculty of Agrobiology, Food and Natural Resources, Czech University of Life Sciences Prague, Prague, Czechia.",
+        "Department of Veterinary Sciences, Faculty of Agrobiology, Food and Natural Resources, Czech University of Life Sciences Prague, Prague, Czechia."
+      ],
+      "keywords": [
+        "Canine welfare",
+        "endocrine responses",
+        "hypothalamic-pituitary-adrenal axis",
+        "physiological stress",
+        "working dogs"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054223",
+      "title": "Adapting human multidisciplinary tumor boards to veterinary oncology: a closed-loop framework for integrated decision-making and organizational learning.",
+      "authors": "Sebastián-López C",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054223/",
+      "abstract": "Multidisciplinary tumor boards are established in human oncology to integrate information and reasoning from several specialties around patient-level management decisions. Veterinary oncology already relies on multimodal care and specialist collaboration, but there is still limited standardization of how relevant clinical and contextual information should be prospectively integrated, how the reasoning supporting decisions should be documented, how decisions should be revisited as new information emerges, and how completed cases should inform future practice. This Conceptual Analysis proposes an adaptable veterinary multidisciplinary tumor board (VMTB) for dogs and cats with complex oncologic conditions, including solid tumors and selected hematologic malignancies when multidisciplinary input may change, clarify, or contextualize management. The framework distinguishes essential clinical functions from local implementation configuration and uses a modular seven-step pathway beginning with a time-stamped pre-board management intention. Depending on the clinical question, the VMTB may produce a preferred integrated recommendation or a structured set of clinically defensible alternatives. This approach is consistent with the veterinary Spectrum of Care concept, which recognizes that more than one evidence-informed and clinically acceptable management pathway may exist, and provides a structured basis for subsequent owner-centred shared decision-making. Relevant specialist input may be provided on site, remotely, or through structured external consultation. Cases may re-enter clinical review when definitive pathology, treatment response, progression, or other new information could alter current management. This patient-level re-entry is distinct from the post-case return process: review results in organizational learning only when a clinically relevant observation generates a practice change that is subsequently applied and reassessed. The framework does not assume that VMTB review or management change improves clinical outcomes. Initial evaluation should determine whether the VMTB is feasible and timely, whether its influence on decision-making is traceable, whether the owner's subsequent decision and implementation of the selected plan can be documented, whether essential functions are delivered with fidelity, and whether the post-case return process is completed. Only after reliable implementation has been established should potential clinical benefit be investigated.",
+      "affiliations": [
+        "Department of Oral and Maxillofacial Surgery, Hospital Universitario de San Juan, Alicante, Spain."
+      ],
+      "keywords": [
+        "clinical decision-making",
+        "comparative oncology",
+        "dogs and cats",
+        "implementation science",
+        "multidisciplinary tumor board",
+        "organizational learning",
+        "referral medicine",
+        "veterinary oncology"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054190",
+      "title": "Octreotide treatment improves multiple domains of cognitive performance in aged beagle dogs.",
+      "authors": "LaCroix-Fralish ML, Juarez-Salinas D, Marietti E, Silva E, Tovar A, Chen F, Greenwood K, Peloquin M, Halioua-Haubold CL",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054190/",
+      "abstract": "Aging in dogs is accompanied by progressive cognitive decline and neuropathological changes that parallel key features of human brain aging and dementia, making canines a highly valuable naturally occurring model for studying aging and neurodegenerative disease. Across species, reduced growth hormone/insulin-like growth factor-1 (GH/IGF-1) signaling is associated with extended lifespan and preserved late-life cognition, whereas chronically elevated somatotropic activity is linked to deficits in memory, attention, and executive function. The effects of pharmacologic GH/IGF-1 suppression on cognition in naturally aging animal models remain unclear. We investigated whether attenuation of IGF-1 signaling with the long-acting somatostatin analog octreotide improves cognitive performance in aged dogs. Twenty-eight aged beagle dogs (7-15 years) experienced in neuropsychological testing were enrolled in a randomized, placebo-controlled study. After a 28-day baseline, dogs received either long-acting octreotide (Sandostatin LAR, 10 mg, i.m.) or placebo, followed by a wash-in interval and 28 days of post-treatment testing. A validated cognitive battery assessed executive function and cognitive flexibility (discrimination reversal), selective attention (variable oddity), and visuospatial working memory (variable delayed non-matching to position). Treated dogs demonstrated significantly improved performance relative to placebo across the three behavioral paradigms with the primary effect being reductions in response latency and task engagement. Pharmacologic IGF-1 suppression with octreotide improves cognitive response efficiency and engagement in aged dogs, particularly in executive and attentional domains. These results support a functional role for somatotropic signaling in late-life cognition and highlight the aged canine as a valuable translational model for geroscience-based interventions targeting age-related cognitive decline.",
+      "affiliations": [
+        "Loyal Animal Health, Inc., San Francisco, CA, United States."
+      ],
+      "keywords": [
+        "aging",
+        "cognition",
+        "dog",
+        "geroprotective",
+        "octreotide"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43054163",
+      "title": "Daily supplementation with canine-isolated Limosilactobacillus reuteri ATCC PTA 6127 is well tolerated, improves stool consistency, and modulates gut microbiome in dogs.",
+      "authors": "Rendina DN, Commichaux S, Roos S, Axelsson J, Lundqvist C, Hibberd AA",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 04",
+      "sortdate": "2026-11-04",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054163/",
+      "abstract": "Probiotics are increasingly incorporated into companion animal diets to support gastrointestinal function, yet strain-specific evidence in dogs remains limited. This study evaluated the safety, tolerability, and gastrointestinal effects of daily supplementation with Limosilactobacillus reuteri PureStrong&#x2122; (ATCC PTA 6127) in healthy adult dogs. Sixteen purpose-bred Beagle dogs (8/group; balanced by sex) were enrolled in a randomized, blinded, placebo-controlled trial and received either 1&#x202f;&#xd7;&#x202f;108&#x202f;CFU/d of L. reuteri ATCC PTA 6127 or placebo for 28&#x202f;days. At study initiation, dogs underwent a standardized transition from a dry diet to a canned wet diet, representing a dietary challenge associated with transient gastrointestinal and microbiome changes. Safety was assessed through clinical observations, body weight, food intake, hematology, and serum biochemistry; gastrointestinal outcomes included daily fecal scoring and periodic measurement of fecal pH, moisture, and microbiome composition (16S rRNA gene sequencing). All dogs completed the study without adverse events, and clinical pathology values remained within reference intervals with no treatment-related differences. Dogs receiving L. reuteri exhibited a lower incidence of poorly formed stools compared with placebo (0.58% vs. 6.33%) and were significantly less likely to be assigned to poorer fecal consistency categories (&#x3b2; =&#x202f;-1.31, p&#x202f;=&#x202f;0.033), indicating improved stool quality during supplementation. By Day 28, fecal pH was significantly lower in the probiotic group compared with placebo after baseline adjustment (&#x394;&#x202f;=&#x202f;-0.22; 95% CI: -0.403 to -0.045; p&#x202f;=&#x202f;0.018). Microbiome analyses indicated that the transition from dry to wet food was the dominant driver of microbial community restructuring. Against this background, probiotic supplementation was associated with an early increase in fecal L. reuteri abundance and more positive longitudinal changes in several lactic acid bacteria and commensal taxa during the first 2&#x202f;weeks. Most treatment-associated differences were no longer evident by Day 28. In summary, daily supplementation with L. reuteri ATCC PTA 6127 was safe and well tolerated and was associated with improved fecal consistency, lower fecal pH at Day 28, and transient differences in microbiome adaptation during a dietary challenge. These findings provide strain-specific evidence supporting the potential of ATCC PTA 6127 as a dietary probiotic supplement for gastrointestinal stability in dogs.",
+      "affiliations": [
+        "International Flavors &amp; Fragrances, Palo Alto, CA, United States.",
+        "International Flavors &amp; Fragrances, Wilmington, DE, United States.",
+        "BioGaia AB, Stockholm, Sweden.",
+        "Department of Molecular Sciences, Uppsala BioCenter, Swedish University of Agricultural Sciences, Uppsala, Sweden.",
+        "International Flavors &amp; Fragrances, Saint Louis, MO, United States."
+      ],
+      "keywords": [
+        "Limosilactobacillus reuteri",
+        "canine",
+        "diet transition",
+        "fecal quality",
+        "gastrointestinal health",
+        "gut microbiota",
+        "probiotic"
+      ],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
       "id": "42974710",
       "title": "Feasibility of Shallow Whole-Genome Sequencing-Based Circulating Tumour DNA Analysis in Canine Multicentric Lymphoma: A Pilot Study.",
       "authors": "Kim GH, Jang JH, Kim SH, Ryu MO, Kwon CH, Seo KW",
@@ -1611,6 +1738,84 @@
       "summary_ko": ""
     },
     {
+      "id": "43055506",
+      "title": "Evaluation of urine clusterin and cystatin B concentrations in relation to histopathologic findings of renal disease in dogs.",
+      "authors": "Rivera C, Hines ES, Schultz D, Cianciolo RE, Jeffery N, Hokamp JA, Linn-Peirano SC, Grossi DA, Ouyang Z, Peterson S",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055506/",
+      "abstract": "BACKGROUND: Conventional markers of kidney disease detect altered kidney function but do not consistently identify active kidney injury. Urine clusterin (uClust) and cystatin B (uCysB) are renal injury biomarkers, but their evaluation is limited in dogs with biopsy-confirmed diagnoses. HYPOTHESIS/OBJECTIVES: Determine the association of uClust and uCysB with conventional biomarkers, category of renal disease, severity of renal injury, and survival in dogs with biopsy-confirmed kidney disease. ANIMALS: Urine from client-owned dogs (n&#xa0;=&#xa0;199) submitted to the International Veterinary Renal Pathology Service between 2008 and 2018 with corresponding kidney biopsy samples. METHODS: Retrospective study. Urine clusterin and uCysB were measured using an ELISA, and correlations with serum creatinine (sCr), symmetric dimethylarginine (SDMA), urine protein-to-creatinine ratio (UPC), and histopathology severity scores were determined. Significant differences in uClust and uCysB among conventional biomarker groups were determined using analysis of variance. Multivariate survival analysis was performed. RESULTS: Concentrations of uClust and uCysB were highest in dogs with membranoproliferative glomerulonephritis (MPGN) and mixed MPGN, and they were positively correlated with sCr, SDMA, UPC, and histopathology scores (r&#xa0;=&#xa0;0.25-0.50). Risk of death was higher in dogs with uCysB &gt;&#x2009;238&#xa0;ng/mL (hazard ratio, 2.40; P&#xa0;&lt;&#xa0;.05), whereas uClust &gt;&#x2009;7329&#xa0;ng/mL was associated with lower risk of death (hazard ratio, 0.32; P&#xa0;&lt;&#xa0;.01). CONCLUSIONS AND CLINICAL IMPORTANCE: Higher uCysB was associated with more severe disease and decreased survival; therefore, uCysB might identify dogs with active renal injury and worse prognosis. Although uClust was associated with more severe disease, its association with survival needs further investigation.",
+      "affiliations": [
+        "Department of Veterinary Pathobiology, College of Veterinary Medicine &amp; Biomedical Sciences, Texas A&amp;M University, College Station, TX, United States.",
+        "Niche Diagnostics LLC, Columbus, OH, United States.",
+        "Department of Small Animal Clinical Sciences, College of Veterinary Medicine &amp; Biomedical Sciences, Texas A&amp;M University, College Station, TX, United States.",
+        "Biomedical and Diagnostic Sciences, College of Veterinary Medicine, University of Tennessee Institute of Agriculture Tennessee, Knoxville, TN, United States.",
+        "Department of Research &amp; Development, IDEXX Laboratories, Inc, Westbrook, ME, United States."
+      ],
+      "keywords": [
+        "acute kidney injury",
+        "canine",
+        "chronic kidney disease",
+        "proteinuria",
+        "tubular biomarkers",
+        "urinary tract"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Clusterin",
+        "Retrospective Studies",
+        "Biomarkers",
+        "Female",
+        "Male",
+        "Kidney Diseases",
+        "Cystatin B",
+        "Creatinine",
+        "Kidney",
+        "Arginine"
+      ],
+      "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43055505",
+      "title": "Reassessing outcome and adverse events associated with ventral slot decompression for cervical intervertebral disc disease in dogs: 241 cases (2021-2024).",
+      "authors": "Marocco P, Taylor AR",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055505/",
+      "abstract": "BACKGROUND: Cervical intervertebral disc herniations (IVDH) are a common cause of cervical myelopathy in dogs, with ventral slot decompression (VSD) often being the surgical treatment of choice. The contemporary United States breed population has changed since the large retrospective review on VSD outcomes in 2013, with French bulldogs increasing in popularity.4,8 A 2025 retrospective study evaluated outcomes in patients receiving VSD but it was a single institution United Kingdom based cohort that focused on concomitant fenestration.7. HYPOTHESIS/OBJECTIVES: Evaluate adverse events (AEs) and outcomes in dogs that underwent VSD for cervical IVDH since the increase in French bulldog prevalence in US populations. We hypothesized that there would be an increase in the number of reported AEs with no difference in outcome. ANIMALS: A total of 241 dogs from 4 private neurology practices treated between 2021 and 2024. METHODS: Retrospective case series. RESULTS: Most cases had excellent or good outcomes (n&#xa0;=&#xa0;182/241 and 34/241, respectively), with poor outcomes in 9 cases. Overall AE rate was 25% (n&#xa0;=&#xa0;60/241). A negative outcome was significantly associated with increased body weight (P&#xa0;&lt;&#xa0;.001), higher AE grades (P&#xa0;&lt;&#xa0;.001), higher AE severity (P&#xa0;&lt;&#xa0;.001), caudal disc spaces (P&#xa0;=&#xa0;.04), and lateralized extruded material (P&#xa0;=&#xa0;.01). Outcome was not significantly associated with sex, surgical or anesthetic duration, surgeon experience, prior ventral slot surgery, perioperative hypotension, or hemorrhage. CONCLUSIONS AND CLINICAL IMPORTANCE: Despite the increased prevalence of French bulldogs undergoing VSD in US populations, this surgery continues to have favorable outcomes.",
+      "affiliations": [
+        "Southeast Veterinary Neurology, Miami, FL, United States."
+      ],
+      "keywords": [
+        "adverse events",
+        "canine",
+        "cervical intervertebral disc herniation",
+        "outcome",
+        "ventral slot decompression"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Intervertebral Disc Displacement",
+        "Female",
+        "Male",
+        "Intervertebral Disc Degeneration",
+        "Cervical Vertebrae",
+        "Decompression, Surgical",
+        "Treatment Outcome",
+        "Postoperative Complications"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
       "id": "42929748",
       "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
       "authors": "Negro L, Pey P, Specchi S, Penninck D, Diana A, Linta N, Nanni C, Baldinetti M, Morabito S",
@@ -1927,7 +2132,7 @@
       "date": "2026 Nov 01",
       "sortdate": "2026-11-01",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968222/",
-      "abstract": "An incorrect version of this manuscript was published online and has been temporarily removed.",
+      "abstract": "ObjectivesHyperammonemia occurs in cats with kidney disease although the pathophysiology is poorly understood. The objective of this study was to determine if hyperammonemia in cats with kidney disease is associated with decreased concentrations of plasma amino acids involved in the urea cycle and more severe acid-base derangements.MethodsTwenty cats presenting with acute kidney injury (AKI) and acute on chronic kidney disease (AoCKD) were prospectively enrolled. Fasting blood samples were analyzed for ammonia, pH, anion gap, electrolytes, lactate, blood urea nitrogen (BUN), creatinine and phosphorus. Plasma was frozen at -80oC and shipped for amino acid analysis.ResultsFive of 20 cats had an AKI and 15/20 had AoCKD. Median age and weight were 12 years (range 3-14) and 4.5 kg (range 3-5.6), respectively. Seven cats were hyperammonemic (median 252 &#xb5;mol/l, range 113-886) and 13 were not (median 23 &#xb5;mol/l, range 11-49). Creatinine, BUN and phosphorus were significantly higher in hyperammonemic cats. BUN and phosphorus correlated with ammonia. Fifteen of 20 cats (75%) were acidotic but there was no difference in lactate or blood and urine pH between the cats with and without hyperammonemia. The anion gap was higher (29.6, range 27-40 vs 25.1, range 11-34) and serum bicarbonate lower (9 mEq/L, range 4.8-13.5 vs 11.9, range 8-24.2) in hyperammonemic cats. Median plasma citrulline (47 nMol/mL, range 31-128 vs 22, range 12-37) and ornithine (20 nMol/mL, range 12-33 vs 10, range 7-35) but not arginine concentrations were significantly higher in hyperammonemic cats (p&lt;0.05). Plasma citrulline concentrations were positively correlated with serum creatinine (r = 0.621, p = 0.003).Conclusions and relevanceHyperammonemic cats with AKI/AoCKD do not have deficiencies in urea cycle amino acid concentrations but do have more severe azotemia with accompanying high anion gap metabolic acidosis. Increases in citrulline may reflect decreased kidney function.",
       "affiliations": [
         "Department of Small Animal Clinical Sciences, Cummings School of Veterinary Medicine at Tufts University, North Grafton, USA."
       ],
@@ -2104,6 +2309,78 @@
         "Radiography, Thoracic"
       ],
       "category": "anesthesia",
+      "summary_ko": ""
+    },
+    {
+      "id": "43053573",
+      "title": "Computed Tomography and Magnetic Resonance Imaging Findings in Cats With Occipitoatlantoaxial Malformation: A Retrospective Study of 25 Cases.",
+      "authors": "Aoki K, Murakami M",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053573/",
+      "abstract": "Occipitoatlantoaxial malformation (OAAM) is a congenital malformation of the craniocervical junction that is incompletely characterized in cats. This retrospective single-center study characterized CT and MRI findings in 25 cats with OAAM, operationally defined as an osseous malformation involving one or more structures of the occipital bone, atlas, or axis identified on CT. CT was performed in all 25 cats and MRI in 24. Neurologic signs were present in 24/25 cats. Abnormal gait was present in 23 cats, including ataxia in 13/23 (56.5%) and paresis in 10/23 (43.5%); 8/10 paretic cats had tetraparesis, and 2/10 had left hemiparesis. CT findings included dens abnormalities (17/25), C1 hypoplasia (14/25), atlanto-occipital articulation abnormalities (13/25), occipital malformations (11/25), and osseous spinal cord compression (17/25). MRI demonstrated spinal cord compression in 15/24 cats and intramedullary T2 hyperintensity in 14/24; all intramedullary lesions involved C2. Seven prespecified imaging findings were compared between 9 cats with acute/subacute signs and 15 with chronic signs using two-sided Fisher's exact tests, conditional odds ratios, and two-sided 95% exact conditional confidence intervals. The analyses were exploratory; p-values were not adjusted for multiple comparisons, and multivariable modeling was not performed. None met the prespecified significance threshold, and wide confidence intervals indicated limited precision. Follow-up was available for 21 cats; excluding 2 unrelated deaths, neurologic signs resolved in 14/19 cats, persisted in 4, and progressed in 1. Feline OAAM comprised heterogeneous combinations of congenital osseous malformations. CT characterized osseous abnormalities, whereas MRI provided complementary information regarding spinal cord compression and intramedullary abnormalities.",
+      "affiliations": [
+        "Companion Animal Medical Imaging Center, Takatsu, Kawasaki, Kanagawa, Japan.",
+        "Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Purdue University, West Lafayette, Indiana, USA."
+      ],
+      "keywords": [
+        "cat",
+        "computed tomography",
+        "craniocervical junction",
+        "magnetic resonance imaging",
+        "occipitoatlantoaxial malformation"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Retrospective Studies",
+        "Magnetic Resonance Imaging",
+        "Cat Diseases",
+        "Tomography, X-Ray Computed",
+        "Female",
+        "Male",
+        "Atlanto-Axial Joint",
+        "Atlanto-Occipital Joint",
+        "Spinal Cord Compression",
+        "Occipital Bone"
+      ],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43053572",
+      "title": "Intraoperative Extracorporeal Irradiation of Craniotomy Bone Flap for Skull Reconstruction Following Brain Meningioma Resection in a Cat.",
+      "authors": "Pasierbińska M, Morris J, Chalmers AJ, Kaczmarska A, Gutierrez-Quintana R",
+      "journal": "Vet Radiol Ultrasound",
+      "date": "2026 Nov 01",
+      "sortdate": "2026-11-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43053572/",
+      "abstract": "A 6-year-old male neutered domestic shorthair cat underwent rostro-tentorial biparietal craniotomy for meningioma resection. The bone flap was removed under sterile conditions and subjected to extracorporeal irradiation with 100&#xa0;Gy before reimplantation using nonabsorbable sutures. Postoperative MRI confirmed gross total resection of the mass. Seven-month follow-up with CT showed no evidence of tumor recurrence and successful integration of the bone flap. To our knowledge, this is the first report of intraoperative extracorporeal irradiation of a craniotomy flap in veterinary medicine and suggests its potential as a viable alternative for skull reconstruction.",
+      "affiliations": [
+        "Division of Small Animal Clinical Sciences, School of Biodiversity, One Health and Veterinary Medicine, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK.",
+        "School of Cancer Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, Glasgow, UK."
+      ],
+      "keywords": [
+        "feline",
+        "oncology",
+        "radiotherapy"
+      ],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Male",
+        "Meningioma",
+        "Cat Diseases",
+        "Craniotomy",
+        "Surgical Flaps",
+        "Meningeal Neoplasms",
+        "Skull",
+        "Plastic Surgery Procedures",
+        "Magnetic Resonance Imaging",
+        "Brain Neoplasms"
+      ],
+      "category": "neurooncology",
       "summary_ko": ""
     },
     {
@@ -6505,25 +6782,36 @@
     },
     {
       "id": "42803120",
-      "title": "EXPRESS: Echocardiographic prevalence and attachment-site patterns of left ventricular bands in cats.",
+      "title": "Echocardiographic prevalence and attachment-site patterns of left ventricular bands in cats.",
       "authors": "Van den Noortgate G, Zablotski Y, Wess G",
       "journal": "J Feline Med Surg",
       "date": "2026 Sep 28",
       "sortdate": "2026-09-28",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42803120/",
-      "abstract": "ObjectivesTo determine the echocardiographic prevalence and attachment-site patterns of left ventricular bands (LVBs) in cats and assess whether LVB counts differed by sex, sedation status, or echocardiographic group.MethodsIn this prospective observational study, 200 cats undergoing complete transthoracic echocardiographic examination were evaluated for the presence, number, and attachment-site patterns of LVBs. LVBs were defined as discrete intracavitary linear structures connecting two myocardial structures within the left ventricle without insertion into the mitral valve leaflets. Each visible connection was classified according to predefined attachment-site categories. For the phenotype comparison, cats with normal LV wall thickness or focal insertion-site thickening (n = 89) were compared with cats with a hypertrophic cardiomyopathy (HCM) phenotype (n = 86).ResultsA total of 884 LVBs were identified. At least one LVB was detected in 199/200 cats, yielding an echocardiographic prevalence of 99.5%. The median number was 4 LVBs per cat (range 0-10). The most frequently observed attachment patterns involved the interventricular septum and papillary muscle or accessory papillary muscle-like structures. Overall, 51.9% of LVBs had at least one septal attachment, and 94.3% involved a papillary muscle or accessory papillary muscle-like structure. LVB counts did not differ by sex (P = 0.47), sedation status (P = 0.26), or between the normal/focal insertion-site thickening and HCM phenotype groups (P = 0.98).Conclusions and relevanceLeft ventricular bands were identified in nearly all cats examined and represent a common echocardiographic finding. Most involved septal and papillary muscle-related attachment sites. Sex and sedation status were not significantly associated with LVB number, and no significant difference was identified between the combined normal/focal insertion-site thickening group and the HCM phenotype group. These findings provide a reference framework for the echocardiographic recognition and classification of LVBs in cats under clinical imaging conditions.",
+      "abstract": "OBJECTIVES: The aim of the present study was to determine the echocardiographic prevalence and attachment-site patterns of left ventricular bands (LVBs) in cats and assess whether LVB counts differed by sex, sedation status, or echocardiographic group. METHODS: In this prospective observational study, 200 cats undergoing complete transthoracic echocardiographic examination were evaluated for the presence, number, and attachment-site patterns of LVBs. LVBs were defined as discrete intracavitary linear structures connecting two myocardial structures within the left ventricle without insertion into the mitral valve leaflets. Each visible connection was classified according to predefined attachment-site categories. For the phenotype comparison, cats with normal left ventricular wall thickness or focal insertion-site thickening (n&#x2009;=&#x2009;89) were compared with cats with a hypertrophic cardiomyopathy (HCM) phenotype (n&#x2009;=&#x2009;86). RESULTS: A total of 884 LVBs were identified. At least one LVB was detected in 199/200 cats, yielding an echocardiographic prevalence of 99.5%. The median number was four LVBs per cat (range 0-10). The most frequently observed attachment patterns involved the interventricular septum and papillary muscle or accessory papillary muscle-like structures. Overall, 51.9% of LVBs had at least one septal attachment, and 94.3% involved a papillary muscle or accessory papillary muscle-like structure. LVB counts did not differ by sex (P&#x2009;=&#x2009;0.47), sedation status (P&#x2009;=&#x2009;0.26), or between the combined normal/focal insertion-site thickening group and HCM phenotype group (P&#x2009;=&#x2009;0.98). CONCLUSIONS AND RELEVANCE: LVBs were identified in nearly all cats examined and represent a common echocardiographic finding. Most involved septal and papillary muscle-related attachment sites. Sex and sedation status were not significantly associated with LVB number, and no significant difference was identified between the normal/focal insertion-site thickening and HCM phenotype groups. These findings provide a reference framework for the echocardiographic recognition and classification of LVBs in cats under clinical imaging conditions. Thin tissue bands in the left side of the heart are visible on ultrasound in almost all catsThin bands of tissue can cross the main pumping chamber on the left side of the heart. These structures are called left ventricular bands. Although they have been described in cats, it was unclear how often they can be seen on heart ultrasound and where they usually attach. We examined 200 cats who underwent a complete heart ultrasound examination. We recorded whether these bands were visible, how many were present, and which parts of the heart they connected with. Each clearly visible connection was counted separately, including branches within network-like structures. At least one band was visible in 199 of the 200 cats. In total, 884 connections were identified, with a typical count of four per cat and a range from none to 10. Most bands were attached to the wall separating the two pumping chambers and to muscles that help support the valve on the left side of the heart, or to smaller muscle-like structures. The number of bands did not differ between male and female cats, between sedated and non-sedated cats, or between cats with an ultrasound pattern of heart muscle thickening called hypertrophic cardiomyopathy and the study&#x2019;s comparison group. These findings show that left ventricular bands are a very common ultrasound finding in cats. The study did not determine whether unusually thick bands or dense networks affect heart function or whether the visible connections correspond exactly to complete anatomical bands.",
       "affiliations": [
         "Dierenartsenpraktijk Akuut, Kortenberg, Belgium.",
         "LMU Small Animal Clinic, Munich, Germany."
       ],
       "keywords": [
+        "echocardiography",
         "false tendon",
         "focal insertion-site thickening",
-        "hypertrophic cardiomyopathy",
         "papillary muscle",
         "ventricular anatomy"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Male",
+        "Female",
+        "Echocardiography",
+        "Cat Diseases",
+        "Heart Ventricles",
+        "Prevalence",
+        "Prospective Studies",
+        "Cardiomyopathy, Hypertrophic"
+      ],
       "category": "cardiac",
       "summary_ko": ""
     },
@@ -7093,25 +7381,33 @@
     },
     {
       "id": "42779156",
-      "title": "EXPRESS: Pull-out strength of cannulated compression headless screws and cortical screws in the feline sacrum.",
-      "authors": "Kornmayer M, Klement J, Zablotski Y, Thorwaechter C, Wieser J",
+      "title": "Pull-out strength of cannulated compression headless screws and cortical screws in the feline sacrum.",
+      "authors": "Kornmayer M, Klement J, Zablotski Y, Thorwächter C, Wieser J",
       "journal": "J Feline Med Surg",
       "date": "2026 Sep 23",
       "sortdate": "2026-09-23",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42779156/",
-      "abstract": "OBJECTIVES: The aim of this study was to compare the pull-out strength of cannulated compression headless screws (CCHSs) of two different lengths with that of cortical screws in the feline sacrum. METHODS: In this experimental study, 30 cadavers of adult Domestic Shorthair cats were randomly assigned to three groups: single 2.4 mm cortical screws engaging 60 % of the sacral width (CS 60, n = 10), 2.5 mm CCHSs engaging 60 % of the sacral width (CCHSs 60, n = 10), and 2.5 mm CCHSs engaging 40 % of the sacral width (CCHS 40, n = 10). Screws were inserted into feline sacra and tested for pull-out strength using a universal testing machine at a constant displacement rate of 0.2 mm / sec up to 20 mm. Peak pull-out force (PPF), displacement at PPF and stiffness were calculated from the load-displacement curves and compared among groups using Fisher's ANOVA and the Welch test. Post-hoc pairwise comparisons were performed using Student's t-tests and the Games-Howell test. Statistical significance was set at p &#x2264; 0.05. RESULTS: Pairwise comparison of PPF showed significant differences between the CS 60 and CCHS 60 groups (p = 0.05) and between the CS 60 and CCHS 40 groups (p = 0.05). No significant difference was detected between the CCHS 60 and CCHS 40 groups (p = 0.98). For displacement at PPF and stiffness, no significant differences were identified in the pairwise comparison. CONCLUSION AND RELEVANCE: Fully threaded cortical screws provide greater holding strength than partially threaded CCHSs in cadaveric feline sacra. In addition, a single short CCHS offers holding strength comparable to that of a CCHS of the conventionally recommended length.",
+      "abstract": "OBJECTIVES: The aim of this study was to compare the pull-out strength of cannulated compression headless screws (CCHSs) of two different lengths with that of cortical screws in the feline sacrum. METHODS: In this experimental study, 30 cadavers of adult domestic shorthair cats were randomly assigned to three groups: single 2.4&#x2009;mm cortical screws engaging 60% of the sacral width (CS 60, n&#x2009;=&#x2009;10), 2.5&#x2009;mm CCHSs engaging 60% of the sacral width (CCHSs 60, n&#x2009;=&#x2009;10), and 2.5&#x2009;mm CCHSs engaging 40% of the sacral width (CCHS 40, n&#x2009;=&#x2009;10). Screws were inserted into feline sacra and tested for pull-out strength using a universal testing machine at a constant displacement rate of 0.2&#x2009;mm/s up to 20&#x2009;mm. Peak pull-out force (PPF), displacement at PPF, and stiffness were calculated from the load-displacement curves and compared among groups using Fisher's ANOVA and the Welch test. Post-hoc pairwise comparisons were performed using Student's t-tests and the Games-Howell test. Statistical significance was set at P &#x2a7d;0.05. RESULTS: Pairwise comparison of PPF showed significant differences between the CS 60 and CCHS 60 groups (P&#x2009;=&#x2009;0.05) and between the CS 60 and CCHS 40 groups (P&#x2009;=&#x2009;0.05). No significant difference was detected between the CCHS 60 and CCHS 40 groups (P&#x2009;=&#x2009;0.98). For displacement at PPF and stiffness, no significant differences were identified in the pairwise comparison. CONCLUSIONS AND RELEVANCE: Fully threaded cortical screws provide greater holding strength than partially threaded CCHSs in cadaveric feline sacra. In addition, a single short CCHS offers holding strength comparable to that of a CCHS of the conventionally recommended length.",
       "affiliations": [
         "LMU Small Animal Clinic, Centre for Clinical Veterinary Medicine, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Munich, Germany.",
         "Veterinary practice Dr. Zauscher, Odelzhausen, Germany.",
-        "Department of Orthopaedics and Trauma Surgery, Musculoskeletal University Center Munich (MUM), University Hospital, LMU Munich, Germany."
+        "Department of Orthopaedics and Trauma Surgery, Musculoskeletal University Center Munich, University Hospital, Ludwig-Maximilians-Universit&#xe4;t M&#xfc;nchen, Germany."
       ],
       "keywords": [
         "cannulated compression headless screw",
         "cortical screw",
         "pull-out strength",
-        "sacroiliac luxation fracture"
+        "sacroiliac luxation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Bone Screws",
+        "Sacrum",
+        "Cadaver",
+        "Biomechanical Phenomena",
+        "Fracture Fixation, Internal"
+      ],
       "category": "anatomy",
       "summary_ko": ""
     },
@@ -16178,31 +16474,44 @@
     },
     {
       "id": "42590897",
-      "title": "EXPRESS: Renal Health in Cats with Feline Infectious Peritonitis treated with GS-441524: Baseline Findings and Longitudinal Effects.",
+      "title": "Renal health in cats with feline infectious peritonitis treated with GS-441524: Baseline findings and longitudinal effects.",
       "authors": "de Witt Curtius CC, Meli ML, Crespo Bouzon A, Wenk J, Stachowski JM, Cerchiaro I, Pineroli B, Unterer S, Felten S, Major A",
       "journal": "J Feline Med Surg",
       "date": "2026 Aug 12",
       "sortdate": "2026-08-12",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42590897/",
-      "abstract": "ObjectivesGS-441524 is effective against feline infectious peritonitis (FIP), but potential renal toxicity remains debated. Renal health was assessed in cats with FIP undergoing antiviral treatment.MethodsCats with confirmed FIP (n = 80) receiving oral GS-441524 for 42 days were assessed before (day 1; D1), during (D7, D42), and after treatment (D84, D183). Assessments included urine specific gravity (USG), urine protein:creatinine ratio (UPC), urinary cystatin B (uCysB), urine protein electrophoresis, serum creatinine, urea and symmetric dimethylarginine (SDMA).The term potential renal dysfunction was used for cats fulfilling the following criteria: creatinine &gt;140 &#xb5;mol/l or SDMA &#x2265; 18 &#xb5;g/dl and USG &lt;1.035. Serum amyloid A (SAA) and alpha-1-acid glycoprotein (AGP) were assessed in serum, feline coronavirus (FCoV) RNA in blood and urine (D1-D42).ResultsAt baseline, 97.5% of cats had creatinine concentrations &lt;140 &#xb5;mol/l; by D183, 23.8% exceeded this threshold (D1-D183: PD &lt;0.0001). Potential renal dysfunction criteria were met in 2.5% of cats at baseline and 8.8% at D183. In contrast, uCysB was increased in 83.8% of cats at D1 and declined during treatment (D1-D183: PD &lt;0.0001). Cats with uCysB &gt;100 ng/ml had higher UPC values (PMWU &lt;0.0001). Most cats had elevated AGP and SAA at baseline, which normalised during treatment (D1-D42: PD &lt;0.0001). Proteinuria (UPC &gt;0.2) was present in 91.3% on D1 and 3.8% on D183; urine protein electrophoresis at D1 revealed predominantly tubular and mixed patterns. Urine was more frequently FCoV RNA-positive than blood on D1 (68.8%/61.3%), but not on D7 (16.3%/45.0%).Conclusions and relevanceTreatment reversed FIP-associated renal abnormalities and inflammation observed at baseline. A small subset of cats met criteria compatible with potential renal dysfunction during the study. Whether these findings reflect delayed FIP-related renal insults or adverse antiviral effects remains unknown but indicate that treatment should not be extended unnecessarily.",
+      "abstract": "OBJECTIVES: The aim of the present study was to assess renal health in cats with feline infectious peritonitis (FIP) undergoing antiviral treatment. GS-441524 is effective against FIP but its potential renal toxicity remains debated. METHODS: Cats with confirmed FIP (n&#x2009;=&#x2009;80) receiving oral GS-441524 for 42 days were assessed before (day 1; D1), during (D7, D42) and after treatment (D84, D183). Assessments included urine specific gravity (USG), urine protein:creatinine (UPC) ratio, urinary cystatin B (uCysB), urine protein electrophoresis, serum creatinine, urea and symmetric dimethylarginine (SDMA). The term potential renal dysfunction was used for cats fulfilling the following criteria: creatinine &#x2a7e;140&#x2009;&#xb5;mol/l or SDMA &#x2a7e;18&#x2009;&#xb5;g/dl and USG &lt;1.035. Serum amyloid A (SAA) and alpha-1-acid glycoprotein (AGP) were assessed in serum, feline coronavirus (FCoV) RNA in blood and urine (D1-D42). RESULTS: At baseline, 97.5% of cats had creatinine concentrations &lt;140&#x2009;&#xb5;mol/l; by D183, 23.8% exceeded this threshold (D1-D183: PD &lt;0.0001). Potential renal dysfunction criteria were met in 2.5% of cats at baseline and 8.8% at D183. In contrast, uCysB was increased in 83.8% of cats at D1 and declined during treatment (D1-D183: PD &lt;0.0001). Cats with uCysB &gt;100&#x2009;ng/ml had higher UPC values (PMWU &lt;0.0001). Most cats had elevated AGP and SAA at baseline, which normalised during treatment (D1-D42: PD &lt;0.0001). Proteinuria (UPC &gt;0.2) was present in 91.3% on D1 and 3.8% on D183; urine protein electrophoresis at D1 revealed predominantly tubular and mixed patterns. Urine was more frequently FCoV RNA-positive than blood on D1 (68.8% vs 61.3%), but not on D7 (16.3% vs 45.0%). CONCLUSIONS AND RELEVANCE: Treatment reversed FIP-associated renal abnormalities and inflammation observed at baseline. A small subset of cats met criteria compatible with potential renal dysfunction during the study. Even though it remains unknown whether these findings reflect delayed FIP-related renal insults or adverse antiviral effects, treatment duration should, in accordance with antimicrobial stewardship principles, be kept to the shortest effective period.",
       "affiliations": [
-        "Clinical Laboratory, Department of Clinical Diagnostics and Services, and Center for Clinical Studies, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
-        "Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Zurich, Switzerland.",
-        "Central Diagnostic Laboratory, Vetsuisse Faculty, University of Bern, Bern, Switzerland.",
-        "LMU Small Animal Clinic, Centre for Clinical Veterinary Medicine, LMU Munich, Munich, Germany."
+        "Clinical Laboratory, Department of Clinical Diagnostics and Services and Center for Clinical Studies, Vetsuisse Faculty, University of Zurich, Switzerland.",
+        "Clinic for Small Animal Internal Medicine, Vetsuisse Faculty, University of Zurich, Switzerland.",
+        "Central Diagnostic Laboratory, Vetsuisse Faculty, University of Bern, Switzerland.",
+        "LMU Small Animal Clinic, Centre for Clinical Veterinary Medicine, LMU Munich, Germany."
       ],
       "keywords": [
-        "Creatinine",
-        "FCoV",
-        "FIP",
         "GS-441524",
-        "SDMA",
-        "UPC",
-        "USG",
-        "Urinary Cystatin B",
-        "Urine protein electrophoresis"
+        "creatinine",
+        "feline coronavirus",
+        "feline infectious peritonitis",
+        "symmetric dimethylarginine",
+        "urinary cystatin B",
+        "urine protein electrophoresis",
+        "urine protein:creatinine ratio",
+        "urine specific gravity"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Feline Infectious Peritonitis",
+        "Cats",
+        "Male",
+        "Female",
+        "Coronavirus, Feline",
+        "Antiviral Agents",
+        "Creatinine",
+        "Longitudinal Studies",
+        "Kidney",
+        "Orosomucoid",
+        "Adenosine"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
