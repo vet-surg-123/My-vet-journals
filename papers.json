@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20 03:42 UTC",
-  "total": 12339,
+  "updated": "2026-11-20 07:38 UTC",
+  "total": 12344,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -38,6 +38,130 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43057461",
+      "title": "Computed tomography extracellular volume fraction in canine hepatic fibrosis: a retrospective preliminary study.",
+      "authors": "Goda Y, Seki A, Hanazono K, Tamura M, Yamamoto S, Sakai T, Sakatani A, Torisu S, Miyoshi K",
+      "journal": "Vet J",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057461/",
+      "abstract": "Liver biopsy remains the gold standard for diagnosing hepatic fibrosis in dogs; however, its invasive nature limits suitability for repeated assessment. Computed tomography-extracellular volume fraction (CT-ECV) has been investigated as a quantitative imaging measure associated with hepatic fibrosis in humans; however, its characteristics in dogs with spontaneous hepatic fibrosis remain incompletely understood. This retrospective study aimed to compare hepatic CT-ECV between dogs with only histopathologically normal biopsied hepatic lobes and dogs with at least one biopsied hepatic lobe showing clinically significant fibrosis, and to explore the ability of CT-ECV to discriminate between these groups. Thirty-six client-owned dogs that underwent triple-phase contrast-enhanced CT and liver biopsy were analyzed. Histopathologic examination identified 47 histopathologically normal hepatic lobes from 26 dogs and 27 hepatic lobes with fibrosis from 11 dogs; one dog contributed hepatic lobes to both categories. CT-ECV was calculated from changes in hepatic and aortic attenuation between pre-contrast and equilibrium phase images, with correction for hematocrit. For the principal doglevel analysis, 25 dogs were classified as normal and 11 as fibrotic, and dog-level CTECV was calculated as the mean across all biopsied hepatic lobes. Mean dog-level CT-ECV was 21.46 &#xb1; 3.02% in the normal group and 32.75 &#xb1; 10.67% in the fibrosis group. After adjustment for CT scanner, CT-ECV was significantly higher in the fibrosis group, with an estimated mean difference of 12.10 percentage points (robust 95% CI, 4.60-19.59; P =.002). Dog-level receiver operating characteristic analysis yielded an area under the curve of 0.865 (95% CI, 0.726-1.000). An exploratory candidate threshold of 29.56% provided a sensitivity of 63.6% (95% CI, 30.8-89.1%) and a specificity of 100% (95% CI, 86.3-100%). Intra-observer repeatability was high (intraclass correlation coefficient, 0.886). These findings provide preliminary evidence that CT-ECV is associated with clinically significant hepatic fibrosis in dogs. Further studies using standardized imaging protocols and independent clinical populations are required to validate its diagnostic performance and the proposed exploratory threshold.",
+      "affiliations": [
+        "Department of Veterinary Medicine, School of Veterinary Medicine, Rakuno Gakuen University, 582-1 Bunkyodai-Midorimachi, Ebetsu, Hokkaido 069-8501, Japan. Electronic address: y-goda@rakuno.ac.jp.",
+        "Department of Veterinary Medicine, School of Veterinary Medicine, Rakuno Gakuen University, 582-1 Bunkyodai-Midorimachi, Ebetsu, Hokkaido 069-8501, Japan."
+      ],
+      "keywords": [
+        "Computed tomography",
+        "Dogs",
+        "Liver",
+        "extracellular volume",
+        "fibrosis",
+        "histopathology"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43057293",
+      "title": "Symptom-Based Clinical Deterioration as a Patient-Centred Endpoint in Canine Urothelial Carcinoma.",
+      "authors": "Lim J, Kim JK, Hong YJ, Park JH, Kim SH, Ryu MO, Seo KW",
+      "journal": "Vet Comp Oncol",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057293/",
+      "abstract": "This multicentre retrospective cohort study operationalized structured clinical deterioration endpoints in canine urothelial carcinoma (UC) and compared them with conventional outcomes. A total of 182 dogs with imaging-supported, cytologically and/or histopathologically confirmed UC from three referral institutions were included. Clinical signs were retrospectively mapped using prespecified grading rules anchored to VCOG-CTCAE v2 and symptom-based endpoints were defined from treatment initiation as time to lower urinary tract symptom progression (TTSP) and time to systemic deterioration (TTD), each assessed as initial (first grade&#x2009;&#x2265;&#x2009;2 deterioration) and confirmed (grade&#x2009;&#x2265;&#x2009;2 deterioration sustained at the next consecutive assessment) events. Imaging-based progression-free survival (PFS) was reconstructed from serial ultrasonography using VCOG cRECIST progression criteria (&#x2265;&#x2009;20% increase in longest tumour diameter or a new lesion). Confirmed TTSP and TTD were strongly associated with OS (rank correlations, 0.81 and 0.82, respectively) and remained prognostically informative in multivariable models and at most prespecified landmark times; the corresponding correlation for imaging-based PFS was 0.74. TTSP/TTD were not temporally interchangeable with imaging-based PFS or with acute kidney injury (AKI) and complete obstruction, showing broad individual-level discordance and limited overlap even within &#xb1;7- and &#xb1;14-day windows. In descriptive treatment-group comparisons, patterns differed across OS, PFS and deterioration endpoints and in the rescue-intervention subcohort, most dogs developed recurrent deterioration after decompression for malignant obstruction. These findings suggest that TTSP/TTD are feasible structured endpoints that capture clinically relevant and prognostically informative worsening not fully represented by imaging progression or catastrophic events alone.",
+      "affiliations": [
+        "Laboratory of Veterinary Internal Medicine, Department of Veterinary Clinical Sciences, College of Veterinary Medicine, Seoul National University, Seoul, Republic of Korea.",
+        "Haemaru Referral Animal Hospital, Seongnam, Republic of Korea.",
+        "Western Animal Medical Center, Seoul, Republic of Korea."
+      ],
+      "keywords": [
+        "TCC",
+        "UC",
+        "lower urinary tract symptoms",
+        "prognosis",
+        "quality of life",
+        "urinary obstruction"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43057291",
+      "title": "Finite Element Comparison of Unilateral and Bilateral Polymethylmethacrylate Vertebral Fixation in the Canine Thoracolumbar Spine.",
+      "authors": "Kikuchi Y, Takahashi F, Yamaguchi S, Hara Y",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057291/",
+      "abstract": "OBJECTIVE: This study aimed to perform a theoretical finite element analysis comparing the biomechanical effects of unilateral (uni-VF) and bilateral vertebral fixation (bi-VF) using polymethylmethacrylate following individualized mini-hemilaminectomy-corpectomy (iMHC) of the canine thoracolumbar spine, focusing on range of motion and stress distribution. STUDY DESIGN: Using computed tomography data from a healthy Beagle dog, the following three-dimensional finite element models of the T12-L4 vertebrae were generated: (1) intact, (2) left-sided iMHC without fixation, (3) uni-VF (left side only) using 2.4-mm locking head screws embedded in polymethylmethacrylate after left-sided iMHC and (4) bi-VF using bilateral 2.4-mm locking head screws and polymethylmethacrylate after left-sided iMHC. Each model was subjected to a pure moment force equal to 2 N&#x2009;&#xd7;&#x2009;m in six directions. Range of motion and equivalent stress were quantified and visualized at both treated and adjacent intervertebral levels. RESULTS: At the treated level, bi-VF resulted in markedly lower range of motion than uni-VF, accompanied by small increases in adjacent-segment range of motion. Equivalent stress in adjacent discs was slightly higher following bi-VF than following uni-VF but remained small relative to the reduction in range of motion at the treated level. CONCLUSION: Bilateral vertebral fixation provided greater stabilization than uni-VF. Under the evaluated conditions, the associated increases in adjacent-segment range of motion and stress were minimal, indicating a limited biomechanical increase in adjacent-segment loading.",
+      "affiliations": [
+        "School of Veterinary Medicine, Nippon Veterinary and Life Science University, Laboratory of the Veterinary Surgery, Tokyo, Japan, Musashino.",
+        "Veterinary Centers of America Japan Yamaguchi Pet Clinic Tokyo Animal Orthopedic Surgery Hospital, Kouto-ku, Japan, Tokyo."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43056865",
+      "title": "Intracameral lidocaine-epinephrine has minimal effect on heart rate and blood pressure and is an effective sole mydriatic during phacoemulsification in dogs.",
+      "authors": "Pumphrey SA, Gibson LK, Maggio F, Lindsey J, Wetmore LA",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056865/",
+      "abstract": "OBJECTIVE: To investigate heart rate (HR) and rhythm, blood pressure (BP), and pupil diameter in dogs that received intracameral (IC) preservative-free lidocaine-epinephrine (ILE) as a sole mydriatic agent during phacoemulsification. METHODS: Records were retrospectively reviewed for HR and BP data and anesthesia concerns following administration of ILE during cataract surgery (IC group, 130 eyes from 83 dogs). Similar data were obtained for a control group undergoing phacoemulsification that received topical mydriatics (topical treatment [TT] group, 40 eyes from 21 dogs). Pupil diameter was measured prospectively following administration of ILE in an additional 20 eyes from 11 dogs. RESULTS: Average baseline HR was 13 beats/min higher in the TT group than in the IC group for both eyes operated (P &#x2264; .04). Heart rate increased more from baseline in the IC group than in the TT group at 15 and 20 minutes after administration, but the difference was not clinically significant (average of 4 beats/min). Changes in BP were minimal and did not differ between groups. No significant arrhythmias or other anesthetic complications were noted in either group. Mean pupil diameter was 11.3 mm (95% CI, 11, 11.6) immediately following ILE administration and 11.8 mm (95% CI, 11.5, 12.1) at the conclusion of surgery. CONCLUSIONS: ILE produced adequate, durable mydriasis when used as a sole mydriatic in canine eyes undergoing phacoemulsification. Intracameral lidocaine-epinephrine does not appear to affect cardiovascular parameters when administered during phacoemulsification in dogs. CLINICAL RELEVANCE: ILE is a reasonable mydriatic choice for canine phacoemulsification.",
+      "affiliations": [
+        "Department of Clinical Sciences, Cummings School of Veterinary Medicine, Tufts University, North Grafton, MA.",
+        "Tufts Veterinary Emergency Treatment and Specialties, Walpole, MA.",
+        "Independent Researcher, Boston, MA."
+      ],
+      "keywords": [
+        "anesthesia",
+        "canine",
+        "cataract",
+        "lens",
+        "mydriasis"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43056857",
+      "title": "Evaluation of the efficacy of extended-release buprenorphine (Ethiqa XR) using objective gait analysis in dogs.",
+      "authors": "Tiffinger K, Benito de la Vibora J, Hall A, Hall N, Taylor R, Enomoto H, Love KR, Mishra SK, Lascelles BDX, Enomoto M",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056857/",
+      "abstract": "OBJECTIVE: To evaluate the efficacy of an extended-release formulation of buprenorphine HCl (XR-Bup) using objective gait analysis in a canine stifle arthrotomy model. We hypothesized that a single SC injection of XR-Bup would reduce postoperative pain and improve limb function. METHODS: In a randomized, blinded, placebo-controlled crossover study design, 8 purpose-bred Beagles underwent 2 unilateral stifle arthrotomies, randomized to XR-Bup for 1 procedure and placebo for the other, separated by a washout period. Kinetic and static ground reaction force data were collected at baseline (pretreatment) and multiple time points up to 72 hours after arthrotomy. Symmetry indices were calculated for ground reaction force variables and compared between groups using a repeated-measures analysis. RESULTS: Overall, symmetry indices of static body weight distribution (%BWdistrib) showed significantly greater limb use symmetry following XR-Bup compared to placebo. There was significant time and treatment interaction (P = .025) for %BWdistrib to the operated limb, with %BWdistrib approaching baseline levels more quickly when treated with XR-Bup. Similarly, kinetic variables demonstrated higher limb use in the XR-Bup group, although the treatment effects were not significant. All dogs experienced nausea and hyporexia/anorexia after XR-Bup over 72 hours. Vomiting occurred in 6 of 9 and regurgitation was observed in 8 of 9 arthrotomy cases. CONCLUSIONS: XR-Bup treatment was associated with greater limb usage (static and dynamic) at all time points, with data indicating effective pain alleviation in a small cohort of dogs. CLINICAL RELEVANCE: Although Ethiqa XR may be an alternative option for postoperative pain control, its clinical utility at the dose evaluated in this study may be limited by the occurrence of adverse events.",
+      "affiliations": [
+        "Translational Research in Pain Program, College of Veterinary Medicine, North Carolina State University, Raleigh, NC.",
+        "Department of Molecular Biomedical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC.",
+        "Department of Anesthesiology, Center for Translational Pain Research, College of Veterinary Medicine, North Carolina State University, Duke University, Durham, NC.",
+        "Thurston Arthritis Center, College of Veterinary Medicine, University of North Carolina, Chapel Hill, NC.",
+        "Department of Population Health and Pathobiology, College of Veterinary Medicine, North Carolina State University, Raleigh, NC.",
+        "K. R. Love Quantitative Consulting and Collaboration, Athens, GA.",
+        "Pain and Itch Lab, Department of Molecular Biomedical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC.",
+        "Comparative Pain Research and Education Center, Department of Clinical Sciences, College of Veterinary Medicine, North Carolina State University, Raleigh, NC."
+      ],
+      "keywords": [
+        "dogs",
+        "extended-release buprenorphine",
+        "gait analysis",
+        "ground reaction force",
+        "symmetry index"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
