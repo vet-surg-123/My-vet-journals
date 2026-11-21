@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20 07:38 UTC",
-  "total": 12344,
+  "updated": "2026-11-21 03:25 UTC",
+  "total": 12349,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -162,6 +162,76 @@
       ],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43059157",
+      "title": "Beating-heart pulmonary arteriotomy under cardiopulmonary bypass for heartworm extraction in three dogs without caval syndrome.",
+      "authors": "Vurucu M, Cokogullu A",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059157/",
+      "abstract": "OBJECTIVE: To describe the clinical outcomes of beating-heart open-heart surgery under cardiopulmonary bypass (CPB) for surgical extraction of adult heartworms from the pulmonary arteries in dogs without caval syndrome. Animals Three client-owned dogs. METHODS: Three client-owned dogs with heartworm disease, &#x2265;5 adult heartworms visualized within a single pulmonary arterial branch, and no evidence of caval syndrome were included. After establishment of CPB, the pulmonary artery was opened without cardioplegic arrest, and adult heartworms were surgically extracted. Clinical follow-up ranged from 6 to 22&#x2009;months, with objective echocardiographic, radiographic, right pulmonary artery distensibility (RPAD) index, and heartworm antigen assessments performed at scheduled follow-up examinations. Study design Case report. RESULTS: Adult heartworms visible intraoperatively were surgically removed in each dog. All dogs survived surgery and were discharged without major perioperative complications. During follow-up, heartworm antigen tests became negative, and no residual heartworms were detected on echocardiographic examinations. Pulmonary arterial dilation and radiographic abnormalities improved, while right pulmonary artery distensibility (RPAD) index values increased from 27.7%, 28.0%, and 22.5% preoperatively to 38.8%, 35.6%, and 35.4%, respectively. CONCLUSION: Surgical extraction of adult heartworms from the pulmonary arteries was associated with favorable postoperative and follow-up findings in these three dogs.",
+      "affiliations": [
+        "Department of Small Animal Cardiovascular Surgery, Izmir Animal Hospital, Izmir, Turkey."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43059089",
+      "title": "Comparing the clinical outcomes of different techniques for surgical management of canine cranial cruciate ligament rupture using target trial emulation.",
+      "authors": "Pegram C, Brodbelt DC, Diaz-Ordaz K, Chang YM, Franzini C, Morton M, Church DB, O'Neill DG",
+      "journal": "Vet Rec",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059089/",
+      "abstract": "BACKGROUND: Target trial emulation applies randomised controlled trial principles to observational data for causal inference. This study evaluated whether tibial plateau levelling osteotomy (TPLO), tibial tuberosity advancement (TTA) or extracapsular lateral suture stabilisation (ELSS) affects lameness, analgesia and complication outcomes in dogs with cranial cruciate ligament (CCL) rupture. METHODS: Dogs aged 1.5-12 years with CCL rupture in 2019 within the VetCompass database undergoing TPLO, TTA or ELSS were included. Confounders were identified via a directed acyclic graph and adjusted using inverse probability of treatment weighting. Weighted logistic regression estimated risk differences (RDs). RESULTS: The study included 387 TPLO, 263 ELSS and 242 TTA cases. No significant differences in long-term lameness risk were identified between groups. Compared with TPLO, ELSS increased short-term lameness risk (RD 22.9%, 95% confidence interval [CI] 7.5-38.3), and TTA increased analgesia prescription at 3 months (RD 15.5%, 95% CI 3.3-27.8) and 6 months (RD 16.5%, 95% CI 4.0-29.0) and minor complications (RD 12.1%, 95% CI 0.8-23.5). LIMITATIONS: Observational data may contain residual confounding despite weighting. Follow-up completeness also varied between cases, limiting comparability. CONCLUSION: No significant differences in long-term lameness risk were identified between surgical groups. TPLO reduced risk of short-term lameness compared with ELSS and had fewer analgesia requirements and complications than TTA.",
+      "affiliations": [
+        "Pathobiology and Population Sciences, Royal Veterinary College, Hatfield, UK.",
+        "Department of Statistical Science, University College London, London, UK.",
+        "Comparative Biomedical Sciences, Royal Veterinary College, Hatfield, UK.",
+        "Movement Referrals, Cheshire, UK.",
+        "Clinical Sciences and Services, Royal Veterinary College, Hatfield, UK."
+      ],
+      "keywords": [
+        "Dogs",
+        "VetCompass",
+        "cranial cruciate ligament",
+        "electronic health record",
+        "primary&#x2010;care",
+        "target trial emulation"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43059066",
+      "title": "Histological evaluation of clinically normal regional lymph nodes identifies metastasis in dogs with cutaneous and subcutaneous mast cell tumours.",
+      "authors": "Dos Santos MA, Maués T, Ferreira YCN, Degani VAN, Gonçalves Ferreira ML",
+      "journal": "Vet Rec",
+      "date": "2026 Nov 19",
+      "sortdate": "2026-11-19",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43059066/",
+      "abstract": "BACKGROUND: Canine mast cell tumours (MCTs) frequently metastasise to regional lymph nodes (LNs), including those that appear clinically normal. METHODS: This retrospective single-institution case series included 50 dogs with cutaneous or subcutaneous MCTs treated between 2021 and 2023. Tumours and clinically normal regional LNs were surgically excised and histologically evaluated. Associations between clinicopathological variables and LN metastasis were explored at the patient level. RESULTS: Eighty-three MCTs, including 69 cutaneous and 14 subcutaneous tumours, and 78 regional LNs were evaluated. Among cutaneous MCTs, 62 of 69 (89.9%) were Kiupel low grade and seven of 69 (10.1%) were high grade. The subcutaneous tumours comprised six infiltrative, six circumscribed and two combined growth patterns. Histological examination classified 31 of 78 LNs (39.7%) as HN0, 19 of 78 (24.4%) as HN1, 20 of 78 (25.6%) as HN2 and eight of 78 (10.3%) as HN3. Overall, 23 of 50 dogs (46.0%) had at least one metastatic LN. LN metastasis was associated with a maximum tumour diameter of more than 3&#xa0;cm (p = 0.045) and Kiupel high grade (p = 0.007). LIMITATIONS: Limitations included the retrospective single-institution design, small sample size, sparse observations in some categories, and unavailable information on serial LN sectioning. CONCLUSION: Histologically confirmed metastasis was frequently identified in clinically normal regional LNs, supporting the value of histological evaluation of regional LNs for accurate clinical staging.",
+      "affiliations": [
+        "Postgraduate Program in Veterinary Medicine, Faculdade de Veterin&#xe1;ria, Universidade Federal Fluminense, Niteroi, Brazil.",
+        "Veterinary Teaching Hospital, Universidade Federal Fluminense, Niteroi, Brazil.",
+        "Department of Veterinary Clinic and Pathology, Faculdade de Veterin&#xe1;ria, Universidade Federal Fluminense, Niteroi, Brazil."
+      ],
+      "keywords": [
+        "Dogs",
+        "lymph node",
+        "mast cell tumor",
+        "metastasis",
+        "staging"
+      ],
+      "mesh": [],
+      "category": "surgery",
       "summary_ko": ""
     },
     {
@@ -1937,6 +2007,48 @@
         "Postoperative Complications"
       ],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43062967",
+      "title": "Feasibility and clinical safety of cytokine-activated anti-tumor lymphocytes infusion in dogs with diffuse large B-cell lymphoma: a pilot study.",
+      "authors": "Capellero S, Maga I, Donini C, Galiazzo E, Sapino A, De Maria R, Leuci V, Massa A, Sangiolo D, Marconato L",
+      "journal": "J Vet Intern Med",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43062967/",
+      "abstract": "BACKGROUND: Diffuse large B-cell lymphoma (DLBCL) is the most common histologic subtype of lymphoma in dogs. Although using cyclophosphamide, doxorubicin, vincristine and prednisone (CHOP) chemotherapy is the standard treatment, outcomes remain suboptimal, emphasizing the need for novel therapeutic strategies. HYPOTHESIS/OBJECTIVES: Evaluate the feasibility and potential therapeutic benefit of adoptive immunotherapy using ex vivo-expanded cytokine-activated anti-tumor lymphocytes (CATLs) in dogs with DLBCL treated using CHOP chemotherapy and an autologous tumor vaccine. ANIMALS: Seven client-owned dogs with naturally occurring DLBCL. METHODS: Dogs received CHOP-based chemotherapy and the APAVAC&#xae; autologous vaccine. Peripheral blood mononuclear cells (PBMCs) were expanded ex vivo for 14&#xa0;days using interleukin-2 and anti-CD3/CD28 stimulation. The CATLs were characterized by flow cytometry and reinfused. RESULTS: Peripheral blood mononuclear cells were successfully expanded. After 14&#xa0;days, the median cell yield was 728&#xa0;&#xd7;&#xa0;106 cells (range, 162.4&#xa0;&#xd7;&#xa0;106-1&#x2009;500&#xa0;&#xd7;&#xa0;106), corresponding to a median 8.6-fold expansion. Median fold increases of positive cells were 7.23 (interquartile range [IQR], 6.46-9.64) for CD3+, 8.56 (IQR, 7.11-14.56) for CD4+, 8.41 (IQR, 6.24-9.29) for CD5+, 10.35 (IQR, 7.63-14.67) for CD8+, and 16.16 (IQR, 12.22-30.40) for CD4+CD8+ cells. Reinfused CATLs ranged from 162.4&#xa0;&#xd7;&#xa0;106 to 1&#x2009;500&#xa0;&#xd7;&#xa0;106 cells. CONCLUSIONS AND CLINICAL IMPORTANCE: Ex vivo expansion and reinfusion of autologous CATLs in dogs with DLBCL receiving CHOP chemotherapy and APAVAC&#xae; vaccination are feasible and induce robust T-cell expansion, suggesting this combined chemo-immunotherapeutic approach may enhance anti-tumor immunity and warrants further investigation in larger clinical studies.",
+      "affiliations": [
+        "INOC- Istituto Nazionale Oncologico Candiolo; IRCCS, Candiolo (TO), Italy.",
+        "Department of Veterinary Sciences, University of Turin, Grugliasco (TO), Italy.",
+        "Department of Veterinary Medical Sciences, University of Bologna, (BO), Italy.",
+        "Department of Oncology, University of Turin, Orbassano (TO), Italy."
+      ],
+      "keywords": [
+        "CATLs",
+        "DLBCL",
+        "adoptive immunotherapy",
+        "autologous vaccine"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Pilot Projects",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Prednisone",
+        "Cyclophosphamide",
+        "Female",
+        "Doxorubicin",
+        "Vincristine",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Male",
+        "Cancer Vaccines",
+        "Immunotherapy, Adoptive",
+        "Cytokines",
+        "Feasibility Studies"
+      ],
+      "category": "oncology",
       "summary_ko": ""
     },
     {
@@ -3769,6 +3881,33 @@
       ],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43061543",
+      "title": "Ventral approach for ultrasound-guided perineural injection of the canine L7 spinal nerve: a cadaveric feasibility study.",
+      "authors": "Dittmann R, Haenssgen K, Kaessmeyer S, Schweizer D, Barge-Carmona P",
+      "journal": "Front Vet Sci",
+      "date": "2026 Oct 21",
+      "sortdate": "2026-10-21",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061543/",
+      "abstract": "Neuropathy of the L7 spinal nerve is common in dogs with degenerative lumbosacral disease, yet description of targeted perineural injection therapy in this region is scarce. This study introduces a novel ventral ultrasound-guided approach to the canine L7 spinal nerve and evaluates its feasibility for guiding perineural injections. Using cadavers of medium- to large-breed dogs, ultrasound-guided injections of a methylene blue and contrast agent solution were performed bilaterally. The technique was successful in 11 of 14 injections, assessed by computed tomography in all cases, and by anatomical dissection in one case. Success was consistent in cadavers with normal body condition scores, while unsuccessful injections occurred only in overweight dogs. Notably, 5 of 6 injections succeeded in cadavers with degenerative lumbosacral changes, suggesting the technique's potential clinical utility. These findings suggest that ventral ultrasound-guided L7 perineural injection is feasible and may provide a targeted, minimally invasive option for managing lumbosacral neuropathy in dogs, though further in vivo validation is needed.",
+      "affiliations": [
+        "Division of Clinical Radiology, Department of Clinical Veterinary Science, Vetsuisse Faculty, University of Bern, Bern, Switzerland.",
+        "Division of Veterinary Anatomy, Department of Clinical Research and Veterinary Public Health, Vetsuisse Faculty, University of Bern, Bern, Switzerland.",
+        "Vets Choice Radiology, Northbrook, IL, United States."
+      ],
+      "keywords": [
+        "L7",
+        "PIT",
+        "interventional",
+        "lumbosacral",
+        "neuropathy",
+        "perineural",
+        "ultrasound-guided"
+      ],
+      "mesh": [],
+      "category": "neurosurgery",
       "summary_ko": ""
     },
     {
@@ -7381,25 +7520,36 @@
     },
     {
       "id": "42786780",
-      "title": "EXPRESS: Surgical management of type I atresia ani using Heineke-Mikulicz-like anoplasty: a case series of eleven kittens (2022-2025).",
+      "title": "Surgical management of type I atresia ani using Heineke-Mikulicz-like anoplasty: A case series of 11 kittens (2022-2025).",
       "authors": "Berlemont L, Bondonny L, Massinon J, Chanoit G, Taroni M, Ferrand FX",
       "journal": "J Feline Med Surg",
       "date": "2026 Sep 24",
       "sortdate": "2026-09-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786780/",
-      "abstract": "CASE SERIES SUMMARY: Type I atresia ani is rare in cats and there is limited published data on the surgical management and prognosis of this condition in feline patients. Appropriate surgical planning requires thorough examination of the rectum, anus, and perineum to accurately diagnose atresia ani and rule out the presence of a rectovaginal or rectourethral fistula. Type I atresia may be treated with balloon dilatation or bougienage but recurrence may occur and several procedures may be required before complete resolution of the stenosis. The objective of this retrospective case series was to describe, for the first time, the clinical application and postoperative outcomes of a Heineke-Mikulicz-like anoplasty technique in kittens with type I atresia ani. The surgical technique was adapted from the Heineke-Mikulicz anoplasty technique described in people. RELEVANCE AND NOVEL INFORMATION: Eleven cats with a mean age of 12.3 weeks (8-20 weeks) were included in this study. Heineke-Mikulicz-like anoplasty was performed in all cases without intraoperative complications. Major postoperative complications occurred in one case (1/11, 9%), with wound dehiscence two days after surgery. However, complete healing was achieved following revision surgery. At long-term follow-up over 13.6 months (6-24 months) no recurrence was reported in 11/11 (100%) cases. While permanent fecal incontinence was reported in 1/11 (9%) cat, long-term outcomes were excellent in 9/11 (81%) cats.These data suggest that Heineke-Mikulicz-like anoplasty is appropriate for the management of type I atresia ani in cats.",
+      "abstract": "CASE SERIES SUMMARY: Type I atresia ani is rare in cats, and there is limited published data on the surgical management and prognosis of this condition in feline patients. Appropriate surgical planning requires thorough examination of the rectum, anus, and perineum to accurately diagnose atresia ani and rule out the presence of a rectovaginal or rectourethral fistula. Type I atresia may be treated with balloon dilatation or bougienage but there may be recurrence, and several procedures may be required before complete resolution of the stenosis. The objective of this retrospective case series was to describe, for the first time, the clinical application and postoperative outcomes of a Heineke-Mikulicz-like anoplasty technique in kittens with type I atresia ani. The surgical technique was adapted from the Heineke-Mikulicz anoplasty technique described in humans. RELEVANCE AND NOVEL INFORMATION: In total, 11 cats with a mean age of 12.3 weeks (range 8-20) were included in this study. Heineke-Mikulicz-like anoplasty was performed in all cases without intraoperative complications. Major postoperative complications occurred in 1/11 (9%) case, with wound dehiscence 2 days after surgery. However, complete healing was achieved after revision surgery. At long-term follow-up over 13.6 months (range 6-24), no recurrence was reported in 11/11 (100%) cases. Although permanent fecal incontinence was reported in 1/11 (9%) cat, long-term outcomes were excellent in 9/11 (81%) cats. These data suggest that Heineke-Mikulicz-like anoplasty is appropriate for the management of type I atresia ani in cats.",
       "affiliations": [
         "Surgery Department, CHV Onlyvet, Saint-Priest, France.",
         "Surgery Department, Veterinary Clinic Humanea, Lormont, France.",
-        "Surgery Department, National School of Veterinary Medicine, Marcy L'Etoile."
+        "Department of Small Animal Surgery, Vetagro Sup, Marcy L'Etoile, France."
       ],
       "keywords": [
-        "Heineke-Mikulicz",
+        "Heineke&#x2013;Mikulicz",
         "anoplasty",
         "atresia ani",
         "obstipation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Anus, Imperforate",
+        "Female",
+        "Retrospective Studies",
+        "Treatment Outcome",
+        "Male",
+        "Postoperative Complications",
+        "Colorectal Surgical Procedures"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
