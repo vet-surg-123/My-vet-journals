@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21 03:25 UTC",
-  "total": 12349,
+  "updated": "2026-11-21 07:34 UTC",
+  "total": 12351,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,49 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43064105",
+      "title": "Serum aldosterone concentrations in Cavalier King Charles Spaniels across ACVIM stages of myxomatous mitral valve disease and their associations with echocardiographic indices.",
+      "authors": "Lewicki M, Kumiega E, Wojtczak Z, Noszczyk-Nowak A",
+      "journal": "Vet J",
+      "date": "2026 Nov 20",
+      "sortdate": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064105/",
+      "abstract": "Myxomatous mitral valve disease (MMVD) is common in Cavalier King Charles Spaniels (CKCS) and may involve activation of the renin-angiotensin-aldosterone system (RAAS). This study evaluated serum aldosterone concentrations across ACVIM MMVD stages in CKCS and its association with selected echocardiographic indices. Eighty-four client-owned CKCS were staged according to ACVIM guidelines (A, n = 11; B1, n = 58; B2, n = 7; C, n = 8), and serum aldosterone was measured using the LIAISON&#xae; Aldosterone chemiluminescent immunoassay on the DiaSorin LIAISON&#xae; XL automated analyzer. In the comparison of serum aldosterone concentrations between the combined ACVIM groups A+B1 and B2+C, the group effect did not reach statistical significance in the multivariable analysis based on complete cases (p = 0.072). In the unadjusted comparison, dogs with ACVIM-defined left-sided cardiac remodeling and/or congestive heart failure (B2+C) had higher median serum aldosterone concentrations than dogs not fulfilling ACVIM criteria for stage B2 or C disease (A+B1) (707.0 [445.0-1150.0] vs. 469.5 [333.5-730.5] pmol/L; p = 0.045), with a moderate rank-biserial effect size (r_rb = 0.332; 95% CI: 0.025-0.612). No significant associations between serum aldosterone concentration and echocardiographic variables remained after false discovery rate (FDR) correction, either in the whole cohort or in the B2+C subgroup. These results suggest a possible difference in serum aldosterone concentrations between broader clinically defined MMVD groups. However, this association was attenuated after multivariable adjustment, and associations with individual echocardiographic indices were not confirmed after correction for multiple testing. The results should therefore be considered preliminary and hypothesis-generating.",
+      "affiliations": [
+        "Wroc&#x142;aw University of Environmental and Life Sciences, Department of Internal Medicine and Clinic of Diseases of Horses, Dogs and Cats, Faculty of Veterinary Medicine, Grunwaldzki sq 47, 50-366 Wroc&#x142;aw, Poland.",
+        "Wroc&#x142;aw University of Environmental and Life Sciences, Department of Internal Medicine and Clinic of Diseases of Horses, Dogs and Cats, Faculty of Veterinary Medicine, Grunwaldzki sq 47, 50-366 Wroc&#x142;aw, Poland. Electronic address: ewa.kumiega@upwr.edu.pl."
+      ],
+      "keywords": [
+        "CKCS",
+        "MMVD",
+        "RAAS",
+        "aldosterone",
+        "cardiac remodeling",
+        "echocardiography"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43063984",
+      "title": "Proximal Femoral Diaphyseal Bone Changes after Femoral Head and Neck Ostectomy in Dogs with Legg-Calvé-Perthes Disease.",
+      "authors": "Nam E, Murakami H, Kondo S, Hamamoto Y, Udagawa H, Yamamoto S, Sakai T, Torisu S, Honnami M, Isaka M",
+      "journal": "Vet Comp Orthop Traumatol",
+      "date": "2026 Nov 20",
+      "sortdate": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063984/",
+      "abstract": "OBJECTIVE: The objective of this study is to compare time-dependent radiographic changes in the femoral bone and soft tissue thickness after femoral head and neck ostectomy (FHNO) in dogs with Legg-Calv&#xe9;-Perthes disease (LCPD; n&#x2009;=&#x2009;7) and dogs undergoing FHNO for non-LCPD hip joint luxation/subluxation (non-LCPD HJL/S; n&#x2009;=&#x2009;9). STUDY DESIGN: Radiographic proximal and mid-diaphyseal femoral bone thickness and mid-diaphyseal soft tissue thickness were measured on hip-extended ventrodorsal pelvic radiographs preoperatively, immediately postoperatively, and at the 1-month follow-up. The proximal diaphyseal cortical thickness index was calculated to characterize the cortical remodelling after FHNO. The contralateral limb served as an internal reference. RESULTS: In the operated limb, the radiographic proximal diaphyseal bone thickness and mid-diaphyseal soft tissue thickness were lower in the LCPD group than in the non-LCPD HJL/S group at all evaluated time points. The proximal diaphyseal cortical thickness index did not differ between the groups preoperatively but was greater in the LCPD group than in the non-LCPD HJL/S group 1 month postoperatively. The mid-diaphyseal bone thickness did not differ between the groups at any time point. CONCLUSION: Morphological radiographic changes observed in the LCPD group suggest that postoperative radiographic changes after FHNO may extend beyond the femoral head to the proximal femur.",
+      "affiliations": [
+        "School of Veterinary Medicine, Rakuno Gakuen University, Department of Small Animal Clinical Sciences, Hokkaido, Japan, Ebetsu.",
+        "Veterinary Medical Center, Graduate School of Agricultural and Life Sciences, The University of Tokyo, Tokyo, Japan, Bunkyo."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
     {
       "id": "43051921",
       "title": "The role of the gut microbiome in stress responses of dogs: gut-brain axis and microbiome-targeted interventions.",
@@ -282,26 +325,26 @@
     },
     {
       "id": "43051407",
-      "title": "An ultra-low indocyanine green dose maximizes biliary-to-hepatic contrast in dogs: a prospective pilot study.",
+      "title": "An ultra-low indocyanine green dose maximizes biliary-to-hepatic contrast in dogs: A prospective pilot study.",
       "authors": "Lacitignola L, Guadalupi M, Cavalluzzo F, Belvito R, Magli PFP, Fraccascia A, Piemontese C, Pizzi R, Bruno C, Staffieri F",
       "journal": "Vet J",
       "date": "2026 Nov 18",
       "sortdate": "2026-11-18",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43051407/",
-      "abstract": "Indocyanine green fluorescence cholangiography (ICG-FC) may improve intraoperative visualization of the extrahepatic biliary tract in dogs, but the dose and timing that optimize biliary-to-hepatic contrast during the early intraoperative window remain undefined. This prospective randomized pilot study evaluated dose- and time-dependent fluorescence behavior in 18 healthy client-owned female dogs undergoing elective laparoscopic ovariectomy. Dogs received ultra-low-dose (0.0119mg/kg), low-dose (0.05mg/kg), or high-dose (0.25mg/kg) intravenous ICG, with six dogs assigned to each group. Fluorescence imaging was performed at 5, 20, 30, and 45minutes after injection; 60-minute observations were available in a subset and analyzed descriptively. Liver, gallbladder, cystic duct, and duodenal fluorescence were quantified on monochromatic near-infrared images by three blinded observers using region-of-interest analysis. Background-corrected target-to-liver ratios (TLRs) were calculated, and cystic duct TLR at 45minutes was the clinically prioritized endpoint. Hepatic fluorescence increased with ICG dose, whereas gallbladder and cystic duct fluorescence showed substantially less dose-dependent variation, resulting in an inverse dose-contrast relationship. At 45minutes, cystic duct TLR differed among groups (Kruskal-Wallis p = 0.015; mixed-effects model dose effect p = 0.016). The ultra-low-dose group had the highest median cystic duct TLR (2.63), with five of six dogs exceeding a TLR of 1, compared with one of six dogs receiving low-dose ICG and none receiving high-dose ICG. Gallbladder contrast was also highest after ultra-low-dose ICG, with a significant ultra-low-dose versus high-dose difference at 45minutes (Holm-adjusted p = 0.006). Ultra-low-dose ICG may improve early biliary-to-hepatic contrast in dogs primarily by reducing hepatic fluorescence, supporting further evaluation in dogs with spontaneous hepatobiliary disease.",
+      "abstract": "Indocyanine green fluorescence cholangiography (ICG-FC) may improve intraoperative visualization of the extrahepatic biliary tract in dogs, but the dose and timing that optimize biliary-to-hepatic contrast during the early intraoperative window remain undefined. This prospective randomized pilot study evaluated dose- and time-dependent fluorescence behavior in 18 healthy client-owned female dogs undergoing elective laparoscopic ovariectomy. Dogs received ultra-low-dose (0.0119&#x202f;mg/kg), low-dose (0.05&#x202f;mg/kg), or high-dose (0.25&#x202f;mg/kg) intravenous ICG, with six dogs assigned to each group. Fluorescence imaging was performed at 5, 20, 30, and 45&#x202f;min after injection; 60-minute observations were available in a subset and analyzed descriptively. Liver, gallbladder, cystic duct, and duodenal fluorescence were quantified on monochromatic near-infrared images by three blinded observers using region-of-interest analysis. Background-corrected target-to-liver ratios (TLRs) were calculated, and cystic duct TLR at 45&#x202f;min was the clinically prioritized endpoint. Hepatic fluorescence increased with ICG dose, whereas gallbladder and cystic duct fluorescence showed substantially less dose-dependent variation, resulting in an inverse dose-contrast relationship. At 45&#x202f;min, cystic duct TLR differed among groups (Kruskal-Wallis p&#x202f;=&#x202f;0.015; mixed-effects model dose effect p&#x202f;=&#x202f;0.016). The ultra-low-dose group had the highest median cystic duct TLR (2.63), with five of six dogs exceeding a TLR of 1, compared with one of six dogs receiving low-dose ICG and none receiving high-dose ICG. Gallbladder contrast was also highest after ultra-low-dose ICG, with a significant ultra-low-dose versus high-dose difference at 45&#x202f;min (Holm-adjusted p&#x202f;=&#x202f;0.006). Ultra-low-dose ICG may improve early biliary-to-hepatic contrast in dogs primarily by reducing hepatic fluorescence, supporting further evaluation in dogs with spontaneous hepatobiliary disease.",
       "affiliations": [
-        "Dipartimento DiMePRe-J, Sezione Cliniche Veterinarie e Produzioni Animali, Campus di Medicina Veterinaria, Universit&#xe0; degli Studi di Bari \"Aldo Moro\", Strada Provinciale per Casamassima km 3, 70010 Valenzano, Bari, Italy. Electronic address: luca.lacitignola@uniba.it.",
-        "Dipartimento DiMePRe-J, Sezione Cliniche Veterinarie e Produzioni Animali, Campus di Medicina Veterinaria, Universit&#xe0; degli Studi di Bari \"Aldo Moro\", Strada Provinciale per Casamassima km 3, 70010 Valenzano, Bari, Italy. Electronic address: marta.guadalupi@uniba.it.",
-        "Dipartimento DiMePRe-J, Sezione Cliniche Veterinarie e Produzioni Animali, Campus di Medicina Veterinaria, Universit&#xe0; degli Studi di Bari \"Aldo Moro\", Strada Provinciale per Casamassima km 3, 70010 Valenzano, Bari, Italy.",
-        "PhD Program in Veterinary Clinical, Internal Medicine, Surgical, and Obstetric Sciences (SCICOV), Campus of Veterinary Medicine, University of Bari \"Aldo Moro\", 70010 Valenzano, Bari, Italy."
+        "Dipartimento DiMePRe-J, Sezione Cliniche Veterinarie e Produzioni Animali, Campus di Medicina Veterinaria, Universit&#xe0; degli Studi di Bari \"Aldo Moro\", Strada Provinciale per Casamassima km 3, Valenzano, Bari 70010, Italy. Electronic address: luca.lacitignola@uniba.it.",
+        "Dipartimento DiMePRe-J, Sezione Cliniche Veterinarie e Produzioni Animali, Campus di Medicina Veterinaria, Universit&#xe0; degli Studi di Bari \"Aldo Moro\", Strada Provinciale per Casamassima km 3, Valenzano, Bari 70010, Italy. Electronic address: marta.guadalupi@uniba.it.",
+        "Dipartimento DiMePRe-J, Sezione Cliniche Veterinarie e Produzioni Animali, Campus di Medicina Veterinaria, Universit&#xe0; degli Studi di Bari \"Aldo Moro\", Strada Provinciale per Casamassima km 3, Valenzano, Bari 70010, Italy.",
+        "PhD Program in Veterinary Clinical, Internal Medicine, Surgical, and Obstetric Sciences (SCICOV), Campus of Veterinary Medicine, University of Bari \"Aldo Moro\", Valenzano, Bari 70010, Italy."
       ],
       "keywords": [
-        "biliary tract",
-        "dog",
-        "fluorescence cholangiography",
-        "indocyanine green",
-        "laparoscopy",
-        "near-infrared fluorescence imaging"
+        "Biliary tract",
+        "Dog",
+        "Fluorescence cholangiography",
+        "Indocyanine green",
+        "Laparoscopy",
+        "Near-infrared fluorescence imaging"
       ],
       "mesh": [],
       "category": "imaging",
@@ -6109,7 +6152,22 @@
         "comparative oncology",
         "immunotherapy"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Doxorubicin",
+        "Dog Diseases",
+        "Cyclophosphamide",
+        "Vincristine",
+        "Prednisone",
+        "Female",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Retrospective Studies",
+        "Lymphoma, B-Cell",
+        "Male",
+        "Treatment Outcome",
+        "T-Lymphocytes"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -7394,7 +7452,7 @@
       "date": "2026 Sep 24",
       "sortdate": "2026-09-24",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785358/",
-      "abstract": "OBJECTIVE: To describe local response, progression-free survival (PFS), and overall survival (OS) in dogs and cats with lingual or tonsillar tumors treated with electrochemotherapy (ECT) alone or combined with surgery. METHODS: Medical records were retrospectively reviewed for dogs and cats with a histologically or cytologically confirmed tumor of the tongue or tonsil treated with ECT alone or combined with surgery, with &#x2265; 1 posttreatment follow-up. Twenty-nine client-owned animals, 7 dogs and 7 cats with lingual tumors and 15 dogs with tonsillar tumors, were included. Response was assessed by modified Response Evaluation Criteria in Solid Tumors; PFS and OS were estimated by Kaplan-Meier analysis. RESULTS: In dogs with lingual tumors, the objective response rate (ORR) was 85.7% (complete response [CR], 71.4%); the median OS was 270 days, with 2 dogs alive at 980 and 1,090 days, and the median PFS was 263 days. In cats with lingual tumors, the ORR was 71.4% (CR, 57.1%), the median OS was 240 days, and all cats died, most of local progression; the median PFS was 215 days. In dogs with tonsillar tumors, the ORR was 80.0% (CR, 66.7%), the median OS was 240 days, and all dogs died, predominantly of pulmonary metastasis; the median PFS was 210 days. CONCLUSIONS: ECT can provide high local response rates in dogs and cats with lingual tumors. In dogs with tonsilar tumors, even when high local response rates are achieved, patients die predominantly from distant metastasis, warranting a multimodal treatment aproach. CLINICAL RELEVANCE: ECT achieved high local response rates in all groups. It appears most useful for function-preserving treatment for lingual tumors. The combination with surgery allows treatment of larger tumors than ECT alone. The survival of dogs with tonsillar tumors was limited by metastatic dissemination, supporting a multimodal approach.",
+      "abstract": "OBJECTIVE: To describe local response, progression-free survival (PFS), and overall survival (OS) in dogs and cats with lingual or tonsillar tumors treated with electrochemotherapy (ECT) alone or combined with surgery. METHODS: Medical records were retrospectively reviewed for dogs and cats with a histologically or cytologically confirmed tumor of the tongue or tonsil treated with ECT alone or combined with surgery, with &#x2265; 1 posttreatment follow-up. Twenty-nine client-owned animals, 7 dogs and 7 cats with lingual tumors and 15 dogs with tonsillar tumors, were included. Response was assessed by modified Response Evaluation Criteria in Solid Tumors; PFS and OS were estimated by Kaplan-Meier analysis. RESULTS: In dogs with lingual tumors, the objective response rate (ORR) was 85.7% (complete response [CR], 71.4%); the median OS was 270 days, with 2 dogs alive at 980 and 1,090 days, and the median PFS was 263 days. In cats with lingual tumors, the ORR was 71.4% (CR, 57.1%), the median OS was 240 days, and all cats died, most of local progression; the median PFS was 215 days. In dogs with tonsillar tumors, the ORR was 80.0% (CR, 66.7%), the median OS was 240 days, and all dogs died, predominantly of pulmonary metastasis; the median PFS was 210 days. CONCLUSIONS: ECT can provide high local response rates in dogs and cats with lingual tumors. In dogs with tonsilar tumors, even when high local response rates are achieved, patients die predominantly from distant metastasis, warranting a multimodal treatment approach. CLINICAL RELEVANCE: ECT achieved high local response rates in all groups. It appears most useful for function-preserving treatment for lingual tumors. The combination with surgery allows treatment of larger tumors than ECT alone. The survival of dogs with tonsillar tumors was limited by metastatic dissemination, supporting a multimodal approach.",
       "affiliations": [
         "VetOncologia, Veterinary Oncology Clinic, Buenos Aires, Argentina.",
         "Veterinary Oncology Services, New York City, NY.",
@@ -7407,7 +7465,20 @@
         "squamous cell carcinoma",
         "tongue"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Dogs",
+        "Dog Diseases",
+        "Tongue Neoplasms",
+        "Tonsillar Neoplasms",
+        "Electrochemotherapy",
+        "Female",
+        "Retrospective Studies",
+        "Male",
+        "Treatment Outcome"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -7614,8 +7685,8 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42777771/",
       "abstract": "OBJECTIVE: To demonstrate the technique of gene electrotransfer (GET) for administration of plasmid DNA immunotherapy in veterinary oncology. ANIMALS: The method demonstrated in the video is relevant to both canine and feline cancer patients undergoing administration of DNA immunotherapies. METHODS: This Technical Tutorial Video demonstrates patient preparation, IM plasmid administration, electrode positioning, electroporation pulse delivery, and postprocedural assessment for a GET procedure. Required equipment, procedure workflow, and practical technical considerations are reviewed. RESULTS: The video illustrates the general workflow for delivery of plasmid DNA immunotherapy using IM GET under general anesthesia, including patient preparation, plasmid administration, pulse delivery, and patient monitoring. CLINICAL RELEVANCE: GET is increasingly used in veterinary oncology to facilitate delivery of DNA immunotherapies targeting tumor-associated antigens and immunomodulatory molecules. This tutorial provides a practical overview of the technique.",
       "affiliations": [
-        "1Veterinary Oncology Services, New York, NY.",
-        "2Evvivax Biotech, Rome, Italy."
+        "Veterinary Oncology Services, New York, NY.",
+        "Evvivax Biotech, Rome, Italy."
       ],
       "keywords": [
         "DNA immunotherapy",
@@ -7624,7 +7695,20 @@
         "gene electrotransfer",
         "veterinary oncology"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Neoplasms",
+        "Immunotherapy",
+        "Dogs",
+        "Cats",
+        "Cat Diseases",
+        "Dog Diseases",
+        "Electroporation",
+        "Electroporation Therapies",
+        "Gene Transfer Techniques",
+        "Plasmids",
+        "Cancer Vaccines"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
@@ -8727,7 +8811,20 @@
         "intranasal tumors",
         "veterinary oncology"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Electrochemotherapy",
+        "Nose Neoplasms",
+        "Female",
+        "Dog Diseases",
+        "Retrospective Studies",
+        "Male",
+        "Bleomycin",
+        "Cytoreduction Surgical Procedures",
+        "Treatment Outcome",
+        "Electrodes"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -10254,7 +10351,15 @@
         "immunotherapy",
         "monoclonal antibody"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Neoplasms",
+        "Immune Checkpoint Inhibitors",
+        "Immunotherapy",
+        "Antibodies, Monoclonal"
+      ],
       "category": "internal",
       "summary_ko": ""
     },
@@ -10280,7 +10385,16 @@
         "gene electrotransfer",
         "interleukin-12"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Electrochemotherapy",
+        "Interleukin-12",
+        "Neoplasms",
+        "Dog Diseases",
+        "Dogs",
+        "Gene Transfer Techniques",
+        "Genetic Therapy"
+      ],
       "category": "oncology",
       "summary_ko": ""
     },
@@ -15154,7 +15268,17 @@
         "reversible electroporation",
         "veterinary oncology"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Electrochemotherapy",
+        "Bone Neoplasms",
+        "Cat Diseases",
+        "Dogs",
+        "Cats",
+        "Dog Diseases",
+        "Antineoplastic Agents",
+        "Palliative Care"
+      ],
       "category": "neurosurgery",
       "summary_ko": ""
     },
@@ -47624,7 +47748,21 @@
         "outcome",
         "tumor"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Female",
+        "Male",
+        "Melanoma",
+        "Treatment Outcome",
+        "Calcium",
+        "Prospective Studies",
+        "Neoplasms",
+        "Mouth Neoplasms",
+        "Antineoplastic Agents",
+        "Electrochemotherapy"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
