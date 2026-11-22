@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21 07:34 UTC",
-  "total": 12351,
+  "updated": "2026-11-22 02:29 UTC",
+  "total": 12352,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -14807,6 +14807,43 @@
       ],
       "mesh": [],
       "category": "neurosurgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43065036",
+      "title": "Spatial accuracy and clinical feasibility of CT/US fusion imaging for hepatic interventions in dogs.",
+      "authors": "Lee HW, Lee K, Lee SK",
+      "journal": "BMC Vet Res",
+      "date": "2026 Aug 26",
+      "sortdate": "2026-08-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43065036/",
+      "abstract": "BACKGROUND: Computed tomography (CT)-ultrasound (US) fusion imaging is widely used for hepatic interventions in human medicine, but its technical performance has not been evaluated in dogs. This study assessed the spatial accuracy, fusion time, and image quality of CT/US fusion imaging in the canine liver. METHODS: In this prospective experimental study, ten healthy Beagle dogs underwent contrast-enhanced abdominal CT followed immediately by CT/US fusion imaging under the same general anesthesia without repositioning. Fusion was performed at three scan sites (midline subcostal, right intercostal, and left intercostal) using plane registration and three-point manual landmark registration with the gallbladder (GB) as the target structure. Spatial accuracy was quantified as the positional discrepancy between the CT and US GB margins in transverse (left-right, ventral-dorsal) and sagittal (cranial-caudal) planes. Fusion quality was scored on a 5-point scale for the GB center, GB border, vessel alignment, and liver surface alignment. Statistical analyses were performed using nonparametric tests with a significance threshold. RESULTS: Fusion was successful in 58/60 planned image sets; two subcostal studies failed due to intragastric gas. The mean fusion time was 72.7&#x2009;&#xb1;&#x2009;30.2&#xa0;s and did not differ significantly among scan sites. Across all sites and planes, the mean CT/US discrepancies were &#x2264;&#x2009;2&#xa0;mm. Qualitative scores were uniformly high (median 5 for all criteria) without relevant site- and plane-dependent degradation. CONCLUSIONS: CT/US fusion imaging provided rapid, accurate, and visually reliable co-registration of canine liver anatomy, supporting its potential clinical use for image-guided hepatic interventions in dogs.",
+      "affiliations": [
+        "Department of Veterinary Medical Imaging, College of Veterinary Medicine, Kyungpook National University, Daegu, 41566, Republic of Korea.",
+        "Institute for Veterinary Biomedical Science, Kyungpook National University, Daegu, 41566, Republic of Korea.",
+        "Department of Veterinary Medical Imaging, College of Veterinary Medicine, Kyungpook National University, Daegu, 41566, Republic of Korea. sklee10@knu.ac.kr.",
+        "Institute for Veterinary Biomedical Science, Kyungpook National University, Daegu, 41566, Republic of Korea. sklee10@knu.ac.kr."
+      ],
+      "keywords": [
+        "Computed tomography",
+        "Dog",
+        "Image fusion",
+        "Interventional radiology",
+        "Liver",
+        "Ultrasound"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Tomography, X-Ray Computed",
+        "Ultrasonography",
+        "Liver",
+        "Male",
+        "Female",
+        "Prospective Studies",
+        "Feasibility Studies"
+      ],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
