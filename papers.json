@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22 02:29 UTC",
-  "total": 12352,
+  "updated": "2026-11-22 07:15 UTC",
+  "total": 12355,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -57,6 +57,75 @@
       "keywords": [],
       "mesh": [],
       "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067100",
+      "title": "Prophylactic paracostal gastropexy in a canine.",
+      "authors": "Garland M, Grimes JA",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 20",
+      "sortdate": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067100/",
+      "abstract": "OBJECTIVE: To demonstrate a paracostal approach for prophylactic gastropexy in a dog. ANIMALS: A healthy client-owned canine was used for demonstration, with informed client consent. METHODS: The surgical site is clipped and aseptically prepared from cranial to the last rib to mid-abdomen on the right ventrolateral side. The skin is incised caudal and parallel to the 13th rib. The abdominal musculature is identified and transected to open the abdominal cavity. The pyloric antrum is identified, and stay sutures are placed at the dorsal and ventral aspects from the stomach to the transversus abdominis. A 4-cm seromuscular incision is created in the pyloric antrum. The seromuscular layer of the stomach is sutured to the transversus abdominis muscle using 2-0 long-lasting absorbable suture on a taper needle in a simple continuous pattern. This is performed on both the caudal and cranial aspects. The internal and external abdominal oblique muscles are closed in 2 layers using 2-0 absorbable suture in a simple continuous pattern followed by routine closure of the subcutaneous tissues and skin. Using NSAIDs if appropriate, the patient is discharged from the hospital with instructions for incision monitoring, exercise restriction, and an e-collar or surgisuit. RESULTS: This procedure will prevent future gastric dilation and volvulus. CLINICAL RELEVANCE: Prophylactic gastropexies are indicated for deep-chested canines at risk for gastric dilation and volvulus. This paracostal approach allows for gastropexy to be performed through a smaller incision than the ventral midline approach.",
+      "affiliations": [],
+      "keywords": [
+        "canine",
+        "gastropexy",
+        "paracostal",
+        "prophylactic",
+        "surgery"
+      ],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067099",
+      "title": "Intra-arterial vinblastine is well tolerated for the treatment of urothelial cell carcinomas and prostatic carcinomas in dogs.",
+      "authors": "Vigouroux O, Horton A, O'Keeffe J, Letwin L, McLauchlan G",
+      "journal": "Am J Vet Res",
+      "date": "2026 Nov 20",
+      "sortdate": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067099/",
+      "abstract": "OBJECTIVE: To describe the treatment and outcome for dogs with lower urinary tract carcinoma or prostatic carcinoma treated with intra-arterial vinblastine. ANIMALS: 14 client-owned dogs from a single private referral center identified through a search of the medical records as having either urothelial cell carcinoma (n = 8) or prostatic carcinoma (6) treated with intra-arterial vinblastine from September 1, 2016, through September 30, 2023. CLINICAL PRESENTATION: The most commonly reported clinical signs were pollakiuria, stranguria, and hematuria alone or in combination. Median duration of clinical signs prior to vinblastine treatment was 5 weeks (range, 1 to 18 weeks). Median body weight and age at intra-arterial vinblastine treatment were 14.85 kg (range, 5.7 to 33.5 kg) and 8 years (range, 6 to 11 years). There were 9 castrated males and 5 spayed females. RESULTS: Vinblastine was successfully administered via the internal iliac arteries in all cases. Clinical outcome was reported in 10 dogs: 9 improved, and 1 had stable clinical signs. Restaging was available for 8 dogs, of which 2 of 8 were classified as having partial response, 4 of 8 stable disease, and 2 of 8 progressive disease. CLINICAL RELEVANCE: Intra-arterial vinblastine was well tolerated in dogs in this study and may contribute to rapid clinical improvement. Intra-arterial vinblastine shows promise in treating urothelial cell carcinoma and prostatic carcinoma in dogs; however, additional research is needed.",
+      "affiliations": [
+        "AURA Veterinary, Guildford, United Kingdom.",
+        "Department of Radiology, Royal Surrey Foundation Trust, Guildford, United Kingdom."
+      ],
+      "keywords": [
+        "carcinoma",
+        "interventional radiology",
+        "lower urinary tract",
+        "oncology",
+        "vinblastine"
+      ],
+      "mesh": [],
+      "category": "oncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43067097",
+      "title": "Diamond burr debridement with bandage contact lens placement may be a minimally invasive treatment option for selected cats with superficial corneal sequestra.",
+      "authors": "Ahn J, Kim G, Seo K, Kang S",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 20",
+      "sortdate": "2026-11-20",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067097/",
+      "abstract": "OBJECTIVE: To evaluate the clinical outcomes of diamond burr debridement (DBD) combined with bandage contact lens (BCL) placement for treatment of feline corneal sequestra (FCS). METHODS: Medical records of client-owned cats diagnosed with superficial FCS and treated with DBD and BCL between October 1, 2022, and April 1, 2026, were retrospectively reviewed. Diamond burr debridement was performed under topical anesthesia using a handheld diamond burr, followed by BCL placement. Clinical assessments included lesion width, epithelial healing rate, recurrence, and postprocedural corneal opacity. Correlations between lesion characteristics and outcomes were analyzed using the Spearman &#x3c1; test. RESULTS: 17 cats (17 eyes) met the inclusion criteria. Mean age was 8.0 &#xb1; 3.0 years (range, 3 to 14 years), and 13 of 17 (76.4%) were brachycephalic breeds. Complete corneal epithelialization occurred in 14 of 17 eyes at 2 weeks and in 3 of 17 eyes at 4 weeks after procedure. Blepharospasm, epiphora, and conjunctival hyperemia resolved in all cats. Recurrence occurred in 4 eyes (23.5%). Spearman correlation analysis revealed a positive correlation between lesion size and recurrence (&#x3c1; = 0.684). Lesion size was negatively correlated with the presence of a BCL at recheck (&#x3c1; = -0.502), and recurrence was negatively correlated with the presence of a BCL at recheck (&#x3c1; = -0.523). CONCLUSIONS: DBD with BCL placement may be considered as a minimally invasive treatment option in carefully selected cats with superficial FCS. CLINICAL RELEVANCE: Superficial keratectomy remains the gold-standard treatment for FCS. Careful assessment of lesion depth and strict case selection are essential when considering DBD, particularly because deeper stromal involvement may require complete sequestrum removal and structural repair.",
+      "affiliations": [
+        "1Reborn Animal Medical Center, Busan, Korea.",
+        "2Department of Veterinary Clinical Sciences, College of Veterinary Medicine and Research Institute for Veterinary Science, Seoul National University, Seoul, Korea."
+      ],
+      "keywords": [
+        "bandage contact lens",
+        "corneal epithelialization",
+        "diamond burr debridement",
+        "feline corneal sequestrum",
+        "recurrence"
+      ],
+      "mesh": [],
+      "category": "anesthesia",
       "summary_ko": ""
     },
     {
