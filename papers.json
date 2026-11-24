@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-23 08:02 UTC",
-  "total": 12355,
+  "updated": "2026-11-24 06:19 UTC",
+  "total": 12361,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,137 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43072789",
+      "title": "Radiographic vertebral heart size in clinically healthy Shiba Inu dogs.",
+      "authors": "Maruyama I, Uemura A, Nakata TM, Yoshida T",
+      "journal": "J Vet Med Sci",
+      "date": "2026 Nov 24",
+      "sortdate": "2026-11-24",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43072789/",
+      "abstract": "Vertebral heart size (VHS) is a widely used radiographic method for evaluating cardiac size in dogs, and breed-related variation has been reported. However, breed-specific VHS data for Shiba Inu dogs have not previously been reported. This retrospective study evaluated VHS in 42 clinically healthy Shiba Inu dogs with no evidence of cardiac disease based on physical examination, thoracic radiography, and echocardiography. VHS was measured using right lateral thoracic radiographs. The mean &#xb1; standard deviation VHS was 9.62 &#xb1; 0.35 vertebrae. These findings provide baseline radiographic data for clinically healthy Shiba Inu dogs.",
+      "affiliations": [
+        "Laboratory of Small Animal Surgery, Department of Clinical Veterinary Medicine, Division of Veterinary Research, Obihiro University of Agriculture and Veterinary Medicine.",
+        "Heart Institute, University of S&#xe3;o Paulo.",
+        "Animal Medical Center, Department of Clinical Veterinary Medicine, Division of Veterinary Research, Obihiro University of Agriculture and Veterinary Medicine."
+      ],
+      "keywords": [
+        "Shiba Inu",
+        "cardiomegaly",
+        "dog",
+        "radiography",
+        "vertebral heart size"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43073020",
+      "title": "Description of a transtemporal surgical approach to the mandibular coronoid process region in two dogs with oral pain.",
+      "authors": "Pang YY, Hertel B, Logothetou V",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 23",
+      "sortdate": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073020/",
+      "abstract": "Conditions affecting the mandibular coronoid process and surgical approaches to it are rarely described in veterinary medicine. We describe and illustrate an alternative surgical approach to the mandibular coronoid process in two dogs. Two dogs presented with a chronic history of pain while opening the mouth. Computed tomography identified unilateral contrast-enhancing soft tissues around the proximal mandibular coronoid process. The mandibular coronoid process in each dog was approached via a transtemporal muscular approach dorsal to the zygomatic arch, without the need for a zygomatic osteotomy. This allowed access to both the proximal medial and lateral aspects of the mandibular coronoid process. A foreign body was surgically identified in one case, whereas no foreign material was retrieved in the other. Both dogs were free of clinical signs up to 6 months postoperatively. The described technique provided a less invasive approach, resulting in reduced tissue damage, reduced postoperative pain and rapid recovery.",
+      "affiliations": [
+        "School of Biodiversity, One Health &amp; Veterinary Medicine, The University of Glasgow Small Animal Hospital, Glasgow, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "orthopedics",
+      "summary_ko": ""
+    },
+    {
+      "id": "43072773",
+      "title": "Successful management of a proximal femoral comminuted fracture occurring after total hip arthroplasty in a small-breed dog.",
+      "authors": "Kimura T, Sawano K, Kadooka Y",
+      "journal": "J Vet Med Sci",
+      "date": "2026 Nov 23",
+      "sortdate": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43072773/",
+      "abstract": "Medical records of a 7-year-old neutered female Chihuahua were reviewed to describe the management of a proximal femoral comminuted fracture following total hip arthroplasty (THA). The dog underwent staged bilateral THA for hip dysplasia and concurrent orthopedic disease. Twelve days after the second THA, a fall resulted in a Vancouver type B3-like periprosthetic proximal femoral fracture. Revision surgery involved femoral stem replacement and fracture stabilization using an interlocking femoral stem system. Postoperative radiographs showed appropriate implant positioning. Radiographic evidence of bone healing was observed by postoperative day 132. The fracture followed a traumatic event, although the potential contributions of implant-related stress risers and femoral preparation could not be determined. This case suggests that interlocking stem revision may be an effective treatment option for periprosthetic femoral fractures in selected small-breed dogs.",
+      "affiliations": [
+        "Vet Surg Tokyo.",
+        "Japan Veterinary Medical Research Institute."
+      ],
+      "keywords": [
+        "comminuted femoral fracture",
+        "interlocking system",
+        "small-breed dog",
+        "stem revision",
+        "total hip arthroplasty"
+      ],
+      "mesh": [],
+      "category": "jointreplacement",
+      "summary_ko": ""
+    },
+    {
+      "id": "43072603",
+      "title": "Evaluation of the association of serum paraoxonase-1 and butyrylcholinesterase activities with ultrasonographic gastrointestinal changes in dogs with acute pancreatitis.",
+      "authors": "Cordon B, Tvarijonaviciute A, Soler M, Agut A",
+      "journal": "Vet J",
+      "date": "2026 Nov 23",
+      "sortdate": "2026-11-23",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43072603/",
+      "abstract": "Gastrointestinal ultrasonographic (USGI) abnormalities are frequently detected in dogs with acute pancreatitis (AP), but their relationship with systemic biochemical changes has not been well studied. This retrospective study evaluated the association between serum paraoxonase-1 (PON1) and butyrylcholinesterase (BChE) activities and the presence and severity of USGI abnormalities in dogs with AP. The medical records of dogs diagnosed with AP between January 1, 2017, and January 1, 2026, were reviewed. Dogs were included if a clinical examination, laboratory testing and abdominal ultrasonography were performed within a 6-hour period. Gastrointestinal ultrasonographic findings were graded using the Ultrasonographic Gastrointestinal Assessment Severity Score (UGASS) developed for this study. Fifty-seven dogs met the inclusion criteria, and 35 of them (61.4%) showed USGI abnormalities, with the stomach being the most frequently affected segment. Dogs with USGI changes had significantly lower serum PON1 and BChE activities than those without USGI abnormalities (p &lt; 0.05), although considerable overlap in individual values was observed between groups. PON1 activity was not significantly correlated with UGASS, whereas BChE activity showed a moderate negative correlation with UGASS (r = -0.460, p = 0.005). Serum PON1 and BChE activities were positively correlated (r = 0.340, p = 0.009). In conclusion, USGI abnormalities were common in dogs with AP and were associated with lower serum PON1 and BChE activities. Only BChE activity correlated significantly with the severity of USGI abnormalities, as assessed using the UGASS.",
+      "affiliations": [
+        "Department of Medicine and Surgery, Faculty of Veterinary, University of Murcia, Espinardo 30100, Murcia, Spain.",
+        "Department of Medicine and Surgery, Faculty of Veterinary, University of Murcia, Espinardo 30100, Murcia, Spain; Interdisciplinary Laboratory of Clinical Analysis Interlab-UMU, Regional Campus of International Excellence Mare Nostrum, University of Murcia, Espinardo 30100, Murcia, Spain.",
+        "Department of Medicine and Surgery, Faculty of Veterinary, University of Murcia, Espinardo 30100, Murcia, Spain. Electronic address: amalia@um.es."
+      ],
+      "keywords": [
+        "biomarker",
+        "butyrylcholinesterase",
+        "dog",
+        "gastrointestinal",
+        "pancreatitis",
+        "paraoxonase-1",
+        "ultrasonography"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43069691",
+      "title": "Effects of laparoscopic vertical sleeve gastrectomy on weight and glucose regulation in a feline obesity model.",
+      "authors": "Buote NJ, Loftus JP, Reuter MA, Dakin G, Cummings BP",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 22",
+      "sortdate": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069691/",
+      "abstract": "OBJECTIVE: To determine the safety and impact of laparoscopic vertical sleeve gastrectomy (LVSG) on bodyweight and glucose regulation in an obese feline model. STUDY DESIGN: Prospective experimental study. ANIMALS: Seven adult cats. METHODS: After obesity induction, an oral glucose tolerance test (OGTT) was performed, with blood glucose, insulin, and glucagon-like peptide-1 (GLP-1) measured before surgery, at 1&#x2009;and 6&#x2009;months postoperatively. A LVSG was performed, and surgical data were recorded. After LVSG, bodyweight was monitored, and any postoperative complications and outcomes were recorded for 6&#x2009;months. RESULTS: The surgical procedure took a median of 75&#x2009;min (interquartile range [IQR] 55-78.5). No cats experienced intra- or postoperative complications, and all cats were adopted. All cats lost weight after the LVSG procedure, with significant differences between preoperative obesity weight and two postoperative time points (the 6-month timepoint p&#x2009;=&#x2009;.006) and the weight at adoption (p&#x2009;=&#x2009;.047). No significant differences were found between the pre-obesity induction weight and the 6-month weight (p&#x2009;&gt;&#x2009;.9) or the weight at adoption (p&#x2009;=&#x2009;.69). There was no change in glucose tolerance after LVSG, but GLP-1 secretion increased at 1&#x2009;month (p&#x2009;=&#x2009;.031) and insulin secretion increased at 6&#x2009;months (p&#x2009;=&#x2009;.046) after surgery. CONCLUSION: LVSG was safe and effective for weight loss in this obesity-induced experimental feline model. Despite unchanged blood glucose levels after LVSG, enhanced GLP-1 secretion and increased insulin secretory capacity suggest possible improved metabolic regulation after surgery. CLINICAL SIGNIFICANCE: Future studies on LVSG could be considered to determine the effects on weight loss in clinically obese cats or glucose regulation in diabetic cats.",
+      "affiliations": [
+        "Department of Clinical Sciences, College of Veterinary Medicine, Cornell University, Ithaca, New York, USA.",
+        "Division of Foregut, Metabolic, and General Surgery, Department of Surgery, Center for Alimentary and Metabolic Sciences, School of Medicine, University of California, Davis, Sacramento, California, USA.",
+        "Department of Molecular Biosciences, School of Veterinary Medicine, University of California, Davis, Davis, California, USA.",
+        "Department of Bariatric Surgery, Weill Cornell Medical College, New York, New York, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43069688",
+      "title": "Evaluation of post-occlusion hepatofugal blood flow on surgeon decision making during ligation of portosystemic shunts in 53 dogs.",
+      "authors": "Ray SE, Folk CA, Bechtold MA, Center SA, Flanders JA, Lopez DJ",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 22",
+      "sortdate": "2026-11-22",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069688/",
+      "abstract": "OBJECTIVE: To determine whether hepatofugal contrast flow or caudal vena cava (CdVC) contrast filling during post-occlusion intraoperative mesenteric portovenography (PO-IOMP) were associated with the degree of extrahepatic portosystemic shunt (EHPSS) ligation performed. STUDY DESIGN: Retrospective observational cohort study. ANIMALS: A total of 53 dogs. METHODS: Data were collected retrospectively for dogs that underwent suture ligation of a single EHPSS with concurrent intraoperative mesenteric portovenography (IOMP). Review of IOMP studies was performed in a blinded manner by a single author. Logistic regression was used to evaluate associations between PO-IOMP interpretations and the degree of EHPSS ligation selected by the primary surgeon. Identified associations were further investigated using a multivariable model to control for confounding variables. RESULTS: Complete ligation was performed in 37/53 dogs (69.8%), partial ligation in 13/53 (24.5%), and no ligation in 3/53 (5.7%). Hepatofugal contrast flow during PO-IOMP was identified in 21/53 dogs (39.6%). Dogs with hepatofugal contrast flow during PO-IOMP were more likely to have undergone incomplete ligation (partial or none) when controlling for confounding variables (odds ratio [OR] 7.06, 95% CI: 1.49-33.44, p&#x2009;=&#x2009;.014). Absence of CdVC filling during PO-IOMP was identified in 11/53 dogs (20.8%). No association was identified between dogs lacking CdVC filling during PO-IOMP and incomplete EHPSS ligation (OR 1.43, 95% CI: 0.35-5.79, p&#x2009;=&#x2009;.617). Non-responsive postoperative portal hypertension was identified in 2/53 dogs (3.8%), both necessitating euthanasia. CONCLUSION: Hepatofugal contrast flow on PO-IOMP was associated with the decision to perform incomplete EHPSS ligation. CLINICAL SIGNIFICANCE: The identification of post-occlusion hepatofugal contrast flow may aid in patient-specific EHPSS ligation decision making.",
+      "affiliations": [
+        "Department of Clinical Sciences, Cornell University College of Veterinary Medicine, Ithaca, New York, USA.",
+        "Department of Veterinary Clinical Sciences, The Ohio State University College of Veterinary Medicine, Columbus, Ohio, USA."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "43064105",
       "title": "Serum aldosterone concentrations in Cavalier King Charles Spaniels across ACVIM stages of myxomatous mitral valve disease and their associations with echocardiographic indices.",
@@ -11399,18 +11530,18 @@
       "mesh": [
         "Animals",
         "Dogs",
+        "Female",
+        "Male",
+        "Arsenicals",
         "Dirofilariasis",
         "Dog Diseases",
-        "Female",
-        "Macrolides",
-        "Male",
+        "Dose-Response Relationship, Drug",
         "Doxycycline",
-        "Triazines",
-        "Arsenicals",
-        "Prednisone",
-        "Filaricides",
         "Drug Therapy, Combination",
-        "Dose-Response Relationship, Drug"
+        "Filaricides",
+        "Macrolides",
+        "Prednisone",
+        "Triazines"
       ],
       "category": "imaging",
       "summary_ko": ""
