@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25 09:00 UTC",
-  "total": 12364,
+  "updated": "2026-11-26 04:20 UTC",
+  "total": 12367,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,23 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43082252",
+      "title": "Canine Hypercalcaemia: part 1, Pathophysiology and Causes.",
+      "authors": "Cardoso M, Ward PM, Ramsey IK",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 25",
+      "sortdate": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082252/",
+      "abstract": "Hypercalcaemia is an important metabolic abnormality that has been associated with a wide range of conditions in the dog. This paper reviews calcium regulation, the pathophysiological mechanisms leading to increased calcium concentrations and the clinical consequences. It then provides a narrative review of all reported causes of canine hypercalcaemia. Although neoplasia, particularly lymphoma, is the most frequently recognised cause, there are also important endocrine (hyperparathyroidism and hypoadrenocorticism), renal, inflammatory and toxic causes. A second part of this review will focus on the diagnostic approach and the treatment of canine hypercalcaemia in greater detail. The aims of these reviews are to provide an evidence-based summary of the pathogenesis, differential diagnosis and clinical approach to canine hypercalcaemia.",
+      "affiliations": [
+        "Small Animal Hospital, School of Biodiversity, One Health and Veterinary Medicine, University of Glasgow, Glasgow, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "internal",
+      "summary_ko": ""
+    },
     {
       "id": "43072789",
       "title": "Radiographic vertebral heart size in clinically healthy Shiba Inu dogs.",
@@ -1203,6 +1220,62 @@
       ],
       "mesh": [],
       "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43080578",
+      "title": "Effect of pimobendan on right-heart remodeling in dogs with tricuspid valve dysplasia: an exploratory study.",
+      "authors": "Abbott-Johnson K, Potter B, Visser L, Scansen BA, Arai S",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 10",
+      "sortdate": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080578/",
+      "abstract": "INTRODUCTION: Tricuspid valve dysplasia (TVD) is a rare congenital heart defect in dogs often resulting in severe tricuspid valve regurgitation (TR). No guidelines for medical therapy have been established for dogs with severe TR. Tricuspid valve repair surgery is available for dogs but carries a moderate risk and high cost. This exploratory study evaluated the effect of oral pimobendan on chamber sizes and remodeling of the right side of the heart in dogs with TVD. METHODS: Retrospective echocardiographic data from ten dogs with TVD and severe TR were retrieved. All dogs received oral pimobendan (range 0.21-0.31&#x202f;mg/kg Q12h) for an average of 18&#x202f;months (range 3-41). The right atrial (RA) diameter, RA area, right ventricular (RV) diameter, RV area and fractional area change, tricuspid annular plane systolic excursion (TAPSE), and dimension of the tricuspid valve annulus (TVA) were quantified, and compared before and at a median of 3&#x202f;months after starting pimobendan therapy. RESULTS: All dogs had severe TR. The normalized RV diameter and TVA decreased after pimobendan administration [1.40&#x202f;&#x2192;&#x202f;1.27 (SD 0.23), p&#x202f;=&#x202f;0.027; 11.77&#x202f;&#x2192;&#x202f;10.58 (SD 1.95), p&#x202f;=&#x202f;0.01]. No significant changes in RA area, RA diameter, RV area, TAPSE, peak TR velocity, or RV fractional area change were present after pimobendan therapy (all p&#x202f;&gt;&#x202f;0.08). No dogs in this study population progressed to right-sided congestive heart failure during the follow-up period. CONCLUSIONS AND CLINICAL IMPORTANCE: Pimobendan reduced the size of the right ventricle and diameter of the tricuspid annulus compared to baseline, which may limit progression of disease in dogs with TVD with severe TR.",
+      "affiliations": [
+        "Department of Clinical Sciences and James L. Voss Veterinary Teaching Hospital, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, CO, United States."
+      ],
+      "keywords": [
+        "canine",
+        "congenital heart disease",
+        "echocardiography",
+        "tricuspid regurgitation",
+        "tricuspid valve repair"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43080372",
+      "title": "Association between lipid profile alterations and azotemia severity in dogs: a cross-sectional study.",
+      "authors": "Bhardwaj H, Behera A, Kumar A, Singh VK, Bhatt S, Mandal RS, Tiwary R, Kumar R, Singh GD, Kumar D",
+      "journal": "Front Vet Sci",
+      "date": "2026 Nov 10",
+      "sortdate": "2026-11-10",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080372/",
+      "abstract": "BACKGROUND: Renal dysfunction in dogs is accompanied by metabolic and biochemical disturbances, including dyslipidemia. However, information on the relationship between lipid abnormalities and azotemia severity remains limited. This study evaluated lipid profile alterations and their association with biochemical and hematological parameters in azotemic dogs. METHODS: Clinical and laboratory records of 100 dogs presented to the Teaching Veterinary Clinical Complex, Bihar Veterinary College, Patna, India, between April 2024 and March 2025 were retrospectively evaluated. The study included 50 healthy and 50 azotemic dogs with serum creatinine &gt;1.7 mg/dl. Azotemic dogs were categorized as Group 1 (1.7- &lt;5.0 mg/dl; n = 17), Group 2 (5.0-15.0 mg/dl; n = 23), and Group 3 (&gt;15.0 mg/dl; n = 10). Hematological, renal, electrolyte, hepatic-associated biochemical, and lipid parameters were evaluated. Data were expressed as median (interquartile range). Group differences were assessed using the Kruskal-Wallis H test followed by Dunn's post-hoc test with Bonferroni correction. Associations were evaluated using Spearman's rank correlation coefficient (&#x3c1;), with p &lt; 0.05 considered significant. RESULTS: Compared with healthy dogs, azotemic dogs had lower hemoglobin and hematocrit and higher blood urea nitrogen, potassium, phosphorus, alkaline phosphatase, and total bilirubin concentrations. Albumin was significantly lower in Groups 2 and 3. Cholesterol, triglycerides, and low-density lipoprotein (LDL) were significantly higher in all azotemia groups than in healthy controls, whereas high-density lipoprotein did not differ significantly. However, cholesterol, triglycerides, and LDL did not differ significantly among azotemia groups, indicating no stepwise increase with creatinine-defined severity. In the overall azotemic population, creatinine correlated positively with cholesterol (&#x3c1; = 0.393, p &lt; 0.001), triglycerides (&#x3c1; = 0.265, p = 0.008), and LDL (&#x3c1; = 0.457, p &lt; 0.001). Blood urea nitrogen correlated positively with cholesterol (&#x3c1; = 0.455, p &lt; 0.001) and LDL (&#x3c1; = 0.571, p &lt; 0.001). CONCLUSION: Azotemia in dogs is associated with dyslipidemia and broader systemic biochemical alterations. Although cholesterol, triglycerides, and LDL were increased in azotemic dogs, they did not progressively increase across creatinine-defined categories. Lipid profiling may therefore serve as an adjunct to metabolic evaluation, while longitudinal studies incorporating additional renal biomarkers are warranted.",
+      "affiliations": [
+        "Department of Veterinary Biochemistry, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Veterinary Clinical Complex, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Veterinary Medicine, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Veterinary Surgery and Radiology, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Veterinary Pathology, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Animal Nutrition, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Veterinary Public Health and Epidemiology, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India.",
+        "Department of Veterinary Microbiology, Bihar Veterinary College, Bihar Animal Sciences University, Patna, Bihar, India."
+      ],
+      "keywords": [
+        "cholesterol",
+        "chronic kidney disease",
+        "dyslipidemia",
+        "high-density lipoprotein",
+        "low-density lipoprotein",
+        "renal biomarkers",
+        "spearman correlation",
+        "triglycerides"
+      ],
+      "mesh": [],
+      "category": "internal",
       "summary_ko": ""
     },
     {
