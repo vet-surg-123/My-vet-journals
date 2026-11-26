@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26 04:20 UTC",
-  "total": 12367,
+  "updated": "2026-11-26 08:44 UTC",
+  "total": 12370,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -31,6 +31,27 @@
       "keywords": [],
       "mesh": [],
       "category": "internal",
+      "summary_ko": ""
+    },
+    {
+      "id": "43084916",
+      "title": "Prospective clinical evaluation of an impaction interference bolt design for intramedullary nail fracture fixation in dogs.",
+      "authors": "Hanlon J, Kim SE",
+      "journal": "J Am Vet Med Assoc",
+      "date": "2026 Nov 25",
+      "sortdate": "2026-11-25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084916/",
+      "abstract": "OBJECTIVE: To evaluate clinical application and postoperative outcomes of traumatic, long bone fractures repaired using intramedullary nails locked with novel impaction interference design (IID) bolts. ANIMALS: Dogs presented with traumatic long bone fractures amenable to intramedullary nail fixation were consecutively enrolled between July 2023 and December 2025. CLINICAL PRESENTATION: Intramedullary nails were implanted and stabilized using IID bolts in all patients enrolled. Surgery time, bolt implantation complications, drilling accuracy, adjunct fracture fixation, and nail modifications were recorded. Fracture alignment, nail parameters, bolt seating and cortical occupation, cortical evaluation, time to radiographic union, bolt related or other complications, lameness at the time of union and bolt palpation sensitivity were recorded postoperatively. RESULTS: 13 dogs totaling 14 fractures (10 femur and 4 tibia) were enrolled with median subject age and weight of 18 months and 26.1 kg, respectively. Adjunct fixation was utilized in 4 cases. No bolt implantation complications were encountered. Median surgical time was 105 minutes and complete bolt seating and bicortical bolt engagement was observed in 54 of 55 bolts and 53 of 55 bolts, respectively. The drilling accuracy was 100% and no cortical bone damage was appreciated at any site. All cases achieved radiographic union at a median time of 8.5 weeks with no evidence of bolt loosening, no bolt palpation sensitivity and subjectively acceptable return to function. CLINICAL RELEVANCE: IID bolts were safely implanted and offer an alternative mechanism for angle-stable intramedullary nailing with good clinical outcomes.",
+      "affiliations": [],
+      "keywords": [
+        "angle stable",
+        "fracture",
+        "interlocking nail",
+        "intramedullary nail",
+        "trauma"
+      ],
+      "mesh": [],
+      "category": "orthopedics",
       "summary_ko": ""
     },
     {
@@ -2392,6 +2413,29 @@
       "summary_ko": ""
     },
     {
+      "id": "43085193",
+      "title": "Frequency of arrhythmias detected in 53,708 canine electrocardiograms by breed, life stage, and sex.",
+      "authors": "Gentile-Solomon J, Castaneda EL, Grimaldi DA, Spake AK, Estrada AH, Szlosek DA",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Nov 02",
+      "sortdate": "2026-11-02",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085193/",
+      "abstract": "INTRODUCTION/OBJECTIVES: The purpose of this study was to describe the frequency of arrhythmias detected in unsedated canine patients from general practice settings. ANIMALS: A total of 57,950 canine electrocardiograms (ECGs) were retrospectively collected, of which 53,708 met the inclusion criteria. MATERIALS AND METHODS: Recordings were evaluated by a board-certified cardiologist. If an arrhythmia was present in the ECG tracing, the cardiologist categorized the arrhythmia using pre-established keywords. RESULTS: The number of dogs with at least one arrhythmia was 1758 (3.3%, 1758/53,708). The most frequently diagnosed arrhythmias were ventricular premature complexes (1.4%, 740/53,708), supraventricular premature complexes (0.7%, 380/53,708), and first-degree atrioventricular block (0.6%, 337/53,708). When adjusting for sex, weight bucket, life stage, and multiple comparisons, Whippets were seen to have the highest odds (odds ratio: 5.31, 95% confidence interval: 2.07-12.34, P=0.039). Senior dogs had the highest odds of having an arrhythmia (odds ratio: 1.93, 95% confidence interval: 1.67-2.22, P&lt;0.001). Both male-neutered and female-spayed dogs had higher proportions of arrhythmias than the intact male and intact female dogs, respectively. STUDY LIMITATIONS: While it is important to note that the presence of an arrhythmia alone does not always indicate the presence of heart disease, further research on the association between breed and cardiac health is needed. CONCLUSIONS: Of the 53,708 ECGs included in this study, at least one arrhythmia was detected in 1758 distinct cases. Arrhythmias were more common in fixed dogs compared to intact dogs.",
+      "affiliations": [
+        "IDEXX Laboratories Inc., One IDEXX Drive, Westbrook, ME, 04092, USA. Electronic address: jessica-solomon@idexx.com.",
+        "Department of Small Animal Medicine, College of Veterinary Medicine, University of Florida, 2089 SW 16th Ave, Gainesville, FL, 32608, USA.",
+        "IDEXX Laboratories Inc., One IDEXX Drive, Westbrook, ME, 04092, USA."
+      ],
+      "keywords": [
+        "Heart disease",
+        "Sinus bradycardia",
+        "Ventricular premature complexes"
+      ],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42929748",
       "title": "Imaging Features of Adrenal Glands Infiltration by Multicentric Lymphoma in Dogs and Cats.",
       "authors": "Negro L, Pey P, Specchi S, Penninck D, Diana A, Linta N, Nanni C, Baldinetti M, Morabito S",
@@ -2957,6 +3001,28 @@
         "Brain Neoplasms"
       ],
       "category": "neurooncology",
+      "summary_ko": ""
+    },
+    {
+      "id": "43085194",
+      "title": "Pharmacological cardioversion of atrial flutter with oral sotalol in a dog.",
+      "authors": "Cavalleri G, Oricco S, Quintavalla C, Apolloni I, Crosara S",
+      "journal": "J Vet Cardiol",
+      "date": "2026 Oct 31",
+      "sortdate": "2026-10-31",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085194/",
+      "abstract": "A nine-year-old male Cane corso was referred for a tachyarrhythmia in the absence of symptoms. The electrocardiogram showed a narrow-QRS tachycardia with regular rhythm at 360 beats per minute. A positive atrial deflection in the ST segment was evident in leads I, II, III, augmented Vector Foot (aVF), and V2-V6. Based on these findings, typical reverse or atypical atrial flutter with 1:1 conduction was suspected. After oral administration of sotalol, the ventricular rate decreased, and flutter waves were evident with a ventricular conduction ratio varying from 2:1 to 6:1, confirming atrial flutter. Five hours later, sinus rhythm was restored. Echocardiography revealed global hypokinesia and systolic dysfunction. The dog was discharged on pimobendan and sotalol and maintained sinus rhythm until the final follow-up, several months later.",
+      "affiliations": [
+        "Department of Veterinary Science, University of Parma, Via del Taglio 10, 43126 Parma, PR, Italy.",
+        "Department of Veterinary Science, University of Parma, Via del Taglio 10, 43126 Parma, PR, Italy. Electronic address: serena.crosara@unipr.it."
+      ],
+      "keywords": [
+        "Canine",
+        "Supraventricular tachycardia",
+        "Tachyarrhythmia"
+      ],
+      "mesh": [],
+      "category": "cardiac",
       "summary_ko": ""
     },
     {
