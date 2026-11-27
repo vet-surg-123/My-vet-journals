@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27 04:27 UTC",
-  "total": 12385,
+  "updated": "2026-11-27 08:56 UTC",
+  "total": 12387,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,52 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43098659",
+      "title": "Computed tomographic features and clinical outcome of a presumed subconjunctival hibernoma in a dog.",
+      "authors": "Maloney SM, Walker MA, Wustefeld-Janssens BG",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 26",
+      "sortdate": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098659/",
+      "abstract": "An 11-year-old male neutered German shepherd dog was presented for evaluation of a left subconjunctival mass associated with mild exophthalmos and ventral globe deviation. CT identified a well-defined, contrast-enhancing, soft tissue attenuating mass within the dorsal subconjunctival region. The mass was removed via globe-sparing excisional biopsy after it was found intraoperatively to be discrete and readily separable from surrounding tissues. Histopathology identified an adipocytic neoplasm most consistent with hibernoma, although liposarcoma could not be definitively excluded. No clinically apparent local tumour recurrence was identified on general physical examination 18&#x2009;months postoperatively. This report provides CT characterisation of a presumed subconjunctival hibernoma together with globe-sparing excision and long-term clinical follow-up.",
+      "affiliations": [
+        "Atlantic Veterinary College, University of Prince Edward Island, Charlottetown, Prince Edward Island, Canada.",
+        "Veterinary Specialty Centre of Newfoundland and Labrador, Mount Pearl, Newfoundland, Canada.",
+        "Flint Animal Cancer Center, College of Veterinary Medicine and Biomedical Sciences, Colorado State University, Fort Collins, Colorado, USA.",
+        "VetsCape Small Animal Hospital, Paarl, South Africa."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "surgery",
+      "summary_ko": ""
+    },
+    {
+      "id": "43098316",
+      "title": "Urinary extracellular vesicle microRNA profile in dogs with visceral leishmaniasis: differential expression and exploratory associations with renal Doppler indices and proteinuria.",
+      "authors": "Guimarães MA, Rebech GT, Ito LTS, Umino GM, Boas JSV, Soares MF, Felix JS, Lopes FL, Pinotti LDR, Lima VMF",
+      "journal": "Vet J",
+      "date": "2026 Nov 26",
+      "sortdate": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098316/",
+      "abstract": "Canine visceral leishmaniasis (CVL) is a systemic zoonosis caused by Leishmania infantum, for which dogs are the main urban reservoir. Infected dogs may present non-specific clinical signs and, in advanced cases, die of chronic kidney disease. This study evaluated urinary microRNAs (miRNAs) as candidate biomarkers of renal injury in naturally infected dogs. Fifteen dogs were included: five healthy controls and ten untreated dogs at the moderate stage of disease according to the LeishVet guidelines. All dogs underwent clinical and laboratory assessment, renal Doppler ultrasonography, and serological and molecular diagnosis of CVL. The CVL group showed typical clinical signs, including onychogryphosis, lymphadenomegaly, and cutaneous lesions, as well as laboratory abnormalities such as hyperglobulinemia. Ultrasonography revealed increased renal echogenicity and an elevated peak systolic velocity in the left kidney. Urinary extracellular vesicles were isolated for RNA extraction and miRNA sequencing (RNA-Seq), followed by bioinformatic analysis. Twenty-one differentially expressed miRNAs were identified, including three with previously described physiological renal expression: miR-486 and miR-378 (up-regulated) and cfa-let-7f (down-regulated). The differentially expressed miRNAs were correlated with renal Doppler indices and the urinary protein-to-creatinine ratio (UPC). Pearson correlation analyses were performed in the infected group, without correction for multiple comparisons. These exploratory analyses identified six statistically significant associations involving five miRNAs: miR-222 was negatively correlated with the resistive index (RI) of both kidneys; miR-95 was negatively correlated with the RI of the left kidney; miR-221 was negatively correlated with the RI of the right kidney; cfa-let-7a-2 was positively correlated with the RI of the left kidney; and cfa-let-7g was negatively correlated with UPC. These findings suggest that the altered urinary miRNA profile may reflect molecular processes associated with renal alterations in dogs with CVL. Urinary miRNAs may therefore be promising candidates for further investigation as minimally invasive biomarkers of renal involvement in canine visceral leishmaniasis.",
+      "affiliations": [
+        "Department of Animal Clinic, Surgery, and Reproduction, School of Veterinary Medicine of Ara&#xe7;atuba, S&#xe3;o Paulo State University (UNESP), Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil. Electronic address: mayla.abbas@unesp.br.",
+        "Department of Animal Clinic, Surgery, and Reproduction, School of Veterinary Medicine of Ara&#xe7;atuba, S&#xe3;o Paulo State University (UNESP), Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil.",
+        "Department of Production, and Animal Health, School of Veterinary Medicine of Ara&#xe7;atuba, S&#xe3;o Paulo State University (UNESP), Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil.",
+        "Department of Animal Clinic, Surgery, and Reproduction, School of Veterinary Medicine of Ara&#xe7;atuba, S&#xe3;o Paulo State University (UNESP), Ara&#xe7;atuba, S&#xe3;o Paulo, Brazil. Electronic address: valeria.lima@unesp.br."
+      ],
+      "keywords": [
+        "biomarkers",
+        "gene expression",
+        "nephropathy",
+        "urinary microRNA",
+        "zoonosis"
+      ],
+      "mesh": [],
+      "category": "imaging",
+      "summary_ko": ""
+    },
     {
       "id": "43082252",
       "title": "Canine Hypercalcaemia: part 1, Pathophysiology and Causes.",
