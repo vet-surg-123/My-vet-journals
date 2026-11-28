@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-27 08:56 UTC",
-  "total": 12387,
+  "updated": "2026-11-28 04:07 UTC",
+  "total": 12391,
   "categories": {
     "neurooncology": "신경종양",
     "neurosurgery": "신경외과",
@@ -16,6 +16,25 @@
     "oncology": "종양"
   },
   "papers": [
+    {
+      "id": "43102283",
+      "title": "Risk factors for complications in dogs treated with transpalpebral or transconjunctival enucleation.",
+      "authors": "Kakuta S, Vlachomitrou E, Dawson C, Everson R, Kulendra N",
+      "journal": "J Small Anim Pract",
+      "date": "2026 Nov 27",
+      "sortdate": "2026-11-27",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43102283/",
+      "abstract": "OBJECTIVES: To determine the prevalence and risk factors of complications in a dog population in the United Kingdom, following transpalpebral or transconjunctival enucleation. MATERIALS AND METHODS: Medical records of 333 client-owned dogs that underwent 351 enucleations, from two specialist veterinary referral centres, met the inclusion criteria. Preoperative, intraoperative and postoperative variables (including signalment, indication for enucleation, comorbidities, surgical technique, intraorbital prosthesis, duration of surgery and anaesthesia among others) were assessed as risk factors for the development of surgical site infection and/or other complications. All dogs were followed until healing was deemed to be complete or a complication occurred. RESULTS: Postoperative antimicrobials were used in 73.5% of the enucleations, with cefalexin being the most frequently used. Systemic cefalexin for 4 to 7&#x2009;days was used postoperatively in 52.1% of these enucleations (range 2 to 28&#x2009;days). The overall prevalence of combined moderate or severe complications was low (5/351, 1.4%); all five dogs developed surgical site infection, with one dog requiring open wound management. Revision surgery was required following enucleation in two dogs (2/351, 0.5%). A lacrimal cyst was identified on histopathology in one case. None of the dogs with orbital prostheses developed complications. The incidence of surgical site infection in bilateral single-stage enucleation was low (1/14, 7.1%). No variables were clearly identified as predictive factors for postoperative complications in this study. CLINICAL SIGNIFICANCE: The complication rate in the studied cohort of dogs following enucleation was substantially lower than previously reported. The type of surgical technique, duration of anaesthesia or surgeon experience did not appear to affect dogs' outcomes or complication rates. Further prospective studies are warranted to validate these results due to data limitations in the presented study.",
+      "affiliations": [
+        "North Downs Specialist Referrals, Redhill, UK.",
+        "Royal Veterinary College, London, UK.",
+        "K2 Veterinary Referrals Ltd, Reigate, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "anesthesia",
+      "summary_ko": ""
+    },
     {
       "id": "43098659",
       "title": "Computed tomographic features and clinical outcome of a presumed subconjunctival hibernoma in a dog.",
@@ -60,6 +79,44 @@
       ],
       "mesh": [],
       "category": "imaging",
+      "summary_ko": ""
+    },
+    {
+      "id": "43099923",
+      "title": "Surgical repair of an ostium secundum atrial septal defect with absent dorsal rim in a dog.",
+      "authors": "Lee WJ, Park J, Park J, Choi HJ, Yu JH, Jeong SM, Moon CH, Kim DH",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 26",
+      "sortdate": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099923/",
+      "abstract": "OBJECTIVE: To describe the anatomical characteristics and surgical practicality of repairing an ostium secundum atrial septal defect (ASD), lacking a dorsal rim, in a dog. STUDY DESIGN: Case report. ANIMAL: A 1-year-old, 4.7&#x2009;kg spayed female Bichon Frise dog presenting with exercise intolerance and cough. METHODS: Clinical data, including diagnostic imaging studies, surgical records, and postoperative follow-up findings, were reviewed. The dog underwent open-heart repair under cardiopulmonary bypass using a glutaraldehyde-fixed autologous pericardial patch, with the rim-deficient dorsal portion anchored to the atrial free wall. RESULTS: The dog recovered uneventfully from surgery, and the closed defect remained stable during a 406&#x2009;days follow-up period. No peri- or postoperative complications were observed. CONCLUSION: Surgical closure of a secundum ASD lacking a dorsal rim was successfully achieved using an autologous pericardial patch, resulting in stable defect repair without complications during follow-up.",
+      "affiliations": [
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Chungnam National University, Daejeon, Republic of Korea.",
+        "Department of Veterinary Imaging, College of Veterinary Medicine, Chungnam National University, Daejeon, Republic of Korea.",
+        "Department of Cardiothoracic Surgery, Chungnam National University Hospital, College of Medicine, Chungnam National University, Daejeon, Republic of Korea.",
+        "Department of Veterinary Surgery, College of Veterinary Medicine, Gyeongsang National University, Jinju, Republic of Korea."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
+      "id": "43099914",
+      "title": "Development and preliminary in silico and three-dimensional model assessment of a feline universal sacroiliac guide (FUSIG): An exploratory morphometric study.",
+      "authors": "Reinaldos IQ, Danielski A, Solano MA",
+      "journal": "Vet Surg",
+      "date": "2026 Nov 26",
+      "sortdate": "2026-11-26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099914/",
+      "abstract": "OBJECTIVE: To characterize feline sacral morphometry and to develop and perform a preliminary internal assessment of a feline universal sacroiliac guide (FUSIG) intended to assist screw placement within the feline sacral safe corridor. STUDY DESIGN: Retrospective, exploratory morphometric study with in silico and three-dimensional (3D)-printed model assessment. ANIMALS: A total of 34 client-owned cats. METHODS: Computed tomography studies of the sacrum were segmented, and multiplanar morphometric analysis identified a corridor-derived geometric reference point (B) at the center of the predefined sacral safe corridor. Linear distances of the sacral articular surface and angular inclinations were measured. A population-based guide was subsequently designed, mirrored for laterality, and assessed virtually using a simulated 2.7-mm screw path. Physical assessment used 3D-printed sacra and guides. The primary outcome was the proportion of screw paths fully contained within the sacral safe corridor; secondary outcomes were the direction of cortical breach and descriptive morphometric variability. RESULTS: A total of 61 hemisacra were analyzed. Sacral articular surface width and length were 12.9&#x2009;&#xb1;&#x2009;0.6&#x2009;mm and 14.1&#x2009;&#xb1;&#x2009;0.7&#x2009;mm, respectively, with a safe-corridor length of 23.6&#x2009;&#xb1;&#x2009;1.8&#x2009;mm. Linear measurements showed low interindividual variability (%CV 4.9%-7.8%). Mean dorsoventral and craniocaudal inclinations were 19.0&#x2009;&#xb1;&#x2009;2.2&#xb0; and 20.1&#x2009;&#xb1;&#x2009;2.4&#xb0;. In silico and 3D-model assessment each achieved 98% screw containment, with one minor deviation per phase. CONCLUSION: Feline sacral morphometry showed relatively low variability across this study population, supporting the development of a single population-based guide. Under idealized conditions, the FUSIG produced screw trajectories contained within the sacral corridor in in silico simulations and 3D-printed feline sacral models. CLINICAL SIGNIFICANCE: The FUSIG may represent a reusable, anatomy-driven method for accurate sacroiliac stabilization in cats. Cadaveric studies are required before clinical application.",
+      "affiliations": [
+        "Bristol Vet Specialists, Bristol, UK.",
+        "The Ralph Veterinary Referral Centre, Marlow, UK."
+      ],
+      "keywords": [],
+      "mesh": [],
+      "category": "anatomy",
       "summary_ko": ""
     },
     {
@@ -20550,6 +20607,51 @@
       "summary_ko": ""
     },
     {
+      "id": "43099526",
+      "title": "Evaluation of endothelial cell-specific molecule-1 in cardiovascular disease-associated tumor progression in dogs.",
+      "authors": "Lim S, Eom KH, Yum SY, Kim C, Namgoong B, Heo S, Kang J, Shin H, Jang G, Kim MS",
+      "journal": "BMC Vet Res",
+      "date": "2026 Jul 28",
+      "sortdate": "2026-07-28",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099526/",
+      "abstract": "BACKGROUND: Cardiovascular disease (CVD) and cancer are leading causes of mortality in humans and dogs, sharing common risk factors and overlapping pathophysiological mechanisms. Human studies in reverse cardio-oncology suggest that pre-existing CVD may accelerate cancer development and metastasis; however, this relationship remains unexplored in veterinary medicine. Endothelial cell-specific molecule-1 (ESM-1), a circulating proteoglycan associated with endothelial dysfunction in CVD, has been implicated in the growth and metastasis of various human cancers. This study aimed to investigate whether ESM-1 could serve as a potential pathophysiological link between CVD and tumor progression in dogs using in vitro experiments and retrospective clinical analyses. RESULTS: In the retrospective case-control analysis of 105 dogs with malignant tumors, we evaluated potential risk factors for distant metastasis, including pre-existing CVD and relevant clinical covariates. Pre-existing CVD was significantly associated with distant metastasis (OR&#x2009;=&#x2009;3.719, 95% CI&#x2009;=&#x2009;1.66-8.35, P&#x2009;=&#x2009;0.001), and this association remained significant after adjustment for body condition score (adjusted OR&#x2009;=&#x2009;3.595, 95% CI&#x2009;=&#x2009;1.50-8.62, P&#x2009;=&#x2009;0.004). In vitro, assays applying serum from myxomatous mitral valve disease model dogs and direct ESM-1 overexpression in three canine tumor cell lines were used to evaluate metastasis- and proliferation-related mRNA expression and cell viability. MMVD-derived serum produced heterogeneous effects on cancer cell viability and mRNA expression, whereas direct ESM-1 overexpression consistently upregulated the metastatic marker MMP2 across all three canine tumor cell lines and significantly increased the viability of osteosarcoma and kidney sarcoma cells. CONCLUSIONS: Our experimental and clinical findings support the emerging concept that pre-existing CVD may potentiate tumor progression, providing initial evidence of reverse cardio-oncology in dogs. Although the heterogeneous responses in the serum-treatment model suggest that circulating factors are multifactorial and insufficient to confirm ESM-1 as the sole key mediator of this relationship, its direct overexpression consistently upregulated MMP-2, suggesting its intrinsic potential to facilicate metastatic progression. Future prospective studies integrating longitudinal monitoring of serum ESM-1 concentrations and stratification by cancer subtype are warranted to clarify causality and advance understanding of dogs with concurrent CVD and malignancy.",
+      "affiliations": [
+        "Department of Veterinary Emergency Medicine, College of Veterinary Medicine and Research Institute for Veterinary Science, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea.",
+        "LART Bio Inc, 60 Haan-ro, Gwangmyeong-si, 14322, Gyeonggi-do, Republic of Korea.",
+        "LART Bio Inc, 60 Haan-ro, Gwangmyeong-si, 14322, Gyeonggi-do, Republic of Korea. snujang@snu.ac.kr.",
+        "Department of Theriogenology and Biotechnology, College of Veterinary Medicine, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "Comparative Medicine Disease Research Center, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea. snujang@snu.ac.kr.",
+        "Department of Veterinary Emergency Medicine, College of Veterinary Medicine and Research Institute for Veterinary Science, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 08826, Republic of Korea. minsukim@snu.ac.kr."
+      ],
+      "keywords": [
+        "Canine",
+        "Cardio-oncology",
+        "Cardiovascular disease",
+        "Endothelial cell-specific molecule-1",
+        "Tumor metastasis"
+      ],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Dog Diseases",
+        "Cardiovascular Diseases",
+        "Female",
+        "Retrospective Studies",
+        "Case-Control Studies",
+        "Male",
+        "Proteoglycans",
+        "Neoplasms",
+        "Disease Progression",
+        "Neoplasm Proteins",
+        "Cell Line, Tumor",
+        "Neoplasm Metastasis",
+        "Risk Factors"
+      ],
+      "category": "cardiac",
+      "summary_ko": ""
+    },
+    {
       "id": "42505041",
       "title": "Sarcopenia, cachexia and frailty in older cats: Mechanisms, assessment and therapeutic considerations.",
       "authors": "Chandler M",
@@ -34181,7 +34283,20 @@
         "Department of Medical Sciences, School of Veterinary Medicine, University of Wisconsin-Madison, Madison, Wisconsin, USA."
       ],
       "keywords": [],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Dogs",
+        "Retrospective Studies",
+        "Carcinoma, Hepatocellular",
+        "Thrombocytosis",
+        "Liver Neoplasms",
+        "Dog Diseases",
+        "Female",
+        "Prognosis",
+        "Male",
+        "Treatment Outcome",
+        "Survival Analysis"
+      ],
       "category": "surgery",
       "summary_ko": ""
     },
@@ -64987,7 +65102,21 @@
         "maropitant",
         "sedation"
       ],
-      "mesh": [],
+      "mesh": [
+        "Animals",
+        "Cats",
+        "Female",
+        "Butorphanol",
+        "Dexmedetomidine",
+        "Ovariectomy",
+        "Hysterectomy",
+        "Antiemetics",
+        "Hypnotics and Sedatives",
+        "Quinuclidines",
+        "Drug Therapy, Combination",
+        "Postoperative Pain",
+        "Analgesics"
+      ],
       "category": "anesthesia",
       "summary_ko": ""
     },
